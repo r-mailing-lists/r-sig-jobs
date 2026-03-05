@@ -1,0 +1,144 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2007-03",
+  "messages": [
+    {
+      "id": "msg-ab9d23664053",
+      "message_id": "<OFE81DC6CC.CE97364B-ON852572A0.005A5F4F-852572A0.005A980F@lazard.com>",
+      "from_name": "M@x@K@uim@@@ m@iii@g oii i@z@rd@com",
+      "from_email_hash": "5e9c120bd842c91b6c0e1a5795905a346da67b199b5a898795578244b0c91714",
+      "date": "2007-03-16T12:29:32-04:00",
+      "subject": "[R-jobs] quantitative analyst - hedge fund",
+      "subject_clean": "[R-jobs] quantitative analyst - hedge fund",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "A quantitative hedge fund within Lazard Asset Management in New York City is\nlooking for a talented programmer/statistician to join a small team of\nresearchers and portfolio managers.  The job would intersect the fields of\nfinance, applied statistics and computer science.  The position involves\napplying intelligent design and development of r programs to accelerate the\nspeed of research.  The individual would work directly with the portfolio\nmanager to find and exploit market inefficiencies in the global equity markets.\n\nThe role\n* data analysis on large financial and market databases\n* designing data structures, classes and method to test new research ideas\n* Use a diversity of statistical methods to estimate stock picking models.\n* Interfacing R to other languages\n\nThe ideal candidate will have the following qualifications:\n* Formal education in Computer science (preferable), mathematics or statistics\n(desirable)\n* Experience programming in R/S-plus\n* Experience in the development of R packages.\n* Knowledge of applied statistics or mathematics.\n* Excellent communication skills.\n* Experience of general software systems is an advantage (eg .NET, SQL, C#, XML,\n?).\n* Willingness and strong interest to learn about finance and capital markets.\n\nFor further information, please send a resume to the email below.\n\nlamrecruiting at lazard.com\nattention: kerryn",
+      "body_snippet": "A quantitative hedge fund within Lazard Asset Management in New York City is\nlooking for a talented programmer/statistician to join a small team of\nresearchers and portfolio managers.  The job would i",
+      "thread_id": "thread-ab9d23664053",
+      "thread_depth": 0,
+      "month": "2007-03"
+    },
+    {
+      "id": "msg-2218138646ce",
+      "message_id": "<ba9ce6850703161322n4b47592cuf230e9b66f9a00fa@mail.gmail.com>",
+      "from_name": "Ben Zipperer",
+      "from_email_hash": "04d53c2cc574254890be3f5fd47b4fbe1acca27749d79a61d35ff35c60e825d0",
+      "date": "2007-03-16T16:22:40-04:00",
+      "subject": "[R-jobs] job ad: RA at Center for Economic and Policy Research",
+      "subject_clean": "[R-jobs] job ad: RA at Center for Economic and Policy Research",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Center for Economic and Policy Research (www.cepr.net) in\nWashington, DC has a job opening for a research assistant.\nResponsibilities include a significant amount of programming for\nmicrodata analysis.\n\nThe full job ad is here:\nhttp://www.cepr.net/index.php?option=com_content&task=view&id=5&Itemid=15#job\n\nPlease do not respond to me about the job. Follow the instructions in\nthe ad above.",
+      "body_snippet": "The Center for Economic and Policy Research (www.cepr.net) in\nWashington, DC has a job opening for a research assistant.\nResponsibilities include a significant amount of programming for\nmicrodata anal",
+      "thread_id": "thread-2218138646ce",
+      "thread_depth": 0,
+      "month": "2007-03"
+    },
+    {
+      "id": "msg-e2c31cc54c1d",
+      "message_id": "<460148DE.2080406@univ-paris5.fr>",
+      "from_name": "Christophe Pouzat",
+      "from_email_hash": "a46e7cb8c106187f0fd40f82f0c15d63ab81e225ff76a3439310e37923a277e2",
+      "date": "2007-03-21T16:01:50+01:00",
+      "subject": "[R-jobs] 2 post-doctoral positions in neurophysiological data analysis with R",
+      "subject_clean": "[R-jobs] 2 post-doctoral positions in neurophysiological data analysis with R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Two post-doctoral positions are available from the Brain Physiology \nLaboratory in Paris (France).\n\nThe first position is available immediately to work on spike sorting and \nspike train analysis. It consists in both data analysis and methods \ndevelopment. Familiarity with neurophysiology is not required. \nFamiliarity with R and with some of the methodologies used: clustering, \nclassification, MCMC, counting processes, is a big plus. For more \ninformation please visit:\nhttp://www.biomedicale.univ-paris5.fr/physcerv/C_Pouzat/PostDoc1.html\n\nThe second position starting in September to develop methods for the \nanalysis of Calcium imaging data from neuronal preparation is also \navailable. Familiarity with neurophysiology is not required. Familiarity \nwith R and with maximum likelihood estimation of models based on \nnon-linear ODEs and PDEs is a big plus. For more information please visit:\nhttps://www2.cnrs.fr/DRH/post-docs07/index.php?pid=1&action=view&id=579&lang=en\n\n-- \nA Master Carpenter has many tools and is expert with most of them.If you\nonly know how to use a hammer, every problem starts to look like a nail.\nStay away from that trap.\nRichard B Johnson.\n-- \n\nChristophe Pouzat\nLaboratoire de Physiologie Cerebrale\nCNRS UMR 8118\nUFR biomedicale de l'Universite Paris V\n45, rue des Saints Peres\n75006 PARIS\nFrance\n\ntel: +33 (0)1 42 86 38 28\nfax: +33 (0)1 42 86 38 30\nweb: www.biomedicale.univ-paris5.fr/physcerv/C_Pouzat.html",
+      "body_snippet": "Two post-doctoral positions are available from the Brain Physiology \nLaboratory in Paris (France).\n\nThe first position is available immediately to work on spike sorting and \nspike train analysis. It c",
+      "thread_id": "thread-e2c31cc54c1d",
+      "thread_depth": 0,
+      "month": "2007-03"
+    },
+    {
+      "id": "msg-ca9086ffa741",
+      "message_id": "<gwh.46029a44.460a.46a6@lon-mail-1.gradwell.net>",
+      "from_name": "Chris Forbes",
+      "from_email_hash": "93956d2e839031238629d097530128f27d62478bebda4449a7a65ea898eea087",
+      "date": "2007-03-22T15:01:29Z",
+      "subject": "[R-jobs] R role",
+      "subject_clean": "[R-jobs] R role",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi All,\n\n \n\nI am looking for an expert R programmer who has also used Java or C++ and\nwho is educated at either masters or PhD level.  I do not mind what industry\nbackground you are in if you have these skills.  I am offering a rare but\nexcellent career opportunity to work with real time trading data sets, data\nmodeling and data mining the commodities index to help this top 5 investment\nbanks algorithmic trading desk.\n\n \n\nI have attached the spec.\n\n \n\n \n\nJob Title:\n\n \n\nFixed Income/Commodities/Quantitative Trading Strategies\n\n \n\nLocation:\n\n \n\nLondon\n\n \n\n \n\nSalary Range:\n\n \n\nNegotiable \n\n \n\n \n\nRole Description:\n\n\n\nOrganisational structure\n\nYou will be joining a young and growing front-office team of quants and\ntechnologists, conducting automated algorithmic fixed-income trading, in a\nlarge, international investment bank.\n\n \n\nScope of role\n\nWe are looking for a skilled statistician/programmer who seeks a career at\nthe intersection of finance, applied statistics and computer science. This\nposition requires a person with a strong background in data analysis, design\nand implementation of algorithms, software development and statistical\nmethodology.\n\nThe primary responsibilities are to develop software, using the S language\n(both R and S-Plus dialects) , for \n\n*       Handling and analysing high-frequency streaming financial data, \n\n*       Interfacing R/S-Plus to other languages, especially Java,\n\n*       Applying high-dimensional regression,\n\n*       Applying machine learning applications,\n\n*       Assisting in the prototyping and testing of trading algorithms. \n\nThis is a new role, based in London but an important component will involve\nliaising with teams in other centres.\n\n \n\nPrerequisites\n\n*       A strong academic background, with advanced degrees in mathematical\ndisciplines. \n\n*       Demonstrable experience with the S language, is essential.\n\n \n\nHow the role will develop\n\nResponsibilities include the development and implementation of:\n\n*       Generic filtering/cleansing of high-dimensional, high-volume noisy\ntick data, \n\n*       Construction of testing harnesses for trading strategies, \n\n*       Implementing generic simulators for algorithmic verification and\nrobustness checking,\n\n*       Backtesting and risk & performance analysis.\n\n \n\n \n\nThis includes creating \n\n \n\n*       Language interfaces, \n\n*       Underlying core computational routines, probably in Java, \n\n*       Automated test and validation routines, \n\n*       Related documentation such as help files and user's guides,\n\n \n\nThese tasks require interactive collaboration with analysts and\ntechnologists, to quantify the complexities arising from noisy tick data\nbeing handled by autonomous, real-time trading agents. With experience, the\ncandidate is expected to work independently. Responsibility will rise in\nline with demonstrated abilities.\n\nThe preceding paragraphs summarise the general nature and level of work\ninvolved but they are not an exhaustive list of all duties, additional\nresponsibilities may be assigned by management, as required.\n\nCompensation is commensurate with that of the investment banking industry\nand, for proven performers, directly related to the financial success of the\nteam.\n\n \n\nWork Environment/Physical Demands:  \n\n*       Ability to code while sitting on a large, noisy and dynamic trading\nfloor.\n\n*       The position is based in London but an important component will\ninvolve liaising with teams in other centres.\n\n \n\nImpact of role\n\nThe impact of results can be substantial depending on the quality of\nresults, which are reflected in the financial performance of the team.\n\n \n\n \n\nContact\n\n \n\nChris Forbes\n\nManaging Director\n\nPh.D search & Selection\n\n+44-(0)20-7190-2970\n\n+44-(0)777-564-6084\n\nChris.forbes at phdit.com \n\nwww.phdsearchandselection.com <http://www.phdsearchandselection.com/>\n\n\n \n\n \n\n \n\nPh.D. Search & Selection Ltd acts as an Employment Agency and is fully\ncompliant with the Conduct of Employment Agencies and Employment Businesses\nRegulations 2003. \n\nThis e-mail message is intended solely for the use of the addressee. The\nmessage may contain information that is PRIVILIGED and CONFIDENTIAL.\n\n \n\nDisclosure to anyone other than the intended recipient is prohibited. If you\nare not the intended recipient, please do not disseminate, distribute or\ncopy this communication, by e-mail or otherwise. \n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi All,\n\n \n\nI am looking for an expert R programmer who has also used Java or C++ and\nwho is educated at either masters or PhD level.  I do not mind what industry\nbackground you are in if you have the",
+      "thread_id": "thread-ca9086ffa741",
+      "thread_depth": 0,
+      "month": "2007-03"
+    },
+    {
+      "id": "msg-bee6ff1709c0",
+      "message_id": "<460C0DC2.7070906@metruminstitute.org>",
+      "from_name": "Bill Gillespie",
+      "from_email_hash": "a31d4eae7d95fef95e80c7dc04f76126ad1e39191c8d521152626495fb5a3c14",
+      "date": "2007-03-29T15:04:34-04:00",
+      "subject": "[R-jobs] Postdoctoral fellowship in pharmacometrics",
+      "subject_clean": "[R-jobs] Postdoctoral fellowship in pharmacometrics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Metrum Institute (http://metruminstitute.org/) is offering a \npostdoctoral fellowship in pharmacometrics. It will focus on the \ndevelopment of computational methods and open-source software tools for \nBayesian modeling and simulation relevant to pharmacometric \napplications. An ideal candidate will have a post-graduate degree in \nstatistics, pharmacokinetics, bioengineering or other related \nquantitative sciences, and skills in applied mathematics, probability \nand statistics, and computer programming. Experience using R, S-PLUS \nand/or WinBUGS/OpenBUGS is desirable. The position will be located in \nTariffville, CT, a vibrant New England town situated in the Farmington \nRiver Valley. A competitive compensation and benefits package will be \nprovided.\n\nFounded in 2005, Metrum Institute is a nonprofit organization dedicated \nto the advancement of quantitative modeling and simulation in biomedical \nresearch, with particular emphasis on problems in clinical pharmacology \nand therapeutics. Our efforts include training courses in modeling & \nsimulation techniques/methods, development of quantitative tools and \nsoftware, publications, methods and applied research, symposia, and \ncollaboration with the academic community in research and training of \nfellows and graduate students.\n\nInterested individuals should forward a CV and contact information for \nreferences to Bill Gillespie, Research and Development Director. Metrum \nInstitute is an equal opportunity employer and a 501?(3) non-profit \norganization.\n\n-- \nWilliam R Gillespie, Research and Development Director\nMetrum Institute\n2 Tunxis Road, Suite 112, Tariffville, CT 06081\nDirect & FAX:919-371-2786, Main:860-735-7043\nbillg at metruminstitute.org\nwww.metruminstitute.org",
+      "body_snippet": "Metrum Institute (http://metruminstitute.org/) is offering a \npostdoctoral fellowship in pharmacometrics. It will focus on the \ndevelopment of computational methods and open-source software tools for ",
+      "thread_id": "thread-bee6ff1709c0",
+      "thread_depth": 0,
+      "month": "2007-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-ab9d23664053",
+      "subject": "[R-jobs] quantitative analyst - hedge fund",
+      "message_count": 1,
+      "participants": [
+        "M@x@K@uim@@@ m@iii@g oii i@z@rd@com"
+      ],
+      "started": "2007-03-16T12:29:32-04:00",
+      "last_reply": "2007-03-16T12:29:32-04:00",
+      "root_message_id": "msg-ab9d23664053"
+    },
+    {
+      "id": "thread-2218138646ce",
+      "subject": "[R-jobs] job ad: RA at Center for Economic and Policy Research",
+      "message_count": 1,
+      "participants": [
+        "Ben Zipperer"
+      ],
+      "started": "2007-03-16T16:22:40-04:00",
+      "last_reply": "2007-03-16T16:22:40-04:00",
+      "root_message_id": "msg-2218138646ce"
+    },
+    {
+      "id": "thread-e2c31cc54c1d",
+      "subject": "[R-jobs] 2 post-doctoral positions in neurophysiological data analysis with R",
+      "message_count": 1,
+      "participants": [
+        "Christophe Pouzat"
+      ],
+      "started": "2007-03-21T16:01:50+01:00",
+      "last_reply": "2007-03-21T16:01:50+01:00",
+      "root_message_id": "msg-e2c31cc54c1d"
+    },
+    {
+      "id": "thread-ca9086ffa741",
+      "subject": "[R-jobs] R role",
+      "message_count": 1,
+      "participants": [
+        "Chris Forbes"
+      ],
+      "started": "2007-03-22T15:01:29+00:00",
+      "last_reply": "2007-03-22T15:01:29+00:00",
+      "root_message_id": "msg-ca9086ffa741"
+    },
+    {
+      "id": "thread-bee6ff1709c0",
+      "subject": "[R-jobs] Postdoctoral fellowship in pharmacometrics",
+      "message_count": 1,
+      "participants": [
+        "Bill Gillespie"
+      ],
+      "started": "2007-03-29T15:04:34-04:00",
+      "last_reply": "2007-03-29T15:04:34-04:00",
+      "root_message_id": "msg-bee6ff1709c0"
+    }
+  ]
+}

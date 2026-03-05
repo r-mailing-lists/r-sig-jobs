@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2008-03",
+  "messages": [
+    {
+      "id": "msg-27172725df7d",
+      "message_id": "<200803191708.m2JH8Pwj028439@hypatia.math.ethz.ch>",
+      "from_name": "Christina Kinchen",
+      "from_email_hash": "fd1fd204d90860a6d75a121c6c6b467a5d9179d65fd0da2e8d9f65dd0e11899b",
+      "date": "2008-03-19T13:08:06-04:00",
+      "subject": "[R-jobs] SAS/R position open with pharmaceutical in NJ/MA/IL",
+      "subject_clean": "[R-jobs] SAS/R position open with pharmaceutical in NJ/MA/IL",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I currently have an opening with a Large Pharmaceutical Company for a Sr.\nSAS programmer with extensive R experience. This position is in New Jersey,\nbut could possibly work out of Illinois or Massachusetts if necessary.\nPlease email me at ckinchen at smithhanley.com, or contact me via my website\nlink at http://www.smithhanleyconsulting.com/pharma/about/bios.asp?id=7 . I\ncan be called at 800-684-9921 ext 220.\nThanks \nChristina Kinchen\nSenior Recruiter\n\nPhone 800-684-9921 ext 220\n\nDirect Line 407-548-0670\n\nOverview:\n-Back up programming of tables, listings, and graphs for a specified\ncompound project.\n-Responsible for the validation and quality assurance of any output produced\nfor specified projects and contributing to al project management such that\ntimelines are met. \n-Back up participant on Clinical Project teams representing clinical\nprogramming efforts for that clinical team. \n-Prefer candidate with clinical experience. \n-SAS program experience required.\n \nResponsibilities:\n-Contribute to the programming of tables and graphs for various projects\nrelated to genomics/biomarkers and discovery, which include in vitro and\nanimal pharmacology. \n-Help develop automation tools in Microsoft Excel using internal links to\nVisual Basic, SAS or R; develop SAS macros and R functions for various\nanalysis tasks, with guidance and core code from the statisticians. \n-SAS and S-Plus/R programming experience required. \n-Discovery/pre-clinical experience will be a plus. \n-Experience in Visual Basic and Web programming (HTML, JAVA, Perl, etc.)\nwill be a plus. \n-This is for an experienced SAS and S-Plus/R programmer. \n-Individuals should be very proficient in generating graphs, tables and\ndevelop automated SAS and R Macros/functions and Excel templates using the\ncore statistical programs and guidance from the statisticians. \n-Individuals should ideally know or be willing to quickly self-learn how to\nrun SAS or R programs in the background from Excel and use Visual Basic in\nExcel to automate analysis tasks and create Excel templates/tools. \n-Individuals should ideally have strong experience or be willing to quickly\nself-learn in creating web-based interface/tools that runs SAS and R\nprograms in the background. \n-Since most of this work is for projects in discovery, biomarkers and pre\nclinical groups, experience in clinical trials is not required. \n \nExperience/Education:\nWe need very strong candidates for these openings. \nA B.S. or M.S. degree in statistics or mathematics or related field, with\ncoursework/experience in computer science is preferred. \nA degree in computer science, biology and related fields will also be\nconsidered if the candidates have coursework/training in statistics and\nstatistical programming with the experience/proficiency in topics listed\nabove. \n\n\nChristina Kinchen\n\nSmith Hanley Consulting\n\nSenior Recruiter\n\nPhone 800-684-9921 ext 220\n\nDirect Line 407-548-0670\n\nFax 407-805-3020\n\nE-Mail: ckinchen at smithhanley.com\n\nWebsite: www.smithhanleyconsulting.com\n<http://www.smithhanleyconsulting.com/> \n\n \n\n\"Ask About Our Referral Policy\"\n1st Placement- $1000\n2nd Placement-$2000\n3rd Placement-$3000\n \n\n-You can see what positions are available by clicking on the following link:\nhttp://smithhan.vcgasp.com/Worldlink40SmithHanleyConsultingGroup/main.aspx?a\nction=SearchOpportunities\n\n \n\n-Specializing in contract placement of Statisticians, SAS Programmers,\nClinical Data Managers/Data Coordinators, and other clinical positions\nthroughout the US.\n\n \n\n \n \n \n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I currently have an opening with a Large Pharmaceutical Company for a Sr.\nSAS programmer with extensive R experience. This position is in New Jersey,\nbut could possibly work out of Illinois or Massach",
+      "thread_id": "thread-27172725df7d",
+      "thread_depth": 0,
+      "month": "2008-03"
+    },
+    {
+      "id": "msg-351f39db978c",
+      "message_id": "<18402.49182.23871.487980@ny.koplon.com>",
+      "from_name": "Marc Schwarzschild",
+      "from_email_hash": "08a69da45c5fa12d0bce0008ccf30f4bf0fda15e95d5a9281893bc2d3ecf24bb",
+      "date": "2008-03-20T15:50:54-04:00",
+      "subject": "[R-jobs] R programmer wanted for Financial market timing simulator",
+      "subject_clean": "[R-jobs] R programmer wanted for Financial market timing simulator",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Location: New York City\nThe Brookhaven Group, LLC\nContact: Marc Schwarzschild - r at TheBrookhavenGroup.com\nTerm: Part time - needed for projects to fulfill consulting\n                  obligation\n\n\nApplication: Financial time series analysis and simulation\n\nRequirements: R Programming Experience\n              \nDesired Experience: User experience in Linux\n                    OOP experience\n\n\nABSOLUTELY NO RECRUITERS PLEASE: Do not waste your time we only\nhave this one position open and will not work with a recruiter on\nthis one.\n\n_________________________________________________________\nMarc Schwarzschild              The Brookhaven Group, LLC\n1-212-580-1175         Analytics for Hedge Fund Investors\n                 Risk it, carefully!",
+      "body_snippet": "Location: New York City\nThe Brookhaven Group, LLC\nContact: Marc Schwarzschild - r at TheBrookhavenGroup.com\nTerm: Part time - needed for projects to fulfill consulting\n                  obligation\n\n\nA",
+      "thread_id": "thread-351f39db978c",
+      "thread_depth": 0,
+      "month": "2008-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-27172725df7d",
+      "subject": "[R-jobs] SAS/R position open with pharmaceutical in NJ/MA/IL",
+      "message_count": 1,
+      "participants": [
+        "Christina Kinchen"
+      ],
+      "started": "2008-03-19T13:08:06-04:00",
+      "last_reply": "2008-03-19T13:08:06-04:00",
+      "root_message_id": "msg-27172725df7d"
+    },
+    {
+      "id": "thread-351f39db978c",
+      "subject": "[R-jobs] R programmer wanted for Financial market timing simulator",
+      "message_count": 1,
+      "participants": [
+        "Marc Schwarzschild"
+      ],
+      "started": "2008-03-20T15:50:54-04:00",
+      "last_reply": "2008-03-20T15:50:54-04:00",
+      "root_message_id": "msg-351f39db978c"
+    }
+  ]
+}

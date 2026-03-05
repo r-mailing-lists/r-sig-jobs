@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-01",
+  "messages": [
+    {
+      "id": "msg-765411edc939",
+      "message_id": "<AANLkTim7iC+CkP_yRukfUOkdsuj1PK6Hc4x9Ju1LAHKM@mail.gmail.com>",
+      "from_name": "Mark Devaney",
+      "from_email_hash": "4bc5a7aedfbe2206874bf8b590064445f9c576fe47eeaa8a2e97ef15c1faec6f",
+      "date": "2011-01-06T11:43:56-06:00",
+      "subject": "[R-jobs] Finance job in New Jersey",
+      "subject_clean": "[R-jobs] Finance job in New Jersey",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "In addition to the below, we are heavy users of R.\n\nLion Cave Capital, a proprietary, algorithmic trading start-up, is seeking a\ntop-flight, innovative, recent Ph.D. in Mathematics, Physics, Machine\nLearning, or Statistics. Programming excellence required, particularly\ninvolving large data sets and real-time systems.\n\nLion Cave's real-time market analysis poses significant mathematical and\nsystems challenges, from management of massive data streams (billions of\nevents per day) to modeling of volatile markets.\n\nOur tightly knit team seeks an individual to discover, implement, and\nanalyze new trading strategies, and to enhance our trading and analytical\ninfrastructure. As a member of a small company, you will participate in all\nstrategic decisions.\n\nLion Cave trades its own money, is self-sustaining and profitable. We have\nno customers, sales staff, marketing team, or funding agency constraining\nus. Technical considerations and trading results rule the day.\n\nInterested? Please email your resume to hr2 at lioncavecapital.com\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "In addition to the below, we are heavy users of R.\n\nLion Cave Capital, a proprietary, algorithmic trading start-up, is seeking a\ntop-flight, innovative, recent Ph.D. in Mathematics, Physics, Machine\nL",
+      "thread_id": "thread-765411edc939",
+      "thread_depth": 0,
+      "month": "2011-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-765411edc939",
+      "subject": "[R-jobs] Finance job in New Jersey",
+      "message_count": 1,
+      "participants": [
+        "Mark Devaney"
+      ],
+      "started": "2011-01-06T11:43:56-06:00",
+      "last_reply": "2011-01-06T11:43:56-06:00",
+      "root_message_id": "msg-765411edc939"
+    }
+  ]
+}

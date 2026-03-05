@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-03",
+  "messages": [
+    {
+      "id": "msg-7b67b45c3c52",
+      "message_id": "<CD5A8260.16624%levy.steve@gmail.com>",
+      "from_name": "Steve Levy",
+      "from_email_hash": "479e47c340f1bb40918496c2abed61e322a517a37b2bd6c13952eef993112322",
+      "date": "2013-03-04T16:54:56-05:00",
+      "subject": "[R-jobs] Manager of Customer Insights, Dallas area",
+      "subject_clean": "[R-jobs] Manager of Customer Insights, Dallas area",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Ultra high-end multi-state department store chain looking to hire TWO\nhighly technical AND analytical folks to provide insight into customer\nbehavior to support decision making relating to promotions, events and\nmarketing programs for all brands both in stores and online. Yes, Manager\ntitle with no direct reports (better to think of the role as managing a\nset of critical processes).\n\nYour primary daily work will revolve around writing R-based queries based\non core customer ?browse and buy? variables in support of a range of POS,\nclickstream, email, etc. initiatives for all of the retail groups? brands.\n\nAlthough R, Base SAS, and SAS/STAT constitute the core query and analysis\nplatform, I?m guessing you also know one or more of Hive, Pig, or\nCascading and possibly some of the ?secondary? analysis platforms.\n\nThis isn?t ?work in a vacuum? role with minimal human contact; you?ll also\n?consult? with the advanced analytic team on deep data mining initiatives\nincluding developing and/or implementing predictive models, segmentation\nstrategies, and optimization algorithms with a targeted performance result\nof increasing revenue.\n\nIt should also be clear that having a good hands-on sense of the data\nvisualization landscape with all its philosophies, strategies and tools is\ngoing to make you more valuable when you?re asked to present the analyses\nto higher ups.\n\nSo?there are 2 spots all reporting to the same easy-going Director of\nAdvanced Analytics (whom we identified, engaged, and recruited). Sure wish\nwe could offer relocation but sadly not?\n\nIf interested, let me know...\n\n\n\nSteve Levy | Talent Acquisition\nConnect | Twitter <http://twitter.com/levyrecruits> | LinkedIn\n<http://www.linkedin.com/in/stevenmlevy>\nRead | Recruiting Inferno <http://www.recruitinginferno.com/>",
+      "body_snippet": "Ultra high-end multi-state department store chain looking to hire TWO\nhighly technical AND analytical folks to provide insight into customer\nbehavior to support decision making relating to promotions,",
+      "thread_id": "thread-7b67b45c3c52",
+      "thread_depth": 0,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-d16262d9adaa",
+      "message_id": "<513DDB61.9040701@oncology.ox.ac.uk>",
+      "from_name": "Francesca Buffa",
+      "from_email_hash": "08fc7a2780b75ae496535a1ad78a2fc5e1c7811cc3d12c4b3b7ab32fde2e53c9",
+      "date": "2013-03-11T13:25:53Z",
+      "subject": "[R-jobs] Position available University of Oxford",
+      "subject_clean": "[R-jobs] Position available University of Oxford",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Biostatistician\nDepartment of Oncology, University of Oxford\n*\nGrade 7: ?29,541 - ?36,298 p.a.\nAn opportunity is available for a Biostatistician to join the \nBioinformatics Core within the Department of Oncology. You will provide \nbiostatistical expertise to the Core and contribute to the design of \nstudies, the analysis of data and the development of new analytical methods.\n\nThis position will involve various aspects of statistics from \nbiostatistics and statistical genetics to the integration of *omics \ndata, under the supervision of senior members of the Bioinformatics \nCore: Dr Jean-Baptiste Cazier, Group Leader, and Francesca Buffa, \nClinical Genomics Lead. It includes provision of design and analysis as \nwell as development of novel statistical approaches to solve problems \nspecific to the Department of Oncology.\n\nYou will have a PhD in Statistics, Biostatistics, Statistical Genetics \nor similar subject, as well as experience in bioinformatics aspects of \nhigh-throughput sequencing or proteomics technologies. You will also \nhave a working knowledge of statistical software packages such as \nR/BioConductor and scripting skills in languages such as Python or Awk.\n\nThis is a full-time post and is available until 31 March 2017 in the \nfirst instance.\n\nAll applicants must complete an application form and supporting statement.\n\n*The closing date for applications is **12.00 noon on 10 April 2013.*\n\nFor more information and to apply please see\nhttps://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_search_package.search_form?p_company=10&p_internal_external=E\n\nThe vacancy reference ID is 107127.\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Biostatistician\nDepartment of Oncology, University of Oxford\n*\nGrade 7: ?29,541 - ?36,298 p.a.\nAn opportunity is available for a Biostatistician to join the \nBioinformatics Core within the Department",
+      "thread_id": "thread-d16262d9adaa",
+      "thread_depth": 0,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-8b59a176df39",
+      "message_id": "<9D8BD76A1B23624DAC7A9683C0BD66DB1CDFACFB@AMXPRD0410MB353.eurprd04.prod.outlook.com>",
+      "from_name": "Stuart McGurnaghan",
+      "from_email_hash": "0a6589be7b1dc49cd35e32923901acfac7409d591704f373a31989a2ed0ab8a2",
+      "date": "2013-03-15T13:56:50Z",
+      "subject": "[R-jobs] Analyst Programmer/Data Warehouse Manager Position",
+      "subject_clean": "[R-jobs] Analyst Programmer/Data Warehouse Manager Position",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "UNIVERSITY OF DUNDEE\nCOLLEGE OF MEDICINE, DENTISTRY & NURSING\nMEDICAL RESAERCH INSTITUTE\nDIVISION OF CARDIOVASCULAR & DIABETES MEDICINE\n\n\nAnalyst Programmer/Data Warehouse Manager\nJava, C++/ C#, Python, together with experience with an array programming language such as R or Matlab\n\nGrade 7 (?29,249 - ?35,938) REF: MDN0452\nFixed Term for 24 months\n\n\nTo apply and for further details please visit our website:\nwww.jobs.dundee.ac.uk<http://www.jobs.dundee.ac.uk/>\n\nClosing date:  12 April 2013\n\nThe University of Dundee is committed to equal opportunities and welcomes\napplications from all sections of the community.\n\n\nThe University of Dundee is a Scottish Registered Charity, No. SC015096\n\nThe University of Dundee is a registered Scottish Charity, No: SC015096\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "UNIVERSITY OF DUNDEE\nCOLLEGE OF MEDICINE, DENTISTRY & NURSING\nMEDICAL RESAERCH INSTITUTE\nDIVISION OF CARDIOVASCULAR & DIABETES MEDICINE\n\n\nAnalyst Programmer/Data Warehouse Manager\nJava, C++/ C#, Pytho",
+      "thread_id": "thread-8b59a176df39",
+      "thread_depth": 0,
+      "month": "2013-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7b67b45c3c52",
+      "subject": "[R-jobs] Manager of Customer Insights, Dallas area",
+      "message_count": 1,
+      "participants": [
+        "Steve Levy"
+      ],
+      "started": "2013-03-04T16:54:56-05:00",
+      "last_reply": "2013-03-04T16:54:56-05:00",
+      "root_message_id": "msg-7b67b45c3c52"
+    },
+    {
+      "id": "thread-d16262d9adaa",
+      "subject": "[R-jobs] Position available University of Oxford",
+      "message_count": 1,
+      "participants": [
+        "Francesca Buffa"
+      ],
+      "started": "2013-03-11T13:25:53+00:00",
+      "last_reply": "2013-03-11T13:25:53+00:00",
+      "root_message_id": "msg-d16262d9adaa"
+    },
+    {
+      "id": "thread-8b59a176df39",
+      "subject": "[R-jobs] Analyst Programmer/Data Warehouse Manager Position",
+      "message_count": 1,
+      "participants": [
+        "Stuart McGurnaghan"
+      ],
+      "started": "2013-03-15T13:56:50+00:00",
+      "last_reply": "2013-03-15T13:56:50+00:00",
+      "root_message_id": "msg-8b59a176df39"
+    }
+  ]
+}

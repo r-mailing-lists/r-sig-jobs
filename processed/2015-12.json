@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-12",
+  "messages": [
+    {
+      "id": "msg-6cd543b321af",
+      "message_id": "<D29468A4.42889%max.kuhn@pfizer.com>",
+      "from_name": "Kuhn, Max",
+      "from_email_hash": "9c6379865233ec4e1197b3927b6b49a940d68d7bf51cdc52fff0520d10de2b42",
+      "date": "2015-12-14T17:37:58Z",
+      "subject": "[R-jobs] Nonclinical Statistician",
+      "subject_clean": "[R-jobs] Nonclinical Statistician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Research Statistics group collaborates across a wide variety of\nactivities in the early phases of drug discovery. This position is located\nin Groton CT and has a focus on the optimization of chemical matter and\nthe development of assays to characterize these molecules\n\nThe successful candidate will:\n\n * Demonstrate leadership in influencing and improving drug discovery by\nidentifying, developing, and applying new quantitative methods.\n * Proactively seek collaborations with scientists and lab heads.\n * Collaborate with scientists to plan meaningful studies, statistically\nanalyze, and communicate / document the results.\n\nRequirements:  \n * M.S. or Ph.D. in Statistics, Biostatistics, or related field and 2+\nyears statistical consulting experience in drug discovery and development,\npreferably in a laboratory science environment.\n * The ability to proactively seek collaborations with scientists and lab\nheads. \n * Strong initiative, excellent interpersonal and communication (written\nand verbal) skills\n * Understanding of inference and probability; competence in contemporary\nlinear modeling including mixed models, nonlinear regression; and\npredictive modeling/machine learning.\n * Solid understanding of experimental design\n * An understanding of tools for the analysis of high dimensional data\n * Strong computational skills in R\n\nDesired:\n * Five or more years experience in the pharmaceutical industry.\n * Sound understanding and experience of applying Bayesian methods\n * Formal training in, or thorough understanding of: human physiology,\ncell biology, pharmacokinetics and/or pharmaceutical chemistry.\n * Strong computing skills in scripting languages, such as perl, python,\nunix shell scripts or others. SQL and LaTeX skills are also advantageous.\n\nThe position is posted at http://pfizercareers.com/\n\n - Go to \"Search jobs\" on the green tab\n - Choose \"SEARCH and APPLY for Jobs\"\n - In the \"Advanced Search\" bar, search on Job Id 1024297",
+      "body_snippet": "The Research Statistics group collaborates across a wide variety of\nactivities in the early phases of drug discovery. This position is located\nin Groton CT and has a focus on the optimization of chemi",
+      "thread_id": "thread-6cd543b321af",
+      "thread_depth": 0,
+      "month": "2015-12"
+    },
+    {
+      "id": "msg-e330a079780f",
+      "message_id": "<20151217145125.GA9345@psych.upenn.edu>",
+      "from_name": "Jonathan Baron",
+      "from_email_hash": "dc3633bac5f4ce429738bd566dad831e0f3f1e8c2eb846d7a1ba5cd71ad0b01d",
+      "date": "2015-12-17T09:51:25-05:00",
+      "subject": "[R-jobs] part-time job for production assistant for a journal (Judgment and Decision Making)",
+      "subject_clean": "[R-jobs] part-time job for production assistant for a journal (Judgment and Decision Making)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I am looking for a part-time (remote) assistant to help with the\nproduction of Judgment and Decision Making (the journal). Necessary\nskills are knowledge of LaTeX and R.\n\nOther kinds of knowledge that could be helpful are: basic functions of\na linux server, Apache, other formats and ways of converting between\nthem, the field of JDM, and English grammar and usage.\n\nPay level is negotiable. The budget is limited to $12,000 per year,\nbut there may not be enough work to justify the full amount. The\njournal is published every two months, starting January, and most of\nthe work will be in those months (often coinciding with university\nvacations).\n\nAnyone interested should reply to me, with whatever information seems\nrelevant.\n\nJon\n-- \nJonathan Baron, Professor of Psychology, University of Pennsylvania\nHome page: http://www.sas.upenn.edu/~baron\nEditor: Judgment and Decision Making (http://journal.sjdm.org)",
+      "body_snippet": "I am looking for a part-time (remote) assistant to help with the\nproduction of Judgment and Decision Making (the journal). Necessary\nskills are knowledge of LaTeX and R.\n\nOther kinds of knowledge that",
+      "thread_id": "thread-e330a079780f",
+      "thread_depth": 0,
+      "month": "2015-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-6cd543b321af",
+      "subject": "[R-jobs] Nonclinical Statistician",
+      "message_count": 1,
+      "participants": [
+        "Kuhn, Max"
+      ],
+      "started": "2015-12-14T17:37:58+00:00",
+      "last_reply": "2015-12-14T17:37:58+00:00",
+      "root_message_id": "msg-6cd543b321af"
+    },
+    {
+      "id": "thread-e330a079780f",
+      "subject": "[R-jobs] part-time job for production assistant for a journal (Judgment and Decision Making)",
+      "message_count": 1,
+      "participants": [
+        "Jonathan Baron"
+      ],
+      "started": "2015-12-17T09:51:25-05:00",
+      "last_reply": "2015-12-17T09:51:25-05:00",
+      "root_message_id": "msg-e330a079780f"
+    }
+  ]
+}

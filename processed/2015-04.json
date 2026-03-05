@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-04",
+  "messages": [
+    {
+      "id": "msg-c46500453c9f",
+      "message_id": "<CAKtE6yN8TRdJQ4gymNkvruZpr-ja29__ErK6CEePp50oSjCgMA@mail.gmail.com>",
+      "from_name": "Zivan Karaman",
+      "from_email_hash": "f608a153dd427cba2b35b76e0770fde2c77ce66784745838abdf743368ce538c",
+      "date": "2015-04-04T14:41:56+02:00",
+      "subject": "[R-jobs] Senior Geostatistician Position France",
+      "subject_clean": "[R-jobs] Senior Geostatistician Position France",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nWe currently have a job opening for a Senior Geostatistician in\nClermont-Ferrand, France\n\nLimagrain is an international agricultural co-operative group\nspecialized in field seeds, vegetable seeds and cereal products. More\nthan 8 600 employees in the world spread out in 41 countries.\nLimagrain strives to improve agriculture in order to face today?s\nfood-related challenges.\n\n\nJob Description:\n\nDigital Agriculture is an exciting and challenging suite of activities\nrelated to farming that includes Precision Agriculture, Prescription\nAgriculture, and depends on the collection, use, analysis, and\ninterpretation of data from multiple sources with the goal of\noptimizing productivity, profitability, and sustainability of farming\noperations.\n\nWe are seeking bright and enthusiastic experts to put together a\ncreative team that will build and deliver Limagrain?s Digital\nAgriculture solution, mixing agronomic expertise, advanced data\nscience algorithms, cloud and mobile computing to provide innovative\nsolutions to farmers .\n\n\nResponsibilities:\n\nYou will be focused on the application of mathematical and statistical\ntechniques to answer real-world farming questions through the\ndevelopment of models, algorithms and software that will enable\ndelivery of detailed and robust locally-adapted prescriptions taking\ninto account historical soil, weather and agronomic records as well as\ncurrent observations and forecasts that will help farmers to better\nmanage risks and take more informed decisions.\n\n- Statistical analysis and interpretation of large agronomic\ngeo-referenced datasets coming from a multiplicity of sources\n(internal and external), including sensors, airborne imaging, soil and\nweather data.\n- Use theory, simulation, and experimental data collected from\nextensive field testing to lead the development of new or adaptation\nof existing methods and algorithms for building predictive\nhigh-resolution spatial models.\n- Implementation of these algorithms into ready-to-use,\nwell-documented software routines in accordance with overall system\narchitecture.\n- Keep informed of scientific developments in the field of statistical\nanalysis of spatial data in agricultural, environmental and other\nfields (participation to scientific conferences, bibliographical\nfollow-up) and evaluate their interest for our Digital Agriculture\nactivities.\n- The successful candidate will be expected to coordinate and\ncollaborate closely with research, development, marketing and IT teams\nacross the seed business organization worldwide as well as with\nexternal partners.\n\n\nRequired qualifications & skills\n\n- A PhD or Master Degree in statistics, applied mathematics or a\nrelated quantitative field with five to ten years? experience in\napplying and interpreting statistical analysis of large geo-spatial\ndatasets.\n- High-level knowledge of statistical/mathematical software (R/S+,\nSAS, Matlab, or similar) and proven experience of applying it in\nsolving problems.\n- Experience with Fortran, C/C++ or other similar compiled programming\nlanguage is a plus.\n- The position requires the ability to take research projects from\nconception to completion, including: algorithm development; conducting\nstatistical analyses, interpretation of research results and\ncommunication of conclusions to non-specialists; delivering efficient\nand reliable data analysis software tools.\n- Recognized for you demonstrated analytical and organizational\nskills, your ability to work in a team and your attention to detail,\nyou managed projects from conception to implementation.\n- Given the international scope of the activity fluent English is mandatory.\n\nThis position involves some travel.\n\n\nInterested individuals can view the full position announcement and\napply at: http://limagrain-recrute.talent-soft.com/offre-de-emploi/emploi-geostatistician_132.aspx?LCID=2057\n\nPlease feel free to distribute this announcement.\n\nKind regards,\n\nZivan\n\n--\nZivan Karaman\nTechnical Lead Digital Agriculture\nLimagrain - CS 20001 - Saint-Beauzire - 63360 Gerzat - France",
+      "body_snippet": "Dear all,\n\nWe currently have a job opening for a Senior Geostatistician in\nClermont-Ferrand, France\n\nLimagrain is an international agricultural co-operative group\nspecialized in field seeds, vegetable",
+      "thread_id": "thread-c46500453c9f",
+      "thread_depth": 0,
+      "month": "2015-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c46500453c9f",
+      "subject": "[R-jobs] Senior Geostatistician Position France",
+      "message_count": 1,
+      "participants": [
+        "Zivan Karaman"
+      ],
+      "started": "2015-04-04T14:41:56+02:00",
+      "last_reply": "2015-04-04T14:41:56+02:00",
+      "root_message_id": "msg-c46500453c9f"
+    }
+  ]
+}

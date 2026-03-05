@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2022-04",
+  "messages": [
+    {
+      "id": "msg-76f6875ade69",
+      "message_id": "<CAE5gJkEKsSdwJOoUGz-QRw1ntWLoj=iwzzDZ=ut6CZj9aT1eqA@mail.gmail.com>",
+      "from_name": "Neil Shephard",
+      "from_email_hash": "bb25afc28b2a70494e018ead10a2dba32c6f7e0f817b7b5e11c40a6124ba1240",
+      "date": "2022-04-11T13:58:38+01:00",
+      "subject": "[R-jobs] [JOB] Research Software Engineer University of Sheffield",
+      "subject_clean": "[R-jobs] [JOB] Research Software Engineer University of Sheffield",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nAn opening is available to join the growing Research Software Engineering\n(RSE) group (https://rse.shef.ac.uk) on an open ended contract. The role is\nideal for someone with a passion for research software looking to use their\nskills in R programming, collaborative software development and\nreproducible research to make an impact on research projects across the\nwhole of the University of Sheffield.\n\nFor further information and details of how to apply please see the advert :\nhttps://www.jobs.ac.uk/job/COK027/research-software-engineer\n\nRegards,\n\nNeil\n--\n\nNeil Shephard\nResearch Software Engineering\nUniversity of Sheffield\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi,\n\nAn opening is available to join the growing Research Software Engineering\n(RSE) group (https://rse.shef.ac.uk) on an open ended contract. The role is\nideal for someone with a passion for research",
+      "thread_id": "thread-76f6875ade69",
+      "thread_depth": 0,
+      "month": "2022-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-76f6875ade69",
+      "subject": "[R-jobs] [JOB] Research Software Engineer University of Sheffield",
+      "message_count": 1,
+      "participants": [
+        "Neil Shephard"
+      ],
+      "started": "2022-04-11T13:58:38+01:00",
+      "last_reply": "2022-04-11T13:58:38+01:00",
+      "root_message_id": "msg-76f6875ade69"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2009-03",
+  "messages": [
+    {
+      "id": "msg-e89a564b369a",
+      "message_id": "<8913fde30903060659k4dcbafdeu3bb121313142ad82@mail.gmail.com>",
+      "from_name": "Mitchell Maltenfort",
+      "from_email_hash": "254f17eccadc7c7f2bbfe7747e747b261061037582b7cbc15c56869eb157a8cf",
+      "date": "2009-03-06T09:59:11-05:00",
+      "subject": "[R-jobs] Forgive if OT/FAQ, but seems best site to ask",
+      "subject_clean": "[R-jobs] Forgive if OT/FAQ, but seems best site to ask",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I'm posting this trusting you'll give me a pass for naivete and for\nclue deficiency.  The answer may be\"none we know of\" but this seems to\nbe the best place to ask since it relates to statistical jobs.\n\nDo any professional certifications exist in statistics or\nbiostatistics?  That is, does statistics have any analogue to the 'A+'\nor MSCE in computers?\n\nThanks in advance.\n-- \nDue to the recession, requests for instant gratification will be\ndeferred until arrears in scheduled gratification have been satisfied.",
+      "body_snippet": "I'm posting this trusting you'll give me a pass for naivete and for\nclue deficiency.  The answer may be\"none we know of\" but this seems to\nbe the best place to ask since it relates to statistical jobs",
+      "thread_id": "thread-e89a564b369a",
+      "thread_depth": 0,
+      "month": "2009-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e89a564b369a",
+      "subject": "[R-jobs] Forgive if OT/FAQ, but seems best site to ask",
+      "message_count": 1,
+      "participants": [
+        "Mitchell Maltenfort"
+      ],
+      "started": "2009-03-06T09:59:11-05:00",
+      "last_reply": "2009-03-06T09:59:11-05:00",
+      "root_message_id": "msg-e89a564b369a"
+    }
+  ]
+}

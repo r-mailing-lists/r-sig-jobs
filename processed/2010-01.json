@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2010-01",
+  "messages": [
+    {
+      "id": "msg-47b150fc3761",
+      "message_id": "<C788A4E1.6EC1%Max.Kuhn@pfizer.com>",
+      "from_name": "KuhnA03",
+      "from_email_hash": "9c6379865233ec4e1197b3927b6b49a940d68d7bf51cdc52fff0520d10de2b42",
+      "date": "2010-01-29T14:44:49-05:00",
+      "subject": "[R-jobs] Statistical Position Supporting Systems Biology",
+      "subject_clean": "[R-jobs] Statistical Position Supporting Systems Biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Position: \n\nStatistician in a systems biology team focused on metabolic disorders such\nas diabetes and obesity.\n\nThe position is part of a statistics group supporting Pfizer global research\nand development.\n\n \nRole and Responsibilities:\n\nThe statistician will be an integral member of a systems biology team which\ndevelops and/or uses computational and statistical approaches to manage and\nderive knowledge of biological processes from large biological datasets\n(e.g., expression profiling, and other ?omics? sets).  In this role, he/she\nwill share accountability for achieving team goals focused on:\n \n* Drug target discovery\n* Early biomarker discovery\n* Pathway understanding and mechanistic insight\n \nTeams will consist of computational biologists, geneticists, statisticians\nand bioinformatics specialists.\n \nThese statistician positions are unique in requiring a substantial working\nknowledge of biology.  This is necessary in order to collaborate effectively\nwith biologists in the design of appropriate experiments that will\neffectively elucidate the biological processes underpinning metabolic\ndiseases.\n \nThe statisticians? contributions to meeting team goals will come in the\nareas of experimental design, data analysis and data interpretation.   They\nwill also include assessment of the quality of external databases from a\nstatistical perspective.\n \n\nRequirements:\n \nMinimum:\n \n* M.S. or Ph.D. in Statistics or Biostatistics\n\n* A minimum of two years statistical consulting experience in applying\nstatistics to the understanding of biological systems, preferably in a\nlaboratory science environment\n\n* Strong initiative, excellent interpersonal and communication (written and\nverbal) skills\n\n* Understanding of inference and probability; competence in contemporary\nlinear modeling including mixed models, particularly longitudinal models;\nnonlinear regression; and predictive modeling (e.g. random forests, support\nvector machines).\n\n* Solid understanding of experimental design particularly as it applies to\nexperiments producing high dimensional data (e.g. gene expression,\nproteomics and rtPCR)\n\n* Strong computational skills in R, S-plus or SAS\n\n* Biological knowledge including more than superficial understanding of cell\nand molecular biology and genetics.\n \nPreferred candidates will have:\n \n* Formal training in, or thorough understanding of, human physiology\nparticularly metabolic systems and cardiovascular biology\n\n* Additional computing skills in scripting languages, such as perl, python,\nUNIX shell scripts or others.\n\n\nTo Apply:\n\nGo to \n\n   http://pfizer.com/careers/\n\nand choose \"Find a Career at Pfizer\" on the left and click on \"Apply\". This\nposition can be found by searching for Job ID 937467.",
+      "body_snippet": "Position: \n\nStatistician in a systems biology team focused on metabolic disorders such\nas diabetes and obesity.\n\nThe position is part of a statistics group supporting Pfizer global research\nand develo",
+      "thread_id": "thread-47b150fc3761",
+      "thread_depth": 0,
+      "month": "2010-01"
+    },
+    {
+      "id": "msg-dcd67ef64c88",
+      "message_id": "<4B65B8B4020000170000D663@gwia.t-c-c.at>",
+      "from_name": "David Enot",
+      "from_email_hash": "a3cde33967ca19da4900afefb557e1e49e4feb9f03aabc30d8b9a47e9e98af34",
+      "date": "2010-01-31T17:07:00+01:00",
+      "subject": "[R-jobs] Bioinformatician, Austria",
+      "subject_clean": "[R-jobs] Bioinformatician, Austria",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are looking for a MSc or PhD holder in\nBioinformatics,Molecular/Computational Biology or Computer Science to\nsupport ourbiomarker team in the identification, validation and\nfurtherdevelopment of biomarkers. The chosen candidate will be part of\nourmultidisciplinary team conducting studies to discover and\ndevelopdiagnostic biomarkers as well as biomarkers for the\ncharacterization ofdisease models and drug  effects ? including side\neffects. \n\nEssential functions\n* Analyzing omics data and integration of Metabolomics with other omics\ndata-selection of likely metabolite, protein and RNA targets for\nquantification.\n* Providing software support for team members.\n* Contributing to presentations, patent applications, scientific\npublications and  reporting on project funding.\n\nRequirements\n* Candidate can work independently and is highly motivated, creative and\nresult-oriented.\n* Problem solving skills and strong team orientation are fundamental.\n* Good command of the English language (both oral and written).\n* Experience in software development and project management are\ndesirable.\n* Knowledge of existing bioinformatics software tools for gene, protein\nand metabolite identification and expression analysis desirable;\npractical experience with omics data analysis software (e.g R package),\ndatamining, scientific visualization and experimental design a plus. \n* Knowledge of Perl/Java programming, MySQL or other relational\ndatabases  a plus.\n\nContact\nDr. Hans-Peter Deigner\nhans-peter.deigner***biocrates.com\nwww.biocrates.com",
+      "body_snippet": "We are looking for a MSc or PhD holder in\nBioinformatics,Molecular/Computational Biology or Computer Science to\nsupport ourbiomarker team in the identification, validation and\nfurtherdevelopment of bi",
+      "thread_id": "thread-dcd67ef64c88",
+      "thread_depth": 0,
+      "month": "2010-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-47b150fc3761",
+      "subject": "[R-jobs] Statistical Position Supporting Systems Biology",
+      "message_count": 1,
+      "participants": [
+        "KuhnA03"
+      ],
+      "started": "2010-01-29T14:44:49-05:00",
+      "last_reply": "2010-01-29T14:44:49-05:00",
+      "root_message_id": "msg-47b150fc3761"
+    },
+    {
+      "id": "thread-dcd67ef64c88",
+      "subject": "[R-jobs] Bioinformatician, Austria",
+      "message_count": 1,
+      "participants": [
+        "David Enot"
+      ],
+      "started": "2010-01-31T17:07:00+01:00",
+      "last_reply": "2010-01-31T17:07:00+01:00",
+      "root_message_id": "msg-dcd67ef64c88"
+    }
+  ]
+}

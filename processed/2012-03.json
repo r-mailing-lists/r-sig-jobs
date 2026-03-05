@@ -1,0 +1,135 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2012-03",
+  "messages": [
+    {
+      "id": "msg-dff978499ffd",
+      "message_id": "<CA+qkPeYcT12xfc-eudyTtZqKm+kFKbx4a81LS7=ymVZtyL3gEA@mail.gmail.com>",
+      "from_name": "Harsh",
+      "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
+      "date": "2012-03-02T16:20:36+05:30",
+      "subject": "[R-jobs] R developer opportunity in a computational marketing startup",
+      "subject_clean": "[R-jobs] R developer opportunity in a computational marketing startup",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R users/developers,\n\nI am posting on behalf of a friend who is looking for R developers.\n\nThe requirements are :\n-          Available to work/re-locate to Bangalore, India\n-          Over 5 - 6 years of solid R experience is essential\n-          The ideal candidate should have worked on regression\nmodeling and predictive models\n-          Experience using Big Data technologies (like Hadoop) is desirable\n-          Experience with marketing analytics and marketing decision\nsciences would be a plus but is not essential\n\nAbout the company:\nThe company is a NYC/Bangalore based computational marketing startup\nand is currently in a deep stealth mode. This startup combines\nnext-generation marketing science with new large datasets to surface\ncompetitive dynamics at the DMA-level. Using this, it generates\nactionable insights to power a new way of marketing called Agile\nMarketing System. The startup has real customers and expects to come\nout of the stealth mode by end of the year. It is backed by some of\nthe biggest names in the marketing and technology space.\n\n\nIf you are interested and fit the requirements listed above you can\nget in touch with Harsh on singhalblr at gmail.com with Subject: \"BLR\nStartup\", resume in PDF format and a cover letter which ideally should\ncontain the following :\n\n- A difficult problem you solved in R which required you to\nsignificantly roll your own functions ( a brief description of what\nyou created)\n- Accessing databases via R (any experience using key-value\nstore/NoSQL databases via API(s) available for R like MongoDB)\n- Examples of your experience in using Big Data technologies\n- Links to any work you may have contributed to the R/open source\ncommunity (for example, your GitHub page, R packages developed, any\nsuch project you're currently working on)\n- Links to questions asked/answered on Stack Overflow related to R\n\n\nThanks and Regards,\nHarsh\nsinghalblr at gmail.com",
+      "body_snippet": "Dear R users/developers,\n\nI am posting on behalf of a friend who is looking for R developers.\n\nThe requirements are :\n-          Available to work/re-locate to Bangalore, India\n-          Over 5 - 6 y",
+      "thread_id": "thread-dff978499ffd",
+      "thread_depth": 0,
+      "month": "2012-03"
+    },
+    {
+      "id": "msg-972b38816f81",
+      "message_id": "<4F57616F.3000309@medunigraz.at>",
+      "from_name": "Prof. M. G. Schimek",
+      "from_email_hash": "ab55a6e42cb1e34b124f2c2c08560f71bdd1bcd9e47f84162cfea25c0520619d",
+      "date": "2012-03-07T14:23:59+01:00",
+      "subject": "[R-jobs] Job offer predoc/PhD position Medical University of Graz, Austria",
+      "subject_clean": "[R-jobs] Job offer predoc/PhD position Medical University of Graz, Austria",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Vacancy: Scientific Collaborator in Statistical Bioinformatics*\n\n*Institute for Medical Informatics, Statistics and Documentation**, \nMedical University of Graz, Austria*\n\npredoc level with PhD opportunity, 30 hours per week\navailable from May 1st, 2012\n\n*Tasks:*\n\n  * Working in the project \"Biostatistical-genomical analysis of the\n    clinical relevance of liver cancer models\" which is collaborative\n    research with the Institute of Pathology and part of international\n    collaborations on metabolic disease-driven hepatocellular cancer\n  * Statistical analysis of human and mouse arrayCGH data from our\n    laboratory using R packages\n  * Application of statistical modelling and statistical (machine)\n    learning approaches to omics data\n  * Analysis of time-course or functional data from omics experiments\n  * Algorithmic and software development in R (Bioconductor)\n\n*Qualifications:*\n\n  * Master degree from an accredited university in (bio)statistics,\n    mathematical or computational biology, bioinformatics with a strong\n    statistical component or similar\n  * Experience with the statistical analysis of arrayCGHs and of other\n    array technologies\n  * Experience with R and another omics-relevant programming language\n  * Preferably also experience with R-Forge projects and CRAN submissions\n  * Excellent command of English when not native\n  * Basic knowledge of German when not native\n\n*For more information see: * \nhttp://www.medunigraz.at/imi/en/events/job_medinfo_02_2012.php\n\nEnquiries are welcome and should be directed to *Prof. Michael G. \nSchimek* per email: michael.schimek at medunigraz.at \n<javascript:toMailer('michael.schimek*medunigraz.at');>. *The closing \ndate for the receipt of applications is **March 24th, 2012.*\n\n\n\n-- \n===============================================================\nProf. Michael G. SCHIMEK, DPhil, PhD\n===============================================================\nInstitute for Medical Informatics, Statistics and Documentation\nMedical University of Graz\nAuenbruggerplatz 2/V\n8036 Graz\nAUSTRIA, EUROPE\n===============================================================\nPhone: +43 316 385 Ext. 14263 (desk), Ext. 13201 (secretary)\nFax: +43 316 385 13590\nE-Mail Office: imi at medunigraz.at\nWeb: http://www.meduni-graz.at/imi/en/index.php\n===============================================================\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Vacancy: Scientific Collaborator in Statistical Bioinformatics*\n\n*Institute for Medical Informatics, Statistics and Documentation**, \nMedical University of Graz, Austria*\n\npredoc level with PhD oppor",
+      "thread_id": "thread-972b38816f81",
+      "thread_depth": 0,
+      "month": "2012-03"
+    },
+    {
+      "id": "msg-b717359c45f2",
+      "message_id": "<CA+qkPeZB0eDU+09nNQhz90roYtEHSu1NBZTD+WCPBDnghOh44g@mail.gmail.com>",
+      "from_name": "Harsh",
+      "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
+      "date": "2012-03-15T16:34:46+05:30",
+      "subject": "[R-jobs] R developer opportunity in a computational marketing startup",
+      "subject_clean": "[R-jobs] R developer opportunity in a computational marketing startup",
+      "in_reply_to": "<CA+qkPeYcT12xfc-eudyTtZqKm+kFKbx4a81LS7=ymVZtyL3gEA@mail.gmail.com>",
+      "references": [
+        "<CA+qkPeYcT12xfc-eudyTtZqKm+kFKbx4a81LS7=ymVZtyL3gEA@mail.gmail.com>"
+      ],
+      "body_plain": "Dear R users/developers,\n\nI am posting on behalf of a friend who is looking for R developers.\n\nThe requirements are :\n- ? ? ? ? ?Available to work/re-locate to Bangalore, India\n- ? ? ? ? ?Over 5 - 6 years of solid R experience is essential\n- ? ? ? ? ?The ideal candidate should have worked on regression\nmodeling and predictive models\n- ? ? ? ? ?Experience using Big Data technologies (like Hadoop) is desirable\n- ? ? ? ? ?Experience with marketing analytics and marketing decision\nsciences would be a plus but is not essential\n\nAbout the company:\nThe company is a NYC/Bangalore based computational marketing startup\nand is currently in a deep stealth mode. This startup combines\nnext-generation marketing science with new large datasets to surface\ncompetitive dynamics at the DMA-level. Using this, it generates\nactionable insights to power a new way of marketing called Agile\nMarketing System. The startup has real customers and expects to come\nout of the stealth mode by end of the year. It is backed by some of\nthe biggest names in the marketing and technology space.\n\n\nIf you are interested and fit the requirements listed above you can\nget in touch with Harsh on singhalblr at gmail.com with Subject: \"BLR\nStartup\", resume in PDF format and a cover letter which ideally should\ncontain the following :\n\n- A difficult problem you solved in R which required you to\nsignificantly roll your own functions ( a brief description of what\nyou created)\n- Accessing databases via R (any experience using key-value\nstore/NoSQL databases via API(s) available for R like MongoDB)\n- Examples of your experience in using Big Data technologies\n- Links to any work you may have contributed to the R/open source\ncommunity (for example, your GitHub page, R packages developed, any\nsuch project you're currently working on)\n- Links to questions asked/answered on Stack Overflow related to R\n\n\nThanks and Regards,\nHarsh\nsinghalblr at gmail.com",
+      "body_snippet": "Dear R users/developers,\n\nI am posting on behalf of a friend who is looking for R developers.\n\nThe requirements are :\n- ? ? ? ? ?Available to work/re-locate to Bangalore, India\n- ? ? ? ? ?Over 5 - 6 y",
+      "thread_id": "thread-dff978499ffd",
+      "thread_depth": 1,
+      "month": "2012-03"
+    },
+    {
+      "id": "msg-60334aa25847",
+      "message_id": "<B6272230336DD24D8E0D9BDE7F93C5C11277FF86@DB3PRD0410MB357.eurprd04.prod.outlook.com>",
+      "from_name": "Daniel Levin",
+      "from_email_hash": "1be451550be88d40041b3756f4dd57f8e33cc0c9da18e2d609d9e0fc932bf1aa",
+      "date": "2012-03-15T14:15:12Z",
+      "subject": "[R-jobs] Job in Scotland - Analyst Programmer/Data Warehouse Manager",
+      "subject_clean": "[R-jobs] Job in Scotland - Analyst Programmer/Data Warehouse Manager",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Grade:                 Grade 7 - 8 depending on experience and skills\nSalary range:        Grade 7 (spine point 29; ?29,099)  up to grade 8 (point 40; ?40,280)\nDuration of Post:    Two years in the first instance\nLocation:               Medical Research Institute, College of Medicine, Dentistry & Nursing, Ninewells Hospital & Medical School Campus, University of Dundee, DD1 9SY.\n\nThe Diabetes Epidemiology Group at the University of Dundee Medical Research Institute is seeking a skilled programmer to interface with software developers in the various teams from whom we source data.\nThe Group is at the cutting edge of exploiting large scale data including, electronic health records and large genetic datasets, to lead to advances in disease prevention and medical treatments.\nExamples of the sort of work we do include using large scale data on drug prescribing linked with hospitalisation data to detect and quantify adverse reactions to drugs used in diabetes care.\nOther examples are using large genome wide genotype data linked with clinical data to understand the genetics of complications of diabetes.\n\nThis post provides a great opportunity for an enthusiastic programmer to develop core expertise in this rapidly expanding field.\nSuch expertise was recently identified as being of growing strategic importance for UK science by the Medical Research Council (http://www.mrc.ac.uk/Utilities/Documentrecord/index.htm?d=MRC007896)\nand one where there will be many future job opportunities.\n\nWe are seeking a person with good programming skills to provide a key link between the source of our raw data and the analytics team.\nOur data can come from many different sources in different formats and has often had minimal cleaning or processing before we receive it.\nThe data providers often provide it as flat files though are moving to holding data on ORACLE, Netezza and other platforms.\nOur analytics team comprises machine learning specialists, biostatisticians and epidemiologists.\nKey attributes are good interpersonal skills and an ability to communicate clearly, experience with a relational database management package such as MySQL and familiarity with the LINUX environment.\nThe appointee should have a sound understanding of good code documentation practices and tools.\n\nThe principal responsibilities of the post are:\n\n\n  *   Continue development of our current database (now MySQL but you can migrate to another platform if needed) to create a local front end for analysis\n  *   Integrate  data  held in various formats and coming from various platforms\n  *   Implement structures and metadata to support data definition, quality definition and data  transformation from a variety of information sources\n  *   Process the data to a state ready for subsequent  analysis using a language such as PYTHON, PERL or other and write it back to the database for use by the analytic team who work in R, MATLAB , SAS STATA\n  *   Work with the analytic team to improve analytic efficiency such as  by re-writing some R Functions in  a lower level language such as C  or by parallelising the  code or application\n  *   Work with the analytic team to ensure data flows  and data version control are adequately documented  and that data analysis code and functions  common to different projects are organised in shared libraries\n  *   Work with the analytic team to ensure appropriate sharing of tools and methods across specific projects  and to set up the necessary systems to facilitate this\n\n\nFor more experienced applicants we also envisage a leadership role that involves\n\n  *   establishing operational policies on data processing and data security across the team\n  *   being the point of communication between the  University IT support and the Diabetes Epidemiology  group and to represent the group in any IT and computing related discussions across the University\n  *   providing advice on investment in software and hardware within the group\n  *   participating in the recruitment, management and appraisal of the programming team as it expands\n\n\nPerson Specification:\n\nEssential:\nExperience in setting up and maintaining a relational database\nExperience with an open source relational database management package such as MySQL or ORACLE or other\nExperience of working within a Unix/Linux environment\nGood interpersonal skills and an ability to communicate clearly\nAble to work on one's own initiative\nAbility to understand and debug an inherited codebase\n\nDesirable\nExperience of working with statisticians\nA degree in a related discipline such as computer science, mathematics or statistics\n\nExperience with an array programming language such as R or Matlab would be an advantage but is not essential\nExperience in any of:  Java, C++,-/- C#, Python,\nExperience of developing Web applications & Web Services\nExperience of managing a Linux server\n\nAbility to resolve relatively complex issues and manage change\nExperience of project management and team management\n\nHow to Apply:\nTo apply on-line please visit: www.dundee.ac.uk/jobs<http://www.dundee.ac.uk/jobs>.   Please quote reference number MDN0306.\n\nPotential applicants are encouraged to have an informal discussion about the post with Professor Helen Colhoun:  please email: m.z.mccann at dundee.ac.uk<mailto:m.z.mccann at dundee.ac.uk>\n\nThe University of Dundee is committed to equal opportunities and welcomes applications from all sections of the community.\n\n\n\n\nThe University of Dundee is a registered Scottish Charity, No: SC015096\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Grade:                 Grade 7 - 8 depending on experience and skills\nSalary range:        Grade 7 (spine point 29; ?29,099)  up to grade 8 (point 40; ?40,280)\nDuration of Post:    Two years in the fi",
+      "thread_id": "thread-60334aa25847",
+      "thread_depth": 0,
+      "month": "2012-03"
+    },
+    {
+      "id": "msg-60298b19f447",
+      "message_id": "<BF0CC331BAA07E448AD65CA6E4232015016FDB4F@EUR-COLOEMBX01.allegisgroup.com>",
+      "from_name": "Lindenbergh, Ilse",
+      "from_email_hash": "8b091aa12af20e145f47ead920bae2415fe17c783cb72c5bd7e8e6d336f1bb81",
+      "date": "2012-03-27T17:40:12+01:00",
+      "subject": "[R-jobs] R Specialist for an insurance company in Amsterdam",
+      "subject_clean": "[R-jobs] R Specialist for an insurance company in Amsterdam",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are searching for an R developer who is familiar with Java, for a big insurance company in Amsterdam.\nQualified candidate should have at least 2 years experience with R.\n\nJob requirements:\n-          Experienced R programmer with good Java experience\n-          Experience of Rapid Application Development\n-          Experience of R architecture and deployment\n-          Experience of developing applications which calls R and co-locating Java and R\n\nAre available for a new job opportunity and interested in this one? Please let me know.\n\nr-sig-jobs at r-project.org\n\nKind regards / Met vriendelijke groeten,\n\nIlse Lindenbergh\nAston Carter International, A Teksystems Company\nPart of the Allegis Group\n\nT:  +31 (0) 30 298 21 94\nE:  ilindenbergh at astoncarter.com\n\nGraadt van Roggenweg 328-334\nBlok D  - 3531 AH Utrecht\nThe Netherlands\n\n\n\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nAston Carter is now on Twitter, please follow us at http://twitter.com/aston_carter\n\nThis email and any files transmitted with it are confide...{{dropped:20}}",
+      "body_snippet": "We are searching for an R developer who is familiar with Java, for a big insurance company in Amsterdam.\nQualified candidate should have at least 2 years experience with R.\n\nJob requirements:\n-       ",
+      "thread_id": "thread-60298b19f447",
+      "thread_depth": 0,
+      "month": "2012-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-dff978499ffd",
+      "subject": "[R-jobs] R developer opportunity in a computational marketing startup",
+      "message_count": 2,
+      "participants": [
+        "Harsh"
+      ],
+      "started": "2012-03-02T16:20:36+05:30",
+      "last_reply": "2012-03-15T16:34:46+05:30",
+      "root_message_id": "msg-dff978499ffd"
+    },
+    {
+      "id": "thread-972b38816f81",
+      "subject": "[R-jobs] Job offer predoc/PhD position Medical University of Graz, Austria",
+      "message_count": 1,
+      "participants": [
+        "Prof. M. G. Schimek"
+      ],
+      "started": "2012-03-07T14:23:59+01:00",
+      "last_reply": "2012-03-07T14:23:59+01:00",
+      "root_message_id": "msg-972b38816f81"
+    },
+    {
+      "id": "thread-60334aa25847",
+      "subject": "[R-jobs] Job in Scotland - Analyst Programmer/Data Warehouse Manager",
+      "message_count": 1,
+      "participants": [
+        "Daniel Levin"
+      ],
+      "started": "2012-03-15T14:15:12+00:00",
+      "last_reply": "2012-03-15T14:15:12+00:00",
+      "root_message_id": "msg-60334aa25847"
+    },
+    {
+      "id": "thread-60298b19f447",
+      "subject": "[R-jobs] R Specialist for an insurance company in Amsterdam",
+      "message_count": 1,
+      "participants": [
+        "Lindenbergh, Ilse"
+      ],
+      "started": "2012-03-27T17:40:12+01:00",
+      "last_reply": "2012-03-27T17:40:12+01:00",
+      "root_message_id": "msg-60298b19f447"
+    }
+  ]
+}

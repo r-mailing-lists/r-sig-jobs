@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2009-01",
+  "messages": [
+    {
+      "id": "msg-5fa47ea4ba7b",
+      "message_id": "<Pine.LNX.4.64.0901041553520.17731@homer23.u.washington.edu>",
+      "from_name": "Ka Yee Yeung",
+      "from_email_hash": "2ae69f41f6cc1a62bec0729ba89bcdf0b9536c51d864db64361772cff4c1a5c7",
+      "date": "2009-01-04T15:56:16-08:00",
+      "subject": "[R-jobs] postdoc position in computational biology",
+      "subject_clean": "[R-jobs] postdoc position in computational biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "A postdoctoral fellow position in computational biology will be available \nstarting June 1 2009 at University of Washington, Seattle, WA.  The \ncandidate will join  a multi-disciplinary group working on edge-cutting \nresearch problems in computational biology.\n\nJob Description\nWe seek a highly motivated and diligent researcher at the early stage of \nacademic career with the ability to carry out research projects independently. \nThe position will provide the opportunity to contribute to gene expression \nanalysis, biomarker discovery, proteomics analysis, statistical genomics and \nnetwork construction.  This position will be funded from a 5-year NIH basic \nresearch grant that started in Fall 2008. The successful candidate will \nwork with a team of multi-disciplinary investigators at University of \nWashington (including Dr. Roger Bumgarner in biotechnology/genomics, Dr. \nAdrian Raftery in statistics, and Dr. Ka Yee Yeung in computational \nbiology).  The candidate will be expected to participate in data \nanalysis, algorithm and software development, to work cooperatively with \ncollaborators, to actively publish and present results, and other duties \nas required.  The applicant must have a Ph.D. in biostatistics, \nstatistics, computer science, computational biology or any physical \nsciences with a strong background in mathematics and computing. The \napplicant is also expected to demonstrate excellent programming skills to solve \ncomplex research problems.\n\nLocation\nSeattle, WA in the Pacific Northwest is widely considered to be one of the top \nUS cities for young professionals.  Seattle offers residents a mild climate, a \nmultitude of cultural activities, several professional sports teams, superb \ncuisine and outdoor activities including cycling, hiking, skiing, snowboarding, \nboating etc.\n\nApplication\nInterested candidates should send the following materials to Dr. Ka Yee Yeung \n(kayee at u.washington.edu):\n* A cover letter highlighting your background and relationship to this position\n* A Curriculum Vitae (CV)\n* The names and contact details of at least three references.\n\nThe review of applications will begin immediately and will continue until the \nposition is filled.  Under-represented minorities are especially encouraged to \napply.",
+      "body_snippet": "A postdoctoral fellow position in computational biology will be available \nstarting June 1 2009 at University of Washington, Seattle, WA.  The \ncandidate will join  a multi-disciplinary group working ",
+      "thread_id": "thread-5fa47ea4ba7b",
+      "thread_depth": 0,
+      "month": "2009-01"
+    },
+    {
+      "id": "msg-ff3f8e4553dd",
+      "message_id": "<4975F513.4040802@falw.vu.nl>",
+      "from_name": "Hans van Beek",
+      "from_email_hash": "5eac28b2c9fe433fbecaabeb7c3c02c28aa117a94b95b5ebaf60a0665adccbdf",
+      "date": "2009-01-20T17:00:19+01:00",
+      "subject": "[R-jobs] vacancy postdoc computational systems biology - Amsterdam",
+      "subject_clean": "[R-jobs] vacancy postdoc computational systems biology - Amsterdam",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Postdoc Position Computational Systems Biology\n'Systems Bioinformatics: Computational Modelling Methods' f/m\n*\n\n*\nVU University Amsterdam, the Netherlands\n*\n\n*Research project *\n\nThe goal of the project is to develop and implement computer methods for \ncomputational modelling of biological systems. This encompasses methods \nfor computational model assembly, execution, analysis and parameter \nestimation. This means collaboration with several experimental groups \nwhich work among others on metabolism in micro-organisms, animals and \nhumans, on plant biology, nutrition and disease processes such as \ncancer. We also interact with the mathematical modelling group of the \nNetherlands Institute for Systems Biology. In this way this project is \npart of the core activity in Dutch systems biology.\n\nThe project focuses on developing and implementing computational methods \ngenerically useful for computational modelling of biological systems. \nThis encompasses computational model assembly, modification, \nmaintenance, execution, simulation, optimisation, parameter estimation \netc. Parameter sensitivity spectrum analysis, ensemble simulation, \nmodel-based data analysis techniques, multiscale modelling, \n'e-BioScience' approaches and data assimilation methods may be part of \nthe project. Demonstration of the effectiveness of developed methods by \napplication to modelling of some of the example biological systems is \ndesirable.\n\nThis Systems Bioinformatics project is funded by The Netherlands \nConsortium for Systems Biology (NCSB) and in total involves six Dutch \nbioinformatics centres. In addition, the Systems Bioinformatics group is \npart of the BioAssist programme of the Netherlands Bioinformatics \nCentre. The VU group coordinates the six centres involved in the Systems \nBioinformatics project. The Postdoc plays an active role in coordination \nof the project with the bioinformatic and experimental partners.\n\nFurther information:\nsee website : \nhttp://www.vu.nl/nl/werken-bij-de-vu/vacatures/1-2008-00278.asp\n\n-- \nHans van Beek\n\nADDRESS :\nSection Medical Genomics\nDepartment of Clinical Genetics\nVU University Medical Centre\n\nPhone: +31 20 5987460\n\nContact details:\nDr JHGM van Beek\n\nMail address:\nvan der Boechorststraat 7\n1081 BT Amsterdam\nThe Netherlands\n\nVisiting address:\nFaculty of Earth and Life Sciences (W&N building)\nDe Boelelaan 1085\nAmsterdam\nRoom B-423\n\nhttp://vumc.nl; http://ibivu.nl; http://home.hccnet.nl/jhgm.van.beek\ne-mail: hans.van.beek at falw.vu.nl\nsecondary e-mail: hans.vanbeek at vumc.nl (checked infrequently)\n\nFOR YOUR INTEREST\nfreely downloable scientific article on dynamics of energy conversion in the heart :\nClick http://home.hccnet.nl/jhgm.van.beek/prod02.htm#download\n  and click on \"Freely downloable article in American Journal of Physiology\"\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Postdoc Position Computational Systems Biology\n'Systems Bioinformatics: Computational Modelling Methods' f/m\n*\n\n*\nVU University Amsterdam, the Netherlands\n*\n\n*Research project *\n\nThe goal of the proj",
+      "thread_id": "thread-ff3f8e4553dd",
+      "thread_depth": 0,
+      "month": "2009-01"
+    },
+    {
+      "id": "msg-1b16fbdb2eec",
+      "message_id": "<20090121170651.svwf4owxkr4cg8s0@webmail.embl.de>",
+      "from_name": "deihomme m@iii@g oii embi@de",
+      "from_email_hash": "c6b113d3486298c98470dfc157014baf695763fc01351272b9a8c47c2a590bd3",
+      "date": "2009-01-21T17:06:51+01:00",
+      "subject": "[R-jobs] EMBL Heidelberg seeks a Bioinformatician / Data Analyst",
+      "subject_clean": "[R-jobs] EMBL Heidelberg seeks a Bioinformatician / Data Analyst",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\nMight be interesting for some of you:\n\nBioinformatician / Data Analyst\n\nGrade: 5 or 6, depending on experience\n\nEMBL site: EMBL Heidelberg\n\nCommencing date: As sooon as possible, after closing date (28 February 2009)\n\nJob description: EMBL is seeking for a Bioinformatician / Data Analyst in its\nefforts to build an expanded analysis-infrastructure for next-generation\nsequencing data. The successful candidate will primarily be involved in\nprocessing large-scale DNA sequencing data and in building analysis pipelines\nfor such data, as a service for the EMBL research community. The person may\nalso participate in the scientific development of new approaches for\nlarge-scale data analysis. The successful candidate will be associated with the\nGenomics Core Facility (Vladimir Benes) and with Jan Korbel?s EMBL Research\nGroup pioneering new applications and analysis approaches for next-generation\nsequencing. The work will be carried out in an international and highly\ncollaborative environment at the cutting edge of science, with a primary focus\non service and the possibility to contribute to a range of research projects at\nEMBL.\n\nMore details there:\n\nhttp://www-db.embl.de/jss/servlet/de.embl.bk.emblGroups.JobsPage/09011.html\n\nCheers,\n\nN.",
+      "body_snippet": "Hello,\n\nMight be interesting for some of you:\n\nBioinformatician / Data Analyst\n\nGrade: 5 or 6, depending on experience\n\nEMBL site: EMBL Heidelberg\n\nCommencing date: As sooon as possible, after closing",
+      "thread_id": "thread-1b16fbdb2eec",
+      "thread_depth": 0,
+      "month": "2009-01"
+    },
+    {
+      "id": "msg-347fb659b310",
+      "message_id": "<B972DDB6-BCDE-40A3-9405-B4BA7E6F6B3C@ucalgary.ca>",
+      "from_name": "Tyler Williamson",
+      "from_email_hash": "91c4888efff8df6c9fbd5cff9d865f0e27a478c344f6a01dcbf87468ce7418bd",
+      "date": "2009-01-22T16:23:02-07:00",
+      "subject": "[R-jobs] R Programmer - Calgary",
+      "subject_clean": "[R-jobs] R Programmer - Calgary",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello All,\n\nWe are in ned of an R programmer for a project in Calgary, Alberta,  \nCanada.  We need the person to be local as the project involves  \ncoordination of a series of experts.  The project is only about 150  \nhours.  The ideal candidate will be an experienced R programmer who is  \navailable immediately.  Please contact me for further details or if  \nyou know of someone that might be a suitable candidate.  A referral  \nfee of $200 will be given if your referral is chosen.\n\nCheers,\nTyler\ntswillia at ucalgary.ca",
+      "body_snippet": "Hello All,\n\nWe are in ned of an R programmer for a project in Calgary, Alberta,  \nCanada.  We need the person to be local as the project involves  \ncoordination of a series of experts.  The project is",
+      "thread_id": "thread-347fb659b310",
+      "thread_depth": 0,
+      "month": "2009-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-5fa47ea4ba7b",
+      "subject": "[R-jobs] postdoc position in computational biology",
+      "message_count": 1,
+      "participants": [
+        "Ka Yee Yeung"
+      ],
+      "started": "2009-01-04T15:56:16-08:00",
+      "last_reply": "2009-01-04T15:56:16-08:00",
+      "root_message_id": "msg-5fa47ea4ba7b"
+    },
+    {
+      "id": "thread-ff3f8e4553dd",
+      "subject": "[R-jobs] vacancy postdoc computational systems biology - Amsterdam",
+      "message_count": 1,
+      "participants": [
+        "Hans van Beek"
+      ],
+      "started": "2009-01-20T17:00:19+01:00",
+      "last_reply": "2009-01-20T17:00:19+01:00",
+      "root_message_id": "msg-ff3f8e4553dd"
+    },
+    {
+      "id": "thread-1b16fbdb2eec",
+      "subject": "[R-jobs] EMBL Heidelberg seeks a Bioinformatician / Data Analyst",
+      "message_count": 1,
+      "participants": [
+        "deihomme m@iii@g oii embi@de"
+      ],
+      "started": "2009-01-21T17:06:51+01:00",
+      "last_reply": "2009-01-21T17:06:51+01:00",
+      "root_message_id": "msg-1b16fbdb2eec"
+    },
+    {
+      "id": "thread-347fb659b310",
+      "subject": "[R-jobs] R Programmer - Calgary",
+      "message_count": 1,
+      "participants": [
+        "Tyler Williamson"
+      ],
+      "started": "2009-01-22T16:23:02-07:00",
+      "last_reply": "2009-01-22T16:23:02-07:00",
+      "root_message_id": "msg-347fb659b310"
+    }
+  ]
+}

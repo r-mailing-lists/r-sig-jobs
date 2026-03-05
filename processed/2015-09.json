@@ -1,0 +1,55 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-09",
+  "messages": [
+    {
+      "id": "msg-0ebd040938a0",
+      "message_id": "<CA+n2EmXAqAmKNs5Eq4t0-ost_LxBVSGipnfApEm99KGxaJmuKA@mail.gmail.com>",
+      "from_name": "Ravi Kumar",
+      "from_email_hash": "156a37b25a15468276a581c5448ec3c8b580fc3a38e9324f6e2973dbd9ea6d43",
+      "date": "2015-09-20T09:23:16+05:30",
+      "subject": "[R-jobs] Career",
+      "subject_clean": "[R-jobs] Career",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\nI am a student  of electrical engineering at Indian Institute of\nTechnology, but I am inclined more towards quantitative finance. I don't\nlike reading course books and find myself always learning financial maths\nand other finance related stuff.\nI don't know if this is the write place to ask this question but anyway, I\nwas wondering, if I have the necessary skills required for quants but don't\nhave good GPA. Would I be able to land a job in quantitative finance?\n\nThank You\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\nI am a student  of electrical engineering at Indian Institute of\nTechnology, but I am inclined more towards quantitative finance. I don't\nlike reading course books and find myself always learni",
+      "thread_id": "thread-0ebd040938a0",
+      "thread_depth": 0,
+      "month": "2015-09"
+    },
+    {
+      "id": "msg-5768eec1b555",
+      "message_id": "<CAJ9CoWmjF0kqfAW3X3bmC1jSQirGntDzFm=qZxr7-VP0MrmzNg@mail.gmail.com>",
+      "from_name": "Max Kuhn",
+      "from_email_hash": "55e9714199e58e5463418cf3ee867dcf1427b8f1a366384b939bdc27824fe53d",
+      "date": "2015-09-20T12:41:32-04:00",
+      "subject": "[R-jobs] Career",
+      "subject_clean": "[R-jobs] Career",
+      "in_reply_to": "<CA+n2EmXAqAmKNs5Eq4t0-ost_LxBVSGipnfApEm99KGxaJmuKA@mail.gmail.com>",
+      "references": [
+        "<CA+n2EmXAqAmKNs5Eq4t0-ost_LxBVSGipnfApEm99KGxaJmuKA@mail.gmail.com>"
+      ],
+      "body_plain": "It's not. This is a Special Interest Group (SIG) for job postings related\nto R programming.\n\nI'm not sure where the best place would be to make you inquiry but I wish\nyou luck.\n\nThanks,\n\nMax\n\nOn Sat, Sep 19, 2015 at 11:53 PM, Ravi Kumar <kumarravi1165 at gmail.com>\nwrote:\n\n> Hello,\n> I am a student  of electrical engineering at Indian Institute of\n> Technology, but I am inclined more towards quantitative finance. I don't\n> like reading course books and find myself always learning financial maths\n> and other finance related stuff.\n> I don't know if this is the write place to ask this question but anyway, I\n> was wondering, if I have the necessary skills required for quants but don't\n> have good GPA. Would I be able to land a job in quantitative finance?\n>\n> Thank You\n>\n>         [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-jobs mailing list\n> R-sig-jobs at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "It's not. This is a Special Interest Group (SIG) for job postings related\nto R programming.\n\nI'm not sure where the best place would be to make you inquiry but I wish\nyou luck.\n\nThanks,\n\nMax\n\nOn Sat, ",
+      "thread_id": "thread-0ebd040938a0",
+      "thread_depth": 1,
+      "month": "2015-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0ebd040938a0",
+      "subject": "[R-jobs] Career",
+      "message_count": 2,
+      "participants": [
+        "Max Kuhn",
+        "Ravi Kumar"
+      ],
+      "started": "2015-09-20T09:23:16+05:30",
+      "last_reply": "2015-09-20T12:41:32-04:00",
+      "root_message_id": "msg-0ebd040938a0"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-03",
+  "messages": [
+    {
+      "id": "msg-bbc8143a0869",
+      "message_id": "<CANUb+YatA7S4MB=mop0BG6YuvQa1np=TyatrggwoeXwTmm-BLA@mail.gmail.com>",
+      "from_name": "vwaltz .",
+      "from_email_hash": "df56e00d1f0a2e59defe4db05259145a503b5fa60c138852f23220e954661166",
+      "date": "2015-03-15T08:10:25-04:00",
+      "subject": "[R-jobs] Internship opportunities at Novartis Integrated Quantitative Sciences",
+      "subject_clean": "[R-jobs] Internship opportunities at Novartis Integrated Quantitative Sciences",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Multiple internship opportunities at Novartis Integrated Quantitative\nSciences are available for outstanding graduate students. Positions include:\n\nA. Decision Support Tool: Under guidance, build a live real-world decision\nsupport tool for users.  Requirements: Facility with R/Shiny and\nJavascript; statistical or operational modeling.  Relational databases and\nLinux shell scripting are desirable.  Must be thorough, committed to\ncompletion and willing to rapidly learn tools as needed.\n\nB. Bayesian modeling tools with Stan:  Create re-usable tools for the\nBayesian modeling of pharmacometrics data that can integrate diverse data\nsources (including pre-clinical, in-silico model predictions, etc.).  Using\nthe latest Stan?s facilities (http://mc-stan.org) develop\ntemplates/functions for compartmental PK models and indirect response PK/PD\nmodels.  Produce documentation in the form of a modeling report and a\npresentation.  Requirements:  Second or third year PhD student in\n(bio)statistics, machine learning, computer science, engineering or related\ndiscipline.  Strong computing background, including R experience (ideally\nalready familiar with Stan and/or C/C++).  Familiarity with basic Bayesian\ninference and software.\n\nHow to Apply:  For these and other positions apply directly at\nhttp://www.novartis.com/careers/job-search/index.shtml\nSearch and apply separately to positions 161931BR and to 161524BR\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Multiple internship opportunities at Novartis Integrated Quantitative\nSciences are available for outstanding graduate students. Positions include:\n\nA. Decision Support Tool: Under guidance, build a li",
+      "thread_id": "thread-bbc8143a0869",
+      "thread_depth": 0,
+      "month": "2015-03"
+    },
+    {
+      "id": "msg-e4f12411869d",
+      "message_id": "<550810EF.9040405@uct.ac.za>",
+      "from_name": "Paolo Denti",
+      "from_email_hash": "e74e7ebb90bcc6d7d3411b4804669908111ba6e97d4d33bcff6136937407c060",
+      "date": "2015-03-17T13:33:03+02:00",
+      "subject": "[R-jobs] Postdoc in Pharmacometrics at the University of Cape Town",
+      "subject_clean": "[R-jobs] Postdoc in Pharmacometrics at the University of Cape Town",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nat the Division of Clinical Pharmacology at the University of Cape Town\n(South Africa) we are looking for highly motivated science/engineering\nPhD graduates to join our pharmacometrics group as a post-doctoral fellow.\n\nPharmacometrics is an emerging discipline that applies mathematical\nmodelling and simulation to pharmacology, aiding the interpretation of\ndata from clinical trials, helping decision making, and improving study\ndesign.\nThis fellowship is a great opportunity for a scientist in quantitative\nsciences to apply their expertise within the framework of biomedical\nresearch, and pharmacometrics is a highly-sought set of professional\nskills either in academia or in the pharmaceutical industry.\n\nOur division has established clinical and\npharmacokinetic/pharmacodynamic expertise in the area of tuberculosis,\nHIV, and malaria. The pharmacometrics group within the division is\nactive internationally and supported by on-going collaborations with\nsome of the most renowned modelling groups worldwide.\n\nWhat you need:\nA PhD in engineering, physics, mathematics or (bio-)statistics obtained\nwithin the past 5 years.\nOR a PhD in biological sciences AND evidence of keen interest and\nproficiency towards the quantitative side of the subject.\nExperience with computer programming (e.g. R, Matlab, C++) and data\nanalysis. Previous experience in pharmacometrics (e.g. NONMEM, Monolix)\nwould be advantageous, but not essential.\nA good command of English, passion about scientific research, and the\nability to work within a team.\n\nWhat we offer:\nMentorship and guidance to learn pharmacometrics (although the candidate\nis expected to do a fair amount of self-learning).\nA range of research projects, mainly in the area of PK/PD of TB/HIV, and\nmalaria.\nA generous scholarship renewable for up to 3 years.\nThe chance of living in the beautiful Mother City of Africa :)\nhttps://www.google.com/search?q=cape+town&rlz=1C1MSIM_enZA595ZA595&es_sm=93&source=lnms&tbm=isch&sa=X&ei=-eMHVaDhEobbatrdgLAM&ved=0CAgQ_AUoAg&biw=1920&bih=1017\n\nFor more details (please take notice of all the conditions of the award):\nhttp://www.clinpharm.uct.ac.za/wp-content/uploads/2015/03/Pharmacometrics-postdoc-Official-UCT1.pdf\n\nTo apply, please email paolo.denti at uct.ac.za with your CV and a letter\nof motivation by no later than March 31st\n\nPaolo\n\n--\n------------------------------------------------\nPaolo Denti, PhD\nPharmacometrics Group\nDivision of Clinical Pharmacology\nDepartment of Medicine\nUniversity of Cape Town\n\nK45 Old Main Building\nGroote Schuur Hospital\nObservatory, Cape Town\n7925 South Africa\nphone: +27 21 404 7719\nfax: +27 21 448 1989\nemail: paolo.denti at uct.ac.za\n------------------------------------------------\n\n________________________________\n UNIVERSITY OF CAPE TOWN\n\nThis e-mail is subject to the UCT ICT policies and e-mai...{{dropped:9}}",
+      "body_snippet": "Dear all,\nat the Division of Clinical Pharmacology at the University of Cape Town\n(South Africa) we are looking for highly motivated science/engineering\nPhD graduates to join our pharmacometrics group",
+      "thread_id": "thread-e4f12411869d",
+      "thread_depth": 0,
+      "month": "2015-03"
+    },
+    {
+      "id": "msg-f7fda02cfc5d",
+      "message_id": "<00d101d06164$d584d2e0$808e78a0$@tack@beeatwork.be>",
+      "from_name": "Veronique,Tack",
+      "from_email_hash": "4eda7a94d669b1b4ee2b85bc51a9577b0e25edafeaaade3fdb1af9d8b4d99a4e",
+      "date": "2015-03-18T11:18:09+01:00",
+      "subject": "[R-jobs] vacancy for R Programmer - Thanks for the publication",
+      "subject_clean": "[R-jobs] vacancy for R Programmer - Thanks for the publication",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Figures To Facts is currently looking for an R Programmer\n\n \n\nFigures To Facts is a company specialized in BI dashboard and report\ncreation on sales and marketing data.\n\nWe are a small but fast growing company, working for the largest Fast Moving\nConsumer Goods enterprises in the world.\n\n\nWe are currently looking for an R programmer, who will become responsible\nfor the complete 'data environment' in our company.\n\nMain responsibilities:\n\n\n\n-    You will create new functions in R for New Business Development\npurposes;\n-    You will maintain and create databases in SQL (SQLite, ProgreSQL) based\non multiple data sources;\n-   You will structurally perform data quality checks to ensure data\nintegrity;\n\n-   You will create and maintain web scraping programs;\n-   You will update and/or improve existing functions in R;\n-   You will optimize and extend a report system created in a Web Based\nEnvironment;\n\nRequired:\n\nProgramming Skills:\n\n* Thorough knowledge of efficient programming in R;\n* Thorough knowledge of handling SQLite, ProgreSQL, Ubuntu and RApache;\n* Aptitude in programming and data analysis in order to develop tools for\nmanipulating, managing and analyzing data;\n* Knowledge of Phyton for web scraping purposes;\n\n \n\nVery nice to have:\n* Knowledge/interest of statistics and econometrics;\n\n* Knowledge/interest in excel programming by VBA;\n\n\nPersonal Skills:\n\n* You are a dynamic team player who works efficiently and in a structured\nway;\n\n* You are client focused and you like to communicate with customers;\n* You are operational within a short period of time;\n\n\nOffer:\n\nCompetitive reward\nContract type to be discussed\nFreelance offers will not be retained\n\nFigures to Facts offices are located in Belgium, Ninove (+/- 25km from\nBrussels).\n\n\n\n \n\nInterested? Don't hesitate to send a statement of interest and CV to\n <mailto:veronique.tack at beeatwork.be> veronique.tack at beeatwork.be.  Mention\nFIGURES TO FACTS in the subject.\n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Figures To Facts is currently looking for an R Programmer\n\n \n\nFigures To Facts is a company specialized in BI dashboard and report\ncreation on sales and marketing data.\n\nWe are a small but fast growin",
+      "thread_id": "thread-f7fda02cfc5d",
+      "thread_depth": 0,
+      "month": "2015-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-bbc8143a0869",
+      "subject": "[R-jobs] Internship opportunities at Novartis Integrated Quantitative Sciences",
+      "message_count": 1,
+      "participants": [
+        "vwaltz ."
+      ],
+      "started": "2015-03-15T08:10:25-04:00",
+      "last_reply": "2015-03-15T08:10:25-04:00",
+      "root_message_id": "msg-bbc8143a0869"
+    },
+    {
+      "id": "thread-e4f12411869d",
+      "subject": "[R-jobs] Postdoc in Pharmacometrics at the University of Cape Town",
+      "message_count": 1,
+      "participants": [
+        "Paolo Denti"
+      ],
+      "started": "2015-03-17T13:33:03+02:00",
+      "last_reply": "2015-03-17T13:33:03+02:00",
+      "root_message_id": "msg-e4f12411869d"
+    },
+    {
+      "id": "thread-f7fda02cfc5d",
+      "subject": "[R-jobs] vacancy for R Programmer - Thanks for the publication",
+      "message_count": 1,
+      "participants": [
+        "Veronique,Tack"
+      ],
+      "started": "2015-03-18T11:18:09+01:00",
+      "last_reply": "2015-03-18T11:18:09+01:00",
+      "root_message_id": "msg-f7fda02cfc5d"
+    }
+  ]
+}

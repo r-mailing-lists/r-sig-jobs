@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2007-09",
+  "messages": [
+    {
+      "id": "msg-1e2cdc46c0c7",
+      "message_id": "<BAA35444B19AD940997ED02A6996AAE005C0F325@sanmail.picr.man.ac.uk>",
+      "from_name": "Crispin Miller",
+      "from_email_hash": "b75838e507e34fb1a030b504c271cb86eda591beea528ad9dee1aa2710c51ec1",
+      "date": "2007-09-30T13:02:41+01:00",
+      "subject": "[R-jobs] Postdoc position, Manchester UK",
+      "subject_clean": "[R-jobs] Postdoc position, Manchester UK",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n \nWe are seeking a postdoctoral scientist to join the Applied\nComputational Biology and Bioinformatics group at the Paterson Institute\nfor Cancer Research. The role will be to develop novel approaches for\nthe analysis of high throughput genomic data, such as those arising from\nAffymetrix microarray experiments. \n \nWe are an interdisciplinary team that brings together skills in computer\nscience, biology and mathematics, and are focused on the development and\napplication of bioinformatics tools to support the interpretation of\ncomplex datasets (see, for example, http://xmap.picr.man.ac.uk ). The\nideal candidate will be excited by the interface between computer\nscience, mathematics and biology, and will have a strong desire to see\ntheir work applied directly in collaboration with both bench-scientists\nand clinicians. Significant programming experience is a pre-requisite\nand applications from candidates with strong R programming skills are\nparticularly encouraged.\n \nFull details are here:\nhttp://www.paterson.man.ac.uk/jobs/viewjob.asp?Job=PI/07/20\n \nregards\nCrispin\n \n--------------------------------------------------------\n\n\nThis email is confidential and intended solely for the use o...{{dropped}}",
+      "body_snippet": "Hi,\n \nWe are seeking a postdoctoral scientist to join the Applied\nComputational Biology and Bioinformatics group at the Paterson Institute\nfor Cancer Research. The role will be to develop novel approa",
+      "thread_id": "thread-1e2cdc46c0c7",
+      "thread_depth": 0,
+      "month": "2007-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-1e2cdc46c0c7",
+      "subject": "[R-jobs] Postdoc position, Manchester UK",
+      "message_count": 1,
+      "participants": [
+        "Crispin Miller"
+      ],
+      "started": "2007-09-30T13:02:41+01:00",
+      "last_reply": "2007-09-30T13:02:41+01:00",
+      "root_message_id": "msg-1e2cdc46c0c7"
+    }
+  ]
+}

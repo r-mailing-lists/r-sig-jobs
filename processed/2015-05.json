@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-05",
+  "messages": [
+    {
+      "id": "msg-ab4e77004bbc",
+      "message_id": "<555DD462.8030203@ufz.de>",
+      "from_name": "Jula Zimmermann",
+      "from_email_hash": "ef8a8fd73ab2a153bce5a262a4053aed67261f32d43f4d8380f9ab9085918291",
+      "date": "2015-05-21T14:49:38+02:00",
+      "subject": "[R-jobs] Position on statistical teaching and consulting - Helmholtz Centre for Environmental Research in Leipzig, Germany",
+      "subject_clean": "[R-jobs] Position on statistical teaching and consulting - Helmholtz Centre for Environmental Research in Leipzig, Germany",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Helmholtz Centre for Environmental Research ? UFZ in Leipzig, Germany\ninvites applications for a position on\n**Statistical Consulting, Teaching and Coordination**\nto commence as soon as possible, working time: 100% (39 hours per week),\ninitially limited to 2 years (extension to permanent employment possible)\nFor more information please see: https://www.ufz.de/index.php?de=11426\n\n\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The Helmholtz Centre for Environmental Research ? UFZ in Leipzig, Germany\ninvites applications for a position on\n**Statistical Consulting, Teaching and Coordination**\nto commence as soon as possible, ",
+      "thread_id": "thread-ab4e77004bbc",
+      "thread_depth": 0,
+      "month": "2015-05"
+    },
+    {
+      "id": "msg-12ab763d406e",
+      "message_id": "<5567156F.5010500@fao.org>",
+      "from_name": "Joshua Browning",
+      "from_email_hash": "44335ee9cc6e873794ad3959618f0cca0666c0c83754f03992dd85d4b48fff9a",
+      "date": "2015-05-28T15:17:35+02:00",
+      "subject": "[R-jobs] Statistician for The Food and Agriculture Organization of the UN in Rome, Italy",
+      "subject_clean": "[R-jobs] Statistician for The Food and Agriculture Organization of the UN in Rome, Italy",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Job Description:\n\nThe Food and Agriculture Organization of the United Nations based in \nRome is seeking a talented statistician to join the Statistics division.\n\nWe value people with technical skills, and in particular individuals who \nare able to translate numbers to actions and to make an impact on the world.\n\nIn this role, you will be:\n-?? Developing R methods in collaboration with FAO statisticians from \nvarious domains (Fisheries, Forestry, Agriculture)\n-?? Devising and applying test cases for those methods\n-?? Developing R code that adheres to FAO R coding standards\n-?? Integrating R packages to the in-house analytical system\n\nThe ideal candidate will have the following background and skills:\n-?? A graduate degree in Statistics, Mathematics or Science-related \ndiscipline with a strong emphasis in quantitative applications, \nexperience or knowledge of imputation methodology is a plus.\n-?? 3+ years of professional experience with proven achievements \nresulting from analyses.\n-?? Extensive and all around knowledge of R.\n-?? High degree of self-motivation.\n-?? Comfortable with databases.\n-?? Strong ability to communicate theories and results.\n\nNice to have:\n-?? Experience with agriculture or trade statistics.\n-?? Knowledge of agriculture, poverty or rural development.\n-?? Experience with tools for reproducibility \n(https://github.com/jtleek/rpackages)\n-?? Creative data visualization.\n-?? Machine learning, spatial analysis, NLP, network analysis, etc.\n\nHow to apply:\nIf you are interested in this opportunity, please respond privately \ntojoshua.browning at fao.orgwith you CV and any relevant material such as \ncodes snippets on Github.\n\n-- \nJoshua Browning\nStatistician\nFood and Agriculture Organization of the United Nations (FAO)\nViale delle Terme di Caracalla, 00153 Rome, Italy\nTel: +39 06 570 55142\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Job Description:\n\nThe Food and Agriculture Organization of the United Nations based in \nRome is seeking a talented statistician to join the Statistics division.\n\nWe value people with technical skills,",
+      "thread_id": "thread-12ab763d406e",
+      "thread_depth": 0,
+      "month": "2015-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-ab4e77004bbc",
+      "subject": "[R-jobs] Position on statistical teaching and consulting - Helmholtz Centre for Environmental Research in Leipzig, Germany",
+      "message_count": 1,
+      "participants": [
+        "Jula Zimmermann"
+      ],
+      "started": "2015-05-21T14:49:38+02:00",
+      "last_reply": "2015-05-21T14:49:38+02:00",
+      "root_message_id": "msg-ab4e77004bbc"
+    },
+    {
+      "id": "thread-12ab763d406e",
+      "subject": "[R-jobs] Statistician for The Food and Agriculture Organization of the UN in Rome, Italy",
+      "message_count": 1,
+      "participants": [
+        "Joshua Browning"
+      ],
+      "started": "2015-05-28T15:17:35+02:00",
+      "last_reply": "2015-05-28T15:17:35+02:00",
+      "root_message_id": "msg-12ab763d406e"
+    }
+  ]
+}

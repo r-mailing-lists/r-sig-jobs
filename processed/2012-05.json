@@ -1,0 +1,279 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2012-05",
+  "messages": [
+    {
+      "id": "msg-a6a517d45340",
+      "message_id": "<8F504BCABEEA4BCC9736E8AF50B6A95F@metrumrg.com>",
+      "from_name": "Jim Rogers",
+      "from_email_hash": "10f53b05afd479b619cda0009159c5823d52918feda9b201ed40fe4585e5232e",
+      "date": "2012-05-01T17:13:37-04:00",
+      "subject": "[R-jobs] Opening for a Data Programmer",
+      "subject_clean": "[R-jobs] Opening for a Data Programmer",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Opening for a Data Programmer (April 19, 2012)\n\nMetrum Research Group is seeking a full-time data programmer to support our biomedical modeling and simulation services. This is an excellent opportunity to develop as a data programmer while gaining exposure to cutting edge problems in the growing field of pharmacometrics. The individual will work as an integral member of our team, based in Tariffville, CT. We provide a full benefits package and salary is competitive. Professional development is supported.\n\nPrimary responsibilities:\n* Data set preparation and data quality control.\n* Exploratory data analysis.\n* Optimization and automation of data flow processes.\n* Code review.\n\nQualifications:\n* Bachelor's degree.\n* Connecticut residency required.\n* Substantial quantitative consulting and/or research experience is highly desirable, and is required if the applicant?s degree is not in a quantitative field.\n* Experience involving code management and/or data management and/or data analysis is required.\n* Substantive experience with the R (or S+) language is required. Experience with other high-level languages for scripting and/or data analysis (e.g. Matlab, Python, Perl) is desirable.\n* Experience with code versioning systems (e.g. Subversion) is highly desirable.\n* Experience with Amazon Web Services and/or parallel computing is desirable.\n* Excellent communication skills are required.\n* Excellent attention to detail is required.\n\n\nMetrum Research Group is a leading provider of biomedical modeling and simulation services in the U.S.A. and internationally. Founded in 2004, Metrum Research Group has worked with over 100 clients on more than 250 projects. Our experience spans R&D efforts for small molecule pharmaceuticals, biologic therapeutics, diagnostics, and medical device/drug-device combinations, across multiple therapeutic areas.\n\n\nPlease send resume to employment at metrumrg.com (mailto:employment at metrumrg.com) , including a brief cover letter in the body of the email. We prefer to hear directly from candidates. No recruiters please.\n\nJames A. Rogers, Ph.D.\nPrincipal Scientist, Statistics\nMetrum Research Group\nwww.metrumrg.com (http://www.metrumrg.com/)",
+      "body_snippet": "Opening for a Data Programmer (April 19, 2012)\n\nMetrum Research Group is seeking a full-time data programmer to support our biomedical modeling and simulation services. This is an excellent opportunit",
+      "thread_id": "thread-a6a517d45340",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-12d66f3e8ed0",
+      "message_id": "<4FA1146C.5050500@imm.ox.ac.uk>",
+      "from_name": "Francesca Buffa",
+      "from_email_hash": "06c8619309af33849a586caeb16dc456423b4dfb4565576abf94b1f1e45ff358",
+      "date": "2012-05-02T12:03:08+01:00",
+      "subject": "[R-jobs] Position available University of Oxford UK",
+      "subject_clean": "[R-jobs] Position available University of Oxford UK",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "//\n///Clinical Information Technology Research Assistant (102792)\n\nWe are looking for a Clinical Information Technology Research Assistant \nto work on the Oxford component of the EURECA FP7 project (Enabling \ninformation re-Use by linking clinical REsearch and CAre) \nhttp://eurecaproject.eu/partners.\n\nThe post-holder will be in the Oxford component of the EURECA project \nand will focus on achieving the deliverable of the project relating to \ncancers called sarcomas. By generating a bench to bedside rare cancer \nstrategy, the EURECA project will aim to define and solve the necessary \nsteps to achieve maximal health outputs for users, including patients, \nfamilies, researchers, pharmaceutical industry and healthcare providers.\n\nThe successful candidate will hold a PhD or equivalent in an Information \nTechnology subject plus further training or relevant experience. \nExperience with medical and clinical application of IT and an \nunderstanding of the electronic patient record semantics is essential as \nis a proven ability to work in multifunctional teams including clinical \ntrial organisations, establish relationships and serve as liaison with \nexpert opinion leaders in IT and bioinformatics. Knowledge in oncology \n(sarcoma) and advanced presentation and publication skills as shown by \ninternational meetings and/or publication record is desirable.\n\nAll applicants must complete a short online application form; upload a \nCV and supporting statement.\n\nFor more details visit:\n\nhttps://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=102792\n\nThe closing date for applications is 12.00 noon on Wednesday 23rd May 2012./\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "//\n///Clinical Information Technology Research Assistant (102792)\n\nWe are looking for a Clinical Information Technology Research Assistant \nto work on the Oxford component of the EURECA FP7 project (E",
+      "thread_id": "thread-12d66f3e8ed0",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-906331cb0f38",
+      "message_id": "<4FA114AA.2060804@imm.ox.ac.uk>",
+      "from_name": "Francesca Buffa",
+      "from_email_hash": "06c8619309af33849a586caeb16dc456423b4dfb4565576abf94b1f1e45ff358",
+      "date": "2012-05-02T12:04:10+01:00",
+      "subject": "[R-jobs] Clinical Information Technology Position available University of Oxford UK",
+      "subject_clean": "[R-jobs] Clinical Information Technology Position available University of Oxford UK",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "//\n///Clinical Information Technology Research Assistant (102792)\n\nWe are looking for a Clinical Information Technology Research Assistant \nto work on the Oxford component of the EURECA FP7 project (Enabling \ninformation re-Use by linking clinical REsearch and CAre) \nhttp://eurecaproject.eu/partners.\n\nThe post-holder will be in the Oxford component of the EURECA project \nand will focus on achieving the deliverable of the project relating to \ncancers called sarcomas. By generating a bench to bedside rare cancer \nstrategy, the EURECA project will aim to define and solve the necessary \nsteps to achieve maximal health outputs for users, including patients, \nfamilies, researchers, pharmaceutical industry and healthcare providers.\n\nThe successful candidate will hold a PhD or equivalent in an Information \nTechnology subject plus further training or relevant experience. \nExperience with medical and clinical application of IT and an \nunderstanding of the electronic patient record semantics is essential as \nis a proven ability to work in multifunctional teams including clinical \ntrial organisations, establish relationships and serve as liaison with \nexpert opinion leaders in IT and bioinformatics. Knowledge in oncology \n(sarcoma) and advanced presentation and publication skills as shown by \ninternational meetings and/or publication record is desirable.\n\nAll applicants must complete a short online application form; upload a \nCV and supporting statement.\n\nFor more details visit:\n\nhttps://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=102792\n\nThe closing date for applications is 12.00 noon on Wednesday 23rd May 2012./\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "//\n///Clinical Information Technology Research Assistant (102792)\n\nWe are looking for a Clinical Information Technology Research Assistant \nto work on the Oxford component of the EURECA FP7 project (E",
+      "thread_id": "thread-906331cb0f38",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-7a4820800bed",
+      "message_id": "<B24ACC312CFBF147A2CA27CC01DB6DA16484091BC5@USCTMXP51007.merck.com>",
+      "from_name": "Bahl, Amit",
+      "from_email_hash": "10bba1cdd4249b8406521ec30b21d5e197c66471ead56862c0aede22878b533a",
+      "date": "2012-05-02T10:13:08-04:00",
+      "subject": "[R-jobs] Data Mining Opportunities at Merck",
+      "subject_clean": "[R-jobs] Data Mining Opportunities at Merck",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Research Associate in the Applied Mathematics and Modeling group develops statistical models and computational solutions using large-scale data manipulation, statistical analyses, data mining, visualization, and related analytical techniques aimed at improving specific scientific and business decisions/processes.  Example project areas include manufacturing process improvement, portfolio planning, drug safety assessment, experimental design and analysis, biomarker discovery, and disease modeling.  The work is fast paced, innovative, and requires the efforts of a top tier data scientist.\n\nSee our job ad at KDNuggets for the details: http://www.kdnuggets.com/jobs/12/04-26-merck-research-associate-modeling.html\n\nIf you have the right skill set and are looking for challenging data mining problems, we would love to talk to you.   Apply today!\n\n----\nAmit Bahl, PhD\nSenior Research Associate\nMerck & Co.\nWest Point, PA\n\nNotice:  This e-mail message, together with any attachme...{{dropped:14}}",
+      "body_snippet": "The Research Associate in the Applied Mathematics and Modeling group develops statistical models and computational solutions using large-scale data manipulation, statistical analyses, data mining, vis",
+      "thread_id": "thread-7a4820800bed",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-82cf66696bfd",
+      "message_id": "<CAJQ--J4W9qZoh44GRguvOTe9WvAdbvwzLB2aZcenYDxqqyC=Yg@mail.gmail.com>",
+      "from_name": "Andy Fugard",
+      "from_email_hash": "f6be233f7090e01677ee861cf59cf78a5d5633cf0b900db4c86537a342de6745",
+      "date": "2012-05-08T12:31:18+01:00",
+      "subject": "[R-jobs] Mental Health Informatician",
+      "subject_clean": "[R-jobs] Mental Health Informatician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The CAMHS EBPU is a research and training unit that is part of  University\nCollege London (UCL) and the Anna Freud Centre (a registered charity\ndedicated to excellence in child and adolescent mental health). Within the\nunit sits the central team for the CAMHS Outcome Research Consortium (CORC)\n? a national collaboration between child and adolescent mental health\nservices (CAMHS) across the UK who contribute outcome data for central\nanalysis and reporting. The CORC central database currently has data on\nover 150,000 episodes of care. Full information on CORC can be found at:\nwww.corc.uk.net.\n\nThe post-holder?s role is to develop the central analysis and reporting\nprocesses at CORC, in particular: improving how we currently automate,\nperform statistical analyses of, and graphically present services? mental\nhealth data; liaising with current research initiatives which analyse the\nCORC dataset; analysing data from member sites and supporting colleagues\nwith analysis; liaising with member services; assisting in developing\nreports for services and visiting services to advise and discuss issues\narising as necessary, including on occasion making formal presentations.\n\nWe are looking for someone with a computer science and psychology\nbackground. You will be joining a small central team consisting of a\nproject director, a programme lead and data analyst, a senior research\nofficer, two research officers, a research assistant and two data\nassistants.\n\nThe post would suit an enthusiastic, creative, organised and self-motivated\nindividual who is interested in software development, data analysis, and\nwho cares about improving the quality of mental health provision. Prior\nexperience in mental health data analysis and/or work with databases is\ndesirable. The ability to work as part of a team, and have clarity of\ncommunication will be vital.\n\nThe post will be based at the Anna Freud Centre, 12 Maresfield Gardens,\nLondon, NW3 5SU.\n\nThe Anna Freud Centre values diversity and aims to have a workforce that\nreflects this. We encourage applications from all sections of the community.\n\nA full job description, person specification and application pack can be\ndownloaded from http://www.annafreud.org/jobs.php?id=324\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The CAMHS EBPU is a research and training unit that is part of  University\nCollege London (UCL) and the Anna Freud Centre (a registered charity\ndedicated to excellence in child and adolescent mental h",
+      "thread_id": "thread-82cf66696bfd",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-83fd68ea8c02",
+      "message_id": "<F9EE1A5193A03945BFE8C8B7BB74B3431F89FBAD@EXMBX04.austin.utexas.edu>",
+      "from_name": "Mahometa, Michael J",
+      "from_email_hash": "a3dcdce7233443abd02c7ecbf052cb535d8a0cab4113feb25a72a5c39e103e24",
+      "date": "2012-05-08T18:25:45Z",
+      "subject": "[R-jobs] Job posting - Statistical Consultant - Univ. of Texas at Austin",
+      "subject_clean": "[R-jobs] Job posting - Statistical Consultant - Univ. of Texas at Austin",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "All,\n\nJust to get the word out: We are looking for a new Statistical Consultant at the Division of Statistics and Scientific Computation here at the University of Texas at Austin. Please pass along to any colleagues who might be interested...\n\nStatistical Consultant\nPurpose of Position:\n\nProvide professional statistical consulting and instruction to UT faculty, staff and students. Apply knowledge of specialized statistical methodologies to research at an advanced level. Responsible for the direction and completion of research projects. Act as liaison officer between division and other academic units.\n\nEssential Functions:\n\nUnder the supervision of the consulting manager, determine the project requirements of contracting agencies, faculty, staff or students and develop procedures (consulting models/methods/strategies) to attain results. Provide 20 hours per week of advanced consulting services. In concert with the division director, direct curriculum development and statistical instruction for the division's short courses, introductory statistics courses and software instruction at the UT Summer Statistics Institute. Instruct consulting personnel on the methods and procedures for developing/documenting consulting policies and logs, producing data reports, updating web-based tutorials for statistical software, and promoting the division's consulting services. Maintain the division's web site resources for consulting, including FAQ's, resources and directions for seeking statistical assistance from the division. Research methodological topics to complete consultant duties.\n\nhttp://ssc.utexas.edu/people/employment\n\n\n\nThanks, Michael\n\n---------------------------------------------\nMichael J. Mahometa, Ph.D.\nManager, Consulting Services\nDivision of Statistics and Scientific?Computation\nCollege of Natural Sciences - G2500\nUniversity of Texas at Austin\n512.471.4542",
+      "body_snippet": "All,\n\nJust to get the word out: We are looking for a new Statistical Consultant at the Division of Statistics and Scientific Computation here at the University of Texas at Austin. Please pass along to",
+      "thread_id": "thread-83fd68ea8c02",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-7c0010fbcde6",
+      "message_id": "<CAByChX5TpMKikFQEKD53y4d2ky2zjyYUP=ba0aFFCB14HJnKxg@mail.gmail.com>",
+      "from_name": "Dilip Rajagopalan",
+      "from_email_hash": "4b7134af15a02306d1296078d18ce1cc094a5ac16d51f86451dd3ba262740277",
+      "date": "2012-05-10T18:20:56-04:00",
+      "subject": "[R-jobs] Analytics Opening at Health Market Science, suburban Philadelphia, USA",
+      "subject_clean": "[R-jobs] Analytics Opening at Health Market Science, suburban Philadelphia, USA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Health Market Science (HMS), located in King of Prussia, Pennsylvania,\nUSA has an opening for a statistician.   The responsibilities of this\nposition include research and new product development, and building\nclient deliverables involving complex analytical methods.? The\nposition will leverage the candidates? skills in data analysis to\ndrive value.\n\nPreferred educational background: ?MS with approx 3 yrs experience, or\nBS with approx 5 yrs experience in statistics or similar\ncomputational/quantitative science.\nClient or vendor side experience in healthcare industry ? either in\npharma/med device sector, or in payer/provider space.\nFamiliarity with medical claims data or Rx data is a plus.\n\nDesired technical skills:? one or more of:exploratory data analysis,\nability to work with and analyze very large datasets\nmachine learning/statistical analysis ? regression, predictive\nmodeling, clustering, classification, etc\n\nRequired tools:?statistical package like R/Splus/SAS,  SQL, experience\nwith Linux/Unix.\n\nSee full posting at\nhttp://www.healthmarketscience.com/about/careers/analytics-lead",
+      "body_snippet": "Health Market Science (HMS), located in King of Prussia, Pennsylvania,\nUSA has an opening for a statistician.   The responsibilities of this\nposition include research and new product development, and ",
+      "thread_id": "thread-7c0010fbcde6",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-1ac8340fd406",
+      "message_id": "<CA+qkPeacBgd=SOaCHbAWjRV9PdQ+=RONccOYLokQXpK2w_hMOQ@mail.gmail.com>",
+      "from_name": "Harsh",
+      "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
+      "date": "2012-05-16T15:33:12+05:30",
+      "subject": "[R-jobs] Data Scientist at LinkedIn (Bangalore, India)",
+      "subject_clean": "[R-jobs] Data Scientist at LinkedIn (Bangalore, India)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R Users,\nI am looking for a Data Scientist with 1-2 years experience preferably\nwith a background in Information Security\nAnalyze data at scale to derive insights by looking at user behavior\nin the context of (including but not limited to): Website Visits,\nSearch and API Usage.\nThe Data Scientist must understand use-cases of Fraud, Risk and Abuse\nas applied to a various functions associated with a large internet\nproperty in the Social Network space\nPosition based out of LinkedIn's center in Bangalore, India\nSkills:\nData Analysis, Machine Learning, Computer Security, Hive, Pig, SQL, R and Python\n\nIf you think your experience and skills are a good fit or if you can\ndemonstrate ability to meet the requirements then get in touch with\nHarsh via hsinghal AT linkedin.com with your most recent CV in PDF\nformat and a cover letter detailing why relevant experiences/projects\nand skills\n\nRegards,\nHarsh",
+      "body_snippet": "Dear R Users,\nI am looking for a Data Scientist with 1-2 years experience preferably\nwith a background in Information Security\nAnalyze data at scale to derive insights by looking at user behavior\nin t",
+      "thread_id": "thread-1ac8340fd406",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-4d9e2e1d33e2",
+      "message_id": "<CAF8n-bPQxUUuhyMaszQAiOXLq3zPXC8y08PesQAbo=MR5tk36w@mail.gmail.com>",
+      "from_name": "Laura Perovich",
+      "from_email_hash": "08680a6ca06d58c8132a25273e2943cac7f79fe51925c2c591df24216d51f6ca",
+      "date": "2012-05-23T16:27:31-04:00",
+      "subject": "[R-jobs] Research Assistant/Staff Scientist: Technology in Environmental Health (Boston, MA)",
+      "subject_clean": "[R-jobs] Research Assistant/Staff Scientist: Technology in Environmental Health (Boston, MA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Research Assistant/Staff Scientist: Technology in Environmental\nHealth (Silent Spring Institute; Boston, MA)\n\nSilent Spring Institute is a non-profit scientific research group studying\nthe environment and health. We are a multi-disciplinary team and\ninternational leader in research on everyday exposures to\nhormone disruptors, tests for breast carcinogens, and environmental links\nto breast cancer. We lead collaborative research teams that include\ntop computer scientists, statisticians, and other scientists at\nBrown, Harvard, UC Berkeley, and elsewhere.  We seek a research assistant\nor staff scientist with experience in computer science, data analysis,\nor mathematics and an interest in applying these skills to\nenvironmental health research.\n\nThe new researcher will work on projects that combine\ntechnology, environmental health science, and social science. For\nexample, researchers nationally are struggling to develop meaningful ways to\nreport to study participants on the levels of emerging\ncontaminants detected in their own body or home. Our unique team of\nenvironmental health scientists, social scientists, and human-computer\ninteraction experts is designing a digital interface that we expect will\nbecome the standard for reporting results in biomonitoring and\nexposure studies. We will first develop and test the interface for\nreporting personal pesticide exposures to residents of Boston public\nhousing.\n\nResponsibilities: This position requires versatility in support of\nthe Institute?s transdisciplinary research. It reports to the\nexecutive director and affords a bird?s-eye-view of research in human\ncomputer interaction, environmental health science, and community\nengaged research.\n\nExamples of activities:\n*Help design an interactive digital reporting system for\npersonal environmental exposures.\n*Conduct data management and statistical analyses using R.\n*Help create computational systems to assess privacy risks in environmental\nhealth data.\n*Develop an Adroid app to tell shoppers about health-related chemicals in\ncleaners and personal care products.\n*Opportunities to author peer-reviewed articles.\n*Support proposal preparation for federal and foundation grants.\n*Help research team keep apprised of new technology, research news\nand policy developments.\n*Some travel. Some evening and weekend responsibilities at public events.\n\nRequirements: We seek applicants with outstanding academic and technical\nskills and commitment to advancing environmental public health. Applicants\nwith a bachelors or graduate-level degree will be\nconsidered. Excellent academic record; computer science,\nmathematics, biochemistry/biology, and social science coursework an\nasset. Programming experience, especially in R or Java, and relevant\nwork experience preferred. Creativity, attention to accuracy, ability\nto work independently within a multidisciplinary team. Commitment\nto careful and impartial research in a context of partnership\nbetween scientists and the public. For more information, visit our web site\nat www.silentspring.org and www.silentspring.org/about-us/employment.\n\nTo apply: send cover letter describing your interests and\nexperience related to this job, resume, writing sample, and copy of\nacademic transcript (photocopy is fine) to Diane Czwakiel,\nAdministrative Manager, Silent Spring Institute, 29 Crafts Street, Newton,\nMA 02458 or email careers at silentspring.org.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Research Assistant/Staff Scientist: Technology in Environmental\nHealth (Silent Spring Institute; Boston, MA)\n\nSilent Spring Institute is a non-profit scientific research group studying\nthe environment",
+      "thread_id": "thread-4d9e2e1d33e2",
+      "thread_depth": 0,
+      "month": "2012-05"
+    },
+    {
+      "id": "msg-95e6721b2bd5",
+      "message_id": "<CAFK+dJR=06X8cxPwa2UsYRQAc2wgMk0RLUCw9vj00eSm4dxa0Q@mail.gmail.com>",
+      "from_name": "Mike Kellen",
+      "from_email_hash": "2f6d6f1aa716512736ab06c8444dc1f991814355c6a2af02d885e7509e96a015",
+      "date": "2012-05-31T12:17:25-07:00",
+      "subject": "[R-jobs] Scientific programmer at Sage Bionetworks",
+      "subject_clean": "[R-jobs] Scientific programmer at Sage Bionetworks",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Sage Bionetworks is building a platform for open science called Synapse.  I\nhave an opening on my team for a software engineer focused on building\nSynapse?s client-side integrations with data analysis tools like R and\nPython.  For more info see http://sagebase.org/info/careers.php#24\n\n-- \nMichael Kellen, Ph.D.\nDirector of Technology and Software Development\nSage Bionetworks\n206-667-1118\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Sage Bionetworks is building a platform for open science called Synapse.  I\nhave an opening on my team for a software engineer focused on building\nSynapse?s client-side integrations with data analysis",
+      "thread_id": "thread-95e6721b2bd5",
+      "thread_depth": 0,
+      "month": "2012-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a6a517d45340",
+      "subject": "[R-jobs] Opening for a Data Programmer",
+      "message_count": 1,
+      "participants": [
+        "Jim Rogers"
+      ],
+      "started": "2012-05-01T17:13:37-04:00",
+      "last_reply": "2012-05-01T17:13:37-04:00",
+      "root_message_id": "msg-a6a517d45340"
+    },
+    {
+      "id": "thread-7a4820800bed",
+      "subject": "[R-jobs] Data Mining Opportunities at Merck",
+      "message_count": 1,
+      "participants": [
+        "Bahl, Amit"
+      ],
+      "started": "2012-05-02T10:13:08-04:00",
+      "last_reply": "2012-05-02T10:13:08-04:00",
+      "root_message_id": "msg-7a4820800bed"
+    },
+    {
+      "id": "thread-12d66f3e8ed0",
+      "subject": "[R-jobs] Position available University of Oxford UK",
+      "message_count": 1,
+      "participants": [
+        "Francesca Buffa"
+      ],
+      "started": "2012-05-02T12:03:08+01:00",
+      "last_reply": "2012-05-02T12:03:08+01:00",
+      "root_message_id": "msg-12d66f3e8ed0"
+    },
+    {
+      "id": "thread-906331cb0f38",
+      "subject": "[R-jobs] Clinical Information Technology Position available University of Oxford UK",
+      "message_count": 1,
+      "participants": [
+        "Francesca Buffa"
+      ],
+      "started": "2012-05-02T12:04:10+01:00",
+      "last_reply": "2012-05-02T12:04:10+01:00",
+      "root_message_id": "msg-906331cb0f38"
+    },
+    {
+      "id": "thread-82cf66696bfd",
+      "subject": "[R-jobs] Mental Health Informatician",
+      "message_count": 1,
+      "participants": [
+        "Andy Fugard"
+      ],
+      "started": "2012-05-08T12:31:18+01:00",
+      "last_reply": "2012-05-08T12:31:18+01:00",
+      "root_message_id": "msg-82cf66696bfd"
+    },
+    {
+      "id": "thread-83fd68ea8c02",
+      "subject": "[R-jobs] Job posting - Statistical Consultant - Univ. of Texas at Austin",
+      "message_count": 1,
+      "participants": [
+        "Mahometa, Michael J"
+      ],
+      "started": "2012-05-08T18:25:45+00:00",
+      "last_reply": "2012-05-08T18:25:45+00:00",
+      "root_message_id": "msg-83fd68ea8c02"
+    },
+    {
+      "id": "thread-7c0010fbcde6",
+      "subject": "[R-jobs] Analytics Opening at Health Market Science, suburban Philadelphia, USA",
+      "message_count": 1,
+      "participants": [
+        "Dilip Rajagopalan"
+      ],
+      "started": "2012-05-10T18:20:56-04:00",
+      "last_reply": "2012-05-10T18:20:56-04:00",
+      "root_message_id": "msg-7c0010fbcde6"
+    },
+    {
+      "id": "thread-1ac8340fd406",
+      "subject": "[R-jobs] Data Scientist at LinkedIn (Bangalore, India)",
+      "message_count": 1,
+      "participants": [
+        "Harsh"
+      ],
+      "started": "2012-05-16T15:33:12+05:30",
+      "last_reply": "2012-05-16T15:33:12+05:30",
+      "root_message_id": "msg-1ac8340fd406"
+    },
+    {
+      "id": "thread-4d9e2e1d33e2",
+      "subject": "[R-jobs] Research Assistant/Staff Scientist: Technology in Environmental Health (Boston, MA)",
+      "message_count": 1,
+      "participants": [
+        "Laura Perovich"
+      ],
+      "started": "2012-05-23T16:27:31-04:00",
+      "last_reply": "2012-05-23T16:27:31-04:00",
+      "root_message_id": "msg-4d9e2e1d33e2"
+    },
+    {
+      "id": "thread-95e6721b2bd5",
+      "subject": "[R-jobs] Scientific programmer at Sage Bionetworks",
+      "message_count": 1,
+      "participants": [
+        "Mike Kellen"
+      ],
+      "started": "2012-05-31T12:17:25-07:00",
+      "last_reply": "2012-05-31T12:17:25-07:00",
+      "root_message_id": "msg-95e6721b2bd5"
+    }
+  ]
+}

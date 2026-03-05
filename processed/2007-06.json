@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2007-06",
+  "messages": [
+    {
+      "id": "msg-201caa61eda0",
+      "message_id": "<200706061418.01164.carrie@precisionbioassay.com>",
+      "from_name": "Carrie Wager",
+      "from_email_hash": "ada762f5f1242afa502d77398c57889ff32a1dcc1fe684749965b24ece45ab66",
+      "date": "2007-06-06T14:18:01-04:00",
+      "subject": "[R-jobs] Job: R Package Developer / Consulting Statistician",
+      "subject_clean": "[R-jobs] Job: R Package Developer / Consulting Statistician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "R Package Developer / Consulting Statistician \nBurlington, Vermont\n\nPrecision Bioassay is a small and growing statistical consulting\nfirm specializing in the design and analysis of biological assays of\npharmaceutical proteins and vaccines. We are building a turnkey software\nsolution for cell culture bioassay that integrates optimal design of\nbioassay experiments, implementation of designs using robotic pipettors,\nand potency analysis using linear and nonlinear mixed models. This\nsoftware is intended for use in a highly regulated industry. Portions\nof the code development for this project will be assigned to you.\n\nRole/Responsibilities\n\n  * Function as an integral member of a team of highly-skilled professionals\n  * Elicit and document functional requirements and specifications\n  * Collaborate in development of core analytic modules (coded in R)\n  * Participate in development of web-based GUI to core analytic modules\n  * Analyze bioassay data for clients in assay development and validation, \n    sometimes requiring development of novel methodologies\n\nQualifications\n\n  * Three or more years experience in developing packages in the R language \n  * Experience in either building web interfaces for technical applications \n    or building database-integrated applications in R \n  * Experience with applications and theory of linear and nonlinear \n    mixed effects models\n  * Good writing and communication skills \n  * MS or PhD in Statistics, Biostatistics, or equivalent \n\nAdditional Desired Experience\n\n  * Fluency in administrating Linux for a multi-platform environment \n  * Experience configuring and administering Apache \n  * Experience with JavaScript, PHP, Ruby, Python, and/or MySQL \n  * Experience with interfaces to equipment, especially lab automation \n  * Statistical consulting experience in biotechnology, nonclinical \n    pharmaceutical or agricultural applications \n\nReports to: Dr. David Lansky\n\nClassification: Permanent, full-time position.\n\nBenefits: Comprehensive package including health and dental insurance,\n  short and long term disability, life insurance, 401k, \n  generous time off policy, and flex time.\n\nPay: Commensurate with experience.\n\nTo Apply: Send cover letter and resume by US mail or email to: \n\n  Precision Bioassay\n  257 S Union St \n  Burlington, Vermont 05401 USA\n  802/865-0155\n  info at precisionbioassay.com (ATTN: Sarah Guth)\n\nPrecision Bioassay is an equal opportunity employer.  Women and people of \ncolor are encouraged to apply.",
+      "body_snippet": "R Package Developer / Consulting Statistician \nBurlington, Vermont\n\nPrecision Bioassay is a small and growing statistical consulting\nfirm specializing in the design and analysis of biological assays o",
+      "thread_id": "thread-201caa61eda0",
+      "thread_depth": 0,
+      "month": "2007-06"
+    },
+    {
+      "id": "msg-7b120f158f26",
+      "message_id": "<014e01c7a94d$adcb5b70$6702a8c0@DellSilver>",
+      "from_name": "Fabrice",
+      "from_email_hash": "9851253a275dce64e7e057311d0885888d951893588be0a9aef3d875e5e059a3",
+      "date": "2007-06-07T23:48:22+02:00",
+      "subject": "[R-jobs] Quick programming in R calling social network routines?",
+      "subject_clean": "[R-jobs] Quick programming in R calling social network routines?",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I'm looking for someone to do a quick freelance programming in R to do some\nnetwork analysis. I'm a researcher with no knowledge in R (doing all my\nstatistics analysis in Stata and network analysis in  UCINET). I would like\nto quickly test the possibility to do batch network analyses using R.\n\n \n\nThe freelance should therefore write a small program that would take as\ninput a file describing a bunch of social network (provided), then call some\nroutines that exist in the social network package provided at\nhttp://erzuli.ss.uci.edu/R.stuff/. It would then produce both some measures\nper network, and some measures per individual in each network.\n\n \n\nI believe this thing may take only a few dozen lines for someone who has a\nreasonable command of R; overall, no less than a few hours for someone with\ngood command of the language, mainly just to understand the logic of the\nsocial network of the routines (I can explain fully). The reason I want to\noutsource it is that it would take me days (or worse) to get it to work.\n\n \n\nOnce I get it, I'll decide whether and how I move forward.\n\n \n\nPlease, do let me know (fcaspam at yahoo.fr) if you're interested.\n\n \n\nFab \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I'm looking for someone to do a quick freelance programming in R to do some\nnetwork analysis. I'm a researcher with no knowledge in R (doing all my\nstatistics analysis in Stata and network analysis in",
+      "thread_id": "thread-7b120f158f26",
+      "thread_depth": 0,
+      "month": "2007-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-201caa61eda0",
+      "subject": "[R-jobs] Job: R Package Developer / Consulting Statistician",
+      "message_count": 1,
+      "participants": [
+        "Carrie Wager"
+      ],
+      "started": "2007-06-06T14:18:01-04:00",
+      "last_reply": "2007-06-06T14:18:01-04:00",
+      "root_message_id": "msg-201caa61eda0"
+    },
+    {
+      "id": "thread-7b120f158f26",
+      "subject": "[R-jobs] Quick programming in R calling social network routines?",
+      "message_count": 1,
+      "participants": [
+        "Fabrice"
+      ],
+      "started": "2007-06-07T23:48:22+02:00",
+      "last_reply": "2007-06-07T23:48:22+02:00",
+      "root_message_id": "msg-7b120f158f26"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2014-02",
+  "messages": [
+    {
+      "id": "msg-64db16e054f3",
+      "message_id": "<FED08E0B-B837-4EB2-8E23-169881975073@oracle.com>",
+      "from_name": "Michael Haupt",
+      "from_email_hash": "cc8cb690c3c9b7077bfd044c387475c200cf8b87f656a8f90ceada0026de7cf1",
+      "date": "2014-02-03T08:52:29+01:00",
+      "subject": "[R-jobs] 2-year EU-funded postdoc position at Oracle Labs",
+      "subject_clean": "[R-jobs] 2-year EU-funded postdoc position at Oracle Labs",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nOracle Labs in Germany is participating in the EU-funded project ALErT (http://www.itn-alert.org/). We are seeking a postdoc-level researcher / software developer for participation in the project, who is expected to make contributions to FastR, an open-source implementation of the R programming language in Java, and to modelling geospatial data using RDF atop R.\n\nA PDF file with a more detailed description is attached. Prospective applicants can also visit https://irecruitment.oracle.com and search for IRC2415605.\n\nBest regards,\n\nMichael Haupt\n\n\n\n-------------- next part --------------\n\n\n\n-- \nDr. Michael Haupt\nPrincipal Member of Technical Staff\nPhone: +49 331 200 7277, Fax: +49 331 200 7561\nOracle Labs\nOracle Deutschland B.V. & Co. KG, Schiffbauergasse 14, 14467 Potsdam, Germany",
+      "body_snippet": "Dear all,\n\nOracle Labs in Germany is participating in the EU-funded project ALErT (http://www.itn-alert.org/). We are seeking a postdoc-level researcher / software developer for participation in the p",
+      "thread_id": "thread-64db16e054f3",
+      "thread_depth": 0,
+      "month": "2014-02"
+    },
+    {
+      "id": "msg-8eb591e00fa5",
+      "message_id": "<52F0C7E5020000270001F038@gwia2.boku.ac.at>",
+      "from_name": "Matteo Mattiuzzi",
+      "from_email_hash": "074cc81bcc5da47877e4760d1ba5ea28dd49aaff2ab57a36a83201e3ea4bd7d7",
+      "date": "2014-02-04T10:58:45+01:00",
+      "subject": "[R-jobs] Statistician at UNODC Vienna (Fwd: Statistiker für consultancy gesucht)",
+      "subject_clean": "[R-jobs] Statistician at UNODC Vienna (Fwd: Statistiker für consultancy gesucht)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear List,\nplease find here an interesting job opportunity at the UNODC (SASS) in Vienna. If you are interested contact directly Ms. Irmgard Zeiler (Irmgard.ZEILER at unodc.org).\n\n\ngood luck\nMatteo Mattiuzzi\n   \n\n>>> Irmgard ZEILER <Irmgard.ZEILER at unodc.org> 02/03/14 5:02 PM >>>\n Dear all, \nI would like to kindly ask your assistance in my search for a consultant (short term employee) for about 6 months to be based in Vienna. I look for somebody to start as soon as possible, who knows R and has ideally experience with survey statistics and sampling.  A draft job advertisement is attached. \nThe position is not advertised yet, I would highly appreciate it if you could forward the email to persons who might be interested to contact me. As soon as we advertise I would then invite for applications. \nThank you very much, \nIrmgard \n\n Specific tasks to be performed by the consultant:\n  Under the overall guidance of the Chief of the Statistics and Surveys Section (SASS) and direct supervision of the Officer assigned by the Chief, the consultant will:\n \n1. Draw spatial samples for the satellite image survey in Afghanistan according to the instructions provided by SASS based on existing R scripts;\n 2. Improve the technical implementation and documentation in R of the existing spatial models and sampling methods used in SASS illicit crop surveys with applications in Afghanistan;\n 3. Carry out research and assist in the preparation of statistical inputs on area estimation methods for inclusion in UNODC illicit crop reports and studies; statistical inputs include preparation of input data, quality assessments, treatment of missing values and estimation of variance.\n 4. Compose a manual directed at national counterparts and UNODC field office staff in Afghanistan on the various spatial sampling and estimation methods employed. The manual should include examples and easy-to-use methods for applying sampling and estimation techniques using R scripts (sampling) and Excel sheets (estimation);\n \n Expected tangible and measurable output(s): \n The consultant will provide: A) Spatial samples drawn \n B) Well documented and technically improved scripts for the spatial sampling methods used in SASS illicit crop surveys\n C) Statistical inputs on the area estimation for inclusion in UNODC illicit crop reports and studies including preparation of input data, on quality assessments, treatment of missing values and estimation of variance. \n \n D) A manual directed at national counterparts and UNODC field office staff in Afghanistan on the various spatial sampling and estimation methods employed. The manual includes examples and easy-to-use methods for applying sampling and estimation techniques; \n Working time is indicative and may vary according to the needs of SASS.\n \n Qualifications/expertise sought (required educational background, years of relevant work experience, other special skills or knowledge required): University degree in statistics, social sciences, economics or in a related field. Experience in conducting statistical surveys and managing large datasets through statistical packages. Good record of analytical work based on quantitative methods, preferably in surveys statistics and sampling methods. Very good programming skills in the statistical software R. Experience in producing analytical publications according to UN standards desired. Good planning and organisational skills. Fluency in English, with excellent drafting and communication skills, with attention to detail. Knowledge of Spanish an asset. \n\n \n -- \n Irmgard Zeiler (Ms.), Research Expert\n Statistics and Surveys Section\n United Nations Office on Drugs and Crime (UNODC)\n \n PO Box 500 \n 1400 Vienna\n Austria\n \n Tel:  (+43-1) 26060-5289\n Email: irmgard.ZEILER at unodc.org\n Websites: http://www.unodc.org/",
+      "body_snippet": "Dear List,\nplease find here an interesting job opportunity at the UNODC (SASS) in Vienna. If you are interested contact directly Ms. Irmgard Zeiler (Irmgard.ZEILER at unodc.org).\n\n\ngood luck\nMatteo Ma",
+      "thread_id": "thread-8eb591e00fa5",
+      "thread_depth": 0,
+      "month": "2014-02"
+    },
+    {
+      "id": "msg-f0f2f9c0ecac",
+      "message_id": "<alpine.DEB.2.02.1402200920410.3342@artemis>",
+      "from_name": "Torsten Hothorn",
+      "from_email_hash": "2b42722d275b670988e4682eba2ca2538e93e289fa8448d590080c1cb472ce85",
+      "date": "2014-02-20T09:22:32+01:00",
+      "subject": "[R-jobs] PostDoc Position in Biostatistics @ Univ Zurich",
+      "subject_clean": "[R-jobs] PostDoc Position in Biostatistics @ Univ Zurich",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "UNIVERSITY OF ZURICH, PostDoc Position in Biostatistics (~80-100%)\n\nStarting date: May 1st 2014 or later\n\nClosing date: March 10 2014\n\nThe Division of Biostatistics at the Institute of Social and\nPreventive Medicine of the University of Zurich (UZH) invites\napplications for a PostDoc position in biostatistics. Length and\nsalary will depend of the qualifications of the appointee, in\naccordance with UZH regulations.\n\nA suitable candidate should\n\n   * hold a PhD in biostatistics or statistics;\n\n   * have a strong research record, ideally both in biostatistical\n     methodology and medical research, and the potential and ambitions\n     to pursue an academic career;\n\n   * have very good programming skills in R, C, or similar languages;\n\n   * be interested in interdisciplinary research with medical scientists;\n\n   * be willing to contribute to teaching both medical students and\n     students of the Master program in Biostatistics, see\n     http://www.math.uzh.ch/biostat.\n\nThe appointee will contribute to the biostatistics research currently\nbeing undertaken by a group which includes Professor Leonhard Held,\nProfessor Torsten Hothorn, Professor Burkhardt Seifert, four senior\nscientists and four PhD students. Current research areas include:\nStatistical modelling and Bayesian inference, medical statistics,\ncomputational biostatistics, and applications in clinical and\ninfectious disease epidemiology.  The Division of Biostatistics\ncooperates with numerous divisions and institutes of the Faculty of\nMedicine, and is also closely linked to the Faculty of Science. For\nmore details see http://www.biostat.uzh.ch.\n\nThe University of Zurich is one of the leading research universities\nin Europe and is ranked among the top three universities in\ncontinental Europe in the fields of Clinical Medicine and Life\nSciences (ARWU fields LIFE and MED, 2013).  The University of Zurich\nand the ETH Zurich collaborate in many areas, which makes Zurich a\nresearch place of international renown.\n\nFor more details, please contact the head of the Division of\nBiostatistics, Prof. Leonhard Held, Email held at ifspm.uzh.ch.\nApplicants should submit a detailed CV and 1-2 references to\n\nProf. Dr. Leonhard Held\nUniversity of Zurich\nInstitute of Social and Preventive Medicine\nHirschengraben 84\n8001 Zurich\nSwitzerland\nEmail: held at ifspm.uzh.ch\n\n\n________________________________________________________________\n\nProf. Dr. Torsten Hothorn                       =========\n                                                 \\\\\nInstitut fuer Sozial- und Praeventivmedizin      \\\\\nUniversitaet Zuerich                              \\\\\nHirschengraben 84                                 //\nCH-8001 Zuerich                                  //\nSchweiz                                         //\n                                                //\nTelephon:  +41 44 634 48 17                    ==========\nFax:       +41 44 634 43 86\nWeb:       http://www.biostat.uzh.ch/aboutus/people/hothorn.html",
+      "body_snippet": "UNIVERSITY OF ZURICH, PostDoc Position in Biostatistics (~80-100%)\n\nStarting date: May 1st 2014 or later\n\nClosing date: March 10 2014\n\nThe Division of Biostatistics at the Institute of Social and\nPrev",
+      "thread_id": "thread-f0f2f9c0ecac",
+      "thread_depth": 0,
+      "month": "2014-02"
+    },
+    {
+      "id": "msg-adc8604adc55",
+      "message_id": "<B6B83B4D8B4C5B48A81903EC3EB874EA1CC30C3A@PA-MBX04.na.tibco.com>",
+      "from_name": "Louis Bajuk-Yorgan",
+      "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
+      "date": "2014-02-27T00:02:56Z",
+      "subject": "[R-jobs] TIBCO is hiring Data Scientists",
+      "subject_clean": "[R-jobs] TIBCO is hiring Data Scientists",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "DATA SCIENTIST\nHiring Manager: Michael O'Connell\nLocation: US\n\nTIBCO is a rapidly growing software company with more than 3000 employees worldwide and more than $1B annual revenue in 2012. TIBCO provides a comprehensive software platform that allows customers to perform in-depth analysis on their data, while injecting predictive and complex statistics in the analysis.  TIBCO Spotfire is an interactive, visual environment with inbuilt R/S+ analytics and seamless connectivity with SAS and Matlab, allowing individuals to analyze and visualize trends, patterns, outliers, and unanticipated relationships in data quickly.  TIBCO has also recently developed and productized its own runtime interpreter for R, enabling R code to run natively in TIBCO products. TIBCO Spotfire customers include Fortune500 customers from variety of industries, including: Life Sciences, Energy, Financial Services, Telco, Retail and others.\n\nWe are looking for Data Scientists to join our rapidly growing Industry Analytics team and:\n\n*\tProvide analytics expertise in the context of customer implementations of TIBCO software\n*\tEngage in methodology development to sharpen our current tool kit\n*\tDeliver statistical analyses as part of demonstrations, projects, engagements or deployed software applications.\n*\tProvide compelling presentations and demonstrations of analytics software to customers and senior industry personnel\n*\tEvaluate and document the business value of analytics projects\n*\tIntegration and solution development within the TIBCO suite of products\n\nThe work can be accomplished from a home office, but candidates who can readily come in to our Dallas, Houston, Chicago/Schaumburg or Palo Alto offices will be given preference. \n\nQUALIFICATIONS\n*\tCandidates must have experience in statistical data analysis and some involvement in delivering statistical analyses as part of demonstrations, projects, engagements or deployed software applications.\n*\tCandidates must be comfortable / fluent in speaking with senior industry personnel and be able to present/demonstrate software; and document projects e.g. results of analyses. \n*\tCandidates must have 3+ years of experience with S-PLUS or R. Experience with other software environments e.g. SAS, Matlab, Spotfire, Spotfire Miner, and/or other data mining software is a plus. Experience with other software e.g. .Net, Java and/or scripting environments e.g. Python, is a plus.\n*\tCandidates should have a masters or PhD degree with a major in statistics. Candidates with a major in other disciplines and with statistics classes will also be considered. Graduate statistics classes in Time Series Analysis, Longitudinal Methods and/or Data Mining are a plus. \n*\tCandidates must be proficient in the Windows environment; Linux is a plus.\n*\tFamiliarity with the Energy, Finance Retail or CPG industries is a plus; as is familiarity with Customer Insight (CRM), Sales and Marketing and/or Manufacturing functional areas.\n\nCheck out https://usa-tibcosoftware.icims.com/jobs/8556/data-scientist/job for more information.\n\n--------------------------\nLou Bajuk-Yorgan\nSr. Director, Product Management\nSpotfire, TIBCO Software\n206-802-2328\nlbajuk at tibco.com\nTwitter: @LouBajuk\nhttp://spotfire.tibco.com",
+      "body_snippet": "DATA SCIENTIST\nHiring Manager: Michael O'Connell\nLocation: US\n\nTIBCO is a rapidly growing software company with more than 3000 employees worldwide and more than $1B annual revenue in 2012. TIBCO provi",
+      "thread_id": "thread-adc8604adc55",
+      "thread_depth": 0,
+      "month": "2014-02"
+    },
+    {
+      "id": "msg-9cf76d43b17f",
+      "message_id": "<67041CC2968586479E7F0D642BB8C19D030729D6B431@SMITHERS.IMPPC.LOCAL>",
+      "from_name": "Lauro Sumoy",
+      "from_email_hash": "ea4b1c7e20252f588a00c4ec6a4422649f9bbceb8473bbaeba241f16f35fca62",
+      "date": "2014-02-27T10:02:17+01:00",
+      "subject": "[R-jobs] Ref: 14/F/04 Scientific computing systems administrator position available",
+      "subject_clean": "[R-jobs] Ref: 14/F/04 Scientific computing systems administrator position available",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Ref: 14/F/04 Scientific computing systems administrator - IMPPC - Badalona, Spain\n\nJob Overview\nWe are seeking a Linux systems administrator who will be responsible for the management of a scientific computing facility that includes a 100 core cluster, several servers, workstations, 96 Tb raw disk storage and backup facilities, to provide support to bioinformatics researchers at the Institute of Predictive and Personalized Medicine of Cancer (IMPPC).\nThe IMPPC (http://www.imppc.org) is a non-profit research center located at the Can Ruti Biomedical Campus, Badalona, near Barcelona, Spain, with young and dynamic staff. Bioinformatics and in particular Genomics is an area of research shared between nearly all current IMPPC research groups that use the computer cluster on a regular basis. Besides fulfilling the system administrator duties listed below, the successful candidate will help to oversee and coordinate the expansion of the scientific computing facility to provide service to other institutions in the immediate surroundings under the umbrella of Institut Germans Trias i Pujol (IGTP), a biomedical research center of excellence recognized by the Instituto de Salud Carlos III of the Spanish Ministry of Health, and of Institut Josep Carreras, a new center for leukemia research, also located in the Can Ruti Biomedical Campus.\n\nDuties of the candidate:\n1.         Operating system installation and maintenance (Linux, currently Fedora)\n2.         Control of user access\n3.         System monitoring\n4.         Management of the queuing system (SGE)\n5.         Software installation and upgrade\n6.         Management of databases\n7.         Management and installation of the central servers and also the servers that are owned by the different research groups and the Genomics Unit\n8.         Management of the backup copies of scientific data\n9.         Maintenance of hardware dedicated to scientific computing\n10.       Consulting for acquisition and purchases of new computing equipment\n11.       Training of research staff in the good use of scientific computing equipment\n12.       Coordinating with the IT department (responsible for the network administration, e-mail and windows software)\n13.       Documenting all linux administrative tasks and procedures\n\nRequirements:\nThe candidate should have a Computer Science/Informatics/Bioinformatics degree/equivalent with/or a demonstrated track record in:\n?           Configuration and administration of Linux computer clusters\n?           Knowledge of scripting languages (bash, python, perl)\n?           Experience in automating OS installation\n?           Strong diagnostic and analytical skills\n?           Basic understanding of IT security principles and best practices\n?           Experience in virtualization technology\n?           Experience in monitoring and firewall systems\n?           Installation and maintenance of scientific software\n?           Working knowledge of Linux systems administration in a biomedical research setting and/or scientific computing and/or communications with LINUX and UNIX-based systems (including Mac OS X)\n?           Fluency in English is essential.\n?           Network administration skills will be considered a plus\n?           Windows administration will NOT be considered.\n\nConditions offered:\n? Full time 1 year contract, core funded, with possibility of extension\n? Competitive salary according to qualifications and experience demonstrated by the candidate\n\nApplications should be sent to:\ne-mail:  rrhh at imppc.org<mailto:rrhh at imppc.org>,\njobopenings at imppc.org\nWith cc to:\nlsumoy at imppc.org<mailto:lsumoy at imppc.org> (Lauro Sumoy)\ntvavouri at imppc.org<mailto:tvavouri at imppc.org> (Tanya Vavouri)\n\nPlease include:\nCV (including contact details)\nIntroductory letter (experience, motivation?)\nReferences (names and contact e-mail and phone numbers of at least two referees)\n\nInstitute for predictive and Personalizad Medicine of Cancer\nCrta de Can Ruti, cam? de les escoles, s/n\n08916 Badalona (Barcelona) - Spain\nTel. (34) 93 554 30 75\nFax. (34) 93 465 14 72\nE-mail: info at imppc.org\nWeb: www.imppc.org\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Ref: 14/F/04 Scientific computing systems administrator - IMPPC - Badalona, Spain\n\nJob Overview\nWe are seeking a Linux systems administrator who will be responsible for the management of a scientific ",
+      "thread_id": "thread-9cf76d43b17f",
+      "thread_depth": 0,
+      "month": "2014-02"
+    },
+    {
+      "id": "msg-898db2903911",
+      "message_id": "<F05D4BC8A62BE74FAAE47FB2C3DA2C530448C047@mail.IOMHQ.LOC>",
+      "from_name": "Laura MacCalman",
+      "from_email_hash": "4b6ac707be032a6d9ed007906b6de2d4fe037a6eb1c4730670a82456d3b3f208",
+      "date": "2014-02-27T11:12:50Z",
+      "subject": "[R-jobs] Job: Statistician Edinburgh/UK",
+      "subject_clean": "[R-jobs] Job: Statistician Edinburgh/UK",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "INSTITUTE OF OCCUPATIONAL MEDICINE, EDINBURGH\n\n \n\nResearch Scientist, Statistics and Toxicology Section\n\n \n\nSalary ?19,000 to ?36,000\n\n \n\nWe are seeking to appoint a Research Scientist to join the Statistics and Toxicology Section in our Research Division to work on a variety of research and review projects undertaken by the team.  This will be a permanent post based in our Edinburgh office. The post holder will provide effective application of statistical ideas to help give valid answers to substantive scientific questions, within practical constraints of time and budget. \n\nThis post will suit someone with at least a good first degree in statistics or biometrics, with some relevant experience of multi-disciplinary research, and with a willingness to learn. \n\nThe person appointed will have both opportunity and encouragement to do interesting, useful research; to develop as an applied statistician and as a project team member; and to publish in the scientific literature. It is likely that our research programme, and our close links with several universities, will give suitable opportunities to staff who wish to study for a higher degree, e.g. PhD; we encourage this. \n\nThe post requires familiarity with statistical ideas (including survey methodology) and methods (at least some of:  regression;  ANOVA;  generalised linear models;  survival analysis);  and the ability to implement them, via standard packages (e.g. Stata, R, Minitab); and an understanding of the issues involved in data recording, control and organisation.\n\nFurther details are available at http://www.iom-world.org/careers/research-scientist,-statistics-and-toxicology-section/ .\n\nA full job description is available on request from Human Resources. To apply please send a cover letter outlining your suitability for this role together with a CV to Julie Knox, HR Administrator at Julie.knox at iom-world.org <mailto:Julie.knox at iom-world.org> .  \n\nThe closing date for applications is 7th March 2014.\n\nRegistered in Scotland (No.SC123972)\n\n \n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "INSTITUTE OF OCCUPATIONAL MEDICINE, EDINBURGH\n\n \n\nResearch Scientist, Statistics and Toxicology Section\n\n \n\nSalary ?19,000 to ?36,000\n\n \n\nWe are seeking to appoint a Research Scientist to join the Sta",
+      "thread_id": "thread-898db2903911",
+      "thread_depth": 0,
+      "month": "2014-02"
+    },
+    {
+      "id": "msg-34a83df12a89",
+      "message_id": "<OFF11621CB.3BA34D48-ON48257C8D.00193B38-48257C8D.001B101E@basf-c-s.be>",
+      "from_name": "thom@s@gottsch@ik m@iii@g oii b@si@com",
+      "from_email_hash": "ec188fabced01e37f5832376e12c0537e1c2cdf15eab2bf5c65861b7f59a56ff",
+      "date": "2014-02-28T12:55:35+08:00",
+      "subject": "[R-jobs] BASF Shanghai:  Statistician / Chemometrician",
+      "subject_clean": "[R-jobs] BASF Shanghai:  Statistician / Chemometrician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Valued R-community.\n\nPlease let me make you aware of a job opening with focus on Statistics at \nBASF in Shanghai:\n\nWe are the world's leading chemical company because we offer intelligent \nsolutions for our customers and for a sustainable future. We link and \ndevelop people with diverse talents all over the world. For you, this \nmeans a variety of ways to advance. Not only your performance but also \nyour personality matter to us. At BASF, careers develop from \nopportunities.\n\nBASF is one of the biggest foreign investors in China.  For our Statistics \nTeam currently being established at the Innovation Campus in SHANGHAI we \nare looking for a \n\nSTATISTICIAN OR CHEMOMETRICIAN\n\nWhat you can expect: \nYou provide statistical support based on data analysis, data-based \nmodeling and optimization. This comprises chemometrics, biometrics, \nprocess and quality control, as well as econometrics and risk analysis. \n>From the beginning you will be responsible for projects in research and \ndevelopment, engineering and business units. In this context, you will \ncommunicate the ideas and solutions of statistical modeling to a broad \ncommunity of non-statisticians. Furthermore, you will establish and \nmaintain collaborations both with internal experts and with academic \nresearch groups in that domain evaluating new approaches and exploring new \napplication opportunities.\n\nWhat we expect: \nYou have successfully completed your PhD in chemistry, physics or chemical \nengineering. You have a strong background in mathematical statistics and \nexperience in statistic applications. Besides, you have experience in \nusing statistical software such as R, JMP or SAS. As a creative and \nmotivated team player you are able to communicate your results to an \ninterdisciplinary team. Ideally, you have Chinese language skills and \nalready gained experience in Asian countries.\n\nWe offer:\nResponsibility from day one in a challenging work environment and \n\"on-the-job\" training as part of a committed team. Competitive \ncompensation including attractive benefits as well as excellent career \nopportunities in an international company.\n\nExpect to be surprised by the exciting range of career opportunities at \nBASF.\n\nIf you are interested in this opportunity, please send your application \nto:   thomas.gottschalk at basf.com\n\n\n\nDr. Thomas Gottschalk\nModelling & Formulation Research Shanghai\n\nPhone: +86 21 2039 3556 Mobile: +86 152 1679 3196 E-Mail: \nthomas.gottschalk at basf.com\nPostal Address: BASF Auxiliary Chemicals Co. Ltd., 300 Jiang Xin Sha Road, \nShanghai 200137, P.R. China\n\nBASF - The Chemical Company\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Valued R-community.\n\nPlease let me make you aware of a job opening with focus on Statistics at \nBASF in Shanghai:\n\nWe are the world's leading chemical company because we offer intelligent \nsolutions f",
+      "thread_id": "thread-34a83df12a89",
+      "thread_depth": 0,
+      "month": "2014-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-64db16e054f3",
+      "subject": "[R-jobs] 2-year EU-funded postdoc position at Oracle Labs",
+      "message_count": 1,
+      "participants": [
+        "Michael Haupt"
+      ],
+      "started": "2014-02-03T08:52:29+01:00",
+      "last_reply": "2014-02-03T08:52:29+01:00",
+      "root_message_id": "msg-64db16e054f3"
+    },
+    {
+      "id": "thread-8eb591e00fa5",
+      "subject": "[R-jobs] Statistician at UNODC Vienna (Fwd: Statistiker für consultancy gesucht)",
+      "message_count": 1,
+      "participants": [
+        "Matteo Mattiuzzi"
+      ],
+      "started": "2014-02-04T10:58:45+01:00",
+      "last_reply": "2014-02-04T10:58:45+01:00",
+      "root_message_id": "msg-8eb591e00fa5"
+    },
+    {
+      "id": "thread-f0f2f9c0ecac",
+      "subject": "[R-jobs] PostDoc Position in Biostatistics @ Univ Zurich",
+      "message_count": 1,
+      "participants": [
+        "Torsten Hothorn"
+      ],
+      "started": "2014-02-20T09:22:32+01:00",
+      "last_reply": "2014-02-20T09:22:32+01:00",
+      "root_message_id": "msg-f0f2f9c0ecac"
+    },
+    {
+      "id": "thread-adc8604adc55",
+      "subject": "[R-jobs] TIBCO is hiring Data Scientists",
+      "message_count": 1,
+      "participants": [
+        "Louis Bajuk-Yorgan"
+      ],
+      "started": "2014-02-27T00:02:56+00:00",
+      "last_reply": "2014-02-27T00:02:56+00:00",
+      "root_message_id": "msg-adc8604adc55"
+    },
+    {
+      "id": "thread-9cf76d43b17f",
+      "subject": "[R-jobs] Ref: 14/F/04 Scientific computing systems administrator position available",
+      "message_count": 1,
+      "participants": [
+        "Lauro Sumoy"
+      ],
+      "started": "2014-02-27T10:02:17+01:00",
+      "last_reply": "2014-02-27T10:02:17+01:00",
+      "root_message_id": "msg-9cf76d43b17f"
+    },
+    {
+      "id": "thread-898db2903911",
+      "subject": "[R-jobs] Job: Statistician Edinburgh/UK",
+      "message_count": 1,
+      "participants": [
+        "Laura MacCalman"
+      ],
+      "started": "2014-02-27T11:12:50+00:00",
+      "last_reply": "2014-02-27T11:12:50+00:00",
+      "root_message_id": "msg-898db2903911"
+    },
+    {
+      "id": "thread-34a83df12a89",
+      "subject": "[R-jobs] BASF Shanghai:  Statistician / Chemometrician",
+      "message_count": 1,
+      "participants": [
+        "thom@s@gottsch@ik m@iii@g oii b@si@com"
+      ],
+      "started": "2014-02-28T12:55:35+08:00",
+      "last_reply": "2014-02-28T12:55:35+08:00",
+      "root_message_id": "msg-34a83df12a89"
+    }
+  ]
+}

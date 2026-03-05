@@ -1,0 +1,335 @@
+From b@@|||e @end|ng |rom u||@edu  Wed May  9 05:31:18 2018
+From: b@@|||e @end|ng |rom u||@edu (Mathieu Basille)
+Date: Tue, 8 May 2018 23:31:18 -0400
+Subject: [R-jobs] Data manager in a Spatial Ecology lab, Univ Florida,
+ Fort Lauderdale FL
+Message-ID: <4adaa6d5-7a13-e06c-dba2-21233a58f599@ufl.edu>
+
+The MabLab at the University of Florida is recruiting a Data Manager to
+fill an immediate opening for the position of Biological Scientist in the
+lab. We are looking for an enthusiastic, highly motivated and responsible
+individual to join an exciting research team focused on spatial ecology.
+The Data Manager will be responsible for the group's database system, and
+will assist with multiple projects investigating for instance animal
+fine-scale movement in urban areas, or migration and range dynamics in the
+context of climate change.
+
+The primary mission of the Data Manager will be to manage the group's
+database system: we run a PostgreSQL/PostGIS database system on a Linux
+server, which hosts telemetry data on wood storks, sea turtles, raccoons,
+and associated GIS layers. In the near future, we will be adding advanced
+data from albatrosses, including accelerometers and infrasound. The Data
+Manager will manage the database server (database design, manual and
+automated data entry, metadata, set permissions for users and groups,
+backups, development of web apps to access and display data, etc.).
+Additional responsibilities will include assisting members of the group
+with data processing, and maintaining our open source R packages (rpostgis,
+rpostgisLT, hab?).
+
+Familiarity with SQL is essential. Experience using PostgreSQL/PostGIS (or
+other SIG database systems) and R is a plus, as well as experience with
+Linux systems and database servers.
+
+The candidate must be able to work independently and with others in a
+fast-paced environment, and should be comfortable working across agency
+boundaries (University of Florida, U.S. Fish and Wildlife Service, U.S.
+Geological Survey and the National Park Service, etc.), making excellent
+written and oral communication skills essential for this position.
+
+* Qualifications: B.S. with experience in Data Science, Computing, GIS,
+Biology or a related field. Must be eligible to work in the United States.
+
+* Salary: Commensurate with qualifications and past experience (typically
+$40?50k/year with benefits).
+
+* Start Date: Flexible, as early as June 1st, 2018. This is a permanent
+position from the University of Florida.
+
+* Closing Date: Review of applications will begin on May 15th, 2018, and
+will continue until the position is filled.
+
+* Application: Apply on UF Jobs website (job #507275):
+http://explore.jobs.ufl.edu/cw/en-us/job/507275/biological-scientist-ii-data-manager
+Applications should include:
+- a cover letter with information about professional interests,
+qualifications, dates of availability, and current contact information;
+- a resume;
+- names and phone numbers of three references.
+
+For more information, don't hesitate to contact me!
+Mathieu Basille
+
+
+-- 
+
+Mathieu Basille
+
+basille at ufl.edu | https://mablab.org/
++1 954-577-6314 | University of Florida FLREC
+
+  ? Le tout est de tout dire, et je manque de mots
+  Et je manque de temps, et je manque d'audace. ?
+  ? Paul ?luard
+
+
+
+From rh @end|ng |rom rp|u@p|u@@com  Tue May 15 18:02:01 2018
+From: rh @end|ng |rom rp|u@p|u@@com (Jeanne Lafolie)
+Date: Tue, 15 May 2018 18:02:01 +0200
+Subject: [R-jobs] [Job Offer] Statistician (M/F) Definition of the software
+ R++
+Message-ID: <317b6b00504dfb4aeabbe57ee246172a@rplusplus.com>
+
+ 
+
+ABOUT Z?BRYS
+
+Z?brys is a startup which designs the software R++, the Next Step.
+
+R++, the Next Step is a new Graphical User Interface for R. It comes
+from 3 years of research with different teams specialized in HMI. The
+first video presentation is available here (comments are in French, but
+the video is understandable even without sound).
+
+Z?brys is a startup with strong growth potential: prize winner for the
+French Tech Grant, Innov&Plus Loan, R?seau Entreprendre, Cr?alia? It is
+intensively hiring.
+
+JOB DESCRIPTION
+
+Depending on your own preferences, the tasks will be diversified: 
+
+ Define the software: R++, the Next Step is developed by IT engineers
+specialists in high performance. On the other hand the functional
+specifications are expressed by statisticians. Your main duty will be to
+take part in the definition of the software. 
+
+ Popularization: you shall popularize by writing blog articles, such as
+"The Boot-Strap Feedback", "Multiple Imputations From A to Z" or "Big
+Data: Your Softwares' Real Limits". A communication trainee will help
+you. 
+
+ Technological surveillance: you will need to be at the forefront of the
+technology and write quality articles. To do so you will have to train
+continuously in stats and software? In order to become R world champion!
+
+
+ R-D: you might pursue research and come up with new methods and the
+corresponding package. In such a case you would write scientific
+articles.
+
+THE ADVANTAGES
+
+ Quality work environment (dual-screen, big desk).
+ Custom equipment (PC, OS).
+ Flextime (possibility of part-time telecommuting).
+ Convivial atmosphere (foosball table, popcorn poper, cotton candy
+maker?).
+ Young and dynamic team (age: m=27,8 ; sd=4,7).
+
+REQUIRED PROFILE
+
+ Biostatistics PhD.
+ This can be your first job.
+ Mastery of R.
+ Speaking French is NOT needed
+
+CONTRACT ELEMENTS
+
+ Company: Z?brys (Startup).
+ Contract: permanent full time contract.
+ Location: Toulouse, France.
+
+APPLY FOR THE POSITION
+
+https://rplusplus.com/nous-rejoindre 
+
+ 
+
+From gyro@t@t @end|ng |rom gm@||@com  Thu May 24 21:58:35 2018
+From: gyro@t@t @end|ng |rom gm@||@com (Christopher Tong)
+Date: Thu, 24 May 2018 12:58:35 -0700
+Subject: [R-jobs] USDA CVB recruiting statistician or data scientist
+Message-ID: <CAPDNHNf5j1_5gxT9G3DfPEOgcOMqrwmEJ=K+UguSoaq5j1xfHw@mail.gmail.com>
+
+CENTER FOR VETERINARY BIOLOGICS
+
+UNITED STATES DEPARTMENT OF AGRICULTURE
+
+Join our team of statisticians and data scientists in 2018
+
+We bring a broad perspective to our consulting and analytical work
+with scientists at the USDA National Centers for Animal Health. Our
+Statistics Section is looking for a good communicator who is
+comfortable dealing with the analytical aspects of practical
+scientific issues.
+
+We are looking for skills that support the
+* Statistical design, analysis, and interpretation of scientific studies
+* Application of statistical principles to specific problems in
+applied disciplines
+* Effective communication with scientists about practical issues
+
+We?d also like to know about your background in areas that may advance
+our work, such as laboratory applications, epidemiology, machine
+learning, or statistical programming.
+
+Applicants must be United States citizens.
+
+Contact
+Dave Siev, DVM, MS
+Statistics Section Leader
+USDA Center for Veterinary Biologics
+Ames, IA 50010
+david.siev at aphis.usda.gov
+
+
+The Center for Veterinary Biologics regulates vaccines,
+immuno-therapeutics, diagnostics, and other biologics used to manage
+animal diseases. It is located on the campus of the National Centers
+for Animal Health in Ames, Iowa, where it maintains a close
+affiliation with the other animal disease centers on the campus and
+with nearby Iowa State University. Ames is known for its stimulating
+cultural environment, pleasant surroundings, and stable economy. It is
+40 minutes north of Des Moines International Airport.
+
+Employment benefits include flexible work schedule, ten paid federal
+holidays, liberal leave allowance (annual leave, sick leave, and
+family friendly leave policy), retirement and thrift savings plans,
+life insurance program, and health insurance program.
+
+
+
+From @te|@no@|@cu@ @end|ng |rom un|m|@|t  Wed Jun  6 00:06:05 2018
+From: @te|@no@|@cu@ @end|ng |rom un|m|@|t (stefano iacus)
+Date: Wed, 06 Jun 2018 00:06:05 +0200
+Subject: [R-jobs] [JOB] Associate Professor in Statistics
+Message-ID: <32B2AFAE-20B7-4EFE-B54A-AE7A084CA40E@unimi.it>
+
+The Centre of Excellence in Economics and Data Science ( http://ceeds.unimi.it <http://ceeds.unimi.it/> )
+
+of the Department of Economics, Management and Quantitative Methods (DEMM), University of Milan
+
+has open the following position of Associate Professor ("professore associato" in the Italian system) in STATISTICS:
+
+"n. 1 posto - s.c. 13/D1, ssd SECS-S/01 (Codice 3766), settore concorsuale 13/D1 - Statistica, SECS-S/01 - Statistica"
+
+
+Deadline: 29th June 2018, 12am (Italian local time)
+
+
+Particular attention will be given to candidates with an excellent research record and showing the potential to cooperate with the current members of the department in pursuing DEMM?s strategy in the development of Data Science and Economics.
+
+(R is a plus!)
+
+More information about the application procedure can ben found here:  http://www.unimi.it/ateneo/valcomp/95799.htm <http://www.unimi.it/ateneo/valcomp/95799.htm>
+
+Further contacts: datasciencelab at unimi.it <mailto:datasciencelab at unimi.it>, stefano.iacus at unimi.it <mailto:stefano.iacus at unimi.it>
+
+
+
+
+-----------------------------------
+Prof. Stefano M. Iacus, Ph.D.
+Director of DSE - Master in Data Science & Economics
+http://www.dse.unimi.it
+CEO/CTO/Co-Founder VOICES from the Blogs
+http://www.voices-int.com
+
+Department of Economics,
+Management and Quantitative Methods
+University of Milan
+Via Conservatorio, 7
+I-20123 Milan - Italy
+Ph.: +39 02 50321 461
+Fax: +39 02 50321 505
+Twitter: @iacus
+http://scholar.google.com/citations?user=JBs9tJ4AAAAJ&hl=en
+http://orcid.org/0000-0002-4884-0047
+
+Master in Finance & Economics
+http://www.dse.unimi.it
+Twitter: @dseunimi
+Facebook: http://www.facebook.com/dseunimi
+Email and further information at: dse at unimi.it
+
+
+------------------------------------------------------------------------------------
+Please don't send me Word or PowerPoint attachments if not 
+absolutely necessary. See:
+http://www.gnu.org/philosophy/no-word-attachments.html
+
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+
+From rh @end|ng |rom rp|u@p|u@@com  Wed Jun 13 16:56:11 2018
+From: rh @end|ng |rom rp|u@p|u@@com (Jeanne Lafolie)
+Date: Wed, 13 Jun 2018 16:56:11 +0200
+Subject: [R-jobs] R++ is looking for a Native English Speaker Translator
+Message-ID: <54901f30084e7f6fb519eb2763484406@rplusplus.com>
+
+ 
+
+Z?brys is looking for a Native English Speaker Statistician to translate
+many statistics-related documents. 
+
+### ABOUT Z?BRYS ### 
+
+Z?brys is a startup which designs the software _R++, THE NEXT STEP_. 
+
+_R++, THE NEXT STEP_ is a new Graphical User Interface for R. It comes
+from 3 years of research with different teams specialized in HMI. 
+
+The first video presentation is available on Youtube (comments are in
+French, but the video is understandable even without sound):
+https://www.youtube.com/watch?v=iVtMpKABn0U [1] 
+
+### IN SHORT ### 
+
+Z?brys is eager to translate many things (!) into English: 
+
+ 	* _R++, THE NEXT STEP_ (the software),
+ 	* R++ website,
+ 	* videos,
+ 	* blog articles?
+
+English is your mother tongue, you master R and statistics? You are
+interested in translating all (or some) of these? 
+
+Get in touch with Christophe, Z?brys' CEO: 
+
+ 	* cg at rplusplus.com
+ 	* or https://www.linkedin.com/in/christophe-genolini/ [2]
+
+### MORE INFORMATION IS AVAILABLE ONLINE ### 
+
+https://rplusplus.com/ [3] 
+
+https://www.youtube.com/c/rplusplus [4] 
+
+https://www.linkedin.com/company/rplusplus/ [5] 
+
+https://twitter.com/rplusplus [6] 
+
+https://www.facebook.com/rpluspluslogiciel/ [7] 
+
+Links:
+------
+[1] https://www.youtube.com/watch?v=iVtMpKABn0U
+[2] https://www.linkedin.com/in/christophe-genolini/
+[3] https://rplusplus.com/
+[4] https://www.youtube.com/c/rplusplus
+[5] https://www.linkedin.com/company/rplusplus/
+[6] https://twitter.com/rplusplus
+[7] https://www.facebook.com/rpluspluslogiciel/
+
+	[[alternative HTML version deleted]]
+
+
+

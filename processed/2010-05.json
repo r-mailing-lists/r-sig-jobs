@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2010-05",
+  "messages": [
+    {
+      "id": "msg-428b4f27cea6",
+      "message_id": "<g2l5c62e0071005061213v5b7eacf3zff053133f01841f5@mail.gmail.com>",
+      "from_name": "Kevin Wright",
+      "from_email_hash": "a8092acca5931b5d7944fadf58284290a9509c57bb38213110843ec7ce37c064",
+      "date": "2010-05-06T14:13:11-05:00",
+      "subject": "[R-jobs] Research statisticians",
+      "subject_clean": "[R-jobs] Research statisticians",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Pioneer Hi-Bred, a DuPont business, is a leading developer and\nsupplier of advanced plant genetics to farmers worldwide.\nHeadquartered near Des Moines, Iowa, Pioneer is rated by TheScientist\nas one of the best places to work. Within Pioneer, statisticians\ndevelop statistical methods and work with scientists to support\nresearch and development.\n\nPioneer currently has multiple openings for statisticians and expects\nmore in the near future. Masters and Ph.D.-level positions are open in\nthe areas of design and?analysis of experiments, quantitative\ngenetics, plant breeding, bioinformatics, and software development.\nVisit our website (pioneer.com/careers) and use keyword \"statistics\"\nin Iowa.? Check back for more positions as they become available.\n\n--\nKevin Wright",
+      "body_snippet": "Pioneer Hi-Bred, a DuPont business, is a leading developer and\nsupplier of advanced plant genetics to farmers worldwide.\nHeadquartered near Des Moines, Iowa, Pioneer is rated by TheScientist\nas one of",
+      "thread_id": "thread-428b4f27cea6",
+      "thread_depth": 0,
+      "month": "2010-05"
+    },
+    {
+      "id": "msg-74643bee9b84",
+      "message_id": "<1ED27F53E51B944F8498BDD54B54E3DB0370785C6E@FALCON.omni.imsweb.com>",
+      "from_name": "Lamb, Mary (IMS)",
+      "from_email_hash": "0eb1eef7cd20108d3d8598a6dd32d6b2591ec76c2d0d65bc8f0434abe246bede",
+      "date": "2010-05-26T14:31:50-04:00",
+      "subject": "[R-jobs]  Statistician Programmer, Full-Time, IMS Inc., Rockville, MD",
+      "subject_clean": "[R-jobs]  Statistician Programmer, Full-Time, IMS Inc., Rockville, MD",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Statistician/Programmer needed in Rockville, MD.  IMS currently employs a small team of statisticians who work together and collaboratively with nationally recognized statisticians in the Biostatistics Branch, Division of Cancer and Epidemiology, in the National Cancer Institute (NCI).  Must have PhD in statistics or match.  Must have knowledge of statistical packages and R.  Genetic analysis background a plus.  For more info and to apply, visit www.IMSWEB.com.  EOE\n\n\nInformation in this e-mail may be confidential. It is intended only for the addressee(s) identified above. If you are not the addressee(s), or an employee or agent of the addressee(s), please note that any dissemination, distribution, or copying of this communication is strictly prohibited. If you have received this e-mail in error, please notify the sender of the error.",
+      "body_snippet": "Statistician/Programmer needed in Rockville, MD.  IMS currently employs a small team of statisticians who work together and collaboratively with nationally recognized statisticians in the Biostatistic",
+      "thread_id": "thread-74643bee9b84",
+      "thread_depth": 0,
+      "month": "2010-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-428b4f27cea6",
+      "subject": "[R-jobs] Research statisticians",
+      "message_count": 1,
+      "participants": [
+        "Kevin Wright"
+      ],
+      "started": "2010-05-06T14:13:11-05:00",
+      "last_reply": "2010-05-06T14:13:11-05:00",
+      "root_message_id": "msg-428b4f27cea6"
+    },
+    {
+      "id": "thread-74643bee9b84",
+      "subject": "[R-jobs]  Statistician Programmer, Full-Time, IMS Inc., Rockville, MD",
+      "message_count": 1,
+      "participants": [
+        "Lamb, Mary (IMS)"
+      ],
+      "started": "2010-05-26T14:31:50-04:00",
+      "last_reply": "2010-05-26T14:31:50-04:00",
+      "root_message_id": "msg-74643bee9b84"
+    }
+  ]
+}

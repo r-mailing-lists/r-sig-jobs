@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2022-05",
+  "messages": [
+    {
+      "id": "msg-d7a8cdd82765",
+      "message_id": "<CAE5gJkER6YrK4qyyAXBQHg+b_VK69EXHzXBwwGAie5yYW5C28A@mail.gmail.com>",
+      "from_name": "Neil Shephard",
+      "from_email_hash": "bb25afc28b2a70494e018ead10a2dba32c6f7e0f817b7b5e11c40a6124ba1240",
+      "date": "2022-05-13T09:22:03+01:00",
+      "subject": "[R-jobs] [JOB] Research Software Engineer University of Sheffield",
+      "subject_clean": "[R-jobs] [JOB] Research Software Engineer University of Sheffield",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nAn opening is available to join the growing Research Software Engineering\n(RSE) group (https://rse.shef.ac.uk) on an open ended contract. The role is\nideal for someone with a passion for research software looking to use their\nskills in R programming for collaborative software development and\nreproducible research to make an impact on research projects across the\nwhole of the University of Sheffield.\n\nSix reasons to apply https://rse.shef.ac.uk/blog/2022-05-12-rrse/\n\nFurther information and details of how to apply\nhttps://www.jobs.ac.uk/job/CPR556/research-software-engineer\n\nRegards,\n\nNeil\n--\n\nNeil Shephard\nResearch Software Engineer, University of Sheffield\n\nTraining : https://rse.shef.ac.uk/training/\nEvents : https://rse.shef.ac.uk/events/\nBlog : https://rse.shef.ac.uk/blog/\nNewsletters : https://rse.shef.ac.uk/newsletters/\nLunch Bytes : https://rse.shef.ac.uk/community/lunch-bytes/\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi,\n\nAn opening is available to join the growing Research Software Engineering\n(RSE) group (https://rse.shef.ac.uk) on an open ended contract. The role is\nideal for someone with a passion for research",
+      "thread_id": "thread-d7a8cdd82765",
+      "thread_depth": 0,
+      "month": "2022-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d7a8cdd82765",
+      "subject": "[R-jobs] [JOB] Research Software Engineer University of Sheffield",
+      "message_count": 1,
+      "participants": [
+        "Neil Shephard"
+      ],
+      "started": "2022-05-13T09:22:03+01:00",
+      "last_reply": "2022-05-13T09:22:03+01:00",
+      "root_message_id": "msg-d7a8cdd82765"
+    }
+  ]
+}

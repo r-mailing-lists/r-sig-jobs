@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2009-12",
+  "messages": [
+    {
+      "id": "msg-29b9f5a744bf",
+      "message_id": "<OF5D59DB14.0EF7AA0A-ON86257686.00696B77-86257686.00697C7E@aphis.usda.gov>",
+      "from_name": "D@vid@Siev m@iii@g oii @phis@usd@@gov",
+      "from_email_hash": "8c18e480189a19fbdb308d20e298714bfbf88aed16ccd8649e84c7a4944d69b7",
+      "date": "2009-12-08T13:12:11-06:00",
+      "subject": "[R-jobs] R Programmer Vacancy - USDA Center for Veterinary Biologics",
+      "subject_clean": "[R-jobs] R Programmer Vacancy - USDA Center for Veterinary Biologics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Statistical Programmer - USDA Center for Veterinary Biologics\n\nThe USDA Center for Veterinary Biologics is seeking a statistical\nprogrammer with good R skills. The position is a two-year term position in\nthe CVB Statistics Section with the possibility of becoming permanent.\nApplicants must be United States citizens.\n\nThe position calls for a thorough knowledge of R and aptitude in both\nprogramming and data analysis in order to develop tools for manipulating,\nmanaging, and analyzing data. Experience is preferred, but qualified entry\nlevel candidates will be considered. In addition, a strong candidate should\nbe able to interact well with consulting statisticians, scientists, and\ninformation technology personnel.\n\nBenefits include flexible work schedule, ten paid federal holidays, liberal\nleave allowance (annual leave, sick leave, and family friendly leave\npolicy), life insurance program, health insurance program, retirement and\nthrift savings plan, and optional long term care insurance.  Starting\nsalary based on experience and education.\n\nThe Center for Veterinary Biologics regulates vaccines, diagnostics, and\nother immunobiologics used to manage animal diseases.  It is located on the\n500-acre campus of the National Centers for Animal Health in Ames, Iowa,\nwhere it maintains a close affiliation with the other animal disease\ncenters on the campus as well as nearby Iowa State University.  The CVB\nStatistics Section provides statistical services to scientific reviewers\nand laboratory scientists.\n\nAmes is known for its stimulating cultural environment, pleasant\nsurroundings, and stable economy.  It was ranked second out of 189 other\nsmall cities by The New Rating Guide to Life in America's Small Cities.  It\nis 40 minutes north of Des Moines International Airport.\n\n\nContact\nDavid Siev\nStatistics Section Leader\nUSDA Center for Veterinary Biologics\nAmes, IA 50010\ndavid.siev at aphis.usda.gov",
+      "body_snippet": "Statistical Programmer - USDA Center for Veterinary Biologics\n\nThe USDA Center for Veterinary Biologics is seeking a statistical\nprogrammer with good R skills. The position is a two-year term position",
+      "thread_id": "thread-29b9f5a744bf",
+      "thread_depth": 0,
+      "month": "2009-12"
+    },
+    {
+      "id": "msg-806404fc850c",
+      "message_id": "<04A4FFEE-9147-4360-A1CD-FD84F64D7077@web.de>",
+      "from_name": "Markus Gesmann",
+      "from_email_hash": "56885de7125bf1b3a318ff31eeab7b0c5322259e7740e3c381f3fb34a4c904fd",
+      "date": "2009-12-08T22:16:52Z",
+      "subject": "[R-jobs] Job at Lloyd's",
+      "subject_clean": "[R-jobs] Job at Lloyd's",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "> Hi all,\n> \n> Lloyd's is looking for an analyst with sound R, SQL and Latex skills.\n> You find more information here:\n> http://www2.i-grasp.com/fe/tpl_lloyds01.asp?newms=jj&id=55718\n> If you need further information don't hesitate to contact me directly.\n> \n> Kind regards\n> \n> Markus",
+      "body_snippet": "> Hi all,\n> \n> Lloyd's is looking for an analyst with sound R, SQL and Latex skills.\n> You find more information here:\n> http://www2.i-grasp.com/fe/tpl_lloyds01.asp?newms=jj&id=55718\n> If you need fur",
+      "thread_id": "thread-806404fc850c",
+      "thread_depth": 0,
+      "month": "2009-12"
+    },
+    {
+      "id": "msg-1ec236d4d951",
+      "message_id": "<2D1C2FB3D4E72D40B1BA2230075ADC93C79BA5@DDISERVER.decisiondevelopment.com>",
+      "from_name": "Brian Koch",
+      "from_email_hash": "73b818470aaff4effc0023bf761b627f787d69a18720a4d7591dcf4165561b13",
+      "date": "2009-12-16T09:33:07-06:00",
+      "subject": "[R-jobs] Asst Marketing Research Analyst (part-time or internship; Chicago, USA)",
+      "subject_clean": "[R-jobs] Asst Marketing Research Analyst (part-time or internship; Chicago, USA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Decision Development Inc is currently hiring part-time employees or\ncollege interns to support our analytical division.  Applications for\nthe Assistant Marketing Research Analyst position will be given\nimmediate consideration.\n\nAssistant Marketing Research Analysts work to structure, tabulate, and\nclean the data generated during our marketing research interviews.  They\nform the foundation of an analytical team that has earned an\nindustry-wide reputation for its modern, thorough data management and\ninsightful, actionable analysis of qualitative data.  This is an\nentry-level position within the marketing research industry.\n\nWe rely heavily on innovative use of R for data management and\nreporting.  This is a great opportunity to see how R is used to manage\nqualitative data and how custom scripts and models are developed to meet\nour business objectives;  however, R programming experience is not\nrequired.\n\nDecision Development Inc is a marketing research and consulting firm\nthat has been in business for 15 years.  We serve the healthcare,\nbiotech, and pharmaceutical industries.  Our emphasis is custom\nqualitative research.  Learn more about our company (and this job\nposting) at http://www.decisiondevelopment.com\n\nWe have traditionally recruited Assistant Analysts from local college\ncampuses.  This job may be performed as part of an undergraduate\ninternship program.  College faculty members of this email list: please\nfeel free to forward this to any of your interested students.\n\nWork is performed at our offices in Evanston, IL.  To inquire, reply to\nthis message with your resume and cover letter; or email\namra_applications at decisiondevelopment.com\n\nFinally, as part of our ongoing networking and business development\nstrategy, we also seek to make contacts with other professionals who use\nR in marketing research settings, particularly in the management of\nqualitative data.  If you are such a user or are exploring the\ncapabilities of R in these settings, please introduce yourself to me.\n\nBrian J. Koch\nData Manager\nDecision Development Inc\nwww.decisiondevelopment.com",
+      "body_snippet": "Decision Development Inc is currently hiring part-time employees or\ncollege interns to support our analytical division.  Applications for\nthe Assistant Marketing Research Analyst position will be give",
+      "thread_id": "thread-1ec236d4d951",
+      "thread_depth": 0,
+      "month": "2009-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-29b9f5a744bf",
+      "subject": "[R-jobs] R Programmer Vacancy - USDA Center for Veterinary Biologics",
+      "message_count": 1,
+      "participants": [
+        "D@vid@Siev m@iii@g oii @phis@usd@@gov"
+      ],
+      "started": "2009-12-08T13:12:11-06:00",
+      "last_reply": "2009-12-08T13:12:11-06:00",
+      "root_message_id": "msg-29b9f5a744bf"
+    },
+    {
+      "id": "thread-806404fc850c",
+      "subject": "[R-jobs] Job at Lloyd's",
+      "message_count": 1,
+      "participants": [
+        "Markus Gesmann"
+      ],
+      "started": "2009-12-08T22:16:52+00:00",
+      "last_reply": "2009-12-08T22:16:52+00:00",
+      "root_message_id": "msg-806404fc850c"
+    },
+    {
+      "id": "thread-1ec236d4d951",
+      "subject": "[R-jobs] Asst Marketing Research Analyst (part-time or internship; Chicago, USA)",
+      "message_count": 1,
+      "participants": [
+        "Brian Koch"
+      ],
+      "started": "2009-12-16T09:33:07-06:00",
+      "last_reply": "2009-12-16T09:33:07-06:00",
+      "root_message_id": "msg-1ec236d4d951"
+    }
+  ]
+}

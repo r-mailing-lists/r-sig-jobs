@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2014-03",
+  "messages": [
+    {
+      "id": "msg-7e35dbf01e45",
+      "message_id": "<alpine.WNT.1.10.1403110911150.1136@morrism-PC>",
+      "from_name": "martina morris",
+      "from_email_hash": "560ce33bfb3c8e0184fe4a0c3f92206efbc3a7fd8b6eeba690ff38f915c5012b",
+      "date": "2014-03-11T09:12:17-07:00",
+      "subject": "[R-jobs] R Package developer job at the University of Washington, Seattle",
+      "subject_clean": "[R-jobs] R Package developer job at the University of Washington, Seattle",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We have a position available for an experienced R programmer to provide support \nfor software development for statnet, a suite of R packages for Exponential \nRandom Graph Modeling (http://statnet.org -- most content is on the wiki).  The \ncurrent statnet development team includes several PhD level statisticians, some \nfaculty from other disciplines, and an independent software developer.  Funding \nis available for at least 2 years, there is some flexibility in hours (75% to \n100% is preferred), and some flexibility in work location.  The official job \ndescription (and application instructions) are here:\n\nhttps://uwhires.admin.washington.edu/eng/candidates/default.cfm?szLocationID=88\n\nsearch for req # 105022\n\nKey skills required include R and C competency; R package development \nexperience;  experience with statistical programming (esp. MCMC estimation) and \nnetwork analysis would both be a big plus.  The job will involve a mix of \nsoftware optimization and management of the process for updating the suite of \nstatnet packages with regular public releases.\n\nThe job description is written to permit a broad range of potential applicants.\n\nPlease feel free to forward this email to others who may be interested, and to \nsend me an email if you have any questions.\n\nthanks,\nMartina Morris\n\n****************************************************************\n  Professor of Sociology and Statistics\n  Director, UWCFAR Sociobehavioral and Prevention Research Core\n  Box 354322\n  University of Washington\n  Seattle, WA 98195-4322\n\n  Office:        (206) 685-3402\n  Dept Office:   (206) 543-5882, 543-7237\n  Fax:           (206) 685-7419\n\nmorrism at u.washington.edu\nhttp://faculty.washington.edu/morrism/",
+      "body_snippet": "We have a position available for an experienced R programmer to provide support \nfor software development for statnet, a suite of R packages for Exponential \nRandom Graph Modeling (http://statnet.org ",
+      "thread_id": "thread-7e35dbf01e45",
+      "thread_depth": 0,
+      "month": "2014-03"
+    },
+    {
+      "id": "msg-6e264fe90eaf",
+      "message_id": "<CADY6hMWfjyUi+aGRAu-xOE-bX7nUCcZQ7MJF_NKfbhPCi_=57Q@mail.gmail.com>",
+      "from_name": "Bill Pikounis",
+      "from_email_hash": "6738459932d1b8b5aaf7d4e87b832c34eeaa4d6823984fe79afb1dc60adfd508",
+      "date": "2014-03-20T06:31:57-04:00",
+      "subject": "[R-jobs] Individual contributors and team leaders positions in Nonclinical Statistics at Johnson & Johnson",
+      "subject_clean": "[R-jobs] Individual contributors and team leaders positions in Nonclinical Statistics at Johnson & Johnson",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Nonclinical Statistics & Computing group at Johnson & Johnson is\nsearching for individuals to help in the mission of discovering,\ndeveloping, manufacturing, and delivering beneficial medicines for\npatients. The group resides within the Janssen R&D organization in\nJohnson & Johnson's pharmaceutical segment. Realistically we need\nindividuals with skills and motivation to consistently and adaptively\nlead, connect, shape, and deliver. Proficiency with R is a critical\nperformance factor. There will be endless opportunities to\nsuccessfully contribute to the mission and to grow personally.\n\nLinks for all of the different positions follow below. Locations in\nthe United States include Spring House, Pennsylvania, and La Jolla,\nCalifornia. If you are interested, the links below contain\ndescriptions and a path to apply. Thank you for your consideration,\nand please feel free to forward this to any professionals in your\nnetwork you feel may be a good match.\n\nBill Pikounis\nHead, Nonclinical Statistics & Computing at Johnson & Johnson\n\nSenior Biostatistician: http://bit.ly/OeBKZd\nPrincipal Biostatistician: http://bit.ly/OeAKV0\nBiostatistician:  http://bit.ly/OeBlpJ\nDirector: http://bit.ly/OeCtJK",
+      "body_snippet": "The Nonclinical Statistics & Computing group at Johnson & Johnson is\nsearching for individuals to help in the mission of discovering,\ndeveloping, manufacturing, and delivering beneficial medicines for",
+      "thread_id": "thread-6e264fe90eaf",
+      "thread_depth": 0,
+      "month": "2014-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7e35dbf01e45",
+      "subject": "[R-jobs] R Package developer job at the University of Washington, Seattle",
+      "message_count": 1,
+      "participants": [
+        "martina morris"
+      ],
+      "started": "2014-03-11T09:12:17-07:00",
+      "last_reply": "2014-03-11T09:12:17-07:00",
+      "root_message_id": "msg-7e35dbf01e45"
+    },
+    {
+      "id": "thread-6e264fe90eaf",
+      "subject": "[R-jobs] Individual contributors and team leaders positions in Nonclinical Statistics at Johnson & Johnson",
+      "message_count": 1,
+      "participants": [
+        "Bill Pikounis"
+      ],
+      "started": "2014-03-20T06:31:57-04:00",
+      "last_reply": "2014-03-20T06:31:57-04:00",
+      "root_message_id": "msg-6e264fe90eaf"
+    }
+  ]
+}

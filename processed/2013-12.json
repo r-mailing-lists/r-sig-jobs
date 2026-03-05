@@ -1,0 +1,144 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-12",
+  "messages": [
+    {
+      "id": "msg-4128f753e89e",
+      "message_id": "<7FE30D24-553E-4616-9139-8113D4F246A9@picr.man.ac.uk>",
+      "from_name": "Crispin Miller",
+      "from_email_hash": "3ed728e0fc0c400697775ae4500ed09ba80b70dbe126fbe20ad6ed1b98420391",
+      "date": "2013-12-03T10:41:59Z",
+      "subject": "[R-jobs] Postdoctoral Scientist in Computational Biology",
+      "subject_clean": "[R-jobs] Postdoctoral Scientist in Computational Biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear All,\n\nWe are seeking a computational research scientist interested in studying the roles of non-coding RNAs in cancer. The successful applicant will join the Cancer Research UK RNA Biology Group at the Cancer Research UK Manchester Institute (www.cruk.manchester.ac.uk).\n\nLocated in Manchester UK, the Cancer Research UK Manchester Institute is a centre for excellence in cancer research. We occupy state-of-the-art laboratories and provide exceptional core facilities including next generation sequencing, mass-spectrometry, advanced imaging, High Performance Computing, bioinformatics, histology, and flow cytometry. We are core-funded by Cancer Research UK (www.cancerresearchuk.org), the world?s largest cancer organisation, are an Institute of The University of Manchester (www.manchester.ac.uk), and are adjacent to The Christie NHS Foundation Trust (www.christie.nhs.uk), one of the largest cancer treatment centres in Europe. These factors combine to provide an exceptional environment in which to pursue basic, translational and clinical research programmes in a vibrant and dynamic city surrounded by beautiful countryside and with excellent national and international transport links.\n\nThe RNA Biology Group is a highly interdisciplinary team that integrates software engineering, computational biology and bioinformatics with bench and clinical science, in order to perform integrated studies of transcriptional systems and how they are disrupted in cancer cells. The group has a particular focus on long non-coding RNAs (lncRNAs), and makes heavy use of global genomics technologies including RNA-seq, microarrays and quantitative protein mass spectrometry to investigate lncRNA function both in model systems (see for example (Bitton et al. 2011, Mol Syst Biol)) and in clinical cohorts.\n\nThe successful applicant will work collaboratively with bench scientists in the group to explore the role of long non-coding RNAs in regulating the dynamics of protein expression. They will be an excellent programmer and confident applying statistical approaches and techniques from machine learning.\n\nExperience in analysing complex biological datasets would be advantageous, however applicants from a purely computational background, who are able to demonstrate their ability to work successfully across disciplines, will also be considered. Excellent programming skills in a subset of R, Matlab, C, C++ or Java are a prerequisite, while parallel programming and SQL experience would both advantageous.\n\nFor more information and to apply, please visit our website at cruk.manchester.ac.uk.\n\n\n________________________________\n\n\nThis email is confidential and intended solely for the u...{{dropped:12}}",
+      "body_snippet": "Dear All,\n\nWe are seeking a computational research scientist interested in studying the roles of non-coding RNAs in cancer. The successful applicant will join the Cancer Research UK RNA Biology Group ",
+      "thread_id": "thread-4128f753e89e",
+      "thread_depth": 0,
+      "month": "2013-12"
+    },
+    {
+      "id": "msg-d178f7841bb0",
+      "message_id": "<CAOyz9G6vc4XHk9+Nkeaa9EeaqHS9uOia3o91jEsaeCD10-1OSw@mail.gmail.com>",
+      "from_name": "Michael Haenlein",
+      "from_email_hash": "7a7c9821d5ec7dac364968625f00af9b9cbbfdda551f3236b50a4feb249c6558",
+      "date": "2013-12-04T04:19:33+01:00",
+      "subject": "[R-jobs] Looking for consultant in mathematics/ statistics",
+      "subject_clean": "[R-jobs] Looking for consultant in mathematics/ statistics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\n\n\nI am looking for a consultant who can help me to solve a mathematical/\nstatistical problem I have. The problem is more conceptual in nature (How\nto solve a given problem analytically) than programming-related. Although I\nalso would need some programming support later, once the analytic solution\nhas been found. My question relates to categorical variables that are\nrepresented by underlying latent variables.\n\n\n\nIf you think you could help, please send me an email. I will then describe\nthe problem in more detail and we can agree on fees and timelines. My gut\nfeeling is that it will not take long (like a couple of hours), but I might\nbe wrong.\n\n\n\nLooking forward to hearing from you,\n\n\n\nMichael\n\n\n\n\n\nMichael Haenlein\n\nProfessor of Marketing\n\nESCP Europe\n\nParis, France\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\n\n\nI am looking for a consultant who can help me to solve a mathematical/\nstatistical problem I have. The problem is more conceptual in nature (How\nto solve a given problem analytically) tha",
+      "thread_id": "thread-d178f7841bb0",
+      "thread_depth": 0,
+      "month": "2013-12"
+    },
+    {
+      "id": "msg-868191847bfd",
+      "message_id": "<52B380A0.5090201@gmail.com>",
+      "from_name": "Ben Bolker",
+      "from_email_hash": "058f22460bce77c55c3340fec40d01e374409ed76ec5a897b62075a27eb9734c",
+      "date": "2013-12-19T18:26:24-05:00",
+      "subject": "[R-jobs] R/C++ programmer for lme4 maintenance",
+      "subject_clean": "[R-jobs] R/C++ programmer for lme4 maintenance",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I am seeking a qualified individual to do maintenance, debugging, and\ndevelopment work on `lme4`, a package written in R and C++ for fitting\nmixed models.\n\nI can initially commit funding for 0.25 year full-time equivalent,\ne.g.  3 months of full-time work or 6 months of half-time.  The\nposition is located at McMaster University in Hamilton, Ontario,\nCanada; I prefer a candidate who could attend weekly physical meetings\nin person, but would consider 100% remote/teleworking for exceptional\ncandidates. The work could be done either as an hourly employee of\nMcMaster University, or on a contract basis (details to be\narranged). The contract could be extended depending on initial results\nand success in attracting additional external funding.\n\nThe ideal candidate will be:\n\n* fluent in R and C++\n* have working knowledge of statistics, numerical optimization, and\ncomputational linear algebra, ideally at the level of a master's degree\n* be well-organized and careful, capable of working with an existing\ncode base and making thoughtful decisions about implementation and\ndocumentation\n\nThe project is hosted on [github](https://github.com/lme4/lme4/).\n\nFurther details at http://www.math.mcmaster.ca/~bolker/programmer.html .\n\n  Ben Bolker",
+      "body_snippet": "I am seeking a qualified individual to do maintenance, debugging, and\ndevelopment work on `lme4`, a package written in R and C++ for fitting\nmixed models.\n\nI can initially commit funding for 0.25 year",
+      "thread_id": "thread-868191847bfd",
+      "thread_depth": 0,
+      "month": "2013-12"
+    },
+    {
+      "id": "msg-1071e96dff3c",
+      "message_id": "<CADniDBAOc6sSP19rAwwxg0UhKa4BXGJv79D0MFTKBUaXUK5nvA@mail.gmail.com>",
+      "from_name": "Reza Khorshidi",
+      "from_email_hash": "f3be0db602a381d446a36c1bb4d80956762ba430fd450a93483dfd94b2315bdf",
+      "date": "2013-12-21T23:24:38Z",
+      "subject": "[R-jobs] Machine-learning Scientist | George Institute for Global Health & The University of Oxford",
+      "subject_clean": "[R-jobs] Machine-learning Scientist | George Institute for Global Health & The University of Oxford",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nThe George Institute for Global Health at the University of Oxford is\nseeking to appoint a machine-learning scientist to join its Healthcare\nInnovation and Evaluation Programme. The successful candidate will support\nthe team in analysis/mining and visualisation of large healthcare and\nbiomedical informatics databases (i.e., 'Big Data? in healthcare), in order\nto deliver actionable signals for healthcare decision making.\n\nThe initial work will focus on mining (e.g., testing hypotheses) several\nlarge and complex datasets, including several hundred thousands of\nindividuals' health records from national hospital registries, primary care\nrecords, UK Biobank, as well as data from several clinical trials. This is\nto be followed by developing advanced predictive models (e.g., hierarchical\nBayesian models for classification / regression / segmentation, Gaussian\nprocesses for health time-series analysis, ...), which will highlight\nhealth risks and support the relevant decision-making processes.\n\nThe post-holder will have a PhD degree in machine learning,\n(bio)statistics, biomedical engineering, or any other\n{data+computation}-heavy field with an interest in analysing large and\ncomplex datasets. The ideal candidate will also have a strong background in\nR and/or Python; experience of C/C++, Java, D3/JS, and high-performance\ncomputing will be a plus.\n\nFor informal inquires, please contact Francesca Moore:\nfrancesca.moore at georgeinstitute.ox.ac.uk\n\nOr follow the links below:\n\nhttps://www.recruit.ox.ac.uk/pls/hrislivedoc/docs/0001766422.pdf\n\nhttps://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form\n\nBest regards,\nReza Khorshidi, DPhil (Oxon)\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nThe George Institute for Global Health at the University of Oxford is\nseeking to appoint a machine-learning scientist to join its Healthcare\nInnovation and Evaluation Programme. The success",
+      "thread_id": "thread-1071e96dff3c",
+      "thread_depth": 0,
+      "month": "2013-12"
+    },
+    {
+      "id": "msg-fd30a3fece39",
+      "message_id": "<alpine.LRH.2.01.1312221009550.12097@hymn03.u.washington.edu>",
+      "from_name": "DAVID M LEVINE",
+      "from_email_hash": "f4189b0e8df53dbbbe158832ffc511639e737256d238ec7a8e8583bd94cd3e7b",
+      "date": "2013-12-22T10:09:55-08:00",
+      "subject": "[R-jobs] Data Analyst in Statistical Genetics",
+      "subject_clean": "[R-jobs] Data Analyst in Statistical Genetics",
+      "in_reply_to": "<alpine.LRH.2.01.1312200739330.21872@hymn03.u.washington.edu>",
+      "references": [],
+      "body_plain": "Our group in the Biostatistics Department at the University of Washington is currently seeking a data analyst to work on projects with genetic data. Our computing\nenvironment is almost exclusively R and we have developed several R and BioConductor packages.\n\nPosition Description: The Department of Biostatistics of the University of Washington, through the Center for Biomedical Statistics and the Genetics Coordinating Center, is engaging in an increasing number of analyses of genetic data, mainly from human population samples. These data sets include whole-genome sets of single nucleotide polymorphism data from microarrays and next-generation sequencing, as well as a variety of phenotypic traits of medical importance. All of these data sets are characterized by large size and complex interaction structure. The position requires care, efficiency and resourcefulness in the management of these data, in applying new methods of statistical analyses and in interpreting results. This requires exceptional computational and statistical skills. Specific knowledge of\nstatistical genetics is desirable, but not essential. The specific projects generating the data change from time to time but they usually address issues of human health: either the causes of human disease or the causes of response to pharmaceuticals. The projects are from academic, non-profit and industrial institutions.\n\nKey Responsibilities:\nProvide data analysis, programming, experimental design, interpretation and reporting of results for statistical genetics/genomics projects, both independently and in\ncollaboration with other staff of the Genetics Coordinating Center (GCC). These responsibilities involve the following activities:\n- Create, manipulate, and merge large and complex data sets\n- Work with GCC faculty and staff to develop goals and strategies for data analysis and experimental design\n- Stay informed about new methods in statistical genetics and understand how to apply them appropriately\n- Program statistical data analysis of large data sets efficiently using parallel computing and other resources\n- Develop, package and document software for use by GCC staff and others\n- Summarize and communicate results of analyses to GCC staff and clinical collaborators\n- Interpret results; identify potential problems and their solutions\n- Prepare results for publications, work with collaborations in writing publications and, in some cases, take the lead in writing publications.\n\nRequirements: MS or (preferably) PhD and 4 years of experience in a quantitative field of science where management and interpretation of large and complex data sets was\nundertaken. This training should have made extensive use of advanced computational and statistical techniques.\n\n- Knowledge of or ability to quickly learn both the biology and statistics required for analysis of projects relating to translational, genetic, or genomic research.\n- Ability to detect problems in data or analytic results and find appropriate remedies\n- Experience in statistical software packages (e.g. SAS, R, STATA, S-Plus, SPSS) and knowledge of or demonstrated ability to learn specialized software packages for the\nanalysis of genetic and genomic data.\n- Excellent communication skills and ability to translate complex genetic or medical research questions into statistical questions.\n- Ability to write clearly and prepare results for publication\n\nDesired: Experience in management, analysis and interpretation of large and complex scientific data sets.\n\nFor further details see UW Req# 100529 (https://uwhires.admin.washington.edu/eng/candidates/default.cfm?szCategory=jobprofile&szOrderID=100529)\n\nDavid Levine (levined at uw.edu)",
+      "body_snippet": "Our group in the Biostatistics Department at the University of Washington is currently seeking a data analyst to work on projects with genetic data. Our computing\nenvironment is almost exclusively R a",
+      "thread_id": "thread-fd30a3fece39",
+      "thread_depth": 0,
+      "month": "2013-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4128f753e89e",
+      "subject": "[R-jobs] Postdoctoral Scientist in Computational Biology",
+      "message_count": 1,
+      "participants": [
+        "Crispin Miller"
+      ],
+      "started": "2013-12-03T10:41:59+00:00",
+      "last_reply": "2013-12-03T10:41:59+00:00",
+      "root_message_id": "msg-4128f753e89e"
+    },
+    {
+      "id": "thread-d178f7841bb0",
+      "subject": "[R-jobs] Looking for consultant in mathematics/ statistics",
+      "message_count": 1,
+      "participants": [
+        "Michael Haenlein"
+      ],
+      "started": "2013-12-04T04:19:33+01:00",
+      "last_reply": "2013-12-04T04:19:33+01:00",
+      "root_message_id": "msg-d178f7841bb0"
+    },
+    {
+      "id": "thread-868191847bfd",
+      "subject": "[R-jobs] R/C++ programmer for lme4 maintenance",
+      "message_count": 1,
+      "participants": [
+        "Ben Bolker"
+      ],
+      "started": "2013-12-19T18:26:24-05:00",
+      "last_reply": "2013-12-19T18:26:24-05:00",
+      "root_message_id": "msg-868191847bfd"
+    },
+    {
+      "id": "thread-1071e96dff3c",
+      "subject": "[R-jobs] Machine-learning Scientist | George Institute for Global Health & The University of Oxford",
+      "message_count": 1,
+      "participants": [
+        "Reza Khorshidi"
+      ],
+      "started": "2013-12-21T23:24:38+00:00",
+      "last_reply": "2013-12-21T23:24:38+00:00",
+      "root_message_id": "msg-1071e96dff3c"
+    },
+    {
+      "id": "thread-fd30a3fece39",
+      "subject": "[R-jobs] Data Analyst in Statistical Genetics",
+      "message_count": 1,
+      "participants": [
+        "DAVID M LEVINE"
+      ],
+      "started": "2013-12-22T10:09:55-08:00",
+      "last_reply": "2013-12-22T10:09:55-08:00",
+      "root_message_id": "msg-fd30a3fece39"
+    }
+  ]
+}

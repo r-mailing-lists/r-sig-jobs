@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2007-12",
+  "messages": [
+    {
+      "id": "msg-1bce7d6abd98",
+      "message_id": "<1A68FCB28DE72F4BA3B967E6506CCE43012B4920@mildnpexmb01.maninvestments.ad.man.com>",
+      "from_name": "Burrows, Gemma (MI London)",
+      "from_email_hash": "5d16559095d58080c99e5da0398b09e13880f13a335aa2198cdabeb764c2bd53",
+      "date": "2007-12-19T17:53:36Z",
+      "subject": "[R-jobs] JOB - R Programmer",
+      "subject_clean": "[R-jobs] JOB - R Programmer",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Man Investments is the Asset Management Division of Man Group plc which is listed on the London Stock Exchange (EMG.L) and is a constituent of the FTSE 100 Index. Man Investments is a global leader in alternative investments providing innovative products and tailor made solutions for private and institutional clients. Through its diverse portfolio of managers it has developed in-depth knowledge and specialised strengths in differing alternative asset classes - hedge funds, managed futures, leveraged finance and convertible bonds. Man Investments has a powerful presence worldwide, employing over 1,600 employees located in 13 countries, with key centres in London and Pf?ffikon (Switzerland), and with offices in Chicago, Dubai, Hong Kong, Montevideo, Nassau, New York, Singapore, Sydney, Tokyo and Toronto.\n\nMan Investments provides a dynamic working environment in the fast-paced world of alternative investment management with ample opportunities for personal development. Intelligence and creativity are highly valued as the individual motivation and professionalism of our people plays a critical role in our success.\n\nAHL has a long history of profitably trading the global financial and commodity markets using model-based purely systematic approaches and currently manages investments of over US$21B.  The department undertakes a diverse range of activities including model-based prediction, portfolio construction, risk management and trade execution analysis.\n\nThis short-term role requires the re-coding of a suite of existing S-Plus functions into the R language and providing a framework for future library development using R. Some of the existing S-Plus functions access external compiled libraries (eg. NAG). The main platform will be x86/Linux although some SPARC/Solaris development may also be involved.\n\nSkilled R Programmer (Fixed term contract) \n\nResponsibilities\n\n*\tRe-code an existing suite of S-Plus functions into the R language\n*\tProvide help files and documentation for the new functions\n*\tProvide a convenient interface for R to connect with other languages and libraries, e.g. Java, NAG\n*\tProduce a prototype environment for future library development\n\nRequirements\n\n*\t2:1 degree, or above, in computer science, applied statistics or another relevant discipline\n*\tR/S plus and C software development experience and maintenance\n*\tDesign and implementation of efficient algorithms especially for handling large datasets\n*\tData visualisation and analysis\n*\tExperience of NAG and SQL advantageous\n\n\nApplications\n\nClosing date for applications is 31st January 2008.   \n\nPlease refer to the careers section of the Man Group website (http://www.mangroupplc.com) for further details.\n\nPlease email your application letter, CV to recruitment at maninvestments.com\n\n\n\n\n\n\n**********************************************************************\nThe contents of this email are for the named addressee(s) only.\nIt contains information which may be confidential and privileged.\nIf you are not the intended recipient, please notify the sender\nimmediately, destroy this email and any attachments and do not\notherwise disclose or use them. Email transmission is not a\nsecure method of communication and Man Investments cannot accept\nresponsibility for the completeness or accuracy of this email or\nany attachments. Whilst Man Investments makes every effort to keep\nits network free from viruses, it does not accept responsibility\nfor any computer virus which might be transferred by way of this\nemail or any attachments. This email does not constitute a request,\noffer, recommendation or solicitation of any kind to buy, subscribe,\nsell or redeem any investment instruments or to perform other such\ntransactions of any kind. Man Investments reserves the right to\nmonitor, record and retain all electronic communications through\nits network to ensure the integrity of its systems, for record\nkeeping and regulatory purposes. \n\nVisit us at: www.maninvestments.com \n\n**********************************************************************\nPlease copy the below link into an Internet browser to view our Christmas wishes to you (Requires Adobe Flash version 7)\n\t\nhttp://www.sendasinger.com/ManGroup/\n\t\nWishing you all a happy Festive Season",
+      "body_snippet": "Man Investments is the Asset Management Division of Man Group plc which is listed on the London Stock Exchange (EMG.L) and is a constituent of the FTSE 100 Index. Man Investments is a global leader in",
+      "thread_id": "thread-1bce7d6abd98",
+      "thread_depth": 0,
+      "month": "2007-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-1bce7d6abd98",
+      "subject": "[R-jobs] JOB - R Programmer",
+      "message_count": 1,
+      "participants": [
+        "Burrows, Gemma (MI London)"
+      ],
+      "started": "2007-12-19T17:53:36+00:00",
+      "last_reply": "2007-12-19T17:53:36+00:00",
+      "root_message_id": "msg-1bce7d6abd98"
+    }
+  ]
+}

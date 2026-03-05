@@ -1,0 +1,800 @@
+From Amy@Heym@n @end|ng |rom |@o@org  Tue Jan  6 16:49:32 2015
+From: Amy@Heym@n @end|ng |rom |@o@org (Heyman, Amy (ESS))
+Date: Tue, 6 Jan 2015 16:49:32 +0100
+Subject: [R-jobs] FAO Statistical Yearbook consultant
+Message-ID: <BD05E6F68165E141B3744375022356F4364A03082C@HQEXDB01.hq.un.fao.org>
+
+FAO Statistical Yearbook consultant
+
+The Food and Agriculture Organization (www.fao.org) is a United Nations agency that leads international efforts to reduce hunger in the world. This is achieved through three main goals: the eradication of hunger, food insecurity and malnutrition; the elimination of poverty and the driving forward of economic and social progress for all; and, the sustainable management and utilization of natural resources, including land, water, air, climate and genetic resources for the benefit of present and future generations.
+ 
+The Statistical Yearbook is a corporate publication that is data driven. It presents a visual synthesis of the major trends and factors shaping food and agriculture, and the social and economic dimensions that drive them. In doing so, it strives to serve as a unique reference point on the state of world food and agriculture for policy-makers, donor agencies, researchers and analysts as well as the general public. The suite of products includes yearbooks and pocketbooks at both the global and regional levels (www.fao.org/economic/ess/ess-publications/ess-yearbook/en/).
+ 
+The publication is generated with the statistical software R in combination with the typesetting program LaTeX. R downloads and imports the data, constructs new variables, computes aggregations, and produces the visualizations (charts, tables, maps, etc.), while LaTeX typesets the product. The two programs therefore work together to provide a seamless process in generating data publications and therefore more efficient dissemination tools.  We have a current opportunity for someone to lead this work.
+ 
+Responsibilities include:
+ 
+- Downloading the publication-specific indicators (data & metadata).
+- Conduct some data analysis and provide key messages associated with the visualizations.
+- Produce charts, maps, tables using a combination of R and LaTeX scripts.
+- Guarantee the consistency among data, visualizations, and text.
+- Make any changes to definitions, bibliography and other metadata in the book.
+- Any other ad hoc activities that may be required in the production process.
+ 
+The incumbent will need an intermediate level of R and a beginner/intermediate level of LaTeX.
+ 
+The length of the consultancy is initially six months but could be extended with satisfactory performance.
+ 
+Please send CV, some sample code, and a description of prior use of R and LaTeX to Amy Heyman, Dissemination Team Leader amy.heyman at fao.org.
+
+From m@rk|opre@t| @end|ng |rom y@hoo@com  Tue Jan  6 18:32:15 2015
+From: m@rk|opre@t| @end|ng |rom y@hoo@com (Mark LoPresti)
+Date: Tue, 6 Jan 2015 17:32:15 +0000 (UTC)
+Subject: [R-jobs] FAO Statistical Yearbook consultant
+In-Reply-To: <BD05E6F68165E141B3744375022356F4364A03082C@HQEXDB01.hq.un.fao.org>
+References: <BD05E6F68165E141B3744375022356F4364A03082C@HQEXDB01.hq.un.fao.org>
+Message-ID: <1594748941.2715943.1420565536005.JavaMail.yahoo@jws100185.mail.ne1.yahoo.com>
+
+Hi Amy, 
+
+one key question: can this position work remotely?
+Thank you,
+Mark LoPresti
+      From: "Heyman, Amy (ESS)" <Amy.Heyman at fao.org>
+ To: "r-sig-jobs at r-project.org" <r-sig-jobs at r-project.org> 
+ Sent: Tuesday, January 6, 2015 10:49 AM
+ Subject: [R-jobs] FAO Statistical Yearbook consultant
+   
+FAO Statistical Yearbook consultant
+
+The Food and Agriculture Organization (www.fao.org) is a United Nations agency that leads international efforts to reduce hunger in the world. This is achieved through three main goals: the eradication of hunger, food insecurity and malnutrition; the elimination of poverty and the driving forward of economic and social progress for all; and, the sustainable management and utilization of natural resources, including land, water, air, climate and genetic resources for the benefit of present and future generations.
+ 
+The Statistical Yearbook is a corporate publication that is data driven. It presents a visual synthesis of the major trends and factors shaping food and agriculture, and the social and economic dimensions that drive them. In doing so, it strives to serve as a unique reference point on the state of world food and agriculture for policy-makers, donor agencies, researchers and analysts as well as the general public. The suite of products includes yearbooks and pocketbooks at both the global and regional levels (www.fao.org/economic/ess/ess-publications/ess-yearbook/en/).
+ 
+The publication is generated with the statistical software R in combination with the typesetting program LaTeX. R downloads and imports the data, constructs new variables, computes aggregations, and produces the visualizations (charts, tables, maps, etc.), while LaTeX typesets the product. The two programs therefore work together to provide a seamless process in generating data publications and therefore more efficient dissemination tools.? We have a current opportunity for someone to lead this work.
+ 
+Responsibilities include:
+ 
+- Downloading the publication-specific indicators (data & metadata).
+- Conduct some data analysis and provide key messages associated with the visualizations.
+- Produce charts, maps, tables using a combination of R and LaTeX scripts.
+- Guarantee the consistency among data, visualizations, and text.
+- Make any changes to definitions, bibliography and other metadata in the book.
+- Any other ad hoc activities that may be required in the production process.
+ 
+The incumbent will need an intermediate level of R and a beginner/intermediate level of LaTeX.
+ 
+The length of the consultancy is initially six months but could be extended with satisfactory performance.
+ 
+Please send CV, some sample code, and a description of prior use of R and LaTeX to Amy Heyman, Dissemination Team Leader amy.heyman at fao.org.
+_______________________________________________
+R-sig-jobs mailing list
+R-sig-jobs at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+
+
+  
+	[[alternative HTML version deleted]]
+
+
+
+From m@rt|n@@||bert@ @end|ng |rom gm@||@com  Mon Jan 12 08:43:59 2015
+From: m@rt|n@@||bert@ @end|ng |rom gm@||@com (=?UTF-8?B?TcSBcnRpxYbFoSBMaWJlcnRz?=)
+Date: Mon, 12 Jan 2015 09:43:59 +0200
+Subject: [R-jobs] FAO Statistical Yearbook consultant
+In-Reply-To: <1594748941.2715943.1420565536005.JavaMail.yahoo@jws100185.mail.ne1.yahoo.com>
+References: <BD05E6F68165E141B3744375022356F4364A03082C@HQEXDB01.hq.un.fao.org>
+	<1594748941.2715943.1420565536005.JavaMail.yahoo@jws100185.mail.ne1.yahoo.com>
+Message-ID: <CANa=LjaackaJCMKkAvabvnsQqiDr4A2DL_g-HfXVcgjAE7uU1A@mail.gmail.com>
+
+Dear Amy,
+
+I have the same question as Mark. Is it possible to work from abroad -
+remotely?
+
+
+Best regards,
+Martins
+
+
+On 6 January 2015 at 19:32, Mark LoPresti <marklopresti at yahoo.com> wrote:
+
+> Hi Amy,
+>
+> one key question: can this position work remotely?
+> Thank you,
+> Mark LoPresti
+>       From: "Heyman, Amy (ESS)" <Amy.Heyman at fao.org>
+>  To: "r-sig-jobs at r-project.org" <r-sig-jobs at r-project.org>
+>  Sent: Tuesday, January 6, 2015 10:49 AM
+>  Subject: [R-jobs] FAO Statistical Yearbook consultant
+>
+> FAO Statistical Yearbook consultant
+>
+> The Food and Agriculture Organization (www.fao.org) is a United Nations
+> agency that leads international efforts to reduce hunger in the world. This
+> is achieved through three main goals: the eradication of hunger, food
+> insecurity and malnutrition; the elimination of poverty and the driving
+> forward of economic and social progress for all; and, the sustainable
+> management and utilization of natural resources, including land, water,
+> air, climate and genetic resources for the benefit of present and future
+> generations.
+>
+> The Statistical Yearbook is a corporate publication that is data driven.
+> It presents a visual synthesis of the major trends and factors shaping food
+> and agriculture, and the social and economic dimensions that drive them. In
+> doing so, it strives to serve as a unique reference point on the state of
+> world food and agriculture for policy-makers, donor agencies, researchers
+> and analysts as well as the general public. The suite of products includes
+> yearbooks and pocketbooks at both the global and regional levels (
+> www.fao.org/economic/ess/ess-publications/ess-yearbook/en/).
+>
+> The publication is generated with the statistical software R in
+> combination with the typesetting program LaTeX. R downloads and imports the
+> data, constructs new variables, computes aggregations, and produces the
+> visualizations (charts, tables, maps, etc.), while LaTeX typesets the
+> product. The two programs therefore work together to provide a seamless
+> process in generating data publications and therefore more efficient
+> dissemination tools.  We have a current opportunity for someone to lead
+> this work.
+>
+> Responsibilities include:
+>
+> - Downloading the publication-specific indicators (data & metadata).
+> - Conduct some data analysis and provide key messages associated with the
+> visualizations.
+> - Produce charts, maps, tables using a combination of R and LaTeX scripts.
+> - Guarantee the consistency among data, visualizations, and text.
+> - Make any changes to definitions, bibliography and other metadata in the
+> book.
+> - Any other ad hoc activities that may be required in the production
+> process.
+>
+> The incumbent will need an intermediate level of R and a
+> beginner/intermediate level of LaTeX.
+>
+> The length of the consultancy is initially six months but could be
+> extended with satisfactory performance.
+>
+> Please send CV, some sample code, and a description of prior use of R and
+> LaTeX to Amy Heyman, Dissemination Team Leader amy.heyman at fao.org.
+> _______________________________________________
+> R-sig-jobs mailing list
+> R-sig-jobs at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+>
+>
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-sig-jobs mailing list
+> R-sig-jobs at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+>
+
+
+
+-- 
+Dr. M?rti?? Liberts
++371 26 411 543 (mobile)
++371 67 366 833 (office)
+http://home.lu.lv/~pm90015/
+
+	[[alternative HTML version deleted]]
+
+
+
+From @@mue|@|e @end|ng |rom gm@||@com  Mon Jan 12 09:43:55 2015
+From: @@mue|@|e @end|ng |rom gm@||@com (=?UTF-8?Q?Samuel_L=C3=AA?=)
+Date: Mon, 12 Jan 2015 09:43:55 +0100
+Subject: [R-jobs] FAO Statistical Yearbook consultant
+In-Reply-To: <CANa=LjaackaJCMKkAvabvnsQqiDr4A2DL_g-HfXVcgjAE7uU1A@mail.gmail.com>
+References: <BD05E6F68165E141B3744375022356F4364A03082C@HQEXDB01.hq.un.fao.org>
+	<1594748941.2715943.1420565536005.JavaMail.yahoo@jws100185.mail.ne1.yahoo.com>
+	<CANa=LjaackaJCMKkAvabvnsQqiDr4A2DL_g-HfXVcgjAE7uU1A@mail.gmail.com>
+Message-ID: <CABEr5Bum-ZqZEKJaFEM0m=HHu2=BaoHAbUpX8vv+N73E8fM7XA@mail.gmail.com>
+
+Dear Amy,
+
+Same question here: do you accept remote applicants?
+
+Best Regards,
+Samuel
+
+On Mon, Jan 12, 2015 at 8:43 AM, M?rti?? Liberts <martins.liberts at gmail.com>
+wrote:
+
+> Dear Amy,
+>
+> I have the same question as Mark. Is it possible to work from abroad -
+> remotely?
+>
+>
+> Best regards,
+> Martins
+>
+>
+> On 6 January 2015 at 19:32, Mark LoPresti <marklopresti at yahoo.com> wrote:
+>
+> > Hi Amy,
+> >
+> > one key question: can this position work remotely?
+> > Thank you,
+> > Mark LoPresti
+> >       From: "Heyman, Amy (ESS)" <Amy.Heyman at fao.org>
+> >  To: "r-sig-jobs at r-project.org" <r-sig-jobs at r-project.org>
+> >  Sent: Tuesday, January 6, 2015 10:49 AM
+> >  Subject: [R-jobs] FAO Statistical Yearbook consultant
+> >
+> > FAO Statistical Yearbook consultant
+> >
+> > The Food and Agriculture Organization (www.fao.org) is a United Nations
+> > agency that leads international efforts to reduce hunger in the world.
+> This
+> > is achieved through three main goals: the eradication of hunger, food
+> > insecurity and malnutrition; the elimination of poverty and the driving
+> > forward of economic and social progress for all; and, the sustainable
+> > management and utilization of natural resources, including land, water,
+> > air, climate and genetic resources for the benefit of present and future
+> > generations.
+> >
+> > The Statistical Yearbook is a corporate publication that is data driven.
+> > It presents a visual synthesis of the major trends and factors shaping
+> food
+> > and agriculture, and the social and economic dimensions that drive them.
+> In
+> > doing so, it strives to serve as a unique reference point on the state of
+> > world food and agriculture for policy-makers, donor agencies, researchers
+> > and analysts as well as the general public. The suite of products
+> includes
+> > yearbooks and pocketbooks at both the global and regional levels (
+> > www.fao.org/economic/ess/ess-publications/ess-yearbook/en/).
+> >
+> > The publication is generated with the statistical software R in
+> > combination with the typesetting program LaTeX. R downloads and imports
+> the
+> > data, constructs new variables, computes aggregations, and produces the
+> > visualizations (charts, tables, maps, etc.), while LaTeX typesets the
+> > product. The two programs therefore work together to provide a seamless
+> > process in generating data publications and therefore more efficient
+> > dissemination tools.  We have a current opportunity for someone to lead
+> > this work.
+> >
+> > Responsibilities include:
+> >
+> > - Downloading the publication-specific indicators (data & metadata).
+> > - Conduct some data analysis and provide key messages associated with the
+> > visualizations.
+> > - Produce charts, maps, tables using a combination of R and LaTeX
+> scripts.
+> > - Guarantee the consistency among data, visualizations, and text.
+> > - Make any changes to definitions, bibliography and other metadata in the
+> > book.
+> > - Any other ad hoc activities that may be required in the production
+> > process.
+> >
+> > The incumbent will need an intermediate level of R and a
+> > beginner/intermediate level of LaTeX.
+> >
+> > The length of the consultancy is initially six months but could be
+> > extended with satisfactory performance.
+> >
+> > Please send CV, some sample code, and a description of prior use of R and
+> > LaTeX to Amy Heyman, Dissemination Team Leader amy.heyman at fao.org.
+> > _______________________________________________
+> > R-sig-jobs mailing list
+> > R-sig-jobs at r-project.org
+> > https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+> >
+> >
+> >
+> >         [[alternative HTML version deleted]]
+> >
+> > _______________________________________________
+> > R-sig-jobs mailing list
+> > R-sig-jobs at r-project.org
+> > https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+> >
+>
+>
+>
+> --
+> Dr. M?rti?? Liberts
+> +371 26 411 543 (mobile)
+> +371 67 366 833 (office)
+> http://home.lu.lv/~pm90015/
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-sig-jobs mailing list
+> R-sig-jobs at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+>
+
+	[[alternative HTML version deleted]]
+
+
+
+From Amy@Heym@n @end|ng |rom |@o@org  Mon Jan 12 15:55:13 2015
+From: Amy@Heym@n @end|ng |rom |@o@org (Heyman, Amy (ESS))
+Date: Mon, 12 Jan 2015 15:55:13 +0100
+Subject: [R-jobs] FAO Statistical Yearbook consultant
+In-Reply-To: <CABEr5Bum-ZqZEKJaFEM0m=HHu2=BaoHAbUpX8vv+N73E8fM7XA@mail.gmail.com>
+References: <BD05E6F68165E141B3744375022356F4364A03082C@HQEXDB01.hq.un.fao.org>
+	<1594748941.2715943.1420565536005.JavaMail.yahoo@jws100185.mail.ne1.yahoo.com>
+	<CANa=LjaackaJCMKkAvabvnsQqiDr4A2DL_g-HfXVcgjAE7uU1A@mail.gmail.com>
+	<CABEr5Bum-ZqZEKJaFEM0m=HHu2=BaoHAbUpX8vv+N73E8fM7XA@mail.gmail.com>
+Message-ID: <BD05E6F68165E141B3744375022356F4364A0EB919@HQEXDB01.hq.un.fao.org>
+
+Dear Mr. L?,
+
+Thank you for your email. We are looking for somebody to work in situ.
+
+Many thanks,
+Amy
+
+
+From: Samuel L? [mailto:samuel.le at gmail.com]
+Sent: 12 January 2015 09:44
+To: M?rti?? Liberts
+Cc: Mark LoPresti; r-sig-jobs at r-project.org; Heyman, Amy (ESS)
+Subject: Re: [R-jobs] FAO Statistical Yearbook consultant
+
+Dear Amy,
+Same question here: do you accept remote applicants?
+Best Regards,
+Samuel
+
+On Mon, Jan 12, 2015 at 8:43 AM, M?rti?? Liberts <martins.liberts at gmail.com<mailto:martins.liberts at gmail.com>> wrote:
+Dear Amy,
+
+I have the same question as Mark. Is it possible to work from abroad -
+remotely?
+
+
+Best regards,
+Martins
+
+
+On 6 January 2015 at 19:32, Mark LoPresti <marklopresti at yahoo.com<mailto:marklopresti at yahoo.com>> wrote:
+
+> Hi Amy,
+>
+> one key question: can this position work remotely?
+> Thank you,
+> Mark LoPresti
+>       From: "Heyman, Amy (ESS)" <Amy.Heyman at fao.org<mailto:Amy.Heyman at fao.org>>
+>  To: "r-sig-jobs at r-project.org<mailto:r-sig-jobs at r-project.org>" <r-sig-jobs at r-project.org<mailto:r-sig-jobs at r-project.org>>
+>  Sent: Tuesday, January 6, 2015 10:49 AM
+>  Subject: [R-jobs] FAO Statistical Yearbook consultant
+>
+> FAO Statistical Yearbook consultant
+>
+> The Food and Agriculture Organization (www.fao.org<http://www.fao.org>) is a United Nations
+> agency that leads international efforts to reduce hunger in the world. This
+> is achieved through three main goals: the eradication of hunger, food
+> insecurity and malnutrition; the elimination of poverty and the driving
+> forward of economic and social progress for all; and, the sustainable
+> management and utilization of natural resources, including land, water,
+> air, climate and genetic resources for the benefit of present and future
+> generations.
+>
+> The Statistical Yearbook is a corporate publication that is data driven.
+> It presents a visual synthesis of the major trends and factors shaping food
+> and agriculture, and the social and economic dimensions that drive them. In
+> doing so, it strives to serve as a unique reference point on the state of
+> world food and agriculture for policy-makers, donor agencies, researchers
+> and analysts as well as the general public. The suite of products includes
+> yearbooks and pocketbooks at both the global and regional levels (
+> www.fao.org/economic/ess/ess-publications/ess-yearbook/en/<http://www.fao.org/economic/ess/ess-publications/ess-yearbook/en/>).
+>
+> The publication is generated with the statistical software R in
+> combination with the typesetting program LaTeX. R downloads and imports the
+> data, constructs new variables, computes aggregations, and produces the
+> visualizations (charts, tables, maps, etc.), while LaTeX typesets the
+> product. The two programs therefore work together to provide a seamless
+> process in generating data publications and therefore more efficient
+> dissemination tools.  We have a current opportunity for someone to lead
+> this work.
+>
+> Responsibilities include:
+>
+> - Downloading the publication-specific indicators (data & metadata).
+> - Conduct some data analysis and provide key messages associated with the
+> visualizations.
+> - Produce charts, maps, tables using a combination of R and LaTeX scripts.
+> - Guarantee the consistency among data, visualizations, and text.
+> - Make any changes to definitions, bibliography and other metadata in the
+> book.
+> - Any other ad hoc activities that may be required in the production
+> process.
+>
+> The incumbent will need an intermediate level of R and a
+> beginner/intermediate level of LaTeX.
+>
+> The length of the consultancy is initially six months but could be
+> extended with satisfactory performance.
+>
+> Please send CV, some sample code, and a description of prior use of R and
+> LaTeX to Amy Heyman, Dissemination Team Leader amy.heyman at fao.org<mailto:amy.heyman at fao.org>.
+> _______________________________________________
+> R-sig-jobs mailing list
+> R-sig-jobs at r-project.org<mailto:R-sig-jobs at r-project.org>
+> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+>
+>
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-sig-jobs mailing list
+> R-sig-jobs at r-project.org<mailto:R-sig-jobs at r-project.org>
+> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+>
+
+
+--
+Dr. M?rti?? Liberts
++371 26 411 543<tel:%2B371%2026%20411%20543> (mobile)
++371 67 366 833<tel:%2B371%2067%20366%20833> (office)
+http://home.lu.lv/~pm90015/
+
+        [[alternative HTML version deleted]]
+
+_______________________________________________
+R-sig-jobs mailing list
+R-sig-jobs at r-project.org<mailto:R-sig-jobs at r-project.org>
+https://stat.ethz.ch/mailman/listinfo/r-sig-jobs
+
+
+	[[alternative HTML version deleted]]
+
+
+From @|ex@@|ng|eton @end|ng |rom ||verpoo|@@c@uk  Tue Jan 27 08:47:02 2015
+From: @|ex@@|ng|eton @end|ng |rom ||verpoo|@@c@uk (Alex Singleton)
+Date: Tue, 27 Jan 2015 07:47:02 +0000
+Subject: [R-jobs] Five PhD Awards in Retail Big Data and Geographic Data
+ Science (UCL and University of Liverpool)
+Message-ID: <CAAHW_U50cj0yu8Uj=u5TvZHYLu_D7x6cgGkiCMihbo9DyOB1Og@mail.gmail.com>
+
+Deadline - 6th February 2015
+
+Five PhD awards to begin September 2015, (one including an additional MRes
+award in Urban Sustainability and Resilience in collaboration with UCL?s
+Centre for Urban Sustainability and Resilience), are available for work
+associated with the Economic and Social Research Council (ESRC) funded
+Consumer Data Research Centre, based at University College London (UCL) and
+the University of Liverpool. One of the studentships is the Boots Health
+Informatics Award that will have specific focus upon health and wellbeing.
+
+The awards are open to social scientists with a background in geography,
+social statistics, political science, applied mathematics, planning or
+sociology, to work with the retail sector as part of an exciting
+multidisciplinary research centre. Working with academics and the retail
+industry, you will investigate multidisciplinary topics such as the future
+of the high street, the development and application of new methods of
+retail analysis, the analysis of online and social media data relevant to
+retailing, or the relationship between online and conventional shopping
+opportunities.
+
+The Boots Health Informatics PhD Scholarship 2015 will provide an
+opportunity to work with cutting-edge data science technologies while
+carrying out pioneering research in Geographic Information Science. The
+successful applicant will also work in collaboration with the Boots? data
+analytics team and gain first-hand experience of working with a range of
+unique consumer insight datasets.
+
+Geographic Data Science at the Consumer Data Research Centre (CDRC)
+www.cdrc.ac.uk
+
+The CDRC is a new Big Data investment that is passionate about data and
+unlocking value through retail analytics and linkage to other Big Data. We
+apply advanced social science analytics to better understand the
+motivations and behaviours of consumers, and develop applications that are
+relevant right across society. Award holders will be responsible for
+developing and applying analytics, and linking datasets in order to develop
+insights into today?s dynamic and fast-moving consumer markets. They will
+join a team of researchers and retail analysts that is seeking to reshape
+the ways in which consumer data can be used for the benefit of society at
+large. You will also gain first- hand experience of working with one or
+more of the UK?s leading retailers.
+
+Funding
+
+University of Liverpool: 2 x 3 year ESRC North West Doctoral Training
+Centre (DTC) Research Studentships
+
+Both studentships include an annual tax-free maintenance stipend for
+full-time students of ?14,210*. In addition, the studentship will pay for
+all tuition fees.
+
+University College London: 1 x 3 year ESRC project linked DTC Research
+Studentship; 1 x 3 year UCL funded Research Studentship; 1 x four year
+(1+3) ESRC/EPSRC multidisciplinary studentship
+
+All studentships include an annual tax-free maintenance stipend for
+full-time students of ?14,180* and an additional ?2,000 London Allowance.
+In addition, the studentship will pay for all tuition fees.
+
+In both the UCL and North West ESRC DTCs, Research Students will have
+access to central funds to cover research related expenses, fieldwork,
+collaborations and overseas institutional visits. Successful candidates may
+be eligible, dependent upon circumstances, for stipend enhancements in
+relation to multidisciplinary research and/or use of advanced quantitative
+methods.
+
+* This is an indicative amount. The exact amount is confirmed by RCUK
+annually.?
+
+Entry Requirements
+
+Successful applicants will have a 1st class or high upper 2nd class BSc
+degree or an MSc with Merit or Distinction in a quantitative social science
+discipline. They must share our passion for data and be equally fascinated
+by what we can learn from them. In addition, we welcome candidates that
+also bring some practical experience gained in a commercial setting. There
+are strict ESRC eligibility criteria, so please see
+http://www.esrc.ac.uk/funding-and-guidance/postgraduates/prospective-students/eligibility/index.aspx
+before
+applying.
+
+The CDRC Website is http://cdrc.ac.uk/. To apply, please submit a CV and
+supporting letter of application, demonstrating how you feel your skills
+and experience are relevant to the CDRC, to Sarah Sheppard
+s.sheppard at ucl.ac.uk. Please also state whether you would wish to be
+considered for the 4 year ESRC/EPSRC multidisciplinary studentship and
+whether you would like to be based at the University of Liverpool or UCL.
+Candidates must also include a clear statement that they have read and
+understood the ESRC eligibility criteria and confirm how they fulfill them.
+
+-- 
+Professor Alex Singleton
+Chair of Geographic Information Science
+Department of Geography and Planning
+University of Liverpool
+Email: alex.singleton at liverpool.ac.uk
+Tel: 0151 7943108
+Website: http://www.alex-singleton.com
+Twitter: alexsingleton
+Skype: alexsingleton
+
+	[[alternative HTML version deleted]]
+
+
+
+From @@mcgurn@gh@n @end|ng |rom dundee@@c@uk  Mon Feb  2 15:47:48 2015
+From: @@mcgurn@gh@n @end|ng |rom dundee@@c@uk (Stuart McGurnaghan (Staff))
+Date: Mon, 2 Feb 2015 14:47:48 +0000
+Subject: [R-jobs] Software Developer Position
+Message-ID: <DBXPR04MB318527BDD8891547DD70B79C13C0@DBXPR04MB318.eurprd04.prod.outlook.com>
+
+Where:                       University of Dundee, Scotland UK
+
+Salary range:           Grade 7 (?30,434 - ?32,277) REF: MDN0953
+
+Duration of Post:    One year in the first instance
+
+College:                      Medicine, Dentistry and Nursing
+School:                       Medicine
+Division:                     Population Health Sciences
+
+Location:               Medical Research Institute, Ninewells Hospital & Medical School Campus, University of Dundee, DD1 9SY.
+
+Closing Date:          3 March 2015
+
+
+We are seeking a person with good programming skills to provide a key link between the source of our raw data and the analytics team. Our data can come from many different sources in different formats and has often had minimal cleaning or processing before we receive it. The data providers often provide flat files which are processed in Python and translated to database format. Our analytics team comprises machine learning specialists, biostatisticians and epidemiologists. The key responsibilities of the post are to liaise with those providing the data to help them provide it in an appropriate format and to assist in the warehousing of the data including processing and documenting the data to make it ready for the analytics team. Essential attributes are good interpersonal skills and an ability to communicate clearly, experience with a relational database management package such as MySQL and familiarity with the Linux environment. Good working knowledge in any of C/C++, Python or Java. Experience with an array programming language such as R or Matlab would be useful though not essential.
+
+To apply and for further details please visit our website and enter reference MDN0953:
+www.jobs.dundee.ac.uk
+
+
+The University of Dundee is a registered Scottish Charity, No: SC015096
+
+	[[alternative HTML version deleted]]
+
+
+
+From jo@eph@k@hn @end|ng |rom gm@||@com  Sun Mar 15 13:10:25 2015
+From: jo@eph@k@hn @end|ng |rom gm@||@com (vwaltz .)
+Date: Sun, 15 Mar 2015 08:10:25 -0400
+Subject: [R-jobs] Internship opportunities at Novartis Integrated
+	Quantitative Sciences
+Message-ID: <CANUb+YatA7S4MB=mop0BG6YuvQa1np=TyatrggwoeXwTmm-BLA@mail.gmail.com>
+
+Multiple internship opportunities at Novartis Integrated Quantitative
+Sciences are available for outstanding graduate students. Positions include:
+
+A. Decision Support Tool: Under guidance, build a live real-world decision
+support tool for users.  Requirements: Facility with R/Shiny and
+Javascript; statistical or operational modeling.  Relational databases and
+Linux shell scripting are desirable.  Must be thorough, committed to
+completion and willing to rapidly learn tools as needed.
+
+B. Bayesian modeling tools with Stan:  Create re-usable tools for the
+Bayesian modeling of pharmacometrics data that can integrate diverse data
+sources (including pre-clinical, in-silico model predictions, etc.).  Using
+the latest Stan?s facilities (http://mc-stan.org) develop
+templates/functions for compartmental PK models and indirect response PK/PD
+models.  Produce documentation in the form of a modeling report and a
+presentation.  Requirements:  Second or third year PhD student in
+(bio)statistics, machine learning, computer science, engineering or related
+discipline.  Strong computing background, including R experience (ideally
+already familiar with Stan and/or C/C++).  Familiarity with basic Bayesian
+inference and software.
+
+How to Apply:  For these and other positions apply directly at
+http://www.novartis.com/careers/job-search/index.shtml
+Search and apply separately to positions 161931BR and to 161524BR
+
+	[[alternative HTML version deleted]]
+
+
+
+From p@o|o@dent| @end|ng |rom uct@@c@z@  Tue Mar 17 12:33:03 2015
+From: p@o|o@dent| @end|ng |rom uct@@c@z@ (Paolo Denti)
+Date: Tue, 17 Mar 2015 13:33:03 +0200
+Subject: [R-jobs] Postdoc in Pharmacometrics at the University of Cape Town
+Message-ID: <550810EF.9040405@uct.ac.za>
+
+Dear all,
+at the Division of Clinical Pharmacology at the University of Cape Town
+(South Africa) we are looking for highly motivated science/engineering
+PhD graduates to join our pharmacometrics group as a post-doctoral fellow.
+
+Pharmacometrics is an emerging discipline that applies mathematical
+modelling and simulation to pharmacology, aiding the interpretation of
+data from clinical trials, helping decision making, and improving study
+design.
+This fellowship is a great opportunity for a scientist in quantitative
+sciences to apply their expertise within the framework of biomedical
+research, and pharmacometrics is a highly-sought set of professional
+skills either in academia or in the pharmaceutical industry.
+
+Our division has established clinical and
+pharmacokinetic/pharmacodynamic expertise in the area of tuberculosis,
+HIV, and malaria. The pharmacometrics group within the division is
+active internationally and supported by on-going collaborations with
+some of the most renowned modelling groups worldwide.
+
+What you need:
+A PhD in engineering, physics, mathematics or (bio-)statistics obtained
+within the past 5 years.
+OR a PhD in biological sciences AND evidence of keen interest and
+proficiency towards the quantitative side of the subject.
+Experience with computer programming (e.g. R, Matlab, C++) and data
+analysis. Previous experience in pharmacometrics (e.g. NONMEM, Monolix)
+would be advantageous, but not essential.
+A good command of English, passion about scientific research, and the
+ability to work within a team.
+
+What we offer:
+Mentorship and guidance to learn pharmacometrics (although the candidate
+is expected to do a fair amount of self-learning).
+A range of research projects, mainly in the area of PK/PD of TB/HIV, and
+malaria.
+A generous scholarship renewable for up to 3 years.
+The chance of living in the beautiful Mother City of Africa :)
+https://www.google.com/search?q=cape+town&rlz=1C1MSIM_enZA595ZA595&es_sm=93&source=lnms&tbm=isch&sa=X&ei=-eMHVaDhEobbatrdgLAM&ved=0CAgQ_AUoAg&biw=1920&bih=1017
+
+For more details (please take notice of all the conditions of the award):
+http://www.clinpharm.uct.ac.za/wp-content/uploads/2015/03/Pharmacometrics-postdoc-Official-UCT1.pdf
+
+To apply, please email paolo.denti at uct.ac.za with your CV and a letter
+of motivation by no later than March 31st
+
+Paolo
+
+--
+------------------------------------------------
+Paolo Denti, PhD
+Pharmacometrics Group
+Division of Clinical Pharmacology
+Department of Medicine
+University of Cape Town
+
+K45 Old Main Building
+Groote Schuur Hospital
+Observatory, Cape Town
+7925 South Africa
+phone: +27 21 404 7719
+fax: +27 21 448 1989
+email: paolo.denti at uct.ac.za
+------------------------------------------------
+
+________________________________
+ UNIVERSITY OF CAPE TOWN
+
+This e-mail is subject to the UCT ICT policies and e-mai...{{dropped:9}}
+
+
+
+From veron|que@t@ck @end|ng |rom bee@twork@be  Wed Mar 18 11:18:09 2015
+From: veron|que@t@ck @end|ng |rom bee@twork@be (Veronique,Tack)
+Date: Wed, 18 Mar 2015 11:18:09 +0100
+Subject: [R-jobs] vacancy for R Programmer - Thanks for the publication
+Message-ID: <00d101d06164$d584d2e0$808e78a0$@tack@beeatwork.be>
+
+Figures To Facts is currently looking for an R Programmer
+
+ 
+
+Figures To Facts is a company specialized in BI dashboard and report
+creation on sales and marketing data.
+
+We are a small but fast growing company, working for the largest Fast Moving
+Consumer Goods enterprises in the world.
+
+
+We are currently looking for an R programmer, who will become responsible
+for the complete 'data environment' in our company.
+
+Main responsibilities:
+
+
+
+-    You will create new functions in R for New Business Development
+purposes;
+-    You will maintain and create databases in SQL (SQLite, ProgreSQL) based
+on multiple data sources;
+-   You will structurally perform data quality checks to ensure data
+integrity;
+
+-   You will create and maintain web scraping programs;
+-   You will update and/or improve existing functions in R;
+-   You will optimize and extend a report system created in a Web Based
+Environment;
+
+Required:
+
+Programming Skills:
+
+* Thorough knowledge of efficient programming in R;
+* Thorough knowledge of handling SQLite, ProgreSQL, Ubuntu and RApache;
+* Aptitude in programming and data analysis in order to develop tools for
+manipulating, managing and analyzing data;
+* Knowledge of Phyton for web scraping purposes;
+
+ 
+
+Very nice to have:
+* Knowledge/interest of statistics and econometrics;
+
+* Knowledge/interest in excel programming by VBA;
+
+
+Personal Skills:
+
+* You are a dynamic team player who works efficiently and in a structured
+way;
+
+* You are client focused and you like to communicate with customers;
+* You are operational within a short period of time;
+
+
+Offer:
+
+Competitive reward
+Contract type to be discussed
+Freelance offers will not be retained
+
+Figures to Facts offices are located in Belgium, Ninove (+/- 25km from
+Brussels).
+
+
+
+ 
+
+Interested? Don't hesitate to send a statement of interest and CV to
+ <mailto:veronique.tack at beeatwork.be> veronique.tack at beeatwork.be.  Mention
+FIGURES TO FACTS in the subject.
+
+ 
+
+
+	[[alternative HTML version deleted]]
+
+
+

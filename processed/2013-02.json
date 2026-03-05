@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-02",
+  "messages": [
+    {
+      "id": "msg-c9cbd1ffcb51",
+      "message_id": "<F52192E57D0C5C4287743A569935783E336BB047A3@DDISBS01.decisiondevelopment.com>",
+      "from_name": "Fred Sechan",
+      "from_email_hash": "7d2f3910b55ef0d8e56a14f35a20d6aa083c78ef5477285512e84af638f79af7",
+      "date": "2013-02-11T10:05:34-06:00",
+      "subject": "[R-jobs] job posting",
+      "subject_clean": "[R-jobs] job posting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Please post the following on your job postings.  Please do not hesitate to contact me with any questions or further requirements for the post.\n\n\nDecision Development Inc is a marketing research firm based in Evanston, IL (Chicago), USA that specializes in qualitative research.  We use R for elementary statistics and basic data management of notes collected during in-depth structured interviews.  We have an immediate full-time opening for a lead R programmer.  Our needs are heavy on the data management side, with an emphasis on reporting descriptive statistics for subgroups within small research samples.  We have also developed and maintained R functions that parse a markup language used for coding unstructured qualitative data.  To learn more about the firm, please visit www.decisiondevelopment.com<http://www.decisiondevelopment.com>.\n\nIf you are interested and are eligible to work in the United States (no sponsorship offered), please contact XXX.\n\n\nRegards,\n\nFred\n\nFred Sechan\nPrincipal\nDecision Development Inc\n\nwww.decisiondevelopment.com<http://www.decisiondevelopment.com>\n\n(847) 441-0777\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Please post the following on your job postings.  Please do not hesitate to contact me with any questions or further requirements for the post.\n\n\nDecision Development Inc is a marketing research firm b",
+      "thread_id": "thread-c9cbd1ffcb51",
+      "thread_depth": 0,
+      "month": "2013-02"
+    },
+    {
+      "id": "msg-70c077c29621",
+      "message_id": "<CAEYvig+qjkMR0x6h2PHaEHCZPDV36m46h84nm7Uuf9hKv-YSFg@mail.gmail.com>",
+      "from_name": "Matthieu Stigler",
+      "from_email_hash": "98cb55bce94d24467c901755eb9045dfadcbc186a954981bdf75b0fb6266b336",
+      "date": "2013-02-12T18:33:32+01:00",
+      "subject": "[R-jobs] Job for a UN agency in Rome: R statistician with knowledge of entropy/bayesian methods",
+      "subject_clean": "[R-jobs] Job for a UN agency in Rome: R statistician with knowledge of entropy/bayesian methods",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi\n\n\nThe Food and Agriculture Organization of the United Nations (FAO), based in\nRome, is in urgent need of an econometrican/statistican. The candidate will\nbe required to provide in the absence of primary information model-based\nestimates of elements of utilization that enter our Food Balance Sheets\n(see http://faostat3.fao.org/home/index.html#HOME).\n\nWe are therefore looking for two candidates who meet the following profile:\n\n-Economist/statistician equipped with advanced econometric/statistical\nskills and the ability to quickly master and apply new methods\n\n-Competency in  R, or exceptional and transferrable programming skills\n\n-Knowledge of Bayesian/entropy techniques would be an asset\n\n-Knowledge of commodities would also be an advantage, or the ability to\nprogress quickly up a steep learning curve\n\n-Ability to self-start, assume initiative and to multi-task\n\n-Focus on delivery and on meeting tight deadlines\n\n-Team-playing skills\n\n\nThe exact terms of reference can be discussed later. Importantly, we would\noffer a consultancy on a 3 months renewable basis and there would be no\nessential need to be on premises on a full-time basis. We will accord the\nnecessary flexibility to facilitate delivery.\n\n\nIf you are interested in applying please provide your CV along with an\nanswer to any one of the following two questions (200 words max):\n\n-Food losses and waste account are thought to account for one-third of\nglobal food production. How would you set about estimating the prevalence\nof waste with limited prior information (some survey-based data are\navailable) taking stock of the determinants of phenomenon\n\n-How can prior information be used to specify and estimate underdetermined\nsystems of equations\n\nPlease reply to: Adam.Prakash at fao.org.\n\nBest regards\n\n\nMatthieu Stigler\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi\n\n\nThe Food and Agriculture Organization of the United Nations (FAO), based in\nRome, is in urgent need of an econometrican/statistican. The candidate will\nbe required to provide in the absence of pr",
+      "thread_id": "thread-70c077c29621",
+      "thread_depth": 0,
+      "month": "2013-02"
+    },
+    {
+      "id": "msg-8d0ca238568d",
+      "message_id": "<000801ce0f4e$16a7e250$43f7a6f0$@figurestofacts.be>",
+      "from_name": "Figures to Facts",
+      "from_email_hash": "7ffa0d0e2977f51e2a6eadfb85c23b1bb68f1587c2c083a88b146e228f6ff610",
+      "date": "2013-02-20T10:38:50+01:00",
+      "subject": "[R-jobs] R Data Project Manager",
+      "subject_clean": "[R-jobs] R Data Project Manager",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Figures to Facts is a company specialized in BI dashboard and report\ncreation on sales and marketing data. \n\nWe are a small but fast growing company, working for the largest Fast Moving\nConsumer Goods enterprises in the world. \n\nWe are currently looking for an R programmer, who will become responsible\nfor the complete 'data environment' in our company.\n\n \n\nMain responsibilities: \n\n-    You will update and/or improve existing functions in R \n\n-    You will take care of the reconversion of existing programs from SPlus\ninto R\n\n-    You will maintain and create databases in SQL (SQLite, ProgreSQL)\n\n-    You will optimalise and extend a report system created in a Web Based\nEnvironment\n\n-    You will create new functions in R for New Business Development\npurposes.\n\n \n\nRequired:\n\n* Thorough knowledge of efficient programming in R, \n\n* Thorough knowledge of handling SQLite, ProgreSQL, Ubuntu and RApache \n\n* Aptitude in programming and data analysis in order to develop tools for\nmanipulating, managing and analyzing data\n\n* Knowledge of VBA for Excel is a plus\n\n* Knowledge of Phyton is a plus\n\n* Knowledge of statistics and econometrics is a plus\n\n* You are a dynamic teamplayer who works efficiently and in a structured way\n\n* You are operational within a short period of time.\n\n \n\nOffer:\n\nCompetitive reward\n\nContract type to be discussed\n\nFreelance offers will not be retained\n\n \n\nFigures to Facts offices are located in Belgium, Ninove (+/- 25km from\nBrussels).\n\n \n\nInterested? Don't hesitate to send a statement of interest and CV to\n\n <mailto:info at figurestofacts.be> info at figurestofacts.be\n\n \n\n \n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Figures to Facts is a company specialized in BI dashboard and report\ncreation on sales and marketing data. \n\nWe are a small but fast growing company, working for the largest Fast Moving\nConsumer Goods",
+      "thread_id": "thread-8d0ca238568d",
+      "thread_depth": 0,
+      "month": "2013-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c9cbd1ffcb51",
+      "subject": "[R-jobs] job posting",
+      "message_count": 1,
+      "participants": [
+        "Fred Sechan"
+      ],
+      "started": "2013-02-11T10:05:34-06:00",
+      "last_reply": "2013-02-11T10:05:34-06:00",
+      "root_message_id": "msg-c9cbd1ffcb51"
+    },
+    {
+      "id": "thread-70c077c29621",
+      "subject": "[R-jobs] Job for a UN agency in Rome: R statistician with knowledge of entropy/bayesian methods",
+      "message_count": 1,
+      "participants": [
+        "Matthieu Stigler"
+      ],
+      "started": "2013-02-12T18:33:32+01:00",
+      "last_reply": "2013-02-12T18:33:32+01:00",
+      "root_message_id": "msg-70c077c29621"
+    },
+    {
+      "id": "thread-8d0ca238568d",
+      "subject": "[R-jobs] R Data Project Manager",
+      "message_count": 1,
+      "participants": [
+        "Figures to Facts"
+      ],
+      "started": "2013-02-20T10:38:50+01:00",
+      "last_reply": "2013-02-20T10:38:50+01:00",
+      "root_message_id": "msg-8d0ca238568d"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2023-10",
+  "messages": [
+    {
+      "id": "msg-e9c5f43284c3",
+      "message_id": "<CAED7jgPCDbOKb2Ns3mFVf3qaGZJQieQmXWzFUpMxYJ9bHLeKEA@mail.gmail.com>",
+      "from_name": "Fred Kwebiha",
+      "from_email_hash": "430ab146788ba22e2388915cf2b8e2a2df5ed91b65496b2b8feaeead1003287e",
+      "date": "2023-10-07T00:00:13+03:00",
+      "subject": "[R-jobs] R Gigs",
+      "subject_clean": "[R-jobs] R Gigs",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Community,\n\nAre there any available Gigs or Jobs for R Programming Languange?\n\nIf Yes, Kindly Point me to it/them.\n\n*Best Regards,*\n\n*FRED KWEBIHA*\n*+256-782-746-154*\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Community,\n\nAre there any available Gigs or Jobs for R Programming Languange?\n\nIf Yes, Kindly Point me to it/them.\n\n*Best Regards,*\n\n*FRED KWEBIHA*\n*+256-782-746-154*\n\n\t[[alternative HTML version dele",
+      "thread_id": "thread-e9c5f43284c3",
+      "thread_depth": 0,
+      "month": "2023-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e9c5f43284c3",
+      "subject": "[R-jobs] R Gigs",
+      "message_count": 1,
+      "participants": [
+        "Fred Kwebiha"
+      ],
+      "started": "2023-10-07T00:00:13+03:00",
+      "last_reply": "2023-10-07T00:00:13+03:00",
+      "root_message_id": "msg-e9c5f43284c3"
+    }
+  ]
+}

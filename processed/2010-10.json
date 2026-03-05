@@ -1,0 +1,65 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2010-10",
+  "messages": [
+    {
+      "id": "msg-8026e10270a7",
+      "message_id": "<AANLkTi=o+PPum1a643usqk4i5GM__nS36dY0Bjw=qiQV@mail.gmail.com>",
+      "from_name": "Steve Eichert",
+      "from_email_hash": "84f120563809328296652ff8bda6a88539b637ec48b5759c986f74ea73f87c79",
+      "date": "2010-10-13T16:36:46-04:00",
+      "subject": "[R-jobs] Help develop an analytics software product with an R backbone",
+      "subject_clean": "[R-jobs] Help develop an analytics software product with an R backbone",
+      "in_reply_to": "<AANLkTinTfGtw_c2vRs+9E3MrWFbqgN3s9SYK2KD5yQjq@mail.gmail.com>",
+      "references": [
+        "<AANLkTinTfGtw_c2vRs+9E3MrWFbqgN3s9SYK2KD5yQjq@mail.gmail.com>"
+      ],
+      "body_plain": ">\n> We're developing a software tool that does statistical analysis and\nforecasting using a number of historical data sets (time series).  We're\nlooking for a statistician with experience in R to help us build out the\nstatistical backbone of the software and provide ongoing analysis for our\nclients.  This position will be 50% focused on research and development of\nthe statistical packages we use for analyzing the data, and 50% focused on\nanalyzing data on a monthly and/or quarterly basis and producing reports\nthat highlight key findings and recommendations for our clients.  You will\nwork closely with both the software development team (me!) and the leaders\nof our consulting practice to refine our approach and deliverables.\n\n>\nRequirements\n\n> - Experience with R\n\n> - Degree in Statistics or related math field\n\n> - Foundational understanding and experience with time series analysis (R\nforecast package)\n\n> - Passionate about the practical application of statistical to drive\nstrategic decision making\n\n>\nPluses\n\n> - Experience with Ruby (RSRuby)\n\n> - Web development experience (Rails)\n\n> - Social Network Analysis (SNA) experience\n\n> - Pharma industry experience\n\n>\nWe're a small self funded software company (located in Doylestown PA)\nworking with clients in the Pharmaceutical and Biotech sector.  We have a\nrelaxed work environment, and are extremely passionate about building great\nsoftware for our clients.\n\n>\nWe Believe:\n\n> - Great software is about empowering users to kick ass\n\n> - Being passionate and not being scared to hustle is a requirement for\nsuccess\n\n> - In Getting Real: http://gettingreal.37signals.com/\n\n> - In learning, growing, and finding ways to stretch the way we think about\nsolving problems\n\n> - In clean and simple code\n\n>\nIf interested, please respond to this email address with a Resume and a\nshort bio.\n\n>\nCheers,\n\n> Steve\n\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": ">\n> We're developing a software tool that does statistical analysis and\nforecasting using a number of historical data sets (time series).  We're\nlooking for a statistician with experience in R to help",
+      "thread_id": "thread-8026e10270a7",
+      "thread_depth": 0,
+      "month": "2010-10"
+    },
+    {
+      "id": "msg-db75b2cb5808",
+      "message_id": "<499942.76307.qm@web57005.mail.re3.yahoo.com>",
+      "from_name": "Paul Miller",
+      "from_email_hash": "67f2121382a82f295db0f6e0e7ced9dd48559ac1b06a4b22d45ec68e7ac6f4d2",
+      "date": "2010-10-28T11:33:54-07:00",
+      "subject": "[R-jobs] Consultant needed for WTP analysis based on results from a conjoint survey",
+      "subject_clean": "[R-jobs] Consultant needed for WTP analysis based on results from a conjoint survey",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are in the process of analyzing data from a discrete-choice conjoint survey and are looking for a consultant who can help us assess willingness to pay (WTP). We are currently able to assess overall WTP using the coefficients from our conjoint analysis but would like assistance in determining if significant differences in WTP exist across a number of subgroups via a segmented analysis or some other procedure. Our company is planning to do more conjoint studies in the future and may elect to work with an external consultant on an ongoing basis as needed. ? \n? \nPlease send your resume for immediate consideration to this email address. \n\n? \nThanks, \n? \nPaul\n\n\n\n\n\nWe are in the process of analyzing data from a discrete-choice conjoint survey and are looking for a consultant who can help us assess willingness to pay (WTP). We are currently able to assess overall WTP using the coefficients from our conjoint analysis but would like assistance in determining if significant differences in WTP exist across a number of subgroups via a segmented analysis or some other procedure. Our company is planning to do more conjoint studies in the future and may elect to work with an external consultant on an ongoing basis as needed. ? \n? \nPlease send your resume for immediate consideration to this email address. \n\n? \nThanks, \n? \nPaul\nWe are in the process of analyzing data from a discrete-choice conjoint survey and are looking for a consultant who can help us assess willingness to pay (WTP). We are currently able to assess overall WTP using the coefficients from our conjoint analysis but would like assistance in determining if significant differences in WTP exist across a number of subgroups via a segmented analysis or some other procedure. Our company is planning to do more conjoint studies in the future and may elect to work with an external consultant on an ongoing basis as needed. ?\n?\nPlease send your resume for immediate consideration to this email address.\n?\nThanks,\n?\nPaul\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "We are in the process of analyzing data from a discrete-choice conjoint survey and are looking for a consultant who can help us assess willingness to pay (WTP). We are currently able to assess overall",
+      "thread_id": "thread-db75b2cb5808",
+      "thread_depth": 0,
+      "month": "2010-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-8026e10270a7",
+      "subject": "[R-jobs] Help develop an analytics software product with an R backbone",
+      "message_count": 1,
+      "participants": [
+        "Steve Eichert"
+      ],
+      "started": "2010-10-13T16:36:46-04:00",
+      "last_reply": "2010-10-13T16:36:46-04:00",
+      "root_message_id": "msg-8026e10270a7"
+    },
+    {
+      "id": "thread-db75b2cb5808",
+      "subject": "[R-jobs] Consultant needed for WTP analysis based on results from a conjoint survey",
+      "message_count": 1,
+      "participants": [
+        "Paul Miller"
+      ],
+      "started": "2010-10-28T11:33:54-07:00",
+      "last_reply": "2010-10-28T11:33:54-07:00",
+      "root_message_id": "msg-db75b2cb5808"
+    }
+  ]
+}

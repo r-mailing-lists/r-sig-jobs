@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2017-10",
+  "messages": [
+    {
+      "id": "msg-0e4290a8d2f1",
+      "message_id": "<SG2PR0301MB193492861195A1E64DFBA7FDDF5B0@SG2PR0301MB1934.apcprd03.prod.outlook.com>",
+      "from_name": "陈 贤文",
+      "from_email_hash": "26c84cf278cabdfdd6af4be873e7f694ac7bff171ddb14235b4aca1ab23d2718",
+      "date": "2017-10-28T16:28:26Z",
+      "subject": "[R-jobs] Job opportunity: postdoc or PhD at Norwegian Institute for Nature Research (NINA)",
+      "subject_clean": "[R-jobs] Job opportunity: postdoc or PhD at Norwegian Institute for Nature Research (NINA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nThe Norwegian Institute for Nature Research (NINA) seeks a post doc or\nPh.D. candidate in mapping and valuation of ecosystem services from\ngreen infrastructure in Oslo. The candidate has preferably skills in\nOpen Source GIS (OSGeo) and a M.Sc./Ph.D. in geomatics with an\ninterest in urban ecosystem services, or a M.Sc./Ph.D. in nature\nmanagement, landscape architecture, geography, ecological or\nenvironmental economics with specialization in spatial analysis and\nGIS.\n\nIt is a flexible announcement in which the quality and experience of\nthe applicant will determine whether a post doc or Ph.D. position is\nestablished.\n\nMain workplace is NINAs offices in Oslo.\n\nAnnual salary is between NOK 459 100 and NOK 482 500 for Ph.D.\ncandidate, or between NOK 579 300 and NOK 590 000 for Postdoc,\ndepending on qualiifaction.\n\nThe deadline is 10th November 2017.\n\nAll relevant information is found here:\nhttp://www.nina.no/english/News/News-article/ArticleId/4354/Postdoc-Phd-Urban-nature-values-1\n\nPlease help spread the information.\n\nSincerely,\nXianwen\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nThe Norwegian Institute for Nature Research (NINA) seeks a post doc or\nPh.D. candidate in mapping and valuation of ecosystem services from\ngreen infrastructure in Oslo. The candidate has pr",
+      "thread_id": "thread-0e4290a8d2f1",
+      "thread_depth": 0,
+      "month": "2017-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0e4290a8d2f1",
+      "subject": "[R-jobs] Job opportunity: postdoc or PhD at Norwegian Institute for Nature Research (NINA)",
+      "message_count": 1,
+      "participants": [
+        "陈 贤文"
+      ],
+      "started": "2017-10-28T16:28:26+00:00",
+      "last_reply": "2017-10-28T16:28:26+00:00",
+      "root_message_id": "msg-0e4290a8d2f1"
+    }
+  ]
+}

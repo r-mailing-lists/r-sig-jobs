@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2017-11",
+  "messages": [
+    {
+      "id": "msg-2ed3e1afb549",
+      "message_id": "<2ae27622-cce9-e3c9-d281-eb0e30def0e1@uzh.ch>",
+      "from_name": "Heidi Seibold",
+      "from_email_hash": "92c1aba676750959dd06f6ee25c45241e34ad57c9cd40df5bed58de9576c8586",
+      "date": "2017-11-21T11:39:06+01:00",
+      "subject": "[R-jobs] Data Scientists, Biostatisticians and Bioinformaticians (LMU Munich)",
+      "subject_clean": "[R-jobs] Data Scientists, Biostatisticians and Bioinformaticians (LMU Munich)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are currently looking for Data Scientists, Biostatisticians and\nBioinformaticians for the Data Analysis Group at the newly founded Data\nIntegration Center at the Institute for Medical Information Processing,\nBiometry and Epidemiology, LMU Munich.\n\nThe tasks of the Data Analysis Group include the development and\nimplementation\nof new techniques for data analysis, data quality assessment and\nvisualisation,\nas well as the development of secure distributed data analysis\napproaches. The\ngroup will collaborate with other university hospitals throughout the\ncountry.\n\nWhat we expect from you:\n\n- A university degree in statistics, biostatistics, computer science,\n? bioinformatics, data science or a comparable subject\n- Knowledge and skills in data analysis, machine learning and/or distributed\n? computing\n\nWhat we offer:?????????????????????????????????????????????????\n\n- The opportunity to work with compelling medical data and state of the art\n? methodologies to improve the health of patients\n- Interdisciplinary collaborations within and outside our growing and\nengaging\n? team, at one of the best universities in Germany\n- The possibility to be at the forefront of open science and reproducible\n? research in the field\n- A contract for up to 4 years\n- The possibility of doing your PhD while working in our group\n- An office in the beautiful city of Munich, at the LMU University Hospital\n? Grosshadern\n\n\nInterested? Please send your application to:\n\nProf. Dr. Ulrich Mansmann\nLehrstuhl f?r Biometrie und Bioinformatik\nMedizinische Fakult?t\nLudwig-Maximilians-Universit?t\nMarchioninistrasse 15\n81377 M?nchen\nE-Mail: ulrich.mansmann at lmu.de\nwww: http://www.ibe.med.uni-muenchen.de",
+      "body_snippet": "We are currently looking for Data Scientists, Biostatisticians and\nBioinformaticians for the Data Analysis Group at the newly founded Data\nIntegration Center at the Institute for Medical Information P",
+      "thread_id": "thread-2ed3e1afb549",
+      "thread_depth": 0,
+      "month": "2017-11"
+    },
+    {
+      "id": "msg-00dc76cfcc1e",
+      "message_id": "<2fb4f878-e790-e6e4-9588-f4028a957fcd@ufl.edu>",
+      "from_name": "Mathieu Basille",
+      "from_email_hash": "6f77c1322b2070af4bb25eb2bb5f63557495731628429f6b4d4f85ab21891ebe",
+      "date": "2017-11-27T16:50:52-05:00",
+      "subject": "[R-jobs] Data expert position: PostGIS and spatial ecology, University of Florida, Fort Lauderdale, FL",
+      "subject_clean": "[R-jobs] Data expert position: PostGIS and spatial ecology, University of Florida, Fort Lauderdale, FL",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The MabLab at the University of Florida's Fort Lauderdale Research and\nEducation Center (Davie, FL) is looking to fill an immediate opening for\nthe position of a Biological Scientist. We are looking for an enthusiastic,\nhighly motivated and responsible individual to join an exciting research\nteam focused on spatial ecology, from fine-scale movement and habitat\nselection to range dynamics. Candidate will be responsible of the data\nsystem of the Lab (database, GIS and documents), and will assist research\nand extension projects within the Lab's themes.\n\nThe primary missions of the Biological Scientist will be:\n\n1. Manage the Lab data system: the Lab relies on a data server using Linux\n(Debian). Most notably, the server runs a PostGIS database system, which\nhosts data from research projects of the Lab (notably wood stork, sea\nturtle and raccoon telemetry data and associated GIS layers), as well as\nRstudio Server, Shiny, and GitLab, among others. The candidate will\nentirely manage the server (keep the data base and the associated metadata\nclean and up-to-date, set permissions for users and groups, develop Shiny\napps to access and display data, etc.).\n2. Assist and train other Lab members for data processing and analysis:\ncandidate will assist Lab members (notably students) to process the data\nstored in the Lab database system, in order to prepare them for statistical\nanalysis. He/she will also assist the next step of statistical analysis\nwhen relevant.\n3. Maintain and develop the Lab R packages (basr, hab, rpostgis,\nrpostgisLT, ?), and publish them on CRAN when appropriate. Maintaining\npackages means keeping them up-to-date with changes in R and package\ndependencies, while developing involves the integration of new functions or\nthe improvement of existing ones.\n4. Contribute to the Lab?s extension program, through extensive\ncommunication with the Lab's partners (USGS, USFWS, ?), the preparation of\nbrochures or posters, or the participation in outreach events.\n5. Participate in field work: The Lab and its partners periodically needs\nhelp in various field work projects in the area, in the Everglades or\nbeyond. The candidate will contribute to the field work effort whenever\nnecessary.\n6. Finally, significant time will be reserved for the candidate to conduct\npersonal projects, which can include side projects or overarching issues\nwithin the Lab themes, and eventually lead to peer-reviewed publications.\n\nDetails of the position and application can be found here:\n\nhttp://explore.jobs.ufl.edu/cw/en-us/job/505347/landscape-ecology-biological-scientist-ii\n\nStart Date: Flexible, as early as January 2018. This is a permanent\nposition from the University of Florida.\n\nClosing Date: 07 January 2018.\n\nContact: For more information, please contact:\n\nMathieu Basille\nAssistant Professor in Landscape Ecology\nUniversity of Florida\nbasille at ufl.edu\n\n\n-- \n\nMathieu Basille\n\nbasille at ufl.edu | https://mablab.org/\n+1 954-577-6314 | University of Florida FLREC\n\n  ? Le tout est de tout dire, et je manque de mots\n  Et je manque de temps, et je manque d'audace. ?\n  ? Paul ?luard",
+      "body_snippet": "The MabLab at the University of Florida's Fort Lauderdale Research and\nEducation Center (Davie, FL) is looking to fill an immediate opening for\nthe position of a Biological Scientist. We are looking f",
+      "thread_id": "thread-00dc76cfcc1e",
+      "thread_depth": 0,
+      "month": "2017-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2ed3e1afb549",
+      "subject": "[R-jobs] Data Scientists, Biostatisticians and Bioinformaticians (LMU Munich)",
+      "message_count": 1,
+      "participants": [
+        "Heidi Seibold"
+      ],
+      "started": "2017-11-21T11:39:06+01:00",
+      "last_reply": "2017-11-21T11:39:06+01:00",
+      "root_message_id": "msg-2ed3e1afb549"
+    },
+    {
+      "id": "thread-00dc76cfcc1e",
+      "subject": "[R-jobs] Data expert position: PostGIS and spatial ecology, University of Florida, Fort Lauderdale, FL",
+      "message_count": 1,
+      "participants": [
+        "Mathieu Basille"
+      ],
+      "started": "2017-11-27T16:50:52-05:00",
+      "last_reply": "2017-11-27T16:50:52-05:00",
+      "root_message_id": "msg-00dc76cfcc1e"
+    }
+  ]
+}

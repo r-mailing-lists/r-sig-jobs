@@ -1,0 +1,54 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2017-07",
+  "messages": [
+    {
+      "id": "msg-c64e7e274430",
+      "message_id": "<CAJ9CoWmfsGdR0=JJV8gPxcNpVHSsxMKxinJJV_Vjg76SdtsyAQ@mail.gmail.com>",
+      "from_name": "Max",
+      "from_email_hash": "55e9714199e58e5463418cf3ee867dcf1427b8f1a366384b939bdc27824fe53d",
+      "date": "2017-07-27T09:16:37-07:00",
+      "subject": "[R-jobs] nonclinical statistician",
+      "subject_clean": "[R-jobs] nonclinical statistician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Associate Director, Statistics\n\nUSA - MA - Cambridge Kendall Sq. 700 Main\nUSA - CT - Groton\n\nSeeking a motivated and experienced statistician with a solid\nbackground in nonclinical statistics to provide support and leadership\nto Pfizer?s discovery sciences by influencing choice of targets,\ncompounds, doses, and formulations at key decision points and\nmeetings. ?The nonclinical statistician will provide state-of-the-art\nstatistical design, analysis, and interpretation of high quality\nstudies and experiments that underpin or enable the identification and\ndevelopment of high value assets across therapeutic areas for Pfizer?s\nResearch organization. ?The focus will be on both platform approaches\n(e.g., ensuring robust analytical methods) and project-specific\napplications (e.g., early synthetic route optimization). ?Job\nresponsibilities could evolve and expand over time (e.g., biomarker\ndevelopment).\n\n- Statistical support for chemistry and biology in support of compound\nand target identification, assay capability, and synthesis\noptimization.\n- Demonstrate leadership in influencing and improving drug discovery\nby identifying, developing, and applying innovative quantitative\nmethods.\n- Proactively seek collaborations with scientists and lab heads to\nplan meaningful studies, analyze historical data, and influence\nworkflows.\n- Serve as a core member of scientific teams responsible for\ndetermining strategy and delivering results in a timely manner with\nhigh quality.\n- Use statistical expertise to prepare both internal and external\nreports, presentations, manuscripts, with the aim to improve the\nquality of internal decision making and increase our influence on the\nexternal environment\n- Standardize processes and methodologies by developing statistical\ntools to aid scientists in objective decision-making.\n- Participate in the group?s education initiative by co-leading\ncourses such as experimental design and measurement systems analysis.\n- Pursue business-related research interests and represent Pfizer externally.\n- Ph.D. in Statistics, Biostatistics, or related field and 3+ years\nstatistical consulting experience in drug discovery and development,\npreferably in a laboratory science environment., or MS with 5+years of\npharmaceutical experience\n- Strong initiative, excellent interpersonal and communication\n(written and verbal) skills.\n- Fundamental understanding of inference, probability, and Bayesian\nmethods; Solid knowledge of experimental design; Proficiency in\ncontemporary modeling including mixed models, nonlinear regression;\n- Comprehension of tools for high dimensional data analyses and\npredictive modeling / machine learning.\n- Sound computational skills in R.\n- Familiarity with basic chemistry, biology, and / or engineering.\n- Knowledge of drug development regulations pertinent to statistical\nanalysis and reporting\n- Proven track record of integrating statistical techniques and\nsolutions into (pharmaceutical) applications to achieve business\nresults.\n- The aptitude to identify, understand, and apply relevant scientific\nliterature.",
+      "body_snippet": "Associate Director, Statistics\n\nUSA - MA - Cambridge Kendall Sq. 700 Main\nUSA - CT - Groton\n\nSeeking a motivated and experienced statistician with a solid\nbackground in nonclinical statistics to provi",
+      "thread_id": "thread-c64e7e274430",
+      "thread_depth": 0,
+      "month": "2017-07"
+    },
+    {
+      "id": "msg-6c6e0cc9a99a",
+      "message_id": "<CAJ9CoWnpvW7yQhazEzCyk9zdYtVb3Jy_+0xaa_O-ewkdL+OWxQ@mail.gmail.com>",
+      "from_name": "Max",
+      "from_email_hash": "55e9714199e58e5463418cf3ee867dcf1427b8f1a366384b939bdc27824fe53d",
+      "date": "2017-07-27T09:21:04-07:00",
+      "subject": "[R-jobs] nonclinical statistician",
+      "subject_clean": "[R-jobs] nonclinical statistician",
+      "in_reply_to": "<CAJ9CoWmfsGdR0=JJV8gPxcNpVHSsxMKxinJJV_Vjg76SdtsyAQ@mail.gmail.com>",
+      "references": [
+        "<CAJ9CoWmfsGdR0=JJV8gPxcNpVHSsxMKxinJJV_Vjg76SdtsyAQ@mail.gmail.com>"
+      ],
+      "body_plain": "The link to apply is\n\nhttps://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/USA---MA---Cambridge-Kendall-Sq-700-Main/Associate-Director--Statistics_1603363",
+      "body_snippet": "The link to apply is\n\nhttps://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/USA---MA---Cambridge-Kendall-Sq-700-Main/Associate-Director--Statistics_1603363",
+      "thread_id": "thread-c64e7e274430",
+      "thread_depth": 1,
+      "month": "2017-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c64e7e274430",
+      "subject": "[R-jobs] nonclinical statistician",
+      "message_count": 2,
+      "participants": [
+        "Max"
+      ],
+      "started": "2017-07-27T09:16:37-07:00",
+      "last_reply": "2017-07-27T09:21:04-07:00",
+      "root_message_id": "msg-c64e7e274430"
+    }
+  ]
+}

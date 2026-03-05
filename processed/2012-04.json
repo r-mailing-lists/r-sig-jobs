@@ -1,0 +1,227 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2012-04",
+  "messages": [
+    {
+      "id": "msg-db860d3b69e0",
+      "message_id": "<B6B83B4D8B4C5B48A81903EC3EB874EA46A946@PA-MBX04.na.tibco.com>",
+      "from_name": "Louis Bajuk-Yorgan",
+      "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
+      "date": "2012-04-06T21:35:23Z",
+      "subject": "[R-jobs] TIBCO is looking for Analytics Consultants",
+      "subject_clean": "[R-jobs] TIBCO is looking for Analytics Consultants",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "TIBCO is a rapidly growing software company with more than 3000 employees worldwide and approx. $900MM annual revenue in 2011. TIBCO provides a comprehensive software platform that allows customers to perform in-depth analysis on their data, while injecting predictive and complex statistics in the analysis.  TIBCO Spotfire is an interactive, visual environment with inbuilt S+ analytics and connectivity with R, SAS and Matlab, allowing individuals to analyze and visualize trends, patterns, outliers, and unanticipated relationships in data quickly.  TIBCO Spotfire customers include Fortune 500 customers from a variety of industries, including: Financial Services, Life Sciences, Energy, Telco, Consumer Goods and Retail.\n\nWe are currently looking for:\n\nSR ANALYTICS CONSULTANT - FINANCIAL SERVICES\nLocation: New York, NY\n\nDATA SCIENTIST\nLocation: East Coast US\n\nANALYTICS CONSULTANT-- Retail or Consumer Products Industries\nLocation: East Coast or Mid-West US\n\nPlease check out our postings online at https://usa-tibcosoftware.icims.com/jobs/3261/job, or contact Elizabeth Pepin at epepin at tibco.com.\n\nRegards\nLou Bajuk-Yorgan\n\n--------------------------\nLou Bajuk-Yorgan\nSr. Director, Product Management\nSpotfire, TIBCO Software\n206-802-2328\nlbajuk at tibco.com\nhttp://spotfire.tibco.com\n\nTIBCO Spotfire Analytics\nFirst to Insight, First to Action",
+      "body_snippet": "TIBCO is a rapidly growing software company with more than 3000 employees worldwide and approx. $900MM annual revenue in 2011. TIBCO provides a comprehensive software platform that allows customers to",
+      "thread_id": "thread-db860d3b69e0",
+      "thread_depth": 0,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-a3ee44220f68",
+      "message_id": "<OF2773188C.015A5640-ON852579DB.00509CE2-852579DB.0050CDAD@ifc.org>",
+      "from_name": "Alexis Diamond",
+      "from_email_hash": "f5453a00fc66b8cd801152322ecaac2c47262c72671d8de2909e2b8043d70cba",
+      "date": "2012-04-09T10:42:35-04:00",
+      "subject": "[R-jobs] freelance consulting opportunity for R expert (causal inference & data visualization)",
+      "subject_clean": "[R-jobs] freelance consulting opportunity for R expert (causal inference & data visualization)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "SELECTION FOR CONSULTANTS BY THE WORLD BANK\n\nREQUEST FOR EXPRESSIONS OF INTEREST\n\nAll Submissions must be made via the World Bank Group's \"eConsult2\" \nsystem.\nPlease go to:\n\nhttps://wbgeconsult2.worldbank.org/wbgec/index.html\n\nClick on \"Business Opportunities\", and find the following assignment:\n\nAssignment Title: 1067014 - Statistical Analyst with Extensive\nExperience in \"R\": Applications for Causal Inference and Visualizing\nData\n\nASSIGNMENT DESCRIPTION\n\nSeeking a short-term consultant with extensive expertise in\nstatistical analysis, specifically \"R\" expertise for causal inference\nand visualizing data.\n\nCausal inference refers to propensity score matching, regression\ndiscontinuity design, sophisticated regression and diffs-in-diffs,\nsynthetic control methods, etc.\n\nVisualizing data refers to the production of highly customized figures\nand charts, derived from complex datasets.\n\nPhD or Masters preferred. Prior publication history preferred.\nMastery of \"R\" required, as is prior experience with at least some of\nthe inferential methods described above. Candidates for the position\nwill be asked to complete a task that tests technical competence.\n\nINDIVIDUAL / FIRM PROFILE\nThe consultant should be an individual.\n\nSUBMISSION REQUIREMENTS\nThe World Bank now invites eligible consultants to indicate their\ninterest in providing the services. Interested consultants must\nprovide information indicating that they are qualified to perform the\nservices (brochures, description of similar assignments, experience in\nsimilar conditions, availability of appropriate skills among staff,\netc. for firms; CV and cover letter for individuals). Please note that\nthe total size of all attachments should be less than 5MB.\n\nInterested consultants are hereby invited to submit expressions of \ninterest.\n\nExpressions of Interest should be submitted, in English,\nelectronically through World Bank Group eConsult2\n(https://wbgeconsult2.worldbank.org/wbgec/index.html)\n\nNOTES\nSelection and contracting will normally be made from responses to this\nnotification. The consultant will be selected from a shortlist,\nsubject to availability of funding.\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "SELECTION FOR CONSULTANTS BY THE WORLD BANK\n\nREQUEST FOR EXPRESSIONS OF INTEREST\n\nAll Submissions must be made via the World Bank Group's \"eConsult2\" \nsystem.\nPlease go to:\n\nhttps://wbgeconsult2.world",
+      "thread_id": "thread-a3ee44220f68",
+      "thread_depth": 0,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-7c2a1f137eae",
+      "message_id": "<AEDCC969E0667E4288F7BAE72FB2CAB60C18410C02@MVLMAILBOX.solutionset.local>",
+      "from_name": "Mae Coughlin",
+      "from_email_hash": "f47a9dc5cfb4f40753ce968c67b0a32c52be531a6d24e5bf33baee7d9e72a844",
+      "date": "2012-04-12T10:29:34-07:00",
+      "subject": "[R-jobs] Job Opening: Strategy & Analytics Lead Consultant for Google",
+      "subject_clean": "[R-jobs] Job Opening: Strategy & Analytics Lead Consultant for Google",
+      "in_reply_to": "<AEDCC969E0667E4288F7BAE72FB2CAB60B223231FD@MVLMAILBOX.solutionset.local>",
+      "references": [
+        "<AEDCC969E0667E4288F7BAE72FB2CAB60B223231FD@MVLMAILBOX.solutionset.local>"
+      ],
+      "body_plain": "Hello R users,\n\nI have a full time job opportunity at SolutionSet, 100% working for Google in Mountain View, CA. Email me your resume at mae.coughlin at solutionset.com, if you are interested. Thank you! --mae\n\nStrategy & Analytics Lead Consultant for Google\n\nPosition overview: \nAs a valued member of our marketing service agency SolutionSet, you?ll work collaboratively with our account & creative teams and our client Google to design effective marketing communications and provide business insights. You will define objectives, quantitatively evaluate opportunities and provide strategic thought leadership.  You will be a hands-on contributor, planning and conducting analyses on Google?s data, and presenting findings to Google.  Google and our internal teams will look to you as the expert in best practices in the use of tools for the collection, understanding, manipulation, and analysis of data; and the expert to apply best practices of email and direct mail marketing campaign strategies.  Your input will help to inform the planning process, guide the setup of statistically sound tests, and enable accurate measurement of results.  \nYou should have excellent communication skills (written and verbal) and the technical acumen required to detail out the process and deliverables concisely and with accuracy. You also have a strong work ethic and are a dedicated performer with the willingness to do what it takes to deliver the best of breed solutions for our client Google.  You'll provide insightful interpretation of data to enhance our ability to deliver intelligent and efficient multi-channel marketing initiatives for Google. \nPrimary Responsibilities include:\n?\tProvide strategic and analytic consulting services to support project engagements, driving strategic marketing decisions.\n?\tPerform analysis of campaign results to assist in overall evaluation of campaign success. \n?\tPerform ad hoc and recurring analysis and reporting of customer data to monitor key performance indicators and trends.\n?\tDevelop ad hoc advanced analysis of customer data to support hypotheses for opportunities in customer value management, e.g., acquisition, retention, attrition, and demographic/firmographic and behavioral profiles: includes customer segmentation and advanced modeling.\n?\tConduct experimental design in order to test & learn the best marketing tactics. \n?\tParticipate in building, maintaining, and improving reporting/data processes, including new campaign management, customer database, and tool project rollouts.\n?\tParticipate in a wide variety of planning and research projects, which include secondary research, writing and preparation of presentations, Point of View documents and proposals.\n?\tUnderstand email campaign logics and create SQL scripts to dynamically pull Google customer lists from database based on variables to receive email, DM, and other communications from Google.\n?\tWorks with the production team to make sure all files are built correctly and the QA process is followed consistently with each deliverable to ensure correct account data was populated for all communications. \n?\nEssential Skills/Experience: \n?\t5+ Years of hands on experience of data analytics and statistical modeling\n?\tDemonstrable skills in creating analytical solutions (statistical modeling, cluster analysis and segmentations), developing custom client reports, and providing marketing/business insights.\n?\tWorking knowledge of linear and logistic regression techniques\n?\tExpertise with at least one statistical package such as SAS and R. \n?\tExperience managing or using complex marketing databases through standard access tools, such as SQL (MS-Access, SQL Server, Oracle, MySQL), reporting tools (Business Objects, Crystal Reports) or business intelligence applications. \n?\tExperience working with large datasets and the ability to create/handle/analyze datasets at multiple levels (example customer, transactions, demographic/firmographic, etc.)\n?\tMust have excellent client facing skills including self-presentation and clarity of verbal communication\n?\tMust have experience with email marketing programs. Knowledge of other integrated marketing channels is a plus.\n?\tSelf-starter & team player with excellent project management and communication skills.\n?\tSkill and creativity in the use of Microsoft or other desktop tools (Excel, Access, PowerPoint, Word, Project). \n?\tGraduate degree in Statistics/Business preferred\n?\tKnowledge of Python, Linux or other Shell Script is a plus\n?\tKnowledge of Google Docs, Google Analytics and Google AdWords would benefit you greatly in this role\n\nAbout SolutionSet\nSolutionSet was formed as an answer to what was missing in the market: a firm that was technical enough to implement complex systems, but creative enough to make the systems beautiful and easy to use. SolutionSet Digital is part of a blended agency that combines user-centered creative and leading-edge technology to deliver the next new thinking in web development, digital marketing, and brand experience from their Palo Alto, CA headquarters and offices in San Francisco. Founded in 2002, the company is the evolution and culmination of five partners' creative agency and tech firm business initiatives dating back to the late nineties. These partners combined their agency effort and experience to form an integrated brand solution provider. The SolutionSet team is a group of talented and experienced brand and technology professionals who combine right-brain agency creative with left-brain consulting and technology skill. Recently named #95 on Inc. 500 and ranking #10 in the IT Services category, with a three-year growth rate of 1,582.% we are innovative people who love what we do. That's the kind of talent we hire. That's the kind of talent we work with.",
+      "body_snippet": "Hello R users,\n\nI have a full time job opportunity at SolutionSet, 100% working for Google in Mountain View, CA. Email me your resume at mae.coughlin at solutionset.com, if you are interested. Thank y",
+      "thread_id": "thread-7c2a1f137eae",
+      "thread_depth": 0,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-46fc18a1de7d",
+      "message_id": "<4B5535B1C3926A43B0D4CDAE916AAEF61661CEF4@ars-ex07mail1.corp.athenahealth.com>",
+      "from_name": "Iyue Sung",
+      "from_email_hash": "4ddb65af7eaedcfe1b2fc7e3521c9b8c799a076ef1ccdd52678345a553dc8c0d",
+      "date": "2012-04-12T23:39:57-04:00",
+      "subject": "[R-jobs] Job Opening (Boston): Analytics Manager at athenahealth",
+      "subject_clean": "[R-jobs] Job Opening (Boston): Analytics Manager at athenahealth",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Seeking ambitious and articulate quants and statisticians, interested in answering questions related to healthcare.  \n\nGeek-out and grow:\n?\n. Apply multiple technologies (SQL/Perl/R/Javascript/HTML/Excel) \n. Work with Big Data from multiple sources (Oracle DB, Weblogs, Salesforce) \n. Analyze, model and present insights to stakeholders\n. Get deep in a subject area: Finance/Operations/Marketing/Medical Outcomes/Strategy\n?\nInterested applicants are encouraged to visit: http://bit.ly/athenaquantmgr\n?\nQuestions: quants at athenahealth.com",
+      "body_snippet": "Seeking ambitious and articulate quants and statisticians, interested in answering questions related to healthcare.  \n\nGeek-out and grow:\n?\n. Apply multiple technologies (SQL/Perl/R/Javascript/HTML/Ex",
+      "thread_id": "thread-46fc18a1de7d",
+      "thread_depth": 0,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-8c2965845a08",
+      "message_id": "<1401699944.5721025.1334850782499.JavaMail.root@mailbox2-b.zimbra.upenn.edu>",
+      "from_name": "Kyle Bittinger",
+      "from_email_hash": "12cd0b0e983e358a39d88b8c14b52d72f8b91057ee3e16f6187dbf53c0706f7d",
+      "date": "2012-04-19T11:53:02-04:00",
+      "subject": "[R-jobs] Bioinformatics programmer at the University of Pennsylvania",
+      "subject_clean": "[R-jobs] Bioinformatics programmer at the University of Pennsylvania",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "University of Pennsylvania\nDepartment of Microbiology\nLaboratory of Dr. Frederic Bushman\n\nApplications are invited for a computer programming position, focusing on bioinformatic studies.  The programmer will be responsible for bioinformatics software development and support of existing software. The programmer will develop and implement web-based and report-based tools to process and analyze high-throughput sequence data. \n\nThe candidate should hold a BS or MS in a scientific or engineering discipline and have completed coursework in bioinformatics, biology, computer science, and statistics.  Applicants should have experience in web-based programming, working in a Unix/Linux environment, and any scripting language.  Additional experience in multivariate statistical analysis, programming in R, database management, and parallel computing would be helpful.  \n\nIf possible, please provide examples of completed or published bioinformatics applications.  The position is available immediately.  Salary commensurate with experience. \n\nFor more information on the activities of the Bushman laboratory, see: http://microb230.med.upenn.edu/\n\nTo apply, please send a CV and three references to Caitlin Greig at:\ncgreig at mail.med.upenn.edu\n\nThe University of Pennsylvania is an equal opportunity employer.",
+      "body_snippet": "University of Pennsylvania\nDepartment of Microbiology\nLaboratory of Dr. Frederic Bushman\n\nApplications are invited for a computer programming position, focusing on bioinformatic studies.  The programm",
+      "thread_id": "thread-8c2965845a08",
+      "thread_depth": 0,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-6ed221b4614f",
+      "message_id": "<4F97F56B.4030605@imm.ox.ac.uk>",
+      "from_name": "Francesca Buffa",
+      "from_email_hash": "06c8619309af33849a586caeb16dc456423b4dfb4565576abf94b1f1e45ff358",
+      "date": "2012-04-25T14:00:27+01:00",
+      "subject": "[R-jobs] Position available University of Oxford UK",
+      "subject_clean": "[R-jobs] Position available University of Oxford UK",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "//\n///Clinical Information Technology Research Assistant (102792)\n\nWe are looking for a Clinical Information Technology Research Assistant \nto work on the Oxford component of the EURECA FP7 project (Enabling \ninformation re-Use by linking clinical REsearch and CAre).\n\nThe post-holder will be in the Oxford component of the EURECA project \nand will focus on achieving the deliverable of the project relating to \ncancers called sarcomas. By generating a bench to bedside rare cancer \nstrategy, the EURECA project will aim to define and solve the necessary \nsteps to achieve maximal health outputs for users, including patients, \nfamilies, researchers, pharmaceutical industry and healthcare providers.\n\nThe successful candidate will hold a PhD or equivalent in an Information \nTechnology subject plus further training or relevant experience. \nExperience with medical and clinical application of IT and an \nunderstanding of the electronic patient record semantics is essential as \nis a proven ability to work in multifunctional teams including clinical \ntrial organisations, establish relationships and serve as liaison with \nexpert opinion leaders in IT and bioinformatics. Knowledge in oncology \n(sarcoma) and advanced presentation and publication skills as shown by \ninternational meetings and/or publication record is desirable.\n\nAll applicants must complete a short online application form; upload a \nCV and supporting statement.\n\nFor more details visit:\n\nhttps://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=102792\n\nThe closing date for applications is 12.00 noon on Wednesday 23rd May 2012./\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "//\n///Clinical Information Technology Research Assistant (102792)\n\nWe are looking for a Clinical Information Technology Research Assistant \nto work on the Oxford component of the EURECA FP7 project (E",
+      "thread_id": "thread-6ed221b4614f",
+      "thread_depth": 0,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-bb232a9f82d1",
+      "message_id": "<3400d76ea9e219b04850b650b512627a@mail.gmail.com>",
+      "from_name": "Mark Schwarz",
+      "from_email_hash": "114920a78125e5a897fa5bcbb1d7768d4aec67c88f1997a91854d1b3688d3e90",
+      "date": "2012-04-25T15:31:51-05:00",
+      "subject": "[R-jobs] Data Scientist and 'Data Management Guru' positions available in the heart of Austin, Texas",
+      "subject_clean": "[R-jobs] Data Scientist and 'Data Management Guru' positions available in the heart of Austin, Texas",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "== About Us:\n\n\n\nOceanus is a boutique software and analytics company.  We address some of\nthe most difficult and strategic issues in the automotive industry such as\nhow to launch electric vehicles, and how social media will change car\nownership.  We are profitable, doubling each year, compensate well, and\nhave great benefits -- including beer on tap.\n\n\n\nOur culture is important to us.  We make decisions on three simple values:\n\n\n\n== Brand:  Make our customers, employees and partners love us.  We bring\nstart-up enthusiasm, speed, and innovation to the enterprise.  We solve\nhard problems, we are agile, we keep it simple, and we over-deliver.\n\nGrowth:  Doubling each year is hard, but interesting--we have to completely\nchange the problems we are tackling and how we approach them.  Growth is\nthe challenge that excites us to come into work and allows us to hire and\nretain the best people.\n\nFun.  Life is too short to hate your job.  We have the luxury of picking\nwhat we work on, and we choose what motivates us.  Work will sometimes be\nwork, but we try to minimize suck.  We have a relaxed, collaborative\nenvironment.  We celebrate our successes, and sometimes, we just celebrate.\n\nResponsibilities:\n\n\n\n\n\n\n\n== Data Management Guru Responsibilities:\n\nOur business is built on understanding our customers' data more deeply than\nthey do.  We have a broad range of web, behavioral, descriptive, financial,\nand operational data on consumers, companies, and dealers in the automotive\nindustry.  Nearly every Oceanus project involves integrating heterogeneous,\nunstructured data, making sense of it with little help, mining it for\ninsights, and applying it in novel ways to solve business problems.\n\n\n\nAs our business doubles every year, the complexity of our data warehouse\ngrows even faster.\n\n\n\nWe need you to make data management an ever-greater differentiator for\nOceanus by:\n\nMaintaining our dozens of data sources and import schedules and processes\nto deliver 100% reliability and integrity, even in the face of poor-quality\nsource data\n\nApplying innovation, intelligence, and heuristic approaches to our ETL\nrather than standard, fixed brute-force rules\n\nContinuously enhancing our technology platform and toolsets as new problems\narise: building and buying when appropriate\n\nBecoming a subject matter expert in the data itself, to apply better\nsemantic checks and structure the data more intelligently than anyone else\ncould\n\nBuilding an agile version management and production release process for data\n\nEnsuring our data warehouse scales appropriately as our data sets grow\n\nWorking with our customers to help them develop more agile internal data\nmanagement processes\n\nWe use a range of tools and technologies: SQL Server, Oracle, bash, Perl,\nPython, SQL, Informatica, etc. We are looking for someone who has a deep\nunderstanding of ETL concepts but is not just a DBA or ETL developer, who\nis not wedded to any particular toolkit, and who is comfortable with\nprogramming, algorithmic thinking, automated testing, and pushing the\nenvelope on agile database development and process automation.  This\nposition is perfect for a data junkie with a development bent.\n\n\n\n== Data Management Guru Requirements:\n\nBachelor's degree in CS, or equivalent experience.\n\nAt least 2 years of work history managing complex data sets with novel,\nfault-tolerant approaches.  (Significantly more compensation is available\nfor those with deeper experience.)\n\nTrack record of success in using diverse technologies and approaches to\nmanage data in an extremely dynamic environment.\n\nComfort with and commitment to being our technology lead in a critical area\nof our business.\n\n\n\n\n\n\n\n\n\n\n\n\n\n== Data Scientist Responsibilities:\n\nOur Data Scientists do everything from data prep to data mining and\nstatistical analysis to business presentation.  They are pivotal to our\nprojects from start to finish, developing the entire path from business\nproblem statement to data-driven solution recommendation.  Data scientists\nneed to be good at both asking the right questions and finding creative,\ntechnically rigorous answers.\n\n\n\nOceanus Data scientists work with detailed data that describes the inner\nworkings of the automotive industry: consumer web-browsing and purchase\ninformation, customer demographics and psychographics, vehicle production\nand delivery specs and schedules, vehicle sales performance and history,\nincentives, repair information, dealership operations, etc.  They dream up\nand answer big questions: What makes some dealerships more successful than\nothers?  How much sales lift comes from incentives?  What kind of marketing\nis effective?  What mix of product packages and features should be\nmanufactured?  How many will sell?  Who is likely to buy an electric car?\n\n\n\nWe don't specialize in particular algorithms or modeling approaches -- we\nare always learning and looking for the best approach to the problem at\nhand.  The best candidates will have both exceptional technical/statistical\nskills and strong business acumen, and be interested in fast-paced work and\nvaried responsibilities.  They will be knowledgeable and capable enough to\nfind a way to leverage data to answer nearly any automotive business\nquestion, choosing their own analytical approaches and owning project\nresults.  (Though there is an opportunity to transition less complex work\nto offshore teams.)  They'll be excited to present results that could\nchange the way businesses operate, and able to present those simply and\nclearly, in terms that businesspeople understand.\n\n\n\n== Data Scientist Requirements:\n\n\n\nGraduate degree or equivalent in CS, statistics, econometrics, operations\nresearch, math, or a related field.\n\nDeep knowledge of at least one statistical analysis tool (preferably R or\nSPSS) and Microsoft Office for presentation.\n\nAt least 2 years of work history in data analysis, with a track record of\nsuccessful application of diverse analytical approaches (including but not\nlimited to regression modeling, time series analysis, and decision trees.)\n\nProgramming skills, including ability for sophisticated automated data prep\nthrough SQL and at least one other language, and ability to build reusable\nanalytical tools from scratch.\n\nAbility and drive to work quickly and deliver new insights and incremental\nresults on a daily basis.\n\n\n\n\n\n\n\nFor a good example of the pragmatic work style and approach to problem\nsolving that we value, see Jeremy Howard?s video at\nhttp://www.youtube.com/watch?v=kwt6XEh7U3g\n\nFor more information or next steps, see the posting at\nhttp://oceanus.jobscore.com/list or reach out to me directly.\n\n\n\n\n\n\n\nBest,\n\nMark\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "== About Us:\n\n\n\nOceanus is a boutique software and analytics company.  We address some of\nthe most difficult and strategic issues in the automotive industry such as\nhow to launch electric vehicles, an",
+      "thread_id": "thread-bb232a9f82d1",
+      "thread_depth": 0,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-4ab68c2b4163",
+      "message_id": "<c37f2e87537de154dc02bcfa175de984@openanalytics.eu>",
+      "from_name": "tobi@s@verbeke m@iii@g oii ope@@@@iytics@eu",
+      "from_email_hash": "a7dec7ea2c3f46b7836b9a112e31f24010c82d082240377de2c027c52acfb092",
+      "date": "2012-04-27T14:04:24+02:00",
+      "subject": "[R-jobs] Job Opening: Statistical Consultant at OpenAnalytics (Belgium)",
+      "subject_clean": "[R-jobs] Job Opening: Statistical Consultant at OpenAnalytics (Belgium)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "OpenAnalytics is an international company providing data analysis\n services and products across geographies and industrial sectors.\n\n We are currently looking to expand our team of statisticians with a \n candidate\n who fits the following profile:\n\n Statistician: MSc / PhD in Statistics, Applied Mathematics or Computer \n Science\n\n A detailed description can be found at\n\n http://www.openanalytics.eu/jobs\n\n Strong R skills are an important asset for the position.\n\n Kind regards,\n Tobias Verbeke\n\n --\n\n Tobias Verbeke\n Manager\n\n OpenAnalytics BVBA\n Kortestraat 30A\n 2220 Heist-op-den-Berg\n Belgium\n\n E tobias.verbeke at openanalytics.eu\n M +32 499 36 33 15\n\n http://www.openanalytics.eu",
+      "body_snippet": "OpenAnalytics is an international company providing data analysis\n services and products across geographies and industrial sectors.\n\n We are currently looking to expand our team of statisticians with ",
+      "thread_id": "thread-4ab68c2b4163",
+      "thread_depth": 0,
+      "month": "2012-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-db860d3b69e0",
+      "subject": "[R-jobs] TIBCO is looking for Analytics Consultants",
+      "message_count": 1,
+      "participants": [
+        "Louis Bajuk-Yorgan"
+      ],
+      "started": "2012-04-06T21:35:23+00:00",
+      "last_reply": "2012-04-06T21:35:23+00:00",
+      "root_message_id": "msg-db860d3b69e0"
+    },
+    {
+      "id": "thread-a3ee44220f68",
+      "subject": "[R-jobs] freelance consulting opportunity for R expert (causal inference & data visualization)",
+      "message_count": 1,
+      "participants": [
+        "Alexis Diamond"
+      ],
+      "started": "2012-04-09T10:42:35-04:00",
+      "last_reply": "2012-04-09T10:42:35-04:00",
+      "root_message_id": "msg-a3ee44220f68"
+    },
+    {
+      "id": "thread-7c2a1f137eae",
+      "subject": "[R-jobs] Job Opening: Strategy & Analytics Lead Consultant for Google",
+      "message_count": 1,
+      "participants": [
+        "Mae Coughlin"
+      ],
+      "started": "2012-04-12T10:29:34-07:00",
+      "last_reply": "2012-04-12T10:29:34-07:00",
+      "root_message_id": "msg-7c2a1f137eae"
+    },
+    {
+      "id": "thread-46fc18a1de7d",
+      "subject": "[R-jobs] Job Opening (Boston): Analytics Manager at athenahealth",
+      "message_count": 1,
+      "participants": [
+        "Iyue Sung"
+      ],
+      "started": "2012-04-12T23:39:57-04:00",
+      "last_reply": "2012-04-12T23:39:57-04:00",
+      "root_message_id": "msg-46fc18a1de7d"
+    },
+    {
+      "id": "thread-8c2965845a08",
+      "subject": "[R-jobs] Bioinformatics programmer at the University of Pennsylvania",
+      "message_count": 1,
+      "participants": [
+        "Kyle Bittinger"
+      ],
+      "started": "2012-04-19T11:53:02-04:00",
+      "last_reply": "2012-04-19T11:53:02-04:00",
+      "root_message_id": "msg-8c2965845a08"
+    },
+    {
+      "id": "thread-6ed221b4614f",
+      "subject": "[R-jobs] Position available University of Oxford UK",
+      "message_count": 1,
+      "participants": [
+        "Francesca Buffa"
+      ],
+      "started": "2012-04-25T14:00:27+01:00",
+      "last_reply": "2012-04-25T14:00:27+01:00",
+      "root_message_id": "msg-6ed221b4614f"
+    },
+    {
+      "id": "thread-bb232a9f82d1",
+      "subject": "[R-jobs] Data Scientist and 'Data Management Guru' positions available in the heart of Austin, Texas",
+      "message_count": 1,
+      "participants": [
+        "Mark Schwarz"
+      ],
+      "started": "2012-04-25T15:31:51-05:00",
+      "last_reply": "2012-04-25T15:31:51-05:00",
+      "root_message_id": "msg-bb232a9f82d1"
+    },
+    {
+      "id": "thread-4ab68c2b4163",
+      "subject": "[R-jobs] Job Opening: Statistical Consultant at OpenAnalytics (Belgium)",
+      "message_count": 1,
+      "participants": [
+        "tobi@s@verbeke m@iii@g oii ope@@@@iytics@eu"
+      ],
+      "started": "2012-04-27T14:04:24+02:00",
+      "last_reply": "2012-04-27T14:04:24+02:00",
+      "root_message_id": "msg-4ab68c2b4163"
+    }
+  ]
+}

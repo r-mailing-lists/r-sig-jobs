@@ -1,0 +1,67 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2023-01",
+  "messages": [
+    {
+      "id": "msg-a59be1208966",
+      "message_id": "<CAPDNHNdBWYoKKearJNvJ1u44pQFFNC5=t7kRGGuHKucq+j1uHg@mail.gmail.com>",
+      "from_name": "Christopher Tong",
+      "from_email_hash": "d1cbd80501eba7bf7515687009dc4cb6b69155e8e71c4dfa20a9f611927032d6",
+      "date": "2023-01-12T19:06:31-08:00",
+      "subject": "[R-jobs] Anticiated job openings for statistician at USDA (MS or PhD welcome)",
+      "subject_clean": "[R-jobs] Anticiated job openings for statistician at USDA (MS or PhD welcome)",
+      "in_reply_to": "<CAPDNHNfCoSUDwxo=5b5ccQHf7BeRfAwfWXosaHgh3TmjgD9erQ@mail.gmail.com>",
+      "references": [
+        "<CAPDNHNfCoSUDwxo=5b5ccQHf7BeRfAwfWXosaHgh3TmjgD9erQ@mail.gmail.com>"
+      ],
+      "body_plain": "CENTER FOR VETERINARY BIOLOGICS\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2023\n\nWe bring a broad perspective to our consulting and analytical work with\nscientists at the USDA National Centers for Animal Health. Our Statistics\nSection is looking for good communicators who are comfortable dealing with\nvarious aspects of practical scientific issues.\n\nWe are looking for skills that support the\n- Statistical design, analysis, and interpretation of scientific studies\n- Application of statistical principles to specific problems in applied\ndisciplines\n- Effective communication with scientists about practical issues\nWe?d also like to know about your background in areas that may advance our\nwork, such as veterinary medicine, biology, laboratory applications,\nepidemiology, machine learning, or statistical programming.\n\nApplicants must be United States citizens and this position is remote.\n\nHow to apply. The vacancy announcement will be open for application in\nJanuary or February 2023 on the www.usajobs.gov web site. At that time\napplicants may search for the announcement by job series (Mathematical\nStatistician, Statistician Biology or Biologist (Computational\nBioinformatics)), or contact us for the specific announcement number.\n\nThe Center for Veterinary Biologics regulates vaccines,\nimmuno-therapeutics, diagnostics, and other biologics used to manage animal\ndiseases. It is located on the campus of the National Centers for Animal\nHealth in Ames, Iowa, where it maintains a close affiliation with the other\nanimal disease centers on the campus and with nearby Iowa State University.\nAmes is known for its stimulating cultural environment, pleasant\nsurroundings, and stable economy. It is 40 minutes north of Des Moines\nInternational Airport. The position is remote but will require a few trips\nto Ames each year.\n\nEmployment benefits include flexible work schedule, eleven paid federal\nholidays, liberal leave allowance (annual leave, sick leave, and family\nfriendly leave policy), retirement and thrift savings plans, life insurance\nprogram, and health insurance program.\n\nMore info contact Amy Lock, Statistics Section Leader, USDA-CVB;\namy.b.lock at usda.gov\n\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "CENTER FOR VETERINARY BIOLOGICS\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2023\n\nWe bring a broad perspective to our consulting and analytical work ",
+      "thread_id": "thread-a59be1208966",
+      "thread_depth": 0,
+      "month": "2023-01"
+    },
+    {
+      "id": "msg-50e85025d6da",
+      "message_id": "<CAPDNHNegeWrkSSQCN2Hx=M5jw_5X_vun2zdFosorg-3h5Ad9pg@mail.gmail.com>",
+      "from_name": "Christopher Tong",
+      "from_email_hash": "d1cbd80501eba7bf7515687009dc4cb6b69155e8e71c4dfa20a9f611927032d6",
+      "date": "2023-01-24T22:54:43-08:00",
+      "subject": "[R-jobs] R-sig-jobs Digest, Vol 144, Issue 1",
+      "subject_clean": "[R-jobs] R-sig-jobs Digest, Vol 144, Issue 1",
+      "in_reply_to": "<mailman.436.7.1673607602.62613.r-sig-jobs@r-project.org>",
+      "references": [
+        "<mailman.436.7.1673607602.62613.r-sig-jobs@r-project.org>"
+      ],
+      "body_plain": "Update on my post of last week (repeated below):  The position is now open\nfor one week, closing Jan. 31, 2023.  Here is the link to the posting.\n\nhttps://www.usajobs.gov/job/701646300\n\n--C. Tong\n\n>\n> CENTER FOR VETERINARY BIOLOGICS\n> UNITED STATES DEPARTMENT OF AGRICULTURE\n>\n> Join our team of statisticians and data scientists in 2023\n>\n> We bring a broad perspective to our consulting and analytical work with\n> scientists at the USDA National Centers for Animal Health. Our Statistics\n> Section is looking for good communicators who are comfortable dealing with\n> various aspects of practical scientific issues.\n>\n> We are looking for skills that support the\n> - Statistical design, analysis, and interpretation of scientific studies\n> - Application of statistical principles to specific problems in applied\n> disciplines\n> - Effective communication with scientists about practical issues\n> We?d also like to know about your background in areas that may advance our\n> work, such as veterinary medicine, biology, laboratory applications,\n> epidemiology, machine learning, or statistical programming.\n>\n> Applicants must be United States citizens and this position is remote.\n>\n> How to apply. The vacancy announcement will be open for application in\n> January or February 2023 on the www.usajobs.gov web site. At that time\n> applicants may search for the announcement by job series (Mathematical\n> Statistician, Statistician Biology or Biologist (Computational\n> Bioinformatics)), or contact us for the specific announcement number.\n>\n> The Center for Veterinary Biologics regulates vaccines,\n> immuno-therapeutics, diagnostics, and other biologics used to manage animal\n> diseases. It is located on the campus of the National Centers for Animal\n> Health in Ames, Iowa, where it maintains a close affiliation with the other\n> animal disease centers on the campus and with nearby Iowa State University.\n> Ames is known for its stimulating cultural environment, pleasant\n> surroundings, and stable economy. It is 40 minutes north of Des Moines\n> International Airport. The position is remote but will require a few trips\n> to Ames each year.\n>\n> Employment benefits include flexible work schedule, eleven paid federal\n> holidays, liberal leave allowance (annual leave, sick leave, and family\n> friendly leave policy), retirement and thrift savings plans, life insurance\n> program, and health insurance program.\n>\n> More info contact Amy Lock, Statistics Section Leader, USDA-CVB;\n> amy.b.lock at usda.gov\n>\n>\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Update on my post of last week (repeated below):  The position is now open\nfor one week, closing Jan. 31, 2023.  Here is the link to the posting.\n\nhttps://www.usajobs.gov/job/701646300\n\n--C. Tong\n\n>\n>",
+      "thread_id": "thread-50e85025d6da",
+      "thread_depth": 0,
+      "month": "2023-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a59be1208966",
+      "subject": "[R-jobs] Anticiated job openings for statistician at USDA (MS or PhD welcome)",
+      "message_count": 1,
+      "participants": [
+        "Christopher Tong"
+      ],
+      "started": "2023-01-12T19:06:31-08:00",
+      "last_reply": "2023-01-12T19:06:31-08:00",
+      "root_message_id": "msg-a59be1208966"
+    },
+    {
+      "id": "thread-50e85025d6da",
+      "subject": "[R-jobs] R-sig-jobs Digest, Vol 144, Issue 1",
+      "message_count": 1,
+      "participants": [
+        "Christopher Tong"
+      ],
+      "started": "2023-01-24T22:54:43-08:00",
+      "last_reply": "2023-01-24T22:54:43-08:00",
+      "root_message_id": "msg-50e85025d6da"
+    }
+  ]
+}

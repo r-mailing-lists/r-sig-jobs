@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2009-04",
+  "messages": [
+    {
+      "id": "msg-8a49303cbd07",
+      "message_id": "<475a3c8f0904011438u9a99e98h8fbb81ce850e64b1@mail.gmail.com>",
+      "from_name": "David M Smith",
+      "from_email_hash": "a3666d53f7fdfcf418d8505bfe1d04a32972c346fd812a476a73a474a4979641",
+      "date": "2009-04-01T14:38:59-07:00",
+      "subject": "[R-jobs] Pre-Sales, Consulting and Development Engineers at REvolution \tComputing",
+      "subject_clean": "[R-jobs] Pre-Sales, Consulting and Development Engineers at REvolution \tComputing",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "REvolution Computing is looking for enthusiastic and talented people\nwith a strong academic and industry track record in statistical\ncomputing for technical sales, consulting and development roles. These\npositions are based out of our growing New Haven, CT and Seattle, WA\noffices.\n\nIf you have a data analysis background and have been using R for some\ntime, and also have a knack for demonstrating the benefits of\nperforming real-world statistical and data analysis in R to others,\nyou'd be a great addition to our pre-sales and consulting team.\n\nFor those of a more technical bent, we are also looking to expand our\nroster of programmers in the development team. If you or (or someone\nyou know) would make a good senior software engineer or senior build\nand release engineer for our REvolution R distribution, please\nencourage them to apply.\n\nMore information and details on how to apply can be found at:\nhttp://www.revolution-computing.com/aboutus/careers.php\n\n# David Smith\n\n-- \nDavid M Smith <david at revolution-computing.com>\nDirector of Community, REvolution Computing www.revolution-computing.com\nTel: +1 (206) 577-4778 x3203 (San Francisco, USA)\n\nCheck out our upcoming events schedule at www.revolution-computing.com/events",
+      "body_snippet": "REvolution Computing is looking for enthusiastic and talented people\nwith a strong academic and industry track record in statistical\ncomputing for technical sales, consulting and development roles. Th",
+      "thread_id": "thread-8a49303cbd07",
+      "thread_depth": 0,
+      "month": "2009-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-8a49303cbd07",
+      "subject": "[R-jobs] Pre-Sales, Consulting and Development Engineers at REvolution \tComputing",
+      "message_count": 1,
+      "participants": [
+        "David M Smith"
+      ],
+      "started": "2009-04-01T14:38:59-07:00",
+      "last_reply": "2009-04-01T14:38:59-07:00",
+      "root_message_id": "msg-8a49303cbd07"
+    }
+  ]
+}

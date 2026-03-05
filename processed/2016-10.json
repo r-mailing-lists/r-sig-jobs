@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2016-10",
+  "messages": [
+    {
+      "id": "msg-92f09f38bd26",
+      "message_id": "<00C2BC13F915F142ADE4F611CC18E1E701287A7757@HERMES02.demogr.mpg.de>",
+      "from_name": "Gosselck, Antje",
+      "from_email_hash": "73433ebbde7a011107abe6e7c94900424ed0c1541c54c76a66eb18bfe97dc5b3",
+      "date": "2016-10-18T13:30:19Z",
+      "subject": "[R-jobs] Job Offer: Statistical Analyst",
+      "subject_clean": "[R-jobs] Job Offer: Statistical Analyst",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear list-members,\n\nThe Max Planck Institute for Demographic Research (MPIDR) is accepting applications for a highly qualified Statistical Analyst.\n\nDetailed information regarding the vacancy can be found at http://www.demogr.mpg.de/en/education_career/jobs_fellowships_1910/statistical_analyst_4828.htm.\n\nBest regards,\n\n\nAntje Gosselck\n\nMax Planck Institute for Demographic Research\nKonrad-Zuse-Str. 1\nD-18057 Rostock\nGermany\n\nhttp://www.demogr.mpg.de\nmailto:gosselck at demogr.mpg.de\nTel. +49 (0) 381 / 2081 108\nFax +49 (0) 381 / 2081 408\n\n\n\n----------\nThis mail has been sent through the MPI for Demographic ...{{dropped:9}}",
+      "body_snippet": "Dear list-members,\n\nThe Max Planck Institute for Demographic Research (MPIDR) is accepting applications for a highly qualified Statistical Analyst.\n\nDetailed information regarding the vacancy can be f",
+      "thread_id": "thread-92f09f38bd26",
+      "thread_depth": 0,
+      "month": "2016-10"
+    },
+    {
+      "id": "msg-4f3196457de6",
+      "message_id": "<703832665.4310995.1476828100251.JavaMail.zimbra@openanalytics.eu>",
+      "from_name": "Tobias Verbeke",
+      "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
+      "date": "2016-10-19T00:01:40+02:00",
+      "subject": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
+      "subject_clean": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Open Analytics is an international company providing data analysis services and products across geographies and industrial sectors.\n\nWe are currently looking to expand our team with the following profiles:\n\nStatisticians: MSc / PhD in Statistics, Applied Mathematics or Computer Science\nData Scientists: MSc / PhD in Computer Science, Engineering or Statistics\n\nA detailed description can be found at\n\nhttp://www.openanalytics.eu/jobs\n\nKind regards,\nTobias Verbeke\n\n-- \n\nTobias Verbeke\nManaging Director\n\nOpen Analytics NV\nJupiterstraat 20\n2600 Antwerp\nBelgium \n\nE tobias.verbeke at openanalytics.eu\nM +32 499 36 33 15\nhttp://www.openanalytics.eu",
+      "body_snippet": "Open Analytics is an international company providing data analysis services and products across geographies and industrial sectors.\n\nWe are currently looking to expand our team with the following prof",
+      "thread_id": "thread-4f3196457de6",
+      "thread_depth": 0,
+      "month": "2016-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-92f09f38bd26",
+      "subject": "[R-jobs] Job Offer: Statistical Analyst",
+      "message_count": 1,
+      "participants": [
+        "Gosselck, Antje"
+      ],
+      "started": "2016-10-18T13:30:19+00:00",
+      "last_reply": "2016-10-18T13:30:19+00:00",
+      "root_message_id": "msg-92f09f38bd26"
+    },
+    {
+      "id": "thread-4f3196457de6",
+      "subject": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
+      "message_count": 1,
+      "participants": [
+        "Tobias Verbeke"
+      ],
+      "started": "2016-10-19T00:01:40+02:00",
+      "last_reply": "2016-10-19T00:01:40+02:00",
+      "root_message_id": "msg-4f3196457de6"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2012-01",
+  "messages": [
+    {
+      "id": "msg-1537ae6c2dfb",
+      "message_id": "<C863C477-6232-40D1-833A-90B01582723D@nki.nl>",
+      "from_name": "Lodewyk Wessels",
+      "from_email_hash": "d4989cf01a187456c85af114c03705bca11cfe7e0b53aaa3938bf1298998ce28",
+      "date": "2012-01-03T17:51:03+01:00",
+      "subject": "[R-jobs] Job opportunity in AMSTERDAM: ANALYSIS OF NGS CANCER DATA",
+      "subject_clean": "[R-jobs] Job opportunity in AMSTERDAM: ANALYSIS OF NGS CANCER DATA",
+      "in_reply_to": "<501462EA-549B-4386-BA31-4C8EF1DCA830@nki.nl>",
+      "references": [
+        "<10756372-589C-4CC3-B2ED-2BCD8E48889F@nki.nl>",
+        "<501462EA-549B-4386-BA31-4C8EF1DCA830@nki.nl>"
+      ],
+      "body_plain": "COMPUTATIONAL ANALYSIS OF NEXT GENERATION SEQUENCE DATA \n(http://bioinformatics.nki.nl/vacancies.php)\n\nTHREE BIOINFORMATICS POSITIONS \n\nPROJECT OUTLINE \n\nGenomic alterations are major determinant of responses to (targeted) therapies in cancer. In fact, the best positive and negative predictors of responses to targeted therapies are alterations in kinases or their direct downstream effectors. To gain insight into resistance mechanisms to therapy and thus better tailor treatment, we are approaching this problem from two different angles. First, we have acquired large panels of human tumors, on which we are currently performing kinase exon sequencing. More specifically, we are performing sequencing on 1) 400 samples from the NEO-ALTTO study to find alterations associated with resistance to HER2 targeted therapies; 2) at least 200 colorectal samples and 300 breast cancers (triple negatives and invasive lobular carcinomas) to detect alterations frequently occurring in these patient populations. A very strong feature of all these datasets is that matched controls are available to ensure high accuracy in variant calling. The goal is to detect genomic alterations associated with response to therapy and cancer subtypes and to place these alterations in the context of molecular regulatory networks such that our understanding of the oncogenic and resistance process is maximized. Second we have transplanted tumors from mouse models of breast cancer that have been treated with a range of (targeted) therapies. Matched pre- and post treatment pairs of resistant and sensitive tumors have been full exon sequenced and are available for analysis. The goal is to detect genomic alterations associated with response to therapy. The successful candidates will work closely with the biological groups to develop computational approaches for the detection of mutations and copy number alterations associated with specific cancer subtypes as well as therapy response in human and mouse model-derived tumors. A major aim of the project is to integrate the detected mutations with other genomic data sources to maximize our knowledge gain. \n\nCANDIDATE REQUIREMENTS -- EDUCATION AND EXPERIENCE \n\nWe are seeking highly motivated Postdoc and PhD candidates with a degree in bioinformatics or a mathematical discipline with a strong cancer biological interest. Applicants should either have strong modeling/applied statistics skills or strong documented experience in analyzing high-throughput sequencing data. In addition, we strongly value experience in one or more of the following: sequence analysis, machine learning, applied statistics and R, computer science and expression analysis. The candidate also needs to be proficient in a programming language such as Java, Perl or Python, and be comfortable with Linux systems. Fluency in spoken and written English is a strong requirement. \n\nLOCATION \n\nThe project will employ the complementary expertise and tools of three groups participating in the Cancer Systems Biology Center (csbc.nki.nl) at the Netherlands Cancer Institute, Amsterdam: Rene Bernards (Molecular Carcinogenesis), Jos Jonkers (Mouse Models for Breast Cancer) and Lodewyk Wessels (Computational Biology). The position are primarily embedded within the Bioinformatics and Statistics Group (Wessels) (bioinformatics.nki.nl) at the Netherlands Cancer Institute, Amsterdam. \n\nCONTACT DETAILS \n\nPlease contact Dr. Lodewyk Wessels, tel. +31 20 512 7987 or e-mail: l.wessels at nki.nl. When applying please ensure you include a CV, list of publications and the names and addresses of at least two persons that can be approached to obtain further information. Also see bioinformatics.nki.nl and csbc.nki.nl for further information. \n\nCLOSING DATE: 31 JANUARY 2012 \n\n\n\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "COMPUTATIONAL ANALYSIS OF NEXT GENERATION SEQUENCE DATA \n(http://bioinformatics.nki.nl/vacancies.php)\n\nTHREE BIOINFORMATICS POSITIONS \n\nPROJECT OUTLINE \n\nGenomic alterations are major determinant of r",
+      "thread_id": "thread-1537ae6c2dfb",
+      "thread_depth": 0,
+      "month": "2012-01"
+    },
+    {
+      "id": "msg-c9baa014b673",
+      "message_id": "<CAGfM87PrtdC7cBDWPyiHCzpXSF4Sp-80eoBoOSdXm-JUV0nwdg@mail.gmail.com>",
+      "from_name": "Derek Norton",
+      "from_email_hash": "885f3a514cd13237210805879e189db7d4e31d26a33b637de43bbbc3076d0bca",
+      "date": "2012-01-03T12:00:35-05:00",
+      "subject": "[R-jobs] PRESALES / TECHNICAL SALES",
+      "subject_clean": "[R-jobs] PRESALES / TECHNICAL SALES",
+      "in_reply_to": "<CAGfM87MBnD2eWm2464sFN9GsS2Ss_T4omHpxiDW3=YgLq5wBOw@mail.gmail.com>",
+      "references": [
+        "<CAGfM87MBnD2eWm2464sFN9GsS2Ss_T4omHpxiDW3=YgLq5wBOw@mail.gmail.com>"
+      ],
+      "body_plain": "PreSales / Technical Sales (Associate/Senior)\nPalo Alto, CA\n\nRevolution Analytics is the leading commercial provider of software and\nsupport for the open source ???R??? statistical computing language. Our\nproducts, including* Revolution R* and *Revolution R Enterprise*, enable\nstatisticians, scientists and others to create superior predictive models\nand derive meaning from mission-critical data in record time. Revolution\nAnalytics works closely with the R community to incorporate the latest\ndevelopments in open source R and with our clients to support their efforts\nto produce ground-breaking innovations in life sciences, financial\nservices, defense technology and other industries where high-level\nanalytics are crucial to success.\n\nThe ideal candidate will be passionate about R, have experience with data\nanalysis in an enterprise data environment, and love working with\ncustomers.  In addition, candidates should be solution oriented with an\nability to stay cool while managing multiple tasks and changing priorities.\n\n*Duties and Responsibilities*\n\n   - Be the technical expert that supports Sales through product\n   demonstrations, expertise in product capabilities, and proof of concept\n   applications.\n   - Respond to customer requests for information, and assist in\n   installations and product use prior to sale.\n   - Assist Marketing by developing white papers, relevant technical\n   examples, and case studies.\n   - Work with the Marketing and Product Development teams to maintain\n   currency on the technical capabilities of the product and the product\n   roadmap.\n   - Actively communicate customer feedback to Sales and Marketing.\n   - Support product demonstrations at trade shows, seminars and other\n   events.\n   - Participate in training courses, support and consulting engagements as\n   needed.\n   - Ability to travel up to 20%\n\n*Required Qualifications:*\n\n   - Strong verbal and written communication skills and experience in\n   developing and presenting technical subject matter.\n   - Strong communication and interpersonal skills with the ability to work\n   in a multi-disciplinary team.\n   - Expert in R programming including some experience with database\n   interfaces.\n   - Minimum 3 years experience in a consulting/client-facing role\n   including some interaction with enterprise IT, system integration, and\n   development in both Windows and Linux environments.\n   - MS in Statistics, Computer Science, Math, Engineering, or related\n   field.\n   - Local candidates only (Bay Area).\n\n*Additional Qualifications (Nice to have):*\n\n   - Some experience with other commercial data analysis packages such as\n   SAS, SPSS, JMP, or Matlab.\n   - Additional experience with one or more of the following: Hadoop,\n   Netezza, Relational database management systems, Talend, Ab Initio, Python,\n   Java, PMML, BI tools, web services, cloud computing.\n\n*Experience the energy and excitement of a start-up company with solid\nfinancial backing ??? *\n*join Revolution Analytics.*\n\nAt a time when many companies are cutting back, we???re still offering a\n*competitive\ncompensation package*that includes a solid base salary, *full health\ncare* including\ndental, long-term disability, and *401(k).*\n\nRevolution Analytics is an equal opportunity employer and encourages\napplications from women and members of underrepresented minority groups.\n\nPlease email your resume to careers at revolutionanalytics.com, noting the job\ntitle and location.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "PreSales / Technical Sales (Associate/Senior)\nPalo Alto, CA\n\nRevolution Analytics is the leading commercial provider of software and\nsupport for the open source ???R??? statistical computing language.",
+      "thread_id": "thread-c9baa014b673",
+      "thread_depth": 0,
+      "month": "2012-01"
+    },
+    {
+      "id": "msg-6833abfd6e1c",
+      "message_id": "<CAGfM87Pz0s-msaKZsVT=LxetRMetmd7YQNLNupSB8kqhHJK8iA@mail.gmail.com>",
+      "from_name": "Derek Norton",
+      "from_email_hash": "885f3a514cd13237210805879e189db7d4e31d26a33b637de43bbbc3076d0bca",
+      "date": "2012-01-03T12:04:49-05:00",
+      "subject": "[R-jobs] PreSales / Technical Sales",
+      "subject_clean": "[R-jobs] PreSales / Technical Sales",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "PreSales / Technical Sales (Associate/Senior)\nPalo Alto, CA\n\nRevolution Analytics is the leading commercial provider of software and\nsupport for the open source R statistical computing language. Our\nproducts, including Revolution R and Revolution R Enterprise, enable\nstatisticians, scientists and others to create superior predictive models\nand derive meaning from mission-critical data in record time. Revolution\nAnalytics works closely with the R community to incorporate the latest\ndevelopments in open source R and with our clients to support their efforts\nto produce ground-breaking innovations in life sciences, financial\nservices, defense technology and other industries where high-level\nanalytics are crucial to success.\n\nThe ideal candidate will be passionate about R, have experience with data\nanalysis in an enterprise data environment, and love working with\ncustomers. ?In addition, candidates should be solution oriented with an\nability to stay cool while managing multiple tasks and changing priorities.\n\nDuties and Responsibilities\n\n? ?- Be the technical expert that supports Sales through product\n? ?demonstrations, expertise in product capabilities, and proof of concept\n? ?applications.\n? ?- Respond to customer requests for information, and assist in\n? ?installations and product use prior to sale.\n? ?- Assist Marketing by developing white papers, relevant technical\n? ?examples, and case studies.\n? ?- Work with the Marketing and Product Development teams to maintain\n? ?currency on the technical capabilities of the product and the product\n? ?roadmap.\n? ?- Actively communicate customer feedback to Sales and Marketing.\n? ?- Support product demonstrations at trade shows, seminars and other\n? ?events.\n? ?- Participate in training courses, support and consulting engagements as\n? ?needed.\n? ?- Ability to travel up to 20%\n\nRequired Qualifications:\n\n? ?- Strong verbal and written communication skills and experience in\n? ?developing and presenting technical subject matter.\n? ?- Strong communication and interpersonal skills with the ability to work\n? ?in a multi-disciplinary team.\n? ?- Expert in R programming including some experience with database\n? ?interfaces.\n? ?- Minimum 3 years experience in a consulting/client-facing role\n? ?including some interaction with enterprise IT, system integration, and\n? ?development in both Windows and Linux environments.\n? ?- MS in Statistics, Computer Science, Math, Engineering, or related\n? ?field.\n? ?- Local candidates only (Bay Area).\n\nAdditional Qualifications (Nice to have):\n\n? ?- Some experience with other commercial data analysis packages such as\n? ?SAS, SPSS, JMP, or Matlab.\n? ?- Additional experience with one or more of the following: Hadoop,\n? ?Netezza, Relational database management systems, Talend, Ab Initio, Python,\n? ?Java, PMML, BI tools, web services, cloud computing.\n\nExperience the energy and excitement of a start-up company with solid\nfinancial backing,?join Revolution Analytics.\n\nAt a time when many companies are cutting back, we're still offering a\ncompetitive?compensation package that includes a solid base salary,\nfull health\ncare including?dental, long-term disability, and 401(k).\n\nRevolution Analytics is an equal opportunity employer and encourages\napplications from women and members of underrepresented minority groups.\n\nPlease email your resume to careers at revolutionanalytics.com, noting the job\ntitle and location.",
+      "body_snippet": "PreSales / Technical Sales (Associate/Senior)\nPalo Alto, CA\n\nRevolution Analytics is the leading commercial provider of software and\nsupport for the open source R statistical computing language. Our\np",
+      "thread_id": "thread-6833abfd6e1c",
+      "thread_depth": 0,
+      "month": "2012-01"
+    },
+    {
+      "id": "msg-5d9ac457a715",
+      "message_id": "<B6B83B4D8B4C5B48A81903EC3EB874EA3C7719@PA-MBX03.na.tibco.com>",
+      "from_name": "Louis Bajuk-Yorgan",
+      "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
+      "date": "2012-01-03T23:10:21Z",
+      "subject": "[R-jobs] TIBCO looking for an Analytics Consultant",
+      "subject_clean": "[R-jobs] TIBCO looking for an Analytics Consultant",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ANALYTICS CONSULTANT\nHiring Manager: Michael O'Connell\nLocation: East Coast US\n\nTIBCO is a rapidly growing software company with more than 3000 employees worldwide and approx. $900MM annual revenue in 2011. TIBCO provides a comprehensive software platform that allows customers to perform in-depth analysis on their data, while injecting predictive and complex statistics in the analysis.  TIBCO Spotfire is an interactive, visual environment with inbuilt R/S+ analytics, allowing individuals to analyze and visualize trends, patterns, outliers, and unanticipated relationships in data quickly.  TIBCO Spotfire customers include Fortune500 customers from variety of industries, including: Life Science, Energy, Financial Services, Telco, Retail and others.\n\nWe are looking for an Analytics Consultant to join our rapidly growing Industry Analytics Group and provide analytics expertise within customer implementations of TIBCO software. The successful candidate will also engage in methodology development to sharpen our current tool kit.  This position will require some travel to customer locations (about 25%) as well as research and development within the TIBCO suite of products. The work can be accomplished from a home office, but candidates who live in the northeast US, especially the North Carolina Research Triangle Park area, will be given preference.\n\nQUALIFICATIONS\n\n  *   Experience in statistical data analysis and some involvement in delivering statistical analyses as part of projects, engagements or deployed software applications a must\n  *   3+ years of experience with S-PLUS or R\n  *   Experience with other software environments e.g. SAS, Matlab, Spotfire, Spotfire Miner, and/or other data mining software and/or .Net and/or scripting environments e.g. Python, is a plus\n  *   Candidate should have a masters or PhD degree with a major in statistics. Candidates with a major in computer science and with statistics classes will also be considered.\n  *   Graduate statistics classes in Time Series Analysis, Longitudinal Methods and/or Data Mining are a plus.\n  *   Candidates must be proficient in the Windows environment; Linux is a plus.\n\n\n--------------------------\nLou Bajuk-Yorgan\nSr. Director, Product Management\nSpotfire, TIBCO Software\n206-802-2328\nlbajuk at tibco.com\nhttp://spotfire.tibco.com<http://spotfire.tibco.com/>\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "ANALYTICS CONSULTANT\nHiring Manager: Michael O'Connell\nLocation: East Coast US\n\nTIBCO is a rapidly growing software company with more than 3000 employees worldwide and approx. $900MM annual revenue in",
+      "thread_id": "thread-5d9ac457a715",
+      "thread_depth": 0,
+      "month": "2012-01"
+    },
+    {
+      "id": "msg-a52c3d4ec5d7",
+      "message_id": "<CAEdE6U6xHtWDp_WQxOszrv_S_-SYWyKg99up-k2Le4OhXrZ0kg@mail.gmail.com>",
+      "from_name": "sayan dasgupta",
+      "from_email_hash": "fb77cfcf96cca81eb44ee0b173afc553891eafc5d4383f07b31b1fff39969c76",
+      "date": "2012-01-09T13:51:07+05:30",
+      "subject": "[R-jobs] Analytics Consultant, Sr. Analytics Consultant and Principal Analytics Consultant (AC/SAC/PAC), Bangalore India",
+      "subject_clean": "[R-jobs] Analytics Consultant, Sr. Analytics Consultant and Principal Analytics Consultant (AC/SAC/PAC), Bangalore India",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi UseRs,\n\nPlease find the Job Description posted below. Our organization is looking\nfor people with strong quantitative skills who is also strong in\nprogramming with R.\n\nDo get in touch with Prabhanshu (prabhanshu.pandey at 247customer.com) if you\nconsider your\nexperience and skills a good fit for the roles below.\nLocation: *Bangalore, India*\n\nLet me know if you need any further clarification.\n\nThanks and Regards,\nSayan Dasgupta\n\n*Analytics Consultant, Sr. Analytics Consultant and Principal Analytics\nConsultant (AC/SAC/PAC)*\n\nCompany             Innovation Labs, 24/7 Customer, Bangalore India\n\nType                       Full-time\n\nExperience:        Junior to Mid Level\n\nFunction:             Analytics / Data Sciences\n\nIndustry:              Information Technology and Services\n\nLocation:              Position is based in *Bangalore, India*\n\nReports to:         Manager/Director/Senior Director\n\nReportees:         0\n\n* *\n\n*Statement of purpose*\n\nDeliver Predictive Analytics, Data Mining, Text Mining, Machine Learning\ndriven products and solutions to 24/7 Clients\n\n* *\n\n*Summary of essential job functions*\n\n?         Builds models in the broad areas of statistics and data mining\n\n?         Works with product engineering teams to implement these models\ninto products\n\n?         Implements these models in production environment to create\nbusiness value\n\n*Minimum requirements (Education Qualification & Work Experience)*\n\n?         MS/PhD from a reputed institution\n\n?         Field of graduate education ? Computer Science, Mathematics,\nStatistics, Engineering or related fields\n\n?         Strong academic record\n\n?         1-8 years of experience in the field of Advanced statistics, data\nmining and text mining\n\n*Competency Requirements: [Technical & Behavioral]*\n\n?         *Strong background in programming and modeling in R a must*\n\n?         Passion and technical competency in quantitative methods and/or\npredictive analytics\n\n?         Experience with techniques such as Data mining, Advanced\nStatistics, Pattern Recognition, Artificial Intelligence, Text mining,\nweblog mining etc.\n\n?         Scripting languages such as Python or Perl a strong plus\n\n?         Hands on experience in model building and/or coding\n\n?         Proven problem-solving skills.\n\n?         Excellent computation and data management skills. Experience\nhandling voluminous data\n\n?         Understanding of marketing science and customer service domains a\nplus\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi UseRs,\n\nPlease find the Job Description posted below. Our organization is looking\nfor people with strong quantitative skills who is also strong in\nprogramming with R.\n\nDo get in touch with Prabhans",
+      "thread_id": "thread-a52c3d4ec5d7",
+      "thread_depth": 0,
+      "month": "2012-01"
+    },
+    {
+      "id": "msg-a55e0c01d57e",
+      "message_id": "<4F0D4D5B.1020500@ufz.de>",
+      "from_name": "Nora Eigenwill",
+      "from_email_hash": "dd60af752f938019f917a2afd4d938a4048bd60cc4162efb88ec77aaeaeb8b48",
+      "date": "2012-01-11T09:50:35+01:00",
+      "subject": "[R-jobs] Researcher (PostDoc)",
+      "subject_clean": "[R-jobs] Researcher (PostDoc)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*****Job offer: PostDoc position at UFZ Leipzig (Germany)*****\n\nThe /Department of Computational Landscape Ecology/ ((www.ufz.de/cle) \nand Community Ecology (BZF) invite\napplications for a*PostDoc position (m/f) on Statistical Computing and \nStatistical Consulting*\n(code digit 2/2012) to commence as soon as possible.\n\nWe seek a highly motivated, team-oriented scientist with a wide range of \nexperience in statistics. The\nposition has two facets: statistical consulting and research \napplications of statistical computing.\n\nFor detailed information, please have a look here:\nhttp://www.ufz.de/index.php?de=11426\n\nThe appointment is for an initial period of 3 years, an extension is\naspired. _Applications_ with curriculum vitae, certificates of academic \ndegrees and reprints of most\nimportant publications _are accepted under the code digit 2/2012 until \n03.02.2012_.\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*****Job offer: PostDoc position at UFZ Leipzig (Germany)*****\n\nThe /Department of Computational Landscape Ecology/ ((www.ufz.de/cle) \nand Community Ecology (BZF) invite\napplications for a*PostDoc pos",
+      "thread_id": "thread-a55e0c01d57e",
+      "thread_depth": 0,
+      "month": "2012-01"
+    },
+    {
+      "id": "msg-eabd8d330976",
+      "message_id": "<9521E343A086484BA65D55F35299A20201F64B59@ny-exch.KLS.corp>",
+      "from_name": "Laing, John",
+      "from_email_hash": "ff8bf86275a8d94ce971c2caac2965afceba87e4264e655599b362ba1be593a6",
+      "date": "2012-01-25T18:30:31Z",
+      "subject": "[R-jobs] Developer / Quant job",
+      "subject_clean": "[R-jobs] Developer / Quant job",
+      "in_reply_to": "<9521E343A086484BA65D55F35299A20201F6487D@ny-exch.KLS.corp>",
+      "references": [
+        "<9521E343A086484BA65D55F35299A20201F6487D@ny-exch.KLS.corp>"
+      ],
+      "body_plain": "Position: Software Developer/Quantitative Analyst - New York - Fixed Income\n\nWe are searching for a software developer with 3 to 6 years experience in software design and implementation. Qualified candidate should have superior quantitative skills, disciplined programming habits, and extensive knowledge of fixed income products and technology platforms. Candidate will work closely with front office trading, risk, middle office, and accounting to maintain, streamline, and develop our systems.\n\nBackground:\nWe are a growing, 4+ year old diversified fixed income fund with $1.2 billion of AUM. We seek to preserve capital while delivering high risk-adjusted absolute returns with low volatility and low correlation to equity and bond markets. Our product set spans the full range of rates/FX, structured, and credit fixed income products.\n\nKey Responsibilities:\n* Maintain and support internal database and related applications.\n* Maintain and enhance data feeds, including Bloomberg Gateway, Geneva, and several ad hoc sources.\n* Responsible for RiskMetrics systems and integrity of related risk reporting.\n* Assist with implementing process improvements across front and middle office technology platforms.\n* Assist with writing business requirement documents.\n* Assist in the development and tracking of project plans.\n\nPosition Requires:\n* Bachelors degree in Computer Science, Mathematics, or other quantitative discipline.\n* Experience using Linux/UNIX including shell scripting.\n* Strong programming skills in languages like C++, Java, R, Ruby, Python.\n* Experience with relational databases including knowledge of SQL and PL/SQL.\n* Experience working in a multi-developer environment including use of source control and project management tools.\n* Knowledge of capital markets, operational workflows, and accounting principles.\n* Understanding of fixed income and derivative securities.\n* Exceptional analytical and communication skills.\n\nOther Qualifications:\n* Understanding of hedge fund accounting.\n* Understanding of how all P&L components are calculated.\n* Experience with RiskMetrics and Bloomberg AIM.\n* Experience with Advent Geneva including developing RSL.\n* Experience developing SQL Server / SSIS.\n* Knowledge of risk theory and measurement techniques.\n\nPlease respond to: middleofficeresume at gmail.com\n\nThe information contained in this email communication is confidential and is intended only for the recipients named above and any others who have been specifically authorized to receive it. Any unauthorized dissemination, copying or use of the contents of this email is strictly prohibited and may be unlawful. If you received this email in error, please delete it and any attachments from your system and notify the sender immediately.\n\nThis communication is for informational purposes only an...{{dropped:6}}",
+      "body_snippet": "Position: Software Developer/Quantitative Analyst - New York - Fixed Income\n\nWe are searching for a software developer with 3 to 6 years experience in software design and implementation. Qualified can",
+      "thread_id": "thread-eabd8d330976",
+      "thread_depth": 0,
+      "month": "2012-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c9baa014b673",
+      "subject": "[R-jobs] PRESALES / TECHNICAL SALES",
+      "message_count": 1,
+      "participants": [
+        "Derek Norton"
+      ],
+      "started": "2012-01-03T12:00:35-05:00",
+      "last_reply": "2012-01-03T12:00:35-05:00",
+      "root_message_id": "msg-c9baa014b673"
+    },
+    {
+      "id": "thread-6833abfd6e1c",
+      "subject": "[R-jobs] PreSales / Technical Sales",
+      "message_count": 1,
+      "participants": [
+        "Derek Norton"
+      ],
+      "started": "2012-01-03T12:04:49-05:00",
+      "last_reply": "2012-01-03T12:04:49-05:00",
+      "root_message_id": "msg-6833abfd6e1c"
+    },
+    {
+      "id": "thread-1537ae6c2dfb",
+      "subject": "[R-jobs] Job opportunity in AMSTERDAM: ANALYSIS OF NGS CANCER DATA",
+      "message_count": 1,
+      "participants": [
+        "Lodewyk Wessels"
+      ],
+      "started": "2012-01-03T17:51:03+01:00",
+      "last_reply": "2012-01-03T17:51:03+01:00",
+      "root_message_id": "msg-1537ae6c2dfb"
+    },
+    {
+      "id": "thread-5d9ac457a715",
+      "subject": "[R-jobs] TIBCO looking for an Analytics Consultant",
+      "message_count": 1,
+      "participants": [
+        "Louis Bajuk-Yorgan"
+      ],
+      "started": "2012-01-03T23:10:21+00:00",
+      "last_reply": "2012-01-03T23:10:21+00:00",
+      "root_message_id": "msg-5d9ac457a715"
+    },
+    {
+      "id": "thread-a52c3d4ec5d7",
+      "subject": "[R-jobs] Analytics Consultant, Sr. Analytics Consultant and Principal Analytics Consultant (AC/SAC/PAC), Bangalore India",
+      "message_count": 1,
+      "participants": [
+        "sayan dasgupta"
+      ],
+      "started": "2012-01-09T13:51:07+05:30",
+      "last_reply": "2012-01-09T13:51:07+05:30",
+      "root_message_id": "msg-a52c3d4ec5d7"
+    },
+    {
+      "id": "thread-a55e0c01d57e",
+      "subject": "[R-jobs] Researcher (PostDoc)",
+      "message_count": 1,
+      "participants": [
+        "Nora Eigenwill"
+      ],
+      "started": "2012-01-11T09:50:35+01:00",
+      "last_reply": "2012-01-11T09:50:35+01:00",
+      "root_message_id": "msg-a55e0c01d57e"
+    },
+    {
+      "id": "thread-eabd8d330976",
+      "subject": "[R-jobs] Developer / Quant job",
+      "message_count": 1,
+      "participants": [
+        "Laing, John"
+      ],
+      "started": "2012-01-25T18:30:31+00:00",
+      "last_reply": "2012-01-25T18:30:31+00:00",
+      "root_message_id": "msg-eabd8d330976"
+    }
+  ]
+}

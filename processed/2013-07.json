@@ -1,0 +1,202 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-07",
+  "messages": [
+    {
+      "id": "msg-d2a27f7b2456",
+      "message_id": "<9160C91F279FFE42AFACA00C2CE290350E7CB481@VMEXCHANGEMBS3A.isad.isadroot.ex.ac.uk>",
+      "from_name": "Lin, Nan",
+      "from_email_hash": "32277a9f6629d3c5e4ccc814f0091d730ee8c5b1cd9432bd3b32ada10c887c9d",
+      "date": "2013-07-03T20:42:17Z",
+      "subject": "[R-jobs] PhD Studentship in Medical Statistics",
+      "subject_clean": "[R-jobs] PhD Studentship in Medical Statistics",
+      "in_reply_to": "<9160C91F279FFE42AFACA00C2CE290350E7CB455@VMEXCHANGEMBS3A.isad.isadroot.ex.ac.uk>",
+      "references": [
+        "<0455158461958577.WA.n.linexeter.ac.uk@www.jiscmail.ac.uk>",
+        "<9160C91F279FFE42AFACA00C2CE290350E7CB448@VMEXCHANGEMBS3A.isad.isadroot.ex.ac.uk>",
+        "<9160C91F279FFE42AFACA00C2CE290350E7CB455@VMEXCHANGEMBS3A.isad.isadroot.ex.ac.uk>"
+      ],
+      "body_plain": "PhD studentship in Medical Statistics (full time, 3 years) - University of Exeter Medical School\n\nApplications are invited for a PhD studentship at the University of Exeter Medical School (UEMS). We are seeking to attract a PhD candidate of outstanding ability to join a rapidly expanding programme of internationally rated research.\n\nThe successful applicant will pursue a project investigating new statistical techniques for sensitivity analysis in medical research. This is an exciting opportunity to contribute to developing statistical methodology for quantifying bias when estimating the effectiveness of medical interventions. The studentship is due to commence in Autumn 2013 and is linked to a project funded by the Medical Research Council (MRC) Methodology Research Panel and forms part of a growing programme of work on sensitivity analysis methods.\n\nApplicants should hold, or expect to obtain, an upper second-class honours degree or above in Statistics or Mathematics, or a degree with substantial quantitative component, such as Quantitative Health Sciences, Psychology, Economics, Engineering, Computer Science or Physics. A Masters degree or work experience in a relevant area would be an advantage. International applicants are welcome.  Non UK candidates must have IELTS [International English Language Testing System] score of at least 7 (or equivalent qualification) or a degree taught in a majority English speaking country.\n\nResearch area: Health statistics\n\nTitle: A unifying approach to quantifying bias in sensitivity analysis for treatment effects\n\nProject outline: Risk of bias due to uncertainty about untestable assumptions is common in both observational studies and randomised controlled trials. Complete control for the risk of bias is unlikely in practice, but its impact can be estimated by means of sensitivity analyses. The aim of this project is to develop a unifying approach for sensitivity analysis, facilitate efficient implementation and make the proposed approach accessible. The unifying approach will make it possible to systematically integrate the assessment of bias into conventional analyses for a range of statistical models (including logistic regression, survival analysis, Poisson regression, meta-analysis) for both randomized and non-randomized studies.  Application of these methods will help facilitate better research planning, reporting and decision making.\n\nClosing date for applications: Friday 19th July 2013. Start date: 23rd Sep 2013\nValue:  ?13,726 pa plus tuition fees at UK/EU rate\nFurther Particulars are available at http://www.exeter.ac.uk/studying/funding/award/?id=1238\nPlease contact Nick Church in the first instance for more details (N.J.Church at ex.ac.uk)\n\nInformal discussion is welcomed and candidates are invited to contact Professor William Henley (Director of studies, W.E.Henley at exeter.ac.uk), Dr Nan Lin (N.Lin at exeter.ac.uk) or Dr David Llewellyn (David.Llewellyn at exeter.ac.uk)\n\nHow to apply:\nPlease send a CV, Covering letter (outlining your academic interest in Health Statistics and the research project, prior research experience, and reasons for wishing to undertake the project) and copies of transcripts of degrees/awards to Nick Church (N.J.Church at ex.ac.uk) by the closing date of midnight on Friday 19th July 2013. ***Please quote Health statistics and the project title on your application and in any correspondence about this vacancy.\n\nFunding Notes: The starting stipend for this studentship will be ?13,726 p.a.(tax-free). Tuition fees will be paid at the UK/EU rate. Candidates from countries outside the European Union will be liable for the difference between 'home student fees' and 'international student fees? which was ?10,250 in 12/13 but is likely to increase slightly each year. If you wish to be considered for this studentship you must confirm that you are able to pay the international portion of the fee.  If you are selected you will be required to provide financial assurances.\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "PhD studentship in Medical Statistics (full time, 3 years) - University of Exeter Medical School\n\nApplications are invited for a PhD studentship at the University of Exeter Medical School (UEMS). We a",
+      "thread_id": "thread-d2a27f7b2456",
+      "thread_depth": 0,
+      "month": "2013-07"
+    },
+    {
+      "id": "msg-4cf64beab228",
+      "message_id": "<46256830.14314.1373050529271.JavaMail.root@openanalytics.eu>",
+      "from_name": "Tobias Verbeke",
+      "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
+      "date": "2013-07-05T20:55:29+02:00",
+      "subject": "[R-jobs] Job Opening: Statistician at OpenAnalytics (Belgium)",
+      "subject_clean": "[R-jobs] Job Opening: Statistician at OpenAnalytics (Belgium)",
+      "in_reply_to": "<2089245094.13278.1373020828929.JavaMail.root@openanalytics.eu>",
+      "references": [],
+      "body_plain": "L.S.\n\nOpenAnalytics is an international company providing data analysis \nservices and products across geographies and industrial sectors.\n\nWe are currently looking to expand our team of statisticians with \nthe following profile\n\nStatistician: PhD in Statistics, Applied Mathematics or Computer Science\ninterested to work on applied modeling problems\n\nA detailed description can be found at\n\nhttp://www.openanalytics.eu/jobs\n\nOpenAnalytics is an equal opportunity employer and will not discriminate \non the basis of frequentist, likelihoodist or Bayesian beliefs.\n\nKind regards,\nTobias Verbeke\n\n-- \n\nTobias Verbeke\nManager\n\nOpenAnalytics BVBA\nJupiterstraat 20\n2600 Antwerp\nBelgium \n\nE tobias.verbeke at openanalytics.eu\nM +32 499 36 33 15\nhttp://www.openanalytics.eu",
+      "body_snippet": "L.S.\n\nOpenAnalytics is an international company providing data analysis \nservices and products across geographies and industrial sectors.\n\nWe are currently looking to expand our team of statisticians ",
+      "thread_id": "thread-4cf64beab228",
+      "thread_depth": 0,
+      "month": "2013-07"
+    },
+    {
+      "id": "msg-aad613d07109",
+      "message_id": "<D1DC010CFB688444A96529F555ECCBF17C190C@UWMBX01.uw.lu.se>",
+      "from_name": "_Bio - Informatics",
+      "from_email_hash": "fc34e37640f8f1a3c54d040ae2dc40092b6946f4b858fe4dd01a298215e1d9f8",
+      "date": "2013-07-08T08:56:05Z",
+      "subject": "[R-jobs] Open position for a Core Bioinformatician in Lund, Sweden",
+      "subject_clean": "[R-jobs] Open position for a Core Bioinformatician in Lund, Sweden",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nAn opportunity for a Bioinformatician is available at the Biomedical Center (BMC) at Lund University Sweden, in a newly established bioinformatics core. The post holder will join a dynamic and multidisciplinary environment and will play a key role in providing support to diverse projects across different research areas (primarily stem cell research in blood, brain, and diabetes). The successful candidate will assist with the design, analysis, and interpretation of data primarily from microarray and NGS projects. Alongside high quality support, a contribution is expected towards the expansion of the service in scope and staffing, by increasing the number of users and attracting external funding.\n\nApplicants will have a PhD in bioinformatics or related subject. Advanced scripting, experience in the analysis of genome scale biological datasets (particularly microarray and high throughput sequencing data) and statistics are required. Excellent communication skills together with a clear vision of advances in the field are essential.\n\nRequired skills: R/Bioconductor, Perl/Python, UNIX, knowledge of tools required to map and analyse NGS data.\n\nDesirable skills: Matlab, C++/Java, MySQL.\n\nThe position is offered for 2 years in the first instance. A CV and cover letter should be sent to bioinformatics at med.lu.se\n\nDeadline: 31/7/2013",
+      "body_snippet": "Dear all,\n\nAn opportunity for a Bioinformatician is available at the Biomedical Center (BMC) at Lund University Sweden, in a newly established bioinformatics core. The post holder will join a dynamic ",
+      "thread_id": "thread-aad613d07109",
+      "thread_depth": 0,
+      "month": "2013-07"
+    },
+    {
+      "id": "msg-49a6398e56d8",
+      "message_id": "<A0CC09C6-7064-434E-9E4F-AF5C55A7D0CA@tibco.com>",
+      "from_name": "Louis Bajuk-Yorgan",
+      "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
+      "date": "2013-07-10T11:14:08Z",
+      "subject": "[R-jobs] TIBCO is hiring Data Scientists and R Experts in Europe",
+      "subject_clean": "[R-jobs] TIBCO is hiring Data Scientists and R Experts in Europe",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "DATA SCIENTIST\n\nLocation: EU\n\n\n\nTIBCO is a rapidly growing software company with more than 3000 employees worldwide and more than$1B annual revenue in 2012. TIBCO provides a comprehensive software platform that allows customers to perform in-depth analysis on their data, while injecting predictive and complex statistics in the analysis.  TIBCO Spotfire is an interactive, visual environment with inbuilt R/S+ analytics and seamless connectivity with SAS and Matlab, allowing individuals to analyze and visualize trends, patterns, outliers, and unanticipated relationships in data quickly.  TIBCO has also recently developed and productized its own runtime interpreter for R, enabling R code to run natively in TIBCO products. TIBCO Spotfire customers include Fortune500 customers from variety of industries, including: Life Sciences, Energy, Financial Services, Telco, Retail and others.\n\n\n\nWe are looking for Data Scientists and R developers to join our rapidly growing Industry Analytics Group and provide analytics expertise in the context of customer implementations of TIBCO software. The successful candidates will also engage in methodology development to sharpen our current tool kit.  This position will require some travel to customer locations as well as research and development within the TIBCO suite of products. The work can be accomplished from a home office, but candidates who can readily come in to our London and/or Paris offices will be given preference.\n\n\n\nQUALIFICATIONS\n\n???\nCandidates must have experience in statistical data analysis and some involvement in delivering statistical analyses as part of demonstrations, projects, engagements or deployed software applications.\n???\nCandidates must be comfortable / fluent in speaking with senior industry personnel and be able to present/demonstrate software; and document projects e.g. results of analyses.\n???\nCandidates must have 3+ years of experience with S-PLUS or R. Experience with other software environments e.g. SAS, Matlab, Spotfire, Spotfire Miner, and/or other data mining software is a plus. Experience with other software e.g. .Net, Java and/or scripting environments e.g. Python, is a plus.\n???\nCandidates should have a masters or PhD degree with a major in statistics. Candidates with a major in other disciplines and with statistics classes will also be considered. Graduate statistics classes in Time Series Analysis, Longitudinal Methods and/or Data Mining are a plus.\n???\nCandidates must be proficient in the Windows environment; Linux is a plus.\n???\nFamiliarity with the Energy or Telco industries is a plus; as is familiarity with Customer Insight (CRM), Sales and Marketing and/or Manufacturing functional areas.\n\n\n\n\n\n\n\nContact\n\nLori Golden\n\nSr. Recruiter TIBCO Spotfire\nT: +1-212-204-5826<tel:+1-212-204-5826>\n\nC: +1-646-704-3961<tel:+1-646-704-3961>\n\nlgolden at tibco.com<mailto:lgolden at tibco.com>\n\n\n\n----------------------------------\nLou Bajuk-Yorgan\nTIBCO Spotfire\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "DATA SCIENTIST\n\nLocation: EU\n\n\n\nTIBCO is a rapidly growing software company with more than 3000 employees worldwide and more than$1B annual revenue in 2012. TIBCO provides a comprehensive software pla",
+      "thread_id": "thread-49a6398e56d8",
+      "thread_depth": 0,
+      "month": "2013-07"
+    },
+    {
+      "id": "msg-02c9664defb0",
+      "message_id": "<66E25BA9-DBAE-45DB-A03C-D9E405078487@tibco.com>",
+      "from_name": "Louis Bajuk-Yorgan",
+      "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
+      "date": "2013-07-10T11:15:20Z",
+      "subject": "[R-jobs] TIBCO is hiring Data Scientists and R experts in the US",
+      "subject_clean": "[R-jobs] TIBCO is hiring Data Scientists and R experts in the US",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "DATA SCIENTIST\n\nHiring Manager: Michael O???Connell\n\nLocation: US\n\n\n\nTIBCO is a rapidly growing software company with more than 3000 employees worldwide and more than$1B annual revenue in 2012. TIBCO provides a comprehensive software platform that allows customers to perform in-depth analysis on their data, while injecting predictive and complex statistics in the analysis.  TIBCO Spotfire is an interactive, visual environment with inbuilt R/S+ analytics and seamless connectivity with SAS and Matlab, allowing individuals to analyze and visualize trends, patterns, outliers, and unanticipated relationships in data quickly.  TIBCO has also recently developed and productized its own runtime interpreter for R, enabling R code to run natively in TIBCO products. TIBCO Spotfire customers include Fortune500 customers from variety of industries, including: Life Sciences, Energy, Financial Services, Telco, Retail and others.\n\n\n\nWe are looking for senior and entry-level Data Scientists and R developers to join our rapidly growing Industry Analytics Group and provide analytics expertise in the context of customer implementations of TIBCO software. The successful candidates will also engage in methodology development to sharpen our current tool kit.  This position will require some travel to customer locations as well as research and development within the TIBCO suite of products. The work can be accomplished from a home office, but candidates who can readily come in to our Boston, NY, Houston or Chapel Hill offices will be given preference.\n\n\n\nQUALIFICATIONS\n\n???\nCandidates must have experience in statistical data analysis and some involvement in delivering statistical analyses as part of demonstrations, projects, engagements or deployed software applications.\n???\nCandidates must be comfortable / fluent in speaking with senior industry personnel and be able to present/demonstrate software; and document projects e.g. results of analyses.\n???\nCandidates must have 3+ years of experience with S-PLUS or R. Experience with other software environments e.g. SAS, Matlab, Spotfire, Spotfire Miner, and/or other data mining software is a plus. Experience with other software e.g. .Net, Java and/or scripting environments e.g. Python, is a plus.\n???\nCandidates should have a masters or PhD degree with a major in statistics. Candidates with a major in other disciplines and with statistics classes will also be considered. Graduate statistics classes in Time Series Analysis, Longitudinal Methods and/or Data Mining are a plus.\n???\nCandidates must be proficient in the Windows environment; Linux is a plus.\n???\nFamiliarity with the Energy, Finance Retail or CPG industries is a plus; as is familiarity with Customer Insight (CRM), Sales and Marketing and/or Manufacturing functional areas.\n\n\n\n\n\n\n\nContact\n\nLori Golden\n\nSr. Recruiter TIBCO Spotfire\nT: +1-212-204-5826<tel:+1-212-204-5826>\n\nC: +1-646-704-3961<tel:+1-646-704-3961>\n\nlgolden at tibco.com<mailto:lgolden at tibco.com>\n\n\n\n----------------------------------\nLou Bajuk-Yorgan\nTIBCO Spotfire\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "DATA SCIENTIST\n\nHiring Manager: Michael O???Connell\n\nLocation: US\n\n\n\nTIBCO is a rapidly growing software company with more than 3000 employees worldwide and more than$1B annual revenue in 2012. TIBCO ",
+      "thread_id": "thread-02c9664defb0",
+      "thread_depth": 0,
+      "month": "2013-07"
+    },
+    {
+      "id": "msg-ac3fb94526f8",
+      "message_id": "<D1DC010CFB688444A96529F555ECCBF17C4B2C@UWMBX01.uw.lu.se>",
+      "from_name": "_Bio - Informatics",
+      "from_email_hash": "fc34e37640f8f1a3c54d040ae2dc40092b6946f4b858fe4dd01a298215e1d9f8",
+      "date": "2013-07-23T08:42:58Z",
+      "subject": "[R-jobs] Job reminder: Open position for a Core Bioinformatician in Lund, Sweden",
+      "subject_clean": "[R-jobs] Job reminder: Open position for a Core Bioinformatician in Lund, Sweden",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An opportunity for a Bioinformatician is available at the Biomedical Center (BMC) at Lund University Sweden, in a newly established bioinformatics core. The post holder will join a dynamic and multidisciplinary environment and will play a key role in providing support to diverse projects across different research areas (primarily stem cell research in blood, brain, and diabetes). The successful candidate will assist with the design, analysis, and interpretation of data primarily from microarray and NGS projects. Alongside high quality support, a contribution is expected towards the expansion of the service in scope and staffing, by increasing the number of users and attracting external funding.\n\nApplicants will have a PhD in bioinformatics or related subject. Advanced scripting, experience in the analysis of genome scale biological datasets (particularly microarray and high throughput sequencing data) and statistics are required. Excellent communication skills together with a clear vision of advances in the field are essential.\n\nRequired skills: R/Bioconductor, Perl/Python, UNIX, knowledge of tools required to map and analyse NGS data.\n\nDesirable skills: Matlab, C++/Java, MySQL.\n\nThe position is offered for 2 years in the first instance. A CV and cover letter should be sent to bioinformatics at med.lu.se\n\nDeadline: 31/7/2013",
+      "body_snippet": "An opportunity for a Bioinformatician is available at the Biomedical Center (BMC) at Lund University Sweden, in a newly established bioinformatics core. The post holder will join a dynamic and multidi",
+      "thread_id": "thread-ac3fb94526f8",
+      "thread_depth": 0,
+      "month": "2013-07"
+    },
+    {
+      "id": "msg-e83a757ea2e7",
+      "message_id": "<CAFK+dJS6QuLLXx9w=s9YGKG_=a7jGYPH1M40T1xgwX=2x5AXxw@mail.gmail.com>",
+      "from_name": "Mike Kellen",
+      "from_email_hash": "2f6d6f1aa716512736ab06c8444dc1f991814355c6a2af02d885e7509e96a015",
+      "date": "2013-07-23T16:07:47-07:00",
+      "subject": "[R-jobs] R-focused Software Engineer at Sage Bionetworks",
+      "subject_clean": "[R-jobs] R-focused Software Engineer at Sage Bionetworks",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Do you want to change how scientists approach basic and clinical life\nscience research and change how pharmaceutical companies develop cures for\ndiseases? Sage Bionetworks <http://www.sagebase.org/> is a medical research\norganization dedicated to building advanced predictive models of human\ndiseases.  Our primary objectives are two-fold: to build and support an\nopen access platform and databases for building innovative new dynamic\ndisease models; and to interconnect scientists as contributors to evolving,\nintegrated networks of biological data.\n\n\n\nWe currently have an opening for a Software Engineer to join the team\nresponsible for the design, creation, testing, and deployment of the Synapse\nsoftware infrastructure <http://synapse.sagebase.org/>*.* The Synapse\nsystem will provide scalable access to clinical genomics data and compute\nresources to scientists at Sage and around the world. This is an\nopportunity to work on a software platform with significant impact on human\nhealth research, and to work in a fast-paced entrepreneurial environment.  The\nposition will focus on the development of Synapse???s client-side\nintegrations with data analysis tools including R and Python.  Ability to\nwork on cross-functional teams supporting scientific end users in the use\nof Sage informatics tools is expected.\n\n\n\n*Requirements*\n\n???      BS or MS in Computer Science or equivalent\n\n???      Experience building, shipping, and supporting commercial or academic\nsoftware products with significant user bases. Proven experience developing\nnew products in rapidly changing engineering environment strongly preferred.\n\n???      Versatile and strong programming skills with the ability to work\nwith a variety of programming languages, with a focus on R, Python, and Java\n\n???      Strong understanding object oriented design and programming, and\ndesign patterns\n\n???      Experience developing software tools used by scientific user\ncommunities.  Background in data analysis, machine learning, and statistics\nis highly beneficial.  However, the position is a software-engineering\nfocused position designed to develop tools and support a scientific user\nbase, not a scientific research position.\n\n???      Experience with\n\n???    Unix/Linux\n\n???    Web services, SaaS, and distributed system architectures\n\n???    Cloud computing offerings especially AWS\n\n???      Practical agile development lifecycle experience.  Familiarity with\nsoftware development tools (Eclipse, Jira Studio, Maven, Git etc.)\n\n???      Strong verbal, written, and organizational skills\n\n???      Ability to thrive in a dynamic start-up environment, and collaborate\non evolving research projects\n\n???      Self-starter with the ability to multitask\n\n???      Experience with one or more of the following desirable:\n\n???    Bioinformatics data, machine learning, statistics\n\n???    Open source software development\n\n\n\nSage offers a comprehensive benefits package, including relocation\nbenefits, to bring the right talent to the team. To apply, please forward\nyour CV and cover letter to: sw.jobs at sagebase.org.\n\n\n-- \nMichael Kellen, Ph.D.\nDirector, Technology Platform and Services\nSage Bionetworks\n206-667-1118\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Do you want to change how scientists approach basic and clinical life\nscience research and change how pharmaceutical companies develop cures for\ndiseases? Sage Bionetworks <http://www.sagebase.org/> i",
+      "thread_id": "thread-e83a757ea2e7",
+      "thread_depth": 0,
+      "month": "2013-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d2a27f7b2456",
+      "subject": "[R-jobs] PhD Studentship in Medical Statistics",
+      "message_count": 1,
+      "participants": [
+        "Lin, Nan"
+      ],
+      "started": "2013-07-03T20:42:17+00:00",
+      "last_reply": "2013-07-03T20:42:17+00:00",
+      "root_message_id": "msg-d2a27f7b2456"
+    },
+    {
+      "id": "thread-4cf64beab228",
+      "subject": "[R-jobs] Job Opening: Statistician at OpenAnalytics (Belgium)",
+      "message_count": 1,
+      "participants": [
+        "Tobias Verbeke"
+      ],
+      "started": "2013-07-05T20:55:29+02:00",
+      "last_reply": "2013-07-05T20:55:29+02:00",
+      "root_message_id": "msg-4cf64beab228"
+    },
+    {
+      "id": "thread-aad613d07109",
+      "subject": "[R-jobs] Open position for a Core Bioinformatician in Lund, Sweden",
+      "message_count": 1,
+      "participants": [
+        "_Bio - Informatics"
+      ],
+      "started": "2013-07-08T08:56:05+00:00",
+      "last_reply": "2013-07-08T08:56:05+00:00",
+      "root_message_id": "msg-aad613d07109"
+    },
+    {
+      "id": "thread-49a6398e56d8",
+      "subject": "[R-jobs] TIBCO is hiring Data Scientists and R Experts in Europe",
+      "message_count": 1,
+      "participants": [
+        "Louis Bajuk-Yorgan"
+      ],
+      "started": "2013-07-10T11:14:08+00:00",
+      "last_reply": "2013-07-10T11:14:08+00:00",
+      "root_message_id": "msg-49a6398e56d8"
+    },
+    {
+      "id": "thread-02c9664defb0",
+      "subject": "[R-jobs] TIBCO is hiring Data Scientists and R experts in the US",
+      "message_count": 1,
+      "participants": [
+        "Louis Bajuk-Yorgan"
+      ],
+      "started": "2013-07-10T11:15:20+00:00",
+      "last_reply": "2013-07-10T11:15:20+00:00",
+      "root_message_id": "msg-02c9664defb0"
+    },
+    {
+      "id": "thread-ac3fb94526f8",
+      "subject": "[R-jobs] Job reminder: Open position for a Core Bioinformatician in Lund, Sweden",
+      "message_count": 1,
+      "participants": [
+        "_Bio - Informatics"
+      ],
+      "started": "2013-07-23T08:42:58+00:00",
+      "last_reply": "2013-07-23T08:42:58+00:00",
+      "root_message_id": "msg-ac3fb94526f8"
+    },
+    {
+      "id": "thread-e83a757ea2e7",
+      "subject": "[R-jobs] R-focused Software Engineer at Sage Bionetworks",
+      "message_count": 1,
+      "participants": [
+        "Mike Kellen"
+      ],
+      "started": "2013-07-23T16:07:47-07:00",
+      "last_reply": "2013-07-23T16:07:47-07:00",
+      "root_message_id": "msg-e83a757ea2e7"
+    }
+  ]
+}

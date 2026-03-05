@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-11",
+  "messages": [
+    {
+      "id": "msg-3e0d5fafcd7f",
+      "message_id": "<4EB2A18F.8090902@ufz.de>",
+      "from_name": "Nora Eigenwill",
+      "from_email_hash": "dd60af752f938019f917a2afd4d938a4048bd60cc4162efb88ec77aaeaeb8b48",
+      "date": "2011-11-03T15:13:35+01:00",
+      "subject": "[R-jobs] Researcher (PostDoc)",
+      "subject_clean": "[R-jobs] Researcher (PostDoc)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "****Job offer: Researcher (Postdoc)*****\n\nThe /Department of Computational Landscape Ecology/ (www.ufz.de/cle) \ninvites applications for an*Researcher (PostDoc) m/f*\n(code digit: 85/2011)\n\nto commence as soon as possible. The appointment is for an initial \nperiod of 3 years, an extension is aspired.\n\nApplicants for the post have a background in biology and ecology \nprofound knowledge on ecosystem functioning. Good experiences in model \ndevelopment and programming, data analysis and advanced statistics are \nobligatory as well as the ability in working with spatial/temporal \nexplicit data.\n\nFor detailed information, please have a look here:\nhttp://www.ufz.de/index.php?en=11426&ske_stl_id=1122&ske_seite=detail\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "****Job offer: Researcher (Postdoc)*****\n\nThe /Department of Computational Landscape Ecology/ (www.ufz.de/cle) \ninvites applications for an*Researcher (PostDoc) m/f*\n(code digit: 85/2011)\n\nto commence",
+      "thread_id": "thread-3e0d5fafcd7f",
+      "thread_depth": 0,
+      "month": "2011-11"
+    },
+    {
+      "id": "msg-897234930d03",
+      "message_id": "<4EC535B4.4010906@hbs.edu>",
+      "from_name": "Xiang Ao",
+      "from_email_hash": "fb1747d3e87d675a3f0504336dcdaeee6fed11db80a708c09fb58f4380eefa4c",
+      "date": "2011-11-17T11:26:28-05:00",
+      "subject": "[R-jobs] Research Associate position at Harvard Business School",
+      "subject_clean": "[R-jobs] Research Associate position at Harvard Business School",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "HBS seeks a Research Associate to partner with a faculty member in the \nMarketing Unit on research initiatives related to consumer and firm \nchoices in industries influenced by technology along with value created \nthrough social media technologies. Projects involve statistical \nprograming and econometric modeling in R.\n\nProjects involve research and analysis of large data sets. Projects may \nalso include background research and literature reviews that are in line \nwith the faculty?s research agenda, in capacities not limited to data \ngathering and analysis.\n\n\n\nResearch Associates have the potential to work with Harvard Business \nSchool faculty on a variety of research projects and may develop \nintellectual property for HBS in many ways. Research products are most \noften journal articles, working papers, and HBS cases. Duties include: \nwriting and editing; conducting on-site field research at local, \nregional, and international companies; gathering/analyzing data; \nperforming sophisticated research utilizing world-class library; \ndeveloping supplemental electronic courseware/case exhibits.\n\nNote: This is a half-time appointment starting ASAP through June 30, \n2012 with potential for reappointment. Half-time positions may be \ncombined to create a full-time engagement.\n\n\n\nBasic Qualifications: BA or BS Degree required. The ideal candidate will \nhave strong modeling skills in R in addition to a background in social \nnetwork data.\n\n\n\nAdditional Qualification: Degree in Statistics, Applied Statistics, \nEconomics, or Applied Econometrics preferred. Advanced degree preferred. \nProficiency in dealing with Network Data or Network Statistical Models. \nSuccessful candidates should have hands-on skills in R. The candidate \nshould also pay attention to detail, be thorough, understand \ndeliverables and deadlines, and remain committed to the work in hand.\n\nAdditional Qualifications: Candidates should be in good standing with a \nstrong GPA.\n\n\n\n\n\nChirajeet Sen\n\nrecruiting Manager - research Staff Services\n\nDivision of Research and Faculty Development\n\nHarvard Business School\n\nBaker Library | Bloomberg Center 80C | Boston, MA 02163\nTel 617.495.5936\n\ncsen at hbs.edu\n\nwww.hbs.edu/research/ra",
+      "body_snippet": "HBS seeks a Research Associate to partner with a faculty member in the \nMarketing Unit on research initiatives related to consumer and firm \nchoices in industries influenced by technology along with v",
+      "thread_id": "thread-897234930d03",
+      "thread_depth": 0,
+      "month": "2011-11"
+    },
+    {
+      "id": "msg-826162813ab1",
+      "message_id": "<5BDD79EC-5D31-424D-9285-1449A2AD097B@fhcrc.org>",
+      "from_name": "Greg Finak",
+      "from_email_hash": "5b53cc8f0e979d6723b37f76593ec458c524d7023496ca4c6b69394b53fd5e84",
+      "date": "2011-11-21T14:54:55-08:00",
+      "subject": "[R-jobs] Programmer position in the Gottardo lab at the Fred Hutchinson Cancer Research Center",
+      "subject_clean": "[R-jobs] Programmer position in the Gottardo lab at the Fred Hutchinson Cancer Research Center",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Gottardo lab at the Fred Hutchinson Cancer Research Center in Seattle has an opening for a programmer. \n\nTo apply: \nhttps://erecruit.fhcrc.org/psp/RECRUIT/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=24122&SiteId=2&PostingSeq=1\n\nThe position description is below:\n\nAbout Us\n\nFred Hutchinson Cancer Research Center, home of three Nobel laureates, is an independent, nonprofit research institution dedicated to the development and advancement of biomedical research to eliminate cancer and other potentially fatal diseases. Recognized internationally for its pioneering work in bone-marrow transplantation, the Center?s five scientific divisions collaborate to form a unique environment for conducting basic and applied science. The Hutchinson Center, in collaboration with its clinical and research partners, the University of Washington and Seattle Children?s, is the only National Cancer Institute-designated comprehensive cancer center in the Pacific Northwest. Join us and make a difference! \n\nJob Summary: \n\nThe successful applicant will integrate a dynamic team of biostatisticians, bioinformaticians, computer scientists, and programmers lead by Dr. Raphael Gottardo to support the development of software packages to analyze and integrate high throughput data from next generation immunological assays (e.g. Fluidigm, CyTOF, next generation sequencing). The position will involve the development of efficient packages for the analysis of high-throughput data, including computational algorithms development and implementation of creative solutions for large volume data management and processing. The candidate will have access to state of the art assay data generated by cutting edge projects in infectious disease and vaccine development, as well as a state of the art computing infrastructure including brand new CPU and GPU clusters \n\nScope of Responsibilities: \n\nThe scientific programmer will independently determine programmatic approaches to problems and develop algorithms and software programs that are computationally efficient, effective, and well documented for public release. The successful applicant will be expected to not only implement state-of-the art computational algorithms but also contribute to the development of novel algorithms relevant to the analysis of high throughput assays. \n\nResponsibilities (May include some or all of the following): \n\n1.\tAnalysis: \na. Identify current computational bottlenecks in data analysis for specific assays \nb. Communicate with statisticians, laboratory scientists, clinicians, programmers and information systems staff to understand and develop requirements and specifications for analysis datasets and analysis programs. \nc. Develop novel computational algorithms that outperform state-of-the art algorithms \nd. Create, document and validate programs, data, data pipelines, data distribution plans, and data storage. \ne. Develop custom graphical user interfaces (GUIs) for the tools developed. \n\n2.\t Data management and high performance computing  :                                                                                                               \na.\tImplement creative solutions for large volume data management challenges \n  b. Create high performance computing solutions for processing large data sets \n\n\nMinimum Qualifications: \n\nBecause the applicants will be expected to 1) develop novel computational algorithms for processing large immunological datasets, 2) implement creative solutions for large volume data management challenges, 3) create high performance computing solutions for processing large data sets, an MS degree (or higher) in computer science, bioinformatics, statistics, biostatistics or related field is required. \n- Proficient in C/C++ a must \n- Proficient in some scripting language such as R/Perl/Python \n- Experience with relational databases, database schema design, SQL and/or netCDF / HDF5 file formats \n- Familiarity with bioinformatics workflows would help \n- Familiarity with high performance computing using openmpi, openmp, and GPUs \n- Must be organized and detail-oriented, with good oral and written communication skills\n\nPay,Benefits, & Work Schedule\n\nSalary DOE+ excellent benefits - Grade 31 \n\nInternal candidates send resume directly to:  nchavez at fhcrc.org \n\nReference: NC24122/SCHARP (Vaccine & Infectious Disease Institute) - Scientific Programmer \n\n(Gottardo)\n\nHow To Apply\n\nPlease provide a formal cover letter with CV or Resume. \n\nTo apply for this position please click on the \"Apply Now\" button below.  If you have not previously registered with us you will be prompted to do so; otherwise, please follow the online directions to submit your resume and/or cover letter.\n\nEqual Employment Opportunity\n\nThe Fred Hutchinson Cancer Research Center and The Seattle Cancer Care Alliance are equal opportunity employers, committed to workforce diversity.\n\n\nGreg Finak, Ph.D\nPost-doctoral Research Associate\nPS Statistics, Vaccine and Infectious Disease Division.\nFred Hutchinson Cancer Research Center\nSeattle, WA\n(206)667-3116\ngfinak at fhcrc.org\n\n\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The Gottardo lab at the Fred Hutchinson Cancer Research Center in Seattle has an opening for a programmer. \n\nTo apply: \nhttps://erecruit.fhcrc.org/psp/RECRUIT/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=",
+      "thread_id": "thread-826162813ab1",
+      "thread_depth": 0,
+      "month": "2011-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-3e0d5fafcd7f",
+      "subject": "[R-jobs] Researcher (PostDoc)",
+      "message_count": 1,
+      "participants": [
+        "Nora Eigenwill"
+      ],
+      "started": "2011-11-03T15:13:35+01:00",
+      "last_reply": "2011-11-03T15:13:35+01:00",
+      "root_message_id": "msg-3e0d5fafcd7f"
+    },
+    {
+      "id": "thread-897234930d03",
+      "subject": "[R-jobs] Research Associate position at Harvard Business School",
+      "message_count": 1,
+      "participants": [
+        "Xiang Ao"
+      ],
+      "started": "2011-11-17T11:26:28-05:00",
+      "last_reply": "2011-11-17T11:26:28-05:00",
+      "root_message_id": "msg-897234930d03"
+    },
+    {
+      "id": "thread-826162813ab1",
+      "subject": "[R-jobs] Programmer position in the Gottardo lab at the Fred Hutchinson Cancer Research Center",
+      "message_count": 1,
+      "participants": [
+        "Greg Finak"
+      ],
+      "started": "2011-11-21T14:54:55-08:00",
+      "last_reply": "2011-11-21T14:54:55-08:00",
+      "root_message_id": "msg-826162813ab1"
+    }
+  ]
+}

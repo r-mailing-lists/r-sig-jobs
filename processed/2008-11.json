@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2008-11",
+  "messages": [
+    {
+      "id": "msg-9795adebf5ae",
+      "message_id": "<110c63f70811191208x6f059ddbpfc7553ac1917678b@mail.gmail.com>",
+      "from_name": "Lee Edlefsen",
+      "from_email_hash": "bb249e384755232449ee50c44546841845162ef68c276ca3b82149fa0b40fdec",
+      "date": "2008-11-19T12:08:41-08:00",
+      "subject": "[R-jobs] Experienced R Programmers Wanted",
+      "subject_clean": "[R-jobs] Experienced R Programmers Wanted",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "REvolution Computing is a growing and well-funded startup with offices\nin Seattle and New Haven. We are looking for highly qualified and\nexperienced R programmers for both short term consulting projects and\nfor long term positions. Knowledge of statistics, R graphics and C/C++\nare all highly desirable. Candidates should have a strong\nunderstanding and appreciation of good software development processes.\nCandidates located in Seattle are preferred.\n\nSend a CV to lee at revolution-computing.com.\n\n-- \nLee E. Edlefsen, Ph.D.\nVice President of Engineering\nREvolution Computing, Inc.\n1100 Dexter Avenue N, Suite 205\nSeattle, WA  98109",
+      "body_snippet": "REvolution Computing is a growing and well-funded startup with offices\nin Seattle and New Haven. We are looking for highly qualified and\nexperienced R programmers for both short term consulting projec",
+      "thread_id": "thread-9795adebf5ae",
+      "thread_depth": 0,
+      "month": "2008-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-9795adebf5ae",
+      "subject": "[R-jobs] Experienced R Programmers Wanted",
+      "message_count": 1,
+      "participants": [
+        "Lee Edlefsen"
+      ],
+      "started": "2008-11-19T12:08:41-08:00",
+      "last_reply": "2008-11-19T12:08:41-08:00",
+      "root_message_id": "msg-9795adebf5ae"
+    }
+  ]
+}

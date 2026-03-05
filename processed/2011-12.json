@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-12",
+  "messages": [
+    {
+      "id": "msg-2295c246d878",
+      "message_id": "<CB124D67.14A2B%max.kuhn@pfizer.com>",
+      "from_name": "kuhnA03",
+      "from_email_hash": "a176cab63e389eb7cfbcbb92aeaa697e39d360e90b74abc570118464c10bcaa5",
+      "date": "2011-12-17T13:45:11-05:00",
+      "subject": "[R-jobs] R&D Statistician For Target Discovery in Cambridge Mass, USA",
+      "subject_clean": "[R-jobs] R&D Statistician For Target Discovery in Cambridge Mass, USA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Pfizer is looking for a statistician with experience in early drug discovery\nin Cambridge Mass, USA.\n\nThe position is part of a team which develops and? uses computational and\nstatistical approaches to discover disease targets by deriving knowledge of\nbiological processes from large datasets (e.g., expression profiling and\nother 'omics' data sets).\n\nThe statistician will also have a pivotal role in designing biological\nexperiments to validate potential targets and discover? 'fit for purpose'?\nbiomarkers. \n\nThe candidate should have significant experience in these areas and, most\nimportantly, should have strong non-technical skills (e.g., fostering\ncollaborative interactions with scientists).\n\nExperience in neuroscience is beneficial.\n\nIf interested, please go to\n\n   www.pfizer.com/careers\n\nand search for job code 957686.",
+      "body_snippet": "Pfizer is looking for a statistician with experience in early drug discovery\nin Cambridge Mass, USA.\n\nThe position is part of a team which develops and? uses computational and\nstatistical approaches t",
+      "thread_id": "thread-2295c246d878",
+      "thread_depth": 0,
+      "month": "2011-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2295c246d878",
+      "subject": "[R-jobs] R&D Statistician For Target Discovery in Cambridge Mass, USA",
+      "message_count": 1,
+      "participants": [
+        "kuhnA03"
+      ],
+      "started": "2011-12-17T13:45:11-05:00",
+      "last_reply": "2011-12-17T13:45:11-05:00",
+      "root_message_id": "msg-2295c246d878"
+    }
+  ]
+}

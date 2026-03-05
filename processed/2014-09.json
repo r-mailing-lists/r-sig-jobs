@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2014-09",
+  "messages": [
+    {
+      "id": "msg-680feeba5637",
+      "message_id": "<CAN7Rspas2wP9dMFH1Fz_w9n0SAc2W_dW62WVcNxtT1uyrjH9eQ@mail.gmail.com>",
+      "from_name": "Michael kao",
+      "from_email_hash": "e4b0a5b5f9862e775d7b3abb9a69392981323f4bc13983d1c39fd7c52d5d3070",
+      "date": "2014-09-09T17:39:38+02:00",
+      "subject": "[R-jobs] [R Jobs] Seeking statistician",
+      "subject_clean": "[R-jobs] [R Jobs] Seeking statistician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Food and Agriculture Organization of the United Nations based in Rome\nis seeking a young talented statistician to join the Statistics division to\neliminate hunger by means of better decision making through providing\nquality data and analysis.\n\nWe value people with technical skills, in particularly individuals who are\nable to translate numbers to actions and to make an impact to the world.\n\nIn this role, you will be mainly performing research on imputation and\nvarious methodologies for the Food Balance Sheet; and overseeing the\nintegration of R packages to the in-house analytical system. At the same\ntime, collaborate with colleagues to produce analysis and recommendations\nfor publication.\n\n\n\nThe ideal candidate will have the following background and skills:\n\n?         A graduate degree in Statistics, Mathematics or Science related\ndiscipline with a strong emphasis in quantitative application, experience\nor knowledge of imputation methodology is a plus.\n\n?         3+ years of professional experience with proven achievements\nresulting from analysis.\n\n?         Extensive and all round knowledge of R, preference will be given\nto those with experience in package development and maintenance.\n\n?         High degree of self-motivation, improvement seeking and able to\nmake proposals.\n\n?         Comfortable with data base, and understand of API?s.\n\n?         Strong ability to communicate methodology and results.\n\nNice to have:\n\n?         Experience with agriculture or trade statistics.\n\n?         Knowledge of agriculture, poverty or rural development.\n\n?         Analytical experience with non-standard data format such as\nsatellite image processing, and real time text mining, and ability to work\nwith large data that may not fit in memory.\n\n?         Experience with tools for reproducibility (\nhttps://github.com/jtleek/rpackages)\n\n?         Creative data visualization.\n\n?         Machine learning, spatial analysis, NLP, network analysis.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The Food and Agriculture Organization of the United Nations based in Rome\nis seeking a young talented statistician to join the Statistics division to\neliminate hunger by means of better decision makin",
+      "thread_id": "thread-680feeba5637",
+      "thread_depth": 0,
+      "month": "2014-09"
+    },
+    {
+      "id": "msg-8062aa32983f",
+      "message_id": "<CAN7RspbUgA50xq1nh7B7RPR6JzyNoVDThiKpakZRccBxjqLG-w@mail.gmail.com>",
+      "from_name": "Michael kao",
+      "from_email_hash": "e4b0a5b5f9862e775d7b3abb9a69392981323f4bc13983d1c39fd7c52d5d3070",
+      "date": "2014-09-10T01:13:36+02:00",
+      "subject": "[R-jobs] [R Jobs] Seeking Statistician",
+      "subject_clean": "[R-jobs] [R Jobs] Seeking Statistician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Food and Agriculture Organization of the United Nations based in Rome\nis seeking a young talented statistician to join the Statistics division to\neliminate hunger by means of better decision making through providing\nquality data and analysis.\n\nWe value people with technical skills, in particularly individuals who are\nable to translate numbers to actions and to make an impact to the world.\n\nIn this role, you will be mainly performing research on imputation and\nvarious methodologies for the Food Balance Sheet; and overseeing the\nintegration of R packages to the in-house analytical system. At the same\ntime, collaborate with colleagues to produce analysis and recommendations\nfor publication.\n\n The ideal candidate will have the following background and skills:\n\n?         A graduate degree in Statistics, Mathematics or Science related\ndiscipline with a strong emphasis in quantitative application, experience\nor knowledge of imputation methodology is a plus.\n\n?         3+ years of professional experience with proven achievements\nresulting from analysis.\n\n?         Extensive and all round knowledge of R, preference will be given\nto those with experience in package development and maintenance.\n\n?         High degree of self-motivation, improvement seeking and able to\nmake proposals.\n\n?         Comfortable with data base, and understand of API?s.\n\n?         Strong ability to communicate methodology and results.\n\nNice to have:\n\n?         Experience with agriculture or trade statistics.\n\n?         Knowledge of agriculture, poverty or rural development.\n\n?         Analytical experience with non-standard data format such as\nsatellite image processing, and real time text mining, and ability to work\nwith large data that may not fit in memory.\n\n?         Experience with tools for reproducibility (\nhttps://github.com/jtleek/rpackages)\n\n?         Creative data visualization.\n\n?         Machine learning, spatial analysis, NLP, network analysis.\n\nIf you think you have these skills, please repond privately to me with you\nCV and any relevant material such as codes on Github.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The Food and Agriculture Organization of the United Nations based in Rome\nis seeking a young talented statistician to join the Statistics division to\neliminate hunger by means of better decision makin",
+      "thread_id": "thread-8062aa32983f",
+      "thread_depth": 0,
+      "month": "2014-09"
+    },
+    {
+      "id": "msg-d1eaee84b392",
+      "message_id": "<28302B3A09A2D34FBD39DB31462104026D65CB8A@OITMX1003.AD.UMD.EDU>",
+      "from_name": "Lars J. Olson",
+      "from_email_hash": "e774be700c108c00fd368d6888a33230ac5583dcd1f537487c3fbecd75bb450f",
+      "date": "2014-09-30T17:32:49Z",
+      "subject": "[R-jobs] Position announcement - Research Educator - University of Maryland",
+      "subject_clean": "[R-jobs] Position announcement - Research Educator - University of Maryland",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Please distribute.  Interested individuals can view the full position announcement and apply at:  https://ejobs.umd.edu/postings/29966\n\n\n\nTitle:  Research Associate\n\nFunctional Title:  Research Educator\n\n\n\nPosition Summary/Purpose of Position:  The First-Year Innovation & Research Experience (FIRE) is a new major initiative at the University of Maryland, College Park. FIRE provides first-year undergraduate students research experience, broad mentorship and social connectivity that impacts academic success and professional development.\n\n\n\nThe Office of the Provost and Senior Vice President in collaboration with the Department of Agricultural and Resource Economics (AREC) of the College of Agriculture & Natural Resources is seeking a Research Associate to serve as the Research Educator for the FIRE Achieving Resource, Environment & Energy Sustainability innovation and research stream. The stream Research Educator works in collaboration with the stream-affiliated faculty members (Dr. Lars Olson, Dr. Anna Alberini and Dr. Sebastien Houde) to design and implement the group research agenda and is responsible for all curriculum, instruction and broad student mentorship. The Research Educator will coordinate with a team of undergraduate peer mentors to oversee research operations including student research progress, laboratory maintenance as well as management of the fiscal budget. The position empowers the individual to develop a strong portfolio of experience in curriculum development, instruction, mentorship, leadership and research group management.\n\n\n\nThe Achieving Resource, Environment and Energy Sustainability stream has three focus areas: analysis of natural science and socioeconomic data on biological resources; renewable energy systems, vehicle ownership and use by Maryland households; interventions to encourage households and small businesses in Maryland to invest in cost-effective, energy-saving technologies. The stream will be housed in a new AREC undergraduate research center.\n\n\n\nMinimum Qualifications:  Ph.D. in Agricultural and Resource Economics, Computer Science (Data Analysis and Visualization), Economics, Geography (Geographic Information Systems), Statistics, or a related field.\n\nExpertise working with statistical software and large data sets.\n\n\n\nPreferences:  Expertise in data visualization, econometrics, geographic information systems, statistics and/or survey administration. Demonstrated commitment to excellence in undergraduate education.\n\n\n\nAdditional Information:  The Research Educator position will be supported from January 2015 through December 2017 (3 years) contingent on positive annual reviews (each December 2015 & 2016). The position co-reports to the Director of First-Year Research Programs in the Office of the Provost and Senior Vice President as well the stream affiliated faculty members Dr. Lars Olson, Dr. Anna Alberini and Dr. Sebastien Houde.\n\n\n\nMore information about the FIRE program and the Research Educator position is available at the FIRE website: http://fire.umd.edu/\n\n\n\nTo apply for this position please submit the following documents at https://ejobs.umd.edu/postings/29966: a cover letter; a curriculum vitae; a list of three professional references including names, addresses and telephone numbers; one publication or research paper; and, a statement of your teaching philosophy.\n\n\n\nThe position is open until filled.  For best consideration apply by October 15, 2014.\n\n\n\nSincerely yours,\n\nLars Olson\n\nProfessor\n\nDept. of Agricultural and Resource Economics\n\nUniversity of Maryland\n\nCollege Park, MD  20742-5535\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Please distribute.  Interested individuals can view the full position announcement and apply at:  https://ejobs.umd.edu/postings/29966\n\n\n\nTitle:  Research Associate\n\nFunctional Title:  Research Educat",
+      "thread_id": "thread-d1eaee84b392",
+      "thread_depth": 0,
+      "month": "2014-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-680feeba5637",
+      "subject": "[R-jobs] [R Jobs] Seeking statistician",
+      "message_count": 1,
+      "participants": [
+        "Michael kao"
+      ],
+      "started": "2014-09-09T17:39:38+02:00",
+      "last_reply": "2014-09-09T17:39:38+02:00",
+      "root_message_id": "msg-680feeba5637"
+    },
+    {
+      "id": "thread-8062aa32983f",
+      "subject": "[R-jobs] [R Jobs] Seeking Statistician",
+      "message_count": 1,
+      "participants": [
+        "Michael kao"
+      ],
+      "started": "2014-09-10T01:13:36+02:00",
+      "last_reply": "2014-09-10T01:13:36+02:00",
+      "root_message_id": "msg-8062aa32983f"
+    },
+    {
+      "id": "thread-d1eaee84b392",
+      "subject": "[R-jobs] Position announcement - Research Educator - University of Maryland",
+      "message_count": 1,
+      "participants": [
+        "Lars J. Olson"
+      ],
+      "started": "2014-09-30T17:32:49+00:00",
+      "last_reply": "2014-09-30T17:32:49+00:00",
+      "root_message_id": "msg-d1eaee84b392"
+    }
+  ]
+}

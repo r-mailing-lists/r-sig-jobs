@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2009-05",
+  "messages": [
+    {
+      "id": "msg-6ae24401abef",
+      "message_id": "<4A11C1EE.40105@...........>",
+      "from_name": "jt",
+      "from_email_hash": "8b5b38aa19974bfc8a261d3442f865d11edea7dcc310ffc926d1a42bc27567b8",
+      "date": "2009-05-18T21:15:42+01:00",
+      "subject": "[R-jobs] JOB: C++ Programmer in London, England, UK",
+      "subject_clean": "[R-jobs] JOB: C++ Programmer in London, England, UK",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello ~\n\nI'm recruiting for a hedge fund (type) business (based in London,\nEngland, UK) that are looking for good C++ programmers with preferably\nsome experience in statistical modeling/programming/analysis.   Perhaps\nyou are a statistician, mathematician or physicist (for example) by\nbackground but a programmer by experience (or a graduate)?\n\nYou should ideally also have scripting experience in one if not more\nlanguages such as R, Python, Perl etc.\n\nThere is much more to the job than just scripting and programming,\npotentially you could find yourself becoming actively involved in\nstatistical \tside too of the business too.\n\nThis position is only open to those individuals that are eligible to\nwork in the UK with valid work permit or visa etc.\n\nTo learn more please contact me using james<at>...........\n\nKind regards,\nJAMES\n\n. . . .\n\nJames Tobin\n..............",
+      "body_snippet": "Hello ~\n\nI'm recruiting for a hedge fund (type) business (based in London,\nEngland, UK) that are looking for good C++ programmers with preferably\nsome experience in statistical modeling/programming/an",
+      "thread_id": "thread-6ae24401abef",
+      "thread_depth": 0,
+      "month": "2009-05"
+    },
+    {
+      "id": "msg-3429c553f904",
+      "message_id": "<d5b814ab0905191555n36fabd53p6d8b9206f7cbf8d9@mail.gmail.com>",
+      "from_name": "Ajit de Silva",
+      "from_email_hash": "e684fcecce3d08a2a04bb87ab42df21cf48628a68d847f214cc17f8a84abb2b2",
+      "date": "2009-05-19T15:55:41-07:00",
+      "subject": "[R-jobs] R group on Linkedin",
+      "subject_clean": "[R-jobs] R group on Linkedin",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Greetings:\nI have formed a group on the LinkedIn.com professional networking site.\n There are jobs listings and discussions there.  Not exactly code\ndiscussions but some professional topics including favorite GUIs and\ntrainings.\n\nhttp://www.linkedin.com/groups?about=&gid=77616&trk=anet_ug_grppro\n\n\nRegards,\n\nAjit\n\n-- \n_________________________________\nAjit Gemunu de Silva\nOakland CA 94619\n\nskype: ajit_de_silva\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Greetings:\nI have formed a group on the LinkedIn.com professional networking site.\n There are jobs listings and discussions there.  Not exactly code\ndiscussions but some professional topics including ",
+      "thread_id": "thread-3429c553f904",
+      "thread_depth": 0,
+      "month": "2009-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-6ae24401abef",
+      "subject": "[R-jobs] JOB: C++ Programmer in London, England, UK",
+      "message_count": 1,
+      "participants": [
+        "jt"
+      ],
+      "started": "2009-05-18T21:15:42+01:00",
+      "last_reply": "2009-05-18T21:15:42+01:00",
+      "root_message_id": "msg-6ae24401abef"
+    },
+    {
+      "id": "thread-3429c553f904",
+      "subject": "[R-jobs] R group on Linkedin",
+      "message_count": 1,
+      "participants": [
+        "Ajit de Silva"
+      ],
+      "started": "2009-05-19T15:55:41-07:00",
+      "last_reply": "2009-05-19T15:55:41-07:00",
+      "root_message_id": "msg-3429c553f904"
+    }
+  ]
+}

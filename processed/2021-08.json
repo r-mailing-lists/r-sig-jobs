@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2021-08",
+  "messages": [
+    {
+      "id": "msg-2dfd04f7556a",
+      "message_id": "<CAK8-2mhrG5VsC+2OgWo0MQ=gx=w1eA+U6VYsre+eNsKmaL4qRg@mail.gmail.com>",
+      "from_name": "Braley Crandall",
+      "from_email_hash": "164435dd78f438ef36285fa66536b2a3cfaaa2b4fea42d1e3bc23b85126917d9",
+      "date": "2021-08-03T10:48:08-07:00",
+      "subject": "[R-jobs] Principal / staff statistical programmer at Aetion in NYC or LA",
+      "subject_clean": "[R-jobs] Principal / staff statistical programmer at Aetion in NYC or LA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "For those interested Aetion, www.aetion.com, is hiring for a new\nstatistical programmer position located in NYC or LA. This role will\nbe supporting the growth of the Aetion Evidence Platform (AEP) as the\nplatform of choice for generating regulatory grade real world evidence\nfor the life sciences and other key healthcare stakeholders.\n\nAs the Principal / Staff Statistical Programmer you will be leading\nthe strategic development and execution of core statistical\nfunctionalities of Aetion?s platform by managing a team of statistical\nprogrammers and data scientists. You will work closely with our\nProduct and Science team in driving the design and scientific\nverification of the Aetion platform and developing test cases and code\nto validate new features using R. In this role you will work at the\nintersection of science and engineering, striving to ensure a seamless\nintegration between the two competence areas within the company.\n\nPlease see the complete job description,\nhttps://boards.greenhouse.io/aetion/jobs/3356249, and apply through\nour website if interested. Thank you for your consideration.\n\nRegards,\n\nBraley Crandall\nVice President, Product\n(323) 447-0457\nAetion | aetion.com\n\n-- \nThis message and any included attachments are confidential. If you are not \nthe intended recipient, please reply to?the sender that you received the \nmessage in error and delete it without further distribution.",
+      "body_snippet": "For those interested Aetion, www.aetion.com, is hiring for a new\nstatistical programmer position located in NYC or LA. This role will\nbe supporting the growth of the Aetion Evidence Platform (AEP) as ",
+      "thread_id": "thread-2dfd04f7556a",
+      "thread_depth": 0,
+      "month": "2021-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2dfd04f7556a",
+      "subject": "[R-jobs] Principal / staff statistical programmer at Aetion in NYC or LA",
+      "message_count": 1,
+      "participants": [
+        "Braley Crandall"
+      ],
+      "started": "2021-08-03T10:48:08-07:00",
+      "last_reply": "2021-08-03T10:48:08-07:00",
+      "root_message_id": "msg-2dfd04f7556a"
+    }
+  ]
+}

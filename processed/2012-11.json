@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2012-11",
+  "messages": [
+    {
+      "id": "msg-323514e119c7",
+      "message_id": "<CABUajpDnLDPB4LiGoDSTQj1vg+=c2tm_qm-=aLgNa11f_+tS6w@mail.gmail.com>",
+      "from_name": "Phil Elsasser",
+      "from_email_hash": "5859fb788c61bef4441e2b675469b34fb99d49123971f20a03a37e6f314bc228",
+      "date": "2012-11-09T13:34:22-06:00",
+      "subject": "[R-jobs] Chicago Based Trading Group Seeking Development Clerk",
+      "subject_clean": "[R-jobs] Chicago Based Trading Group Seeking Development Clerk",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Job Title: Trading Development Clerk\n\nJob Description: Assist development team with backtesting, debugging,\ncreating, and deploying automated trading strategies. Clerk will work under\na lead developer and several traders to provide support to traders in real\ntime execution, in addition to the development staff with strategy\ncreation, troubleshooting and deployment.  The ideal candidate would be\nable to work full time, however a part time position would be considered\nfor the right applicant.  Schedule can be flexible.\n\nTypical Tasks may include :\n\n1. Launching algorithmic trading strategies and automated tools in\nsimulation to debug\n2. Collecting log files from live execution for analysis\n3. Parameterizing  strategies for live trading\n4. Helping with organizational tasks such as managing development team\nworkflow\n5. Working with other developers and traders to backtest strategies and\ndevelop new tools and algorithms.\n6. Implementing technological solutions for time savings and\ntroubleshooting with IT staff.\n\nRequired Skills :\n\n1. Ability to stay on task in an unstructured work environment\n2. Ability to quickly move from completion of one task to the next\n3. Self directed and willing to take initiative and responsibility.\n4. Strong background in computer sciences and statistics\n5. Ability to troubleshoot complex problems and implement creative\ntechnological solutions\n\n\nDesired Skills :\n\n1. Experience  in Finance, Futures, Trade Execution\n2. Ability to write code in  R, C#, C++, MATLAB, VBA, JavaScript a plus.\n3. Background in Big Data or Time Series Analysis\n4. Experience using Trading Technologies X-Trader, Algo Design Lab, or CQG\npreferred.\n5. Understanding of Linux operating systems.\n\nPreferred Starting Date:  Jan 3rd 2013\n\n\nPlease submit resume to pelsasser at rcgdirect.com\nLocation : Chicago IL\n\n\n*\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Job Title: Trading Development Clerk\n\nJob Description: Assist development team with backtesting, debugging,\ncreating, and deploying automated trading strategies. Clerk will work under\na lead develope",
+      "thread_id": "thread-323514e119c7",
+      "thread_depth": 0,
+      "month": "2012-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-323514e119c7",
+      "subject": "[R-jobs] Chicago Based Trading Group Seeking Development Clerk",
+      "message_count": 1,
+      "participants": [
+        "Phil Elsasser"
+      ],
+      "started": "2012-11-09T13:34:22-06:00",
+      "last_reply": "2012-11-09T13:34:22-06:00",
+      "root_message_id": "msg-323514e119c7"
+    }
+  ]
+}

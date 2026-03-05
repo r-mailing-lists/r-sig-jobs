@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2018-08",
+  "messages": [
+    {
+      "id": "msg-276824aee4e5",
+      "message_id": "<CAOUwmAbK+r-afXMY4oQYi8sVV0E0yeEQR7its_zA=hJreP9eeg@mail.gmail.com>",
+      "from_name": "Jerome Maleski",
+      "from_email_hash": "935ac1eb35ee144982261ffc88f928bdfa637d386d474a175c0e4eb80a8a5b0b",
+      "date": "2018-08-20T16:06:27-04:00",
+      "subject": "[R-jobs] [jobs] postdoc in remote sensing with USDA-ARS",
+      "subject_clean": "[R-jobs] [jobs] postdoc in remote sensing with USDA-ARS",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The USDA-Agricultural Research Service, Southeast Watershed Research Unit\nin Tifton, GA, is seeking a postdoctoral research associate for a\nfull-time, 2 year appointment. The research associate will develop,\ncalibrate, and validate a semi-empirical model for estimating cotton\nbiomass from fields within the southeastern United States. Model\ndevelopment will involve the use of optical and radar remote sensing\nproducts along with field data for calibration and validation. The research\nassociate will conduct field work and will collaborate with model\ndevelopers in Agriculture and Agri-Food Canada (AAFC) as well as other\npartners in ARS and within the Long Term Agroecosystems Research (LTAR)\nnetwork.\n\n\n\nQualifications include a recent Ph.D. (within the last 4 years) in\nAgricultural Engineering, Agronomy, Geography or a related discipline;\nability to participate as a team member in the collection of field data of\nsoil moisture, biomass, phenology and leaf area index (LAI); and knowledge\nof remote sensing and geospatial analysis for using radar and optical data\nfrom earth orbiting satellites. This job is open to U.S. Citizens and\nPermanent Residents seeking US Citizenship.\n\n\n\nThe vacancy announcement (number RA-18-001-HA) can be accessed by visiting:\nhttps://www.usajobs.gov/GetJob/ViewDetails/507599500 .\n\n\n\nPlease direct any questions about this position to Dr. Alisa Coffin,\nalisa.coffin at ars.usda.gov, 229-386-3665.\n\n\n\nPlease distribute this announcement or the attached advertisement to\ninterested contacts and potential candidates.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The USDA-Agricultural Research Service, Southeast Watershed Research Unit\nin Tifton, GA, is seeking a postdoctoral research associate for a\nfull-time, 2 year appointment. The research associate will d",
+      "thread_id": "thread-276824aee4e5",
+      "thread_depth": 0,
+      "month": "2018-08"
+    },
+    {
+      "id": "msg-c9ecb7319a28",
+      "message_id": "<SN1PR11MB095844A42AD88AA5BA667157F80A0@SN1PR11MB0958.namprd11.prod.outlook.com>",
+      "from_name": "David LeBauer",
+      "from_email_hash": "5a37f44397411ac00873fc8f2a75d0a148286302a90aa23f661c707a0ec41f74",
+      "date": "2018-08-28T00:16:45Z",
+      "subject": "[R-jobs] Scientific Programmer: Simulation Analysis of Engineered Plants (University of Arizona, Tucson AZ)",
+      "subject_clean": "[R-jobs] Scientific Programmer: Simulation Analysis of Engineered Plants (University of Arizona, Tucson AZ)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "________________________________\n\n\n\nTitle: Scientific Programmer ? Simulation Analysis\n\nSalary: $50-70k/y\n\nFull Description and Application Portal: https://uacareers.com/postings/31668\n\nWe seek a scientific programmer to join the agricultural data science initiative at the University of Arizona. Our team is responsible for developing automated pipelines for data collection, simulation modeling, and statistical analysis that integrate heterogeneous data with scientific understanding. The goal of this project is to develop plants that respond to environmental cues alongside new remote sensing methods that detect these responses.\n\nThe scientific programmer will work closely with scientists who collect, use, and analyze data to simulate and analyze the growth and ecological dynamics of engineered plants. The programmer will be responsible for the deployment, development, and execution of data analysis and land surface simulation models (such as BioCro, ED2, and/or CLM5) using the PEcAn (pecanproject.org) simulation modeling and analysis workflow software that integrates data collected from a variety of handheld, aerial, and ground-based sensor platforms.\n\n\n_____________________\nDavid LeBauer, PhD\nDirector of Data Science for the Arizona Experiment Station\n1230 N Cherry Avenue, Tucson, Arizona 85721\n207 BSRL\nUniversity of Arizona\n520-621-4381\nmailto:dlebauer at email.arizona.edu\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "________________________________\n\n\n\nTitle: Scientific Programmer ? Simulation Analysis\n\nSalary: $50-70k/y\n\nFull Description and Application Portal: https://uacareers.com/postings/31668\n\nWe seek a scie",
+      "thread_id": "thread-c9ecb7319a28",
+      "thread_depth": 0,
+      "month": "2018-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-276824aee4e5",
+      "subject": "[R-jobs] [jobs] postdoc in remote sensing with USDA-ARS",
+      "message_count": 1,
+      "participants": [
+        "Jerome Maleski"
+      ],
+      "started": "2018-08-20T16:06:27-04:00",
+      "last_reply": "2018-08-20T16:06:27-04:00",
+      "root_message_id": "msg-276824aee4e5"
+    },
+    {
+      "id": "thread-c9ecb7319a28",
+      "subject": "[R-jobs] Scientific Programmer: Simulation Analysis of Engineered Plants (University of Arizona, Tucson AZ)",
+      "message_count": 1,
+      "participants": [
+        "David LeBauer"
+      ],
+      "started": "2018-08-28T00:16:45+00:00",
+      "last_reply": "2018-08-28T00:16:45+00:00",
+      "root_message_id": "msg-c9ecb7319a28"
+    }
+  ]
+}

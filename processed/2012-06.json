@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2012-06",
+  "messages": [
+    {
+      "id": "msg-7bc8e725ea6d",
+      "message_id": "<A0CED460-81E2-4A13-99BE-CF52300F63AE@zieg.com>",
+      "from_name": "Mark Zieg",
+      "from_email_hash": "258f55f24cbdaa044d643c76fadbab1e97185b1a727a1417ca3fbfc3390d8439",
+      "date": "2012-06-05T11:36:18-04:00",
+      "subject": "[R-jobs] Freelance: port 460 lines of R to C/C++",
+      "subject_clean": "[R-jobs] Freelance: port 460 lines of R to C/C++",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\nI'm looking for someone who can do a proper job of translating about 460 lines of R code into C or C++.\n\nThe project description is available here, along with links to the relevant R code if you'd like to preview it first:\n\n\thttp://zieg.com/proj/R-Conversion/\n\nIf this sounds like a project you'd like to undertake, please submit a bid in USD to mark at zieg.com, along with an estimated timeline of completion.\n\nThanks,\n\nMark Zieg",
+      "body_snippet": "Hello,\n\nI'm looking for someone who can do a proper job of translating about 460 lines of R code into C or C++.\n\nThe project description is available here, along with links to the relevant R code if y",
+      "thread_id": "thread-7bc8e725ea6d",
+      "thread_depth": 0,
+      "month": "2012-06"
+    },
+    {
+      "id": "msg-643982723f8b",
+      "message_id": "<CAC3F=4Uoa_UVRaH00CXdrEQUosYp1MmHONZ9A9PSz4Ff95YPew@mail.gmail.com>",
+      "from_name": "Jose Quesada",
+      "from_email_hash": "fe2bec9066498f9232bfbdc8f6ed2e8fb3532b05888c9847ce8d7493bb10cecb",
+      "date": "2012-06-06T20:12:26+02:00",
+      "subject": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
+      "subject_clean": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Fluidshopping is a Berlin-based startup working on a customer analytics\ntool for online retailers.\n\nCustomer Lifefitime Value (CLV) is the mythical 'magic number', the amount\nof money a particular customer will ever bring in. Knowing your CLV makes\nit trivial to:\n- optimize marketing spend for different inbound channels.\n- identify your highest value customers,\n- identify those in danger of never coming back.\n\nMost shops have a 'gut feeling' of what their CLV is, but no way of knowing\nfor sure. Yet this is the number that would make the largest impact to\ntheir bottom line, if only it was possible to have it. Ah! Predicting the\nfuture is hard, right?\n\nIt turns out CLV can be computed with surprising accuracy (10% error) at\nthe individual level. At Fluidshopping, we use sophisticated bayesian\nmodels to estimate CLV. We look beyond what has happened in the past (which\nyou get with say google analytics). CLV changes often, due to your\nmarketing actions, season, or changes in the market. We retrain our models\nweekly to reflect those changes, and then suggest the actions that would\nmake the largest impact (email campaigns, popups with offers triggered by\nuser behavior on your site, etc).\n\nPOST: Data scientist\n====================\nWe are looking for a data scientist. To apply, please send us code samples.\nLet us see something you build; please explain what it does and how to run\nit if it?s not obvious. We prefer github projects. Do not send code samples\nthat do not make sense out of context. We are looking for a difficult\nproblem you solved, or a common problem that you solved in a novel way.\nPlease send a sample dataset if we?ll need it to make sense of your code.\n\nRequirements:\n------------\nYou need to be within 5 years of your last academic appointment, or\ngraduation. That is, if you graduated from university more than 5 years\nago, you are not eligible. You can also apply if you had a job in research\nsettings within the last 5 years. We do not care about you having a title,\nbut we are funded by the government, and they do. They want to see someone\nwith a compSci-related title. We are really sorry in advance if the\nrequirement excludes you, a great hacker who doesn?t have one.\n\nResponsibilities:\n-----------------\nYour responsibilities will be to create, adapt, and optimize probabilistic\nmodels. The data set is a large sample of purchasing behavior. You will\nneed to demonstrate experience in bayesian modeling, ideally in a setting\nthat resembles marketing. You will need to ?play? with parameters until we\nreach state-of-the-art predictive accuracy. You should be happy navigating\nthe literature, learning methods on the fly, and implementing algorithms\nfrom a paper. Of course, in a small team you will need to write\nproduction-quality code yourself. This includes testing.\n\nNice to have:\n-------------\n- Familiarity with probability theory and modeling\n- Links to any work you may have contributed to the R/open source community\n(for example, your GitHub page, R packages developed, or any R project\nyou're currently working on)\n- Links to questions asked/answered on Stack Overflow related to R\n- PhD\n\nPerks:\n------\n- Work from home (optional)\n- Dog\n- Terrace with barbecue\n- In the center of the Berlin startup ecosystem\n- Continuous deployment, strong testing culture\n\nTo apply, contact us at: jobs at fluidshopping.com*\n\n-- \nBest,\n-Jose\n\nJose Quesada, PhD. (@quesada)\nCEO, http://fluidshopping.com\nhttp://www.josequesada.name/\nskype: urlwolf\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Fluidshopping is a Berlin-based startup working on a customer analytics\ntool for online retailers.\n\nCustomer Lifefitime Value (CLV) is the mythical 'magic number', the amount\nof money a particular cu",
+      "thread_id": "thread-643982723f8b",
+      "thread_depth": 0,
+      "month": "2012-06"
+    },
+    {
+      "id": "msg-e2f8f4a28769",
+      "message_id": "<CAGjVef_OTt6PmeigbD48DhakQX3FRULeuFxk+6H+m_MnNf4nDw@mail.gmail.com>",
+      "from_name": "jobs fluid",
+      "from_email_hash": "db50a0c90d548f206402b562e58f633245124662fe565bb1d221df3b87e1bf13",
+      "date": "2012-06-06T20:13:58+02:00",
+      "subject": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
+      "subject_clean": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Fluidshopping is a Berlin-based startup working on a customer analytics\ntool for online retailers.\n\nCustomer Lifefitime Value (CLV) is the mythical 'magic number', the amount\nof money a particular customer will ever bring in. Knowing your CLV makes\nit trivial to:\n- optimize marketing spend for different inbound channels.\n- identify your highest value customers,\n- identify those in danger of never coming back.\n\nMost shops have a 'gut feeling' of what their CLV is, but no way of knowing\nfor sure. Yet this is the number that would make the largest impact to\ntheir bottom line, if only it was possible to have it. Ah! Predicting the\nfuture is hard, right?\n\nIt turns out CLV can be computed with surprising accuracy (10% error) at\nthe individual level. At Fluidshopping, we use sophisticated bayesian\nmodels to estimate CLV. We look beyond what has happened in the past (which\nyou get with say google analytics). CLV changes often, due to your\nmarketing actions, season, or changes in the market. We retrain our models\nweekly to reflect those changes, and then suggest the actions that would\nmake the largest impact (email campaigns, popups with offers triggered by\nuser behavior on your site, etc).\n\nPOST: Data scientist\n====================\nWe are looking for a data scientist. To apply, please send us code samples.\nLet us see something you build; please explain what it does and how to run\nit if it?s not obvious. We prefer github projects. Do not send code samples\nthat do not make sense out of context. We are looking for a difficult\nproblem you solved, or a common problem that you solved in a novel way.\nPlease send a sample dataset if we?ll need it to make sense of your code.\n\nRequirements:\n------------\nYou need to be within 5 years of your last academic appointment, or\ngraduation. That is, if you graduated from university more than 5 years\nago, you are not eligible. You can also apply if you had a job in research\nsettings within the last 5 years. We do not care about you having a title,\nbut we are funded by the government, and they do. They want to see someone\nwith a compSci-related title. We are really sorry in advance if the\nrequirement excludes you, a great hacker who doesn?t have one.\n\nResponsibilities:\n-----------------\nYour responsibilities will be to create, adapt, and optimize probabilistic\nmodels. The data set is a large sample of purchasing behavior. You will\nneed to demonstrate experience in bayesian modeling, ideally in a setting\nthat resembles marketing. You will need to ?play? with parameters until we\nreach state-of-the-art predictive accuracy. You should be happy navigating\nthe literature, learning methods on the fly, and implementing algorithms\nfrom a paper. Of course, in a small team you will need to write\nproduction-quality code yourself. This includes testing.\n\nNice to have:\n-------------\n- Familiarity with probability theory and modeling\n- Links to any work you may have contributed to the R/open source community\n(for example, your GitHub page, R packages developed, or any R project\nyou're currently working on)\n- Links to questions asked/answered on Stack Overflow related to R\n- PhD\n\nPerks:\n------\n- Work from home (optional)\n- Dog\n- Terrace with barbecue\n- In the center of the Berlin startup ecosystem\n- Continuous deployment, strong testing culture\n\nTo apply, contact us at: jobs at fluidshopping.com*\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Fluidshopping is a Berlin-based startup working on a customer analytics\ntool for online retailers.\n\nCustomer Lifefitime Value (CLV) is the mythical 'magic number', the amount\nof money a particular cu",
+      "thread_id": "thread-e2f8f4a28769",
+      "thread_depth": 0,
+      "month": "2012-06"
+    },
+    {
+      "id": "msg-42f07c426470",
+      "message_id": "<728EBDBB-55D9-4842-84BD-263E6C1C2D0F@gmail.com>",
+      "from_name": "Cliff Brown",
+      "from_email_hash": "a2144e239abf8a249751bd54ba3156761e10f54f45aa442dc9a327042c8cc227",
+      "date": "2012-06-27T02:24:03-04:00",
+      "subject": "[R-jobs] Freelance: Build Gearman API R package & Additional ongoing work",
+      "subject_clean": "[R-jobs] Freelance: Build Gearman API R package & Additional ongoing work",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Our company is looking for a freelance R developer to write an R interface to Gearman.  We can offer competitive compensation, and are looking to build an ongoing freelance relationship for R development.\n\nFor this project we are looking for developers with experience in both C and R.  There is an existing C API, so we would need the R package to wrap these underlying APIs.  We currently only have a limited need for a small subset of the api, and are primarily looking for a very fast implementation of the background processes.  We are also interested in growing a broader community around the R/Gearman API, so are willing to pay to for a broad implementation.   We would like to also release any work done here to CRAN.  Please let me know by email at cbrown2002 at gmail dot com if you have interest in this project.\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Our company is looking for a freelance R developer to write an R interface to Gearman.  We can offer competitive compensation, and are looking to build an ongoing freelance relationship for R developm",
+      "thread_id": "thread-42f07c426470",
+      "thread_depth": 0,
+      "month": "2012-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7bc8e725ea6d",
+      "subject": "[R-jobs] Freelance: port 460 lines of R to C/C++",
+      "message_count": 1,
+      "participants": [
+        "Mark Zieg"
+      ],
+      "started": "2012-06-05T11:36:18-04:00",
+      "last_reply": "2012-06-05T11:36:18-04:00",
+      "root_message_id": "msg-7bc8e725ea6d"
+    },
+    {
+      "id": "thread-643982723f8b",
+      "subject": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
+      "message_count": 1,
+      "participants": [
+        "Jose Quesada"
+      ],
+      "started": "2012-06-06T20:12:26+02:00",
+      "last_reply": "2012-06-06T20:12:26+02:00",
+      "root_message_id": "msg-643982723f8b"
+    },
+    {
+      "id": "thread-e2f8f4a28769",
+      "subject": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
+      "message_count": 1,
+      "participants": [
+        "jobs fluid"
+      ],
+      "started": "2012-06-06T20:13:58+02:00",
+      "last_reply": "2012-06-06T20:13:58+02:00",
+      "root_message_id": "msg-e2f8f4a28769"
+    },
+    {
+      "id": "thread-42f07c426470",
+      "subject": "[R-jobs] Freelance: Build Gearman API R package & Additional ongoing work",
+      "message_count": 1,
+      "participants": [
+        "Cliff Brown"
+      ],
+      "started": "2012-06-27T02:24:03-04:00",
+      "last_reply": "2012-06-27T02:24:03-04:00",
+      "root_message_id": "msg-42f07c426470"
+    }
+  ]
+}

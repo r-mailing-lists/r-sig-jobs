@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2008-08",
+  "messages": [
+    {
+      "id": "msg-aa817de06d7e",
+      "message_id": "<1217979319.2974.92.camel@fry>",
+      "from_name": "Michaell Taylor",
+      "from_email_hash": "b060a0d5d710f364bedc3a502978fd929e589f079228c3a0276eb1e669269894",
+      "date": "2008-08-05T18:35:19-05:00",
+      "subject": "[R-jobs] Quantitative Research Analyst",
+      "subject_clean": "[R-jobs] Quantitative Research Analyst",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Quantitative Research Analyst \n\nDescription\n\nBoxwood Means Inc., a quantitative research firm that specializes in \nreal estate automated valuation modeling and evaluation, risk analysis, and \ndebt/equity portfolio management, and market analysis is seeking a Quantitative Analyst.\n\nThe candidate will work closely with the firm's Principals to develop and maintain \nquantitative models to describe and forecast small commercial real estate markets,  \nmaintain large databases of real estate transactions and assessments, assist in \ncreating new product lines that primarily serve mortgage lenders and large investors \nin debt and equity.  \n\nRequirements\n\n* All work will be done remotely, but regular U.S. east coast office hours are required.  \n* Ability to work independently, innovatively, and creatively is essential.\n* Undergraduate or graduate degree in technical, finance, economics or similar fields.\n* Some knowledge of financial markets and experience analyzing financial data.\n* Excellent written and verbal communication skills, including the\nability to present ideas to groups.\n* Strong knowledge of S-plus, R is required.\n* Academic background and experience in statistics required.\n* Knowledge of SQL language (MySQL) and some understanding of database design is desirable.\n* Linux experience is highly desired.\n* Some knowledge of Latex useful.\n\n\nContact: \n\nMichaell Taylor, PhD\nBoxwood Means, Inc\nwww.boxwoodmeans.com\nMichaell.Taylor at boxwoodmeans.com",
+      "body_snippet": "Quantitative Research Analyst \n\nDescription\n\nBoxwood Means Inc., a quantitative research firm that specializes in \nreal estate automated valuation modeling and evaluation, risk analysis, and \ndebt/equ",
+      "thread_id": "thread-aa817de06d7e",
+      "thread_depth": 0,
+      "month": "2008-08"
+    },
+    {
+      "id": "msg-8b13523217b7",
+      "message_id": "<d2a.2da80dc5.35cb624d@aol.com>",
+      "from_name": "VLLADY m@iii@g oii @oi@com",
+      "from_email_hash": "61067e1e982f0b7e781a970af12d6ffc2cbbe0773e3d868fd33fd8ba9cd2eee1",
+      "date": "2008-08-06T16:23:41-04:00",
+      "subject": "[R-jobs] (no subject)",
+      "subject_clean": "[R-jobs] (no subject)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Ok.  How does this work in finding a job for  me?\n                    Vera Lopez\n\n\n\n**************Looking for a car that's sporty, fun and fits in your budget? \nRead reviews on AOL Autos.      \n(http://autos.aol.com/cars-BMW-128-2008/expert-review?ncid=aolaut00050000000017 )\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Ok.  How does this work in finding a job for  me?\n                    Vera Lopez\n\n\n\n**************Looking for a car that's sporty, fun and fits in your budget? \nRead reviews on AOL Autos.      \n(http:",
+      "thread_id": "thread-8b13523217b7",
+      "thread_depth": 0,
+      "month": "2008-08"
+    },
+    {
+      "id": "msg-e4e6dd2eea9b",
+      "message_id": "<A0790E92-80BD-49C5-9BFB-AE3C0F29146A@rwth-aachen.de>",
+      "from_name": "David Ruau",
+      "from_email_hash": "4fc9af782f0e2630785a4f10c8950539c08ad0882b78bc073b6cf51d56924699",
+      "date": "2008-08-15T19:18:52+02:00",
+      "subject": "[R-jobs] Ph.D. position at RWTH Aachen",
+      "subject_clean": "[R-jobs] Ph.D. position at RWTH Aachen",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nOur institute has an open position for a Ph.D. student on modeling  \ngene network in stem cells.\nhere is the official announcement:\n---\n\nThe Institute for Biomedical Engineering, Department of Cell Biology,  \nRWTH Aachen University Medical School and Helmholtz Institute for  \nBiomedical Engineering, RWTH Aachen University invites applications of  \nhighly motivated individuals for a\n\nPhD Student Position (Bioinformatics)\n\nWe invite applications of highly motivated individuals for a PhD  \nstudent position on the bioinformatics of gene networks in stem cells.\n\nThe successful applicant will work in an international team and apply  \nstandard techniques of bioinformatics on stem cell reprogramming and  \npluripotency, stem cell specification and dendritic cell development.  \nWorking language is English. The position is in collaboration with the  \nRWTH Graduate School Aachen Institute of Computational Engineering  \nSciences (AICES).\n\nThe Institute for Biomedical Engineering, Department of Cell Biology,  \nRWTH Aachen University Medical School and Helmholtz Institute for  \nBiomedical Engineering, RWTH Aachen University was established in 2003  \nand studies (1) genetic programs that determine cell identity and  \ndevelopmental potential, with a focus on hematopoietic stem cells and  \ntheir differentiated progeny, and (2) stem cell reprogramming and  \ninduction of pluripotency (Hacker et al., Nat. Immunol. 2003;  \nHieronymus et al., J. Immunol. 2005; Ruau et al., Stem Cells 2008; Kim  \net al., Nature 2008). AICES was established in 2007 as RWTH Graduate  \nSchool within the Excellence Initiative of the Federal Government of  \nGermany.\n\nQualifications and experience: The successful candidates should have  \nexperience with standard techniques in bioinformatics, in particular  \nwith gene expression profiling and data mining.\n\nSalary will be according to TV-L scale depending on qualification. The  \nposition is available immediately and initially funded for 3 years, an  \nextension is possible. The RWTH is an equal opportunity employer,  \ncommitted to employ handicapped individuals and to increase the number  \nof female employees.\n\nApplications including full CV and contact information of 2 referees  \nshould be sent by e-mail to martin.zenke at rwth-aachen.de and schuppert at aices.rwth-aachen.de\n\n---\nDavid Ruau\nInstitute for Biomedical Engineering\n-Cell Biology-\nUniversitatsklinikum Aachen, RWTH\nPauwelsstrasse 30\n52074 Aachen\nGERMANY\nemail: David.Ruau at rwth-aachen.de\nTel: +49 - 241 - 80 - 80 - 761\nFax:   +49 - 241 - 80 - 82 - 008\nhttp://www.molcell.rwth-aachen.de",
+      "body_snippet": "Dear all,\n\nOur institute has an open position for a Ph.D. student on modeling  \ngene network in stem cells.\nhere is the official announcement:\n---\n\nThe Institute for Biomedical Engineering, Department",
+      "thread_id": "thread-e4e6dd2eea9b",
+      "thread_depth": 0,
+      "month": "2008-08"
+    },
+    {
+      "id": "msg-d6739c1bb778",
+      "message_id": "<09fb01c9030c$a28732b0$e7959810$@com>",
+      "from_name": "Christina Kinchen",
+      "from_email_hash": "fd1fd204d90860a6d75a121c6c6b467a5d9179d65fd0da2e8d9f65dd0e11899b",
+      "date": "2008-08-20T17:35:15-04:00",
+      "subject": "[R-jobs] R and SAS Statistical position open with Large Pharmaceutical in New Jersey",
+      "subject_clean": "[R-jobs] R and SAS Statistical position open with Large Pharmaceutical in New Jersey",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I have 2 positions open with a top pharmaceutical company in New Jersey.\nThis position is not requiring pharmaceutical experience as long as the\ncandidate has strong SAS and R experience. In particular they are looking\nfor strong graphics experience in S-Plus/R (lattice or Trellis?TM graphics).\nIf you would like to learn more about this position please contact Christina\nKinchen at ckinchen at smithhanley.com or at 800-684-9921 ext 220.\n\nThe successful candidates' primary responsibility will be to create a suite\nof validated, general-purpose programs for conducting pre-processing and\nstatistical analyses of clinical and biomarker data, including large-scale\ngenomic data. In many cases the core statistical methodology has already\nbeen implemented for a specific analysis and needs to be generalized,\nvalidated, and made more efficient.\nA secondary responsibility is to assist statisticians in their analyses,\nincluding such tasks as provisioning analysis-ready datasets, formatting\noutput, and generating figures and tables to meet precise requirements. \nExperience in SAS programming related to clinical drug development. Able to\nprovide programming at the protocol and project level and contribute to\ncross-functional teams consisting of statisticians, data managers,\nclinicians and other computer programmers on drug development projects.\nAcademic training in computing or a scientific discipline; MS/A or\nequivalent (at least 4 years relevant experience with demonstrated\nexperience processing data from multiple protocols). Demonstrated ability to\ncommunicate ideas and some experience communicating to an audience through\nvarious formats.\n\nProgrammers will support the Statistical Genetics and Biomarkers group in\nthe analysis of genetic, genomic, and biomarker data from clinical trials.\nWe prefer candidates to be proficient in both S-Plus/R and SAS programming,\nbut will consider having one position focused on S-Plus/R and the other on\nSAS. All candidates should be proficient in programming, modular software\ndesign, writing requirement specifications and validation, and must be able\nto write clear and thorough program documentation. The ability to improve\nand generalize existing systems of programs is essential. Must be able\nfluently to understand and communicate in spoken and written English.\n\nS-Plus/R expertise should include writing packages and methods\n(object-oriented), lattice or Trellis?TM graphics, importing and exporting\ndata, and using statistical functions.\nSAS expertise should include dataset manipulation, macro programming, ODS\ndataset output, importing and exporting data, and statistical procedures.\n\n\n\n\nChristina Kinchen\nSmith Hanley Consulting\nSenior Recruiter\nPhone 800-684-9921 ext 220\nDirect Line 407-548-0670\nFax 407-805-3020\nE-Mail: ckinchen at smithhanley.com\nWebsite: www.smithhanleyconsulting.com\n?\n\"Ask About Our Referral Policy\"\n1st Placement- $1000\n2nd Placement-$2000\n3rd Placement-$3000\n?\n-You can see what positions are available by clicking on the following link:\nhttp://smithhan.vcgasp.com/Worldlink40SmithHanleyConsultingGroup/main.aspx?a\nction=SearchOpportunities\n\n-Specializing in contract placement of Statisticians, SAS Programmers,\nClinical Data Managers/Data Coordinators, and other clinical positions\nthroughout the US.\n??\n?",
+      "body_snippet": "I have 2 positions open with a top pharmaceutical company in New Jersey.\nThis position is not requiring pharmaceutical experience as long as the\ncandidate has strong SAS and R experience. In particula",
+      "thread_id": "thread-d6739c1bb778",
+      "thread_depth": 0,
+      "month": "2008-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-aa817de06d7e",
+      "subject": "[R-jobs] Quantitative Research Analyst",
+      "message_count": 1,
+      "participants": [
+        "Michaell Taylor"
+      ],
+      "started": "2008-08-05T18:35:19-05:00",
+      "last_reply": "2008-08-05T18:35:19-05:00",
+      "root_message_id": "msg-aa817de06d7e"
+    },
+    {
+      "id": "thread-8b13523217b7",
+      "subject": "[R-jobs] (no subject)",
+      "message_count": 1,
+      "participants": [
+        "VLLADY m@iii@g oii @oi@com"
+      ],
+      "started": "2008-08-06T16:23:41-04:00",
+      "last_reply": "2008-08-06T16:23:41-04:00",
+      "root_message_id": "msg-8b13523217b7"
+    },
+    {
+      "id": "thread-e4e6dd2eea9b",
+      "subject": "[R-jobs] Ph.D. position at RWTH Aachen",
+      "message_count": 1,
+      "participants": [
+        "David Ruau"
+      ],
+      "started": "2008-08-15T19:18:52+02:00",
+      "last_reply": "2008-08-15T19:18:52+02:00",
+      "root_message_id": "msg-e4e6dd2eea9b"
+    },
+    {
+      "id": "thread-d6739c1bb778",
+      "subject": "[R-jobs] R and SAS Statistical position open with Large Pharmaceutical in New Jersey",
+      "message_count": 1,
+      "participants": [
+        "Christina Kinchen"
+      ],
+      "started": "2008-08-20T17:35:15-04:00",
+      "last_reply": "2008-08-20T17:35:15-04:00",
+      "root_message_id": "msg-d6739c1bb778"
+    }
+  ]
+}

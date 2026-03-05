@@ -1,0 +1,66 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2017-04",
+  "messages": [
+    {
+      "id": "msg-da611cdab08d",
+      "message_id": "<4A330BE044E02C41AAFCD12C6DCECEA61FB11F28@SCI-EXCH2.SciMetrika.local>",
+      "from_name": "Angie Grabko",
+      "from_email_hash": "9be88638f811b57d648e350c9c105da1a97e05bb18b7ea829124da7d0b20a649",
+      "date": "2017-04-11T17:42:55Z",
+      "subject": "[R-jobs] Data Manager Position - CDC Atlanta - Immediate Need",
+      "subject_clean": "[R-jobs] Data Manager Position - CDC Atlanta - Immediate Need",
+      "in_reply_to": "<MWHPR18MB1183DE37C27ED878D3752EA5C0000@MWHPR18MB1183.namprd18.prod.outlook.com>",
+      "references": [
+        "<MWHPR18MB11831CFE218AB408162389A1C0000@MWHPR18MB1183.namprd18.prod.outlook.com>",
+        "<MWHPR18MB1183DE37C27ED878D3752EA5C0000@MWHPR18MB1183.namprd18.prod.outlook.com>"
+      ],
+      "body_plain": "SciMetrika is a population health consulting firm whose mission is to provide innovative scientific, technical, and logistical solutions that advance human health. We serve federal, state, and local agencies, commercial companies, educational institutions and private research organizations. We are currently seeking a Data Manager who will be based on-site at the Centers for Disease Control (CDC) in Atlanta, Georgia.\n\nThe Data Management Support Services project provides on-going data management support services to the Strategic Information and Workforce Development Branch (SIWD) and the Polio Eradication Branch (PEB) in the Global Immunization Division (GID) of the Centers for Disease Control and Prevention (CDC). The Data Manager will support several areas of work related to polio eradication and routine immunization to prepare data entry programs, analytic databases, and corresponding documentation, and to provide computer programming support for project analyses.\n\nMust have Bachelor's Degree in Public Health, System Analysis, Computer Programming or related field.  5+ years as a Data Manager, Data Programmer or Data Analyst.  Minimum of 2 years' experience and high-level expertise in R statistical software.  Minimum 2 years' experience in following database entry programs:  Census and Survey Processing System (CSPro), Microsoft Access, Open Data Kit (ODK) and RedCap.  Familiarity with SAS, STATA, SPSS or EPI info is a plus.\n\nTo apply please visit: http://scimetrika.submit4jobs.com/index.cfm?fuseaction=85392.viewjobdetail&CID=85392&JID=241243 or visit www.scimetrika.com<http://www.scimetrika.com>\n\n\n\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "SciMetrika is a population health consulting firm whose mission is to provide innovative scientific, technical, and logistical solutions that advance human health. We serve federal, state, and local a",
+      "thread_id": "thread-da611cdab08d",
+      "thread_depth": 0,
+      "month": "2017-04"
+    },
+    {
+      "id": "msg-171e2ae3d69d",
+      "message_id": "<CAHziNLRvUSCbiSL3=z+vDFXLdvWXU5eWeGEA7FF9c9a38hbonQ@mail.gmail.com>",
+      "from_name": "Ivan Kasanický",
+      "from_email_hash": "f463b8969aeacc860fa67c4f8c68bc3baba5f7401e902dced9f82c1b6b0d0383",
+      "date": "2017-04-18T09:07:56+02:00",
+      "subject": "[R-jobs] Data Scientist, Vienna, Austria",
+      "subject_clean": "[R-jobs] Data Scientist, Vienna, Austria",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Parkbob is a crowd-sensing service helping people to easily find a\nparking spot in cities. We are a technology and data-driven startup\nwith a strong focus to realise our ambitions. As a small team with an\ninternational background, we are willing to provide the best\nenvironment for our team members.\n\nAs a Data Scientist, you will become a valuable member of a growing\ndata science team. You will propose new statistical models/ML\ntechniques, and test these models using real time data. You will\npropose and test new quality metrics/visual representation of\ndifferent models, and provide regular reports using these metrics.You\nwill look for new data sources, and evaluate the potential of these\ndata sources.\n\nFor a full description of the position and requirements please go to\nhttp://jobs.parkbob.com/blog/data-scientist-b528de31-8cf5-4964-99e4-79f53ab7a386",
+      "body_snippet": "Parkbob is a crowd-sensing service helping people to easily find a\nparking spot in cities. We are a technology and data-driven startup\nwith a strong focus to realise our ambitions. As a small team wit",
+      "thread_id": "thread-171e2ae3d69d",
+      "thread_depth": 0,
+      "month": "2017-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-da611cdab08d",
+      "subject": "[R-jobs] Data Manager Position - CDC Atlanta - Immediate Need",
+      "message_count": 1,
+      "participants": [
+        "Angie Grabko"
+      ],
+      "started": "2017-04-11T17:42:55+00:00",
+      "last_reply": "2017-04-11T17:42:55+00:00",
+      "root_message_id": "msg-da611cdab08d"
+    },
+    {
+      "id": "thread-171e2ae3d69d",
+      "subject": "[R-jobs] Data Scientist, Vienna, Austria",
+      "message_count": 1,
+      "participants": [
+        "Ivan Kasanický"
+      ],
+      "started": "2017-04-18T09:07:56+02:00",
+      "last_reply": "2017-04-18T09:07:56+02:00",
+      "root_message_id": "msg-171e2ae3d69d"
+    }
+  ]
+}

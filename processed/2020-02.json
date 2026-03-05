@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2020-02",
+  "messages": [
+    {
+      "id": "msg-4f9cb70fb2a1",
+      "message_id": "<CAPDNHNcpYaLXknA_zmgtpR3XmdCW+K-H9SC0X-UQcXxPQXciAg@mail.gmail.com>",
+      "from_name": "Christopher Tong",
+      "from_email_hash": "d1cbd80501eba7bf7515687009dc4cb6b69155e8e71c4dfa20a9f611927032d6",
+      "date": "2020-02-06T22:32:50-08:00",
+      "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "subject_clean": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "CENTER FOR VETERINARY BIOLOGICS\n\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2020\n\nWe bring a broad perspective to our consulting and analytical work\nwith scientists at the USDA National Centers for Animal Health. Our\nStatistics Section is looking for good communicators who are\ncomfortable dealing with various aspects of practical scientific\nissues.\n\nWe are looking for skills that support the\n * Statistical design, analysis, and interpretation of scientific studies\n * Application of statistical principles to specific problems in\napplied disciplines\n * Effective communication with scientists about practical issues\nWe?d also like to know about your background in areas that may advance\nour work, such as laboratory applications, epidemiology, machine\nlearning, or statistical programming.\n\nApplicants must be United States citizens and willing to relocate to\nCentral Iowa.\n\nHow to apply. The vacancy announcement will be open for application in\nearly February 2020 on the www.usajobs.gov web site. At that time\napplicants may search for the announcement by location (Ames, IA), job\nseries (Mathematical Statistician, Statistician Biology or Biologist\n(Computational Bioinformatics)), or contact us for the specific\nannouncement number.\n\nThe Center for Veterinary Biologics regulates vaccines,\nimmuno-therapeutics, diagnostics, and other biologics used to manage\nanimal diseases. It is located on the campus of the National Centers\nfor Animal Health in Ames, Iowa, where it maintains a close\naffiliation with the other animal disease centers on the campus and\nwith nearby Iowa State University. Ames is known for its stimulating\ncultural environment, pleasant surroundings, and stable economy. It is\n40 minutes north of Des Moines International Airport.\n\nEmployment benefits include flexible work schedule, ten paid federal\nholidays, liberal leave allowance (annual leave, sick leave, and\nfamily friendly leave policy), retirement and thrift savings plans,\nlife insurance program, and health insurance program.\n\nMore info contact Amy Lock, Statistics Section Leader, USDA-CVB;\namy.b.lock at usda.gov",
+      "body_snippet": "CENTER FOR VETERINARY BIOLOGICS\n\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2020\n\nWe bring a broad perspective to our consulting and analytical work",
+      "thread_id": "thread-4f9cb70fb2a1",
+      "thread_depth": 0,
+      "month": "2020-02"
+    },
+    {
+      "id": "msg-bb1ad9f099b9",
+      "message_id": "<e1bf59e9-4847-1462-dba7-1b9227eec568@univ-grenoble-alpes.fr>",
+      "from_name": "Mayeul Kauffmann",
+      "from_email_hash": "14136e7fb7367cb558743e98d0338c1415f573345ada7d368cd7afc3fcc68d7d",
+      "date": "2020-02-07T11:49:05+01:00",
+      "subject": "[R-jobs] Paid internship \"web application development with R\"",
+      "subject_clean": "[R-jobs] Paid internship \"web application development with R\"",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Paid internship \"web application development with R\"*\n\nThe main skills for this proposed paid internship are: R, Shiny, and \ncomponents used by Shiny (plotly, javascript). Other skills (Debian, \nDocker, CKAN...) are useful.\n\nThis internship offer is part of a partnership between the Grenoble \nAlpes Cybersecurity Institute and the CYBIS project.\n\nThe *Cybersecurity Institute* aims to undertake innovative \ninterdisciplinary research to address the challenges of cybersecurity \nand privacy. The main areas are low-cost secure elements, secure \ncritical infrastructures and their lifecycle management, vulnerability \nresearch and global challenges in terms of risk analysis and validation \nof major systems, including practical resilience in industry and \nsociety. The approach is holistic, encompassing technical, legal, \neconomic, social, diplomatic, military and intelligence aspects with \nstrong private sector partnerships, and privileged national and \ninternational cooperation with leading institutions in France and abroad.\n\nThe *CYBIS (Cyber & International Security)* project aims to make \navailable to the general public and researchers indicators and tools to \nanalyse recent and current conflicts (in a broad sense including \ncybersecurity), in order to facilitate the understanding and analysis of \ncyber attacks, terrorism and armed conflicts. In the long term, the \nproject will closely combine various types of media, such as databases, \nan interactive website, software, training, conferences and seminars, \narticles, reports and folders in publications. This site should provide \na clearer vision of cybersecurity and possible responses to \ncyberthreats, as well as, more broadly, an enhanced vision of certain \nconflicts, including cartographic analysis, and dynamic visualization \n(interactive graphics showing spatio-temporal, quantitative and \nqualitative data). In addition to databases and online mapping, this \nmultilingual site will provide a summary presentation of the various \nnational cybersecurity laws and a summary indicator in this field. Its \nambition is to become an international reference on contemporary armed \nconflicts, crises and cybersecurity.\n\n*Trainee supervision: *Mayeul Kauffmann, principal researcher and \nwebmaster of the Cybis project.\n\n*Location: *Saint Martin d'H?res Campus (University of Grenoble Alpes), \nFrance.\n\n*Duration: *2 to 6 months\n\n*Start of the internship:* April, May or June 2020.\n\n*Indemnity:* Gratification according to current regulations (about 600? \nper month). Possibility of partial payment of transport costs.\n\n*Missions:* The missions mentioned below are indicative. They may vary, \ndepending in particular on the trainee's skills and the duration of the \ninternship.\n\n*Application process*\nBy e-mail to the e-mail address indicated at the bottom of the page: \nhttp://cybis.univ-grenoble-alpes.fr/index.php/en/node/2\n\nPlease check the CYBIS website before applying (possible update of this \noffer). Indicate imperatively as the subject of the email \"Cyber at Alps \nCYBIS internship application - (your first and last name)\".\n\nProvide as attachments in PDF format a CV (file entitled \n\"name_givenName_CV.pdf\") and a letter of application (file entitled \n\"name_givenName_LC.pdf\"). In the letter, provide the following \ninformation in particular:\n\n- Potential start date of the internship (at the earliest):\n\n- Potential end date of the internship (at the latest):\n\n- Starting date of the internship that would suit you best:\n\n- Minimum duration of the internship:\n\n- Maximum duration of the internship:\n\n- Duration you would prefer:\n\n- Is this internship mandatory in your current training program?\n\n\nThe main mission is described below:\n\n\n    Mission: Integration of visualization and data repository applications\n\nDescription: Produce a library (javascript or R/Shiny/plotly) allowing \nthe display of interactive historical maps, respecting the evolution of \ncountry borders, similar to PeacePRISM. PeacePRISM is a FLOSS (GNU \nAffero GPL) application for visualizing spatio-temporal data built in \nRuby On Rails and Javascript, which allows such features. The objective \nof this mission is to make these javascript functionalities (already \nexisting) reusable in other platforms (notably R/Shiny/Plotly - \nmanagement of the interaction between elements by crosstalk; Rcmdr; and \nCKAN), in collaboration with interested project partners to integrate \nsuch a tool on their website. The Rcmdr component (for example) would \nallow the creation of an application with a standalone GUI (desktop).\n\n*Required skills: **R (Shiny, plotly, *if possible Rcmdr),**JavaScript, \nJavaScript libraries (D3, Plotly), HTML5, CSS, possibly MVC framework. \nIf possible, sensitivity to visualization in the social sciences.\n\n*Links:* http://cybis.univ-grenoble-alpes.fr/fr/PeacePRISM\nhttp://cybis.univ-grenoble-alpes.fr/fr/NMC\nhttps://plot.ly/d3-js-for-r-and-shiny-charts/\n\nOther potential missions (depending on skills and interest) are \navailable at: \nhttp://cybis.univ-grenoble-alpes.fr/index.php/en/stage-sys-admin-dev-web\n\nBest regards,\n\nMayeul\n\n-- \n______________________________________________________\n\nDr. Mayeul Kauffmann\nChercheur principal - projet CYBIS / Cyber and International Security\nhttp://cybis.univ-grenoble-alpes.fr/\nT?l. fixe: 04 76 82 54 97 (Poste UGA : 2 54 97)\nLaboratoire CESICE (Centre d'?tudes sur la S?curit? Internationale et les Coop?rations Europ?ennes)\nUniversit? Grenoble Alpes - Facult? de Droit, aile B, bureau 303\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Paid internship \"web application development with R\"*\n\nThe main skills for this proposed paid internship are: R, Shiny, and \ncomponents used by Shiny (plotly, javascript). Other skills (Debian, \nDock",
+      "thread_id": "thread-bb1ad9f099b9",
+      "thread_depth": 0,
+      "month": "2020-02"
+    },
+    {
+      "id": "msg-14bbcae050a7",
+      "message_id": "<6f4b154f-6766-701e-16c1-a4cbb41c92ba@stamats.de>",
+      "from_name": "Prof. Dr. Matthias Kohl",
+      "from_email_hash": "e144ddb675681f3124c6e887dd63c8aec6f6b4e9911a8cda00f94c453a4cb173",
+      "date": "2020-02-28T07:48:43+01:00",
+      "subject": "[R-jobs] Academic Staff - Data Science",
+      "subject_clean": "[R-jobs] Academic Staff - Data Science",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "In the framework of project ?micro-resonators for point-of-care \ndiagnostics of pathogens? (InfectResonator) we are offering one \npart-time (19,75 hours) position as\n\nAcademic Staff (m / f / d)\nData Science\n\nWith the starting date 1 st of May 2020.\n\nThe contract for the position is limited to a maximum of 18 months. The \nweekly working hours for a 50% position are 19,75 hours. Remuneration \nwill be in accordance with German public sector pay scales and can, \ndependent on individual skills and assignment of tasks, be up to pay \ngroup 13 TV-L. The position is located at our Villingen-Schwenningen campus.\n\nApplication deadline March 22nd 2020.\n\nFor more details see https://www.hs-furtwangen.de/stellenangebote/\n\nBest regards,\nMatthias Kohl\n\n-- \nProf. Dr. Matthias Kohl\nwww.stamats.de",
+      "body_snippet": "In the framework of project ?micro-resonators for point-of-care \ndiagnostics of pathogens? (InfectResonator) we are offering one \npart-time (19,75 hours) position as\n\nAcademic Staff (m / f / d)\nData S",
+      "thread_id": "thread-14bbcae050a7",
+      "thread_depth": 0,
+      "month": "2020-02"
+    },
+    {
+      "id": "msg-2c3606d73119",
+      "message_id": "<CAE-wHHH97kArwEigfDuNmMnBWSbhDG1XT2VwYk1sdnNdS_Gq-g@mail.gmail.com>",
+      "from_name": "Dr.Rajkumar Rajasekaran",
+      "from_email_hash": "6c1cac7b85c8330fa3427e3ef71bb688400647e96375feecf7e95c7c22977d9a",
+      "date": "2020-02-28T16:33:48+05:30",
+      "subject": "[R-jobs] (no subject)",
+      "subject_clean": "[R-jobs] (no subject)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "-- \nnull\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "-- \nnull\n\n\t[[alternative HTML version deleted]]",
+      "thread_id": "thread-2c3606d73119",
+      "thread_depth": 0,
+      "month": "2020-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4f9cb70fb2a1",
+      "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "message_count": 1,
+      "participants": [
+        "Christopher Tong"
+      ],
+      "started": "2020-02-06T22:32:50-08:00",
+      "last_reply": "2020-02-06T22:32:50-08:00",
+      "root_message_id": "msg-4f9cb70fb2a1"
+    },
+    {
+      "id": "thread-bb1ad9f099b9",
+      "subject": "[R-jobs] Paid internship \"web application development with R\"",
+      "message_count": 1,
+      "participants": [
+        "Mayeul Kauffmann"
+      ],
+      "started": "2020-02-07T11:49:05+01:00",
+      "last_reply": "2020-02-07T11:49:05+01:00",
+      "root_message_id": "msg-bb1ad9f099b9"
+    },
+    {
+      "id": "thread-14bbcae050a7",
+      "subject": "[R-jobs] Academic Staff - Data Science",
+      "message_count": 1,
+      "participants": [
+        "Prof. Dr. Matthias Kohl"
+      ],
+      "started": "2020-02-28T07:48:43+01:00",
+      "last_reply": "2020-02-28T07:48:43+01:00",
+      "root_message_id": "msg-14bbcae050a7"
+    },
+    {
+      "id": "thread-2c3606d73119",
+      "subject": "[R-jobs] (no subject)",
+      "message_count": 1,
+      "participants": [
+        "Dr.Rajkumar Rajasekaran"
+      ],
+      "started": "2020-02-28T16:33:48+05:30",
+      "last_reply": "2020-02-28T16:33:48+05:30",
+      "root_message_id": "msg-2c3606d73119"
+    }
+  ]
+}

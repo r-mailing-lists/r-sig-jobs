@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2014-08",
+  "messages": [
+    {
+      "id": "msg-b99a7f9230d5",
+      "message_id": "<CABKBmVNE4eys0-5ba1j+A4kXL7i2SZroR7VHfg5FEzDqF4ySOA@mail.gmail.com>",
+      "from_name": "Ajay Gopal",
+      "from_email_hash": "d37326ceb9e7c222e7a20bf3f7af7d5ced27ad2262e2010f6645579aa6df92ce",
+      "date": "2014-08-07T07:26:11-07:00",
+      "subject": "[R-jobs] Senior R Developer (FinTech Startup, Los Angeles, CA)",
+      "subject_clean": "[R-jobs] Senior R Developer (FinTech Startup, Los Angeles, CA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Do FiveThirtyEight, priors and random forests mean more to you than a time\nof day, entries in a rap sheet, and pristine flora? Read on if so.\n\nCARD.com is building a personalized mobile alternative to traditional\nbanking. As a financial startup, data, statistics and scientific insights\nare at the core of our operations.\nWe???re looking to grow our Data Science & Analytics capabilities with an\nExperienced R Developer who would develop and maintain our real-time\nanalytics platform while developing new scientific methods.\n\nView the job description & apply here:\nhttps://www.card.com/careers/senior-statistical-r-programmer\n\n** ???Applications only accepted at CARD.com/careers! **\n    (replies to this e-mail are being redirected to Trash) ???\n\nGot questions about this position? Tweet @aj2z.\n\n*Ajay Gopal, PhD*\n*VP, Growth & Data Science*\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Do FiveThirtyEight, priors and random forests mean more to you than a time\nof day, entries in a rap sheet, and pristine flora? Read on if so.\n\nCARD.com is building a personalized mobile alternative to",
+      "thread_id": "thread-b99a7f9230d5",
+      "thread_depth": 0,
+      "month": "2014-08"
+    },
+    {
+      "id": "msg-16dea361dcd8",
+      "message_id": "<802167752.110711.1407766826392.JavaMail.zimbra@openanalytics.eu>",
+      "from_name": "Tobias Verbeke",
+      "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
+      "date": "2014-08-11T16:20:26+02:00",
+      "subject": "[R-jobs] Job Openings: Data Analyst and Data Scientist at OpenAnalytics (Belgium)",
+      "subject_clean": "[R-jobs] Job Openings: Data Analyst and Data Scientist at OpenAnalytics (Belgium)",
+      "in_reply_to": "<951281393.110702.1407766484817.JavaMail.zimbra@openanalytics.eu>",
+      "references": [],
+      "body_plain": "OpenAnalytics is an international company providing data analysis services and products across geographies and industrial sectors.\n\n\nWe are currently looking to expand our team with the following profiles:\n\n\nData Analyst: MSc / PhD in Computational Biology, Bioinformatics or Statistics with a keen interest in data analysis\n\nData Scientist: MSc / PhD in Statistics, Applied Mathematics or Computer Science interested to work on applied data science problems\n\n\nA detailed description can be found at\n\nhttp://www.openanalytics.eu/jobs\n\n\nKind regards,\nTobias Verbeke\n\n-- \n\nTobias Verbeke\nManaging Director\n\nOpen Analytics NV\nJupiterstraat 20\n2600 Antwerp\nBelgium \n\nE tobias.verbeke at openanalytics.eu\nM +32 499 36 33 15\nhttp://www.openanalytics.eu",
+      "body_snippet": "OpenAnalytics is an international company providing data analysis services and products across geographies and industrial sectors.\n\n\nWe are currently looking to expand our team with the following prof",
+      "thread_id": "thread-16dea361dcd8",
+      "thread_depth": 0,
+      "month": "2014-08"
+    },
+    {
+      "id": "msg-cc71d099221a",
+      "message_id": "<CALrnefbrbTU9On2RrKM6qpTk5haGQzjDwA-kzsUW+WyqUmB5tA@mail.gmail.com>",
+      "from_name": "Charles Menza - NOAA Federal",
+      "from_email_hash": "2255a876b80ec461e1752dcf8a70b789588815ea4ca8596b0056f48ccf53e19f",
+      "date": "2014-08-14T09:54:22-04:00",
+      "subject": "[R-jobs] Wildlife Statistician/Spatial Modeler",
+      "subject_clean": "[R-jobs] Wildlife Statistician/Spatial Modeler",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Wildlife Statistician/Spatial Modeler ? Silver Spring, MD\n\nSeeking a Wildlife Statistician/Spatial Modeler with demonstrated\nexperience fitting advanced statistical spatial/spatiotemporal models to\nwildlife survey data. The statistician/modeler will conceive and execute\nspatial analyses and generate predictive maps of coastal and marine species\ndistributions to support coastal planning.\n\nThe successful candidate will be employed by CSS-Dynamac, but will join an\ninterdisciplinary and integrated research team of contractors and Federal\nemployees at the NOAA National Centers for Coastal Ocean Science,\nBiogeography Branch.\n\nResponsibilities will include:\n* Mapping patterns of marine species through space and time using\nlarge-scale wildlife surveys and oceanographic databases;\n* Applying an existing machine-learning modeling framework to generate\nspecies distribution and abundance models;\n* Growing a spatial analysis code base, and oceanographic and ecological\ngeodatabases;\n* Leading evaluation of model outputs, and generating tables and figures\nsummarizing results;\n* Providing general statistical guidance to team members.\n\nApply for this job online at:\nhttps://jobs-consolidatedsafety.icims.com/jobs/1615/job\n\nRegards,\nCharles Menza\n\n\n-- \nCharles Menza\nMarine Spatial Ecologist\nNOAA's Biogeography Branch\nhttp://ccma.nos.noaa.gov/about/biogeography/\n\n1305 East West Highway, (SSMC IV/9259), N/SCI-1\nSilver Spring, MD 20910\nPhone: 301-713-3028   x107     Fax: 301-713-4384\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Wildlife Statistician/Spatial Modeler ? Silver Spring, MD\n\nSeeking a Wildlife Statistician/Spatial Modeler with demonstrated\nexperience fitting advanced statistical spatial/spatiotemporal models to\nwi",
+      "thread_id": "thread-cc71d099221a",
+      "thread_depth": 0,
+      "month": "2014-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b99a7f9230d5",
+      "subject": "[R-jobs] Senior R Developer (FinTech Startup, Los Angeles, CA)",
+      "message_count": 1,
+      "participants": [
+        "Ajay Gopal"
+      ],
+      "started": "2014-08-07T07:26:11-07:00",
+      "last_reply": "2014-08-07T07:26:11-07:00",
+      "root_message_id": "msg-b99a7f9230d5"
+    },
+    {
+      "id": "thread-16dea361dcd8",
+      "subject": "[R-jobs] Job Openings: Data Analyst and Data Scientist at OpenAnalytics (Belgium)",
+      "message_count": 1,
+      "participants": [
+        "Tobias Verbeke"
+      ],
+      "started": "2014-08-11T16:20:26+02:00",
+      "last_reply": "2014-08-11T16:20:26+02:00",
+      "root_message_id": "msg-16dea361dcd8"
+    },
+    {
+      "id": "thread-cc71d099221a",
+      "subject": "[R-jobs] Wildlife Statistician/Spatial Modeler",
+      "message_count": 1,
+      "participants": [
+        "Charles Menza - NOAA Federal"
+      ],
+      "started": "2014-08-14T09:54:22-04:00",
+      "last_reply": "2014-08-14T09:54:22-04:00",
+      "root_message_id": "msg-cc71d099221a"
+    }
+  ]
+}

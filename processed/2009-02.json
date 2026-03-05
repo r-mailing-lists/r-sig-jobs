@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2009-02",
+  "messages": [
+    {
+      "id": "msg-b0e142ddb4e4",
+      "message_id": "<BAY133-W52FAB1B6EB69FFA5DB1582CBC50@phx.gbl>",
+      "from_name": "Ken Withheld",
+      "from_email_hash": "f1fb7bf2d490cb6f8385e22dc232b9954281d2f4e03871bcf53ef0c30b02c1c9",
+      "date": "2009-02-02T18:52:21Z",
+      "subject": "[R-jobs] Seeking employment in SF Bay area",
+      "subject_clean": "[R-jobs] Seeking employment in SF Bay area",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nI've recently relocated to the San Francisco Bay area and am seeking full- or part-time employment anywhere in the Bay area. I am a recent PhD graduate and have academic postdoctoral research experience, mostly in bioinformatics and computational biology. I am extremely proficient in R and Bioconductor, and have experience with Java, Q/KDB+, MATLAB, and GTK. I'm a native English speaker, US citizen, and also have great presentation skills.\n\nIf interested, please email me for a current resume. \n\nThanks!\n\n\n_________________________________________________________________\n\n\nowitworks_012009\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nI've recently relocated to the San Francisco Bay area and am seeking full- or part-time employment anywhere in the Bay area. I am a recent PhD graduate and have academic postdoctoral resear",
+      "thread_id": "thread-b0e142ddb4e4",
+      "thread_depth": 0,
+      "month": "2009-02"
+    },
+    {
+      "id": "msg-c379d32bf67b",
+      "message_id": "<20090213091134.mknu4tk0xcskc408@programmingr.com>",
+      "from_name": "bry@@ m@iii@g oii progr@mmi@gr@com",
+      "from_email_hash": "bcdf8e8fb1c5a65098a8b4cbbe82114c587be615caef112c624fbcf318f6226a",
+      "date": "2009-02-13T09:11:34-07:00",
+      "subject": "[R-jobs] Compiling an R consultant directory",
+      "subject_clean": "[R-jobs] Compiling an R consultant directory",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "R-jobs listers,\n\nI recently started an R programming resources website.  There is an \"R\nconsultants\" directory on the site that users can use to locate and contact R\nconsultants or contractors when they have R based work.  If you or  \nyour organization has expertise in R and would like to be listed in  \nthis directory, I invite you to visit the site and register.  It is  \ncompletely free.\n\nThe link is:\n\nhttp://www.programmingr.com\n\nIf you or your organization would like additional (free) publicity on  \nthe site, you're welcome and encouraged to participate in forum  \ndiscussions or let me know that you're interested in writing a guest  \narticle.\n\nBest,\nBryan",
+      "body_snippet": "R-jobs listers,\n\nI recently started an R programming resources website.  There is an \"R\nconsultants\" directory on the site that users can use to locate and contact R\nconsultants or contractors when th",
+      "thread_id": "thread-c379d32bf67b",
+      "thread_depth": 0,
+      "month": "2009-02"
+    },
+    {
+      "id": "msg-d6aff33b4a9b",
+      "message_id": "<49A43254.2020809@gmail.com>",
+      "from_name": "Matthieu Stigler",
+      "from_email_hash": "98cb55bce94d24467c901755eb9045dfadcbc186a954981bdf75b0fb6266b336",
+      "date": "2009-02-24T23:15:56+05:30",
+      "subject": "[R-jobs] Searching for R programmer in India, New Delhi",
+      "subject_clean": "[R-jobs] Searching for R programmer in India, New Delhi",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello\n\nThe National Institute for Public Finance and Policy is looking to hire \nsomeone for the month of March 2009.\n\nThe project is in time series econometrics (threshold cointegration with \npackage tsDyn)  and involve computer intensive methods, so external help \nis needed for overall code optimisation, involving:\n- parallel work (set-up of a small cluster),\n-rewritting pieces of code from R to C of Fortran\n-set-up of algorithms for matrix computations.\n\nAs current applications concern financial markets, people with knowledge \nin finance or econometrics are also welcome to apply. This job can \npossibly lead to a longer term engagment at the institute for other \nprojects in case of satisfactory work.\n\nMatthieu Stigler",
+      "body_snippet": "Hello\n\nThe National Institute for Public Finance and Policy is looking to hire \nsomeone for the month of March 2009.\n\nThe project is in time series econometrics (threshold cointegration with \npackage ",
+      "thread_id": "thread-d6aff33b4a9b",
+      "thread_depth": 0,
+      "month": "2009-02"
+    },
+    {
+      "id": "msg-a68469ae7ba7",
+      "message_id": "<000e01c99789$48d4d030$da7e7090$@com>",
+      "from_name": "Christina Kinchen",
+      "from_email_hash": "fd1fd204d90860a6d75a121c6c6b467a5d9179d65fd0da2e8d9f65dd0e11899b",
+      "date": "2009-02-25T15:40:17-05:00",
+      "subject": "[R-jobs] New Bioinformatics Position with R Programming",
+      "subject_clean": "[R-jobs] New Bioinformatics Position with R Programming",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We currently have a new contract position open with a large Pharmaceutical\ncompany. The details are below. If you have interest please contact me,\nChristina Kinchen at 800-684-9921 ext 80670. \n\nThe successful candidate will work in close partnership with laboratory\nscientists and IS/IT professionals to define and deliver informatics\nprojects of benefit to the drug discovery and development\nprocess.?????????????????????????????????? \n\nRequirements:\nMS, Ph.D. or equivalent experience in computer science or engineering with\nat least 2 years work experience at a pharmaceutical or biotech company.?\nThe successful candidate will have recent experience interacting with\nBiologists or Chemists to develop and support scientific applications.?\nExcellent business analysis skills and demonstrated ability to work as part\nof a development team are essential.? Recent J2EE, Oracle and XML experience\nwith working knowledge of the full software development lifecycle is\nrequired.? Programming and web design in bioinformatics with computational\nmethods for text-mining (PERL or R) and knowledge engineering a plus.\nExcellent communication skills are essential.\n\n\n\n****************************************************************************\n*******\nChristina Kinchen\nSenior Recruiter\nSmith Hanley Consulting Group, LLC\nan inVentiv Health Company (NASDAQ:VTIV)\naccelerate results\nwww.smithhanleyconsulting.com\n\"Ask About Our Referral Policy\"\n1st Placement- $1000\n2nd Placement-$2000\n3rd Placement-$3000\n?\nClick to search current job opportunities\n\n-Specializing in contract placement of Statisticians, SAS Programmers,\nClinical Data Managers/Data Coordinators, and other clinical professionals\nthroughout the US.\n\nPhone 800-684-9921 ext 80670\nDirect Line 407-548-0670\nFax 888-513-4285\nE-Mail: ckinchen at smithhanley.com\nWebsite: www.smithhanleyconsulting.com\n?\nNOTICE: This email is intended solely for the use of the individual to whom\nit is addressed and may contain information that is privileged, confidential\nor otherwise exempt from disclosure. If the reader of this email is not the\nintended recipient or the employee or agent responsible for delivering the\nmessage to the intended recipient, you are hereby notified that any\ndissemination, distribution, or copying of this communication is strictly\nprohibited. If you have received this communication in error, please\nimmediately notify us by telephone and return the original message to us at\nthe listed email address. Thank You. \n\n?",
+      "body_snippet": "We currently have a new contract position open with a large Pharmaceutical\ncompany. The details are below. If you have interest please contact me,\nChristina Kinchen at 800-684-9921 ext 80670. \n\nThe su",
+      "thread_id": "thread-a68469ae7ba7",
+      "thread_depth": 0,
+      "month": "2009-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b0e142ddb4e4",
+      "subject": "[R-jobs] Seeking employment in SF Bay area",
+      "message_count": 1,
+      "participants": [
+        "Ken Withheld"
+      ],
+      "started": "2009-02-02T18:52:21+00:00",
+      "last_reply": "2009-02-02T18:52:21+00:00",
+      "root_message_id": "msg-b0e142ddb4e4"
+    },
+    {
+      "id": "thread-c379d32bf67b",
+      "subject": "[R-jobs] Compiling an R consultant directory",
+      "message_count": 1,
+      "participants": [
+        "bry@@ m@iii@g oii progr@mmi@gr@com"
+      ],
+      "started": "2009-02-13T09:11:34-07:00",
+      "last_reply": "2009-02-13T09:11:34-07:00",
+      "root_message_id": "msg-c379d32bf67b"
+    },
+    {
+      "id": "thread-d6aff33b4a9b",
+      "subject": "[R-jobs] Searching for R programmer in India, New Delhi",
+      "message_count": 1,
+      "participants": [
+        "Matthieu Stigler"
+      ],
+      "started": "2009-02-24T23:15:56+05:30",
+      "last_reply": "2009-02-24T23:15:56+05:30",
+      "root_message_id": "msg-d6aff33b4a9b"
+    },
+    {
+      "id": "thread-a68469ae7ba7",
+      "subject": "[R-jobs] New Bioinformatics Position with R Programming",
+      "message_count": 1,
+      "participants": [
+        "Christina Kinchen"
+      ],
+      "started": "2009-02-25T15:40:17-05:00",
+      "last_reply": "2009-02-25T15:40:17-05:00",
+      "root_message_id": "msg-a68469ae7ba7"
+    }
+  ]
+}

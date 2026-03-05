@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2022-07",
+  "messages": [
+    {
+      "id": "msg-d4d570de1cd4",
+      "message_id": "<CAPDNHNfCoSUDwxo=5b5ccQHf7BeRfAwfWXosaHgh3TmjgD9erQ@mail.gmail.com>",
+      "from_name": "Christopher Tong",
+      "from_email_hash": "d1cbd80501eba7bf7515687009dc4cb6b69155e8e71c4dfa20a9f611927032d6",
+      "date": "2022-07-18T09:23:34-07:00",
+      "subject": "[R-jobs] Job opening for statistician at USDA",
+      "subject_clean": "[R-jobs] Job opening for statistician at USDA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "CENTER FOR VETERINARY BIOLOGICS\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2022\n\nWe bring a broad perspective to our consulting and analytical work with\nscientists at the\nUSDA National Centers for Animal Health. Our Statistics Section is looking\nfor good communicators who are comfortable dealing with various aspects of\npractical scientific issues.\n\nWe are looking for skills that support the\n -? Statistical design, analysis, and interpretation of scientific studies\n ?- Application of statistical principles to specific problems in applied\ndisciplines\n ?- Effective communication with scientists about practical issues\n\nWe?d also like to know about your background in areas that may advance our\nwork, such as laboratory applications, epidemiology, machine learning, or\nstatistical programming.\n\nApplicants must be United States citizens.  This position *is* remote\neligible.  (The USAJOBS post is a bit confusing on this point.)\n\nHow to Apply:  https://www.usajobs.gov/job/665769000\n(The deadline to apply is this Friday July 22.)\n\nThe Center for Veterinary Biologics regulates vaccines,\nimmuno-therapeutics, diagnostics, and other biologics used to manage animal\ndiseases. It is located on the campus of the National Centers for Animal\nHealth in Ames, Iowa, where it maintains a close affiliation with the other\nanimal disease centers on the campus and with nearby Iowa State University.\nAmes is known for its stimulating cultural environment, pleasant\nsurroundings, and stable economy. It is 40 minutes north of Des Moines\nInternational Airport.\n\nEmployment benefits include flexible work schedule, ten paid federal\nholidays, liberal leave allowance (annual leave, sick leave, and family\nfriendly leave policy), retirement and thrift savings plans, life insurance\nprogram, and health insurance program.\n\nMore info contact Amy Lock, Statistics Section Leader, USDA-CVB;\namy.b.lock at usda.gov\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "CENTER FOR VETERINARY BIOLOGICS\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2022\n\nWe bring a broad perspective to our consulting and analytical work ",
+      "thread_id": "thread-d4d570de1cd4",
+      "thread_depth": 0,
+      "month": "2022-07"
+    },
+    {
+      "id": "msg-153820ff3e17",
+      "message_id": "<20220720074451.tlfafzokyz37caps@otaku.sdf.org>",
+      "from_name": "Christian Mongeau",
+      "from_email_hash": "ebf17a29bd514adfeefc6ff538acd0f072af2559873db344a056e2f916ccfb08",
+      "date": "2022-07-20T07:44:51Z",
+      "subject": "[R-jobs] Statistician / R developer",
+      "subject_clean": "[R-jobs] Statistician / R developer",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Statistics Division (ESS) of the Food and Agricultural Organization of the United Nations (FAO) is looking for consultants with a strong background in the R \nstatistical programming language. They will contribute to develop methods and routines for the corporate Statistical Working System (SWS), which is an essential tool for \nthe improvement and harmonization of FAO statistical processes. The main objectives of the new phase of the SWS project are the incorporation of new statistical domains, \nthe capability to manage and integrate multiple data sources, integration with the new Statistical Data Warehouse, development of new Shiny applications to analyse and \nvalidate data.\n \nResponsibilities\n \nConsultants will be responsible for the development of methods, standards, and tools with the objective to improve the efficiency of FAO's statistical system and the \nquality of its output. In particular, they will:\n \n- Develop, test, and implement optimum imputation, analysis, validation, or other statistical methods for teams that operate in various statistical domains (agriculture, \ntrade, environment, fisheries, forestry, food security).\n- Provide high-level recommendations on methods and their implementation\n- Design and develop R modules architecture to implement the methods and deliver script in accordance\n- Document the statistical methods and corresponding R scripts\n- Develop and maintain Shiny applications\n- Any other duty as required\n \n \nCore skills\n \n- Dynamic statistician equipped with both highly advanced statistical and R-programming skills\n- Ability to quickly master and apply new methods\n- Ability to make recommendations and advise decision-makers on highly technical issues\n- General understanding of databases and complex technological systems\n- Ability to understand statistical user requirements\n- Ability to write modular code\n- Proven ability to self-start, progress quickly up a steep learning curve, assume initiative and to multi-task\n- Focus on delivery and on meeting tight deadlines\n- Knowledge of agricultural statistics and/or food commodities would be an advantage, though not required\n- Effective collaborator, in particular familiar with git and GitHub\n \nMinimum requirements\n \n- Postgraduate in statistics or other relevant quantitative field\n- At least 3 years of experience in the use of R\n- Mastering of data.table and tidyverse packages\n- Good knowledge of Shiny\n- Language skills (working language is English, knowledge of additional UN official languages is an advantage)\n- Good writing skills\n\nSend your CV before July 31st to christian.mongeau [AT] fao.org (replace [AT] with @). We will consider also late applications for future positions.",
+      "body_snippet": "The Statistics Division (ESS) of the Food and Agricultural Organization of the United Nations (FAO) is looking for consultants with a strong background in the R \nstatistical programming language. They",
+      "thread_id": "thread-153820ff3e17",
+      "thread_depth": 0,
+      "month": "2022-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d4d570de1cd4",
+      "subject": "[R-jobs] Job opening for statistician at USDA",
+      "message_count": 1,
+      "participants": [
+        "Christopher Tong"
+      ],
+      "started": "2022-07-18T09:23:34-07:00",
+      "last_reply": "2022-07-18T09:23:34-07:00",
+      "root_message_id": "msg-d4d570de1cd4"
+    },
+    {
+      "id": "thread-153820ff3e17",
+      "subject": "[R-jobs] Statistician / R developer",
+      "message_count": 1,
+      "participants": [
+        "Christian Mongeau"
+      ],
+      "started": "2022-07-20T07:44:51+00:00",
+      "last_reply": "2022-07-20T07:44:51+00:00",
+      "root_message_id": "msg-153820ff3e17"
+    }
+  ]
+}

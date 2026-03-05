@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2017-08",
+  "messages": [
+    {
+      "id": "msg-b1a8747ec115",
+      "message_id": "<20170823013047.5B272E05D0@smtp.hushmail.com>",
+      "from_name": "@utop@r@iiei_r_jobs m@iii@g oii @ym@hush@com",
+      "from_email_hash": "53795d421de2faa2965df2cceaf79df2dd67e2aacf800aa934561af14127aa84",
+      "date": "2017-08-22T20:30:47-05:00",
+      "subject": "[R-jobs] Bayesian Stats Job, MCMC Code Porting",
+      "subject_clean": "[R-jobs] Bayesian Stats Job, MCMC Code Porting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello R Programmers,\nWe have a large existing Perl codebase which is currently being\nupgraded to use the new optimizing RPerl compiler (not related to the\nR language).\nhttp://rperl.org/\nAlso in use by the same Perl codebase is some custom R code which\nloads the \"bayesm\" library in order to execute Markov Chain Monte\nCarlo (MCMC) calculations.\nhttps://cran.r-project.org/web/packages/bayesm/index.html\nThis job is to port (rewrite) all utilized components of bayesm from R\nto RPerl, then replace all the custom bayesm-calling R code with RPerl\nas well.  In the end, all R code will be replaced by functionally\nequivalent RPerl code.\nFor this job, you must know R, Perl, Linux, and MCMC algorithms.\nIf you believe you are a good match for this position, please e-mail\nme a brief summary of your qualifications and I will send you a link\nto interview for the job online.\nThanks,~ Will\nWilliam Norman Braswell, Jr.\n CEO & President; Auto-Parallel Technologies, Inc.\n william.braswell at autoparallel.com\n 512.563.7984\n This email message is for the sole use of the intended ...{{dropped:8}}",
+      "body_snippet": "Hello R Programmers,\nWe have a large existing Perl codebase which is currently being\nupgraded to use the new optimizing RPerl compiler (not related to the\nR language).\nhttp://rperl.org/\nAlso in use by",
+      "thread_id": "thread-b1a8747ec115",
+      "thread_depth": 0,
+      "month": "2017-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b1a8747ec115",
+      "subject": "[R-jobs] Bayesian Stats Job, MCMC Code Porting",
+      "message_count": 1,
+      "participants": [
+        "@utop@r@iiei_r_jobs m@iii@g oii @ym@hush@com"
+      ],
+      "started": "2017-08-22T20:30:47-05:00",
+      "last_reply": "2017-08-22T20:30:47-05:00",
+      "root_message_id": "msg-b1a8747ec115"
+    }
+  ]
+}

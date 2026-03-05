@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2020-08",
+  "messages": [
+    {
+      "id": "msg-b5be7783a54b",
+      "message_id": "<92f86a358e7a4f3e9a16cfd7169d3337@THALASSA.omni.imsweb.com>",
+      "from_name": "Jobs at IMS, Inc.",
+      "from_email_hash": "3fbdf74e0a63f5679a85209f2ab005911c838e3c6d03623ab4d52562b22414e5",
+      "date": "2020-08-19T20:46:41Z",
+      "subject": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "subject_clean": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Looking for a collaborative, fun company with room for growth?\n\nIMS, Inc. is a recognized leader in the biomedical IT field, with clients including the NCI, CDC, & major pharmaceutical firms. We are a diverse group of people with a focus on product quality, customer satisfaction, & enjoying what we do. We have a relaxed, friendly work environment, where employees are recognized for the work that they do. Add to that work/life balance, social events, casual dress, & no cubicles- that's why many employees have stayed with us.\n\nJoin us as a Statistician/Programmer & see what makes IMS such a unique place to work!\n\nAs a Statistician/Programmer, you will:\n*Collaborate & support the National Cancer Institute in their work studying genomics, cancer rates, determinants of cancer, cancer treatment, & prevention\n*Develop statistical methods and data analysis procedures to analyze genomic studies, observational studies, intervention, trials & laboratory studies\n*Conduct statistical analysis, interpret & publish their results\n*Work with cohort & case/control studies & population-based data sources to model trends in incidence, mortality & survival\n*Perform other programming & statistical analysis related duties as assigned\n\nTo be eligible for this position, you must meet the following requirements:\n*MS/PhD in Stat or related field from a U.S. DOE accredited institution with a 2.9+ GPA\n*0-5 years of experience\n*Experience with genetic analysis preferred\n*Knowledge of R\n*Knowledge of software development methodology\n*Knowledge of genetic research a plus\n*Knowledge of SAS, C, C++, & other higher level programming languages preferred\n*Familiarity with modern biostatistical analysis techniques including spatial analysis & survival analysis methods\n*Demonstrated strong verbal & written communication skills\n*Demonstrated ability to relay technical information to clients & users in layman terms\n*Demonstrated strong analytic & problem solving skills\n*Demonstrated customer service skills\n*Excellent attention to detail & organization skills\n*Must be able to multi-task, meet deadlines, & work within a team\n*Strong presentation skills preferred\n\nIf this sounds like the right position for your career, apply today at: https://www.imsweb.com/employment/job.description.php?position=23941.\n\nIMS is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, protected veteran status, or other characteristic protected by applicable law.\n\n________________________________\n\nInformation in this e-mail may be confidential. It is intended only for the addressee(s) identified above. If you are not the addressee(s), or an employee or agent of the addressee(s), please note that any dissemination, distribution, or copying of this communication is strictly prohibited. If you have received this e-mail in error, please notify the sender of the error.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Looking for a collaborative, fun company with room for growth?\n\nIMS, Inc. is a recognized leader in the biomedical IT field, with clients including the NCI, CDC, & major pharmaceutical firms. We are a",
+      "thread_id": "thread-b5be7783a54b",
+      "thread_depth": 0,
+      "month": "2020-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b5be7783a54b",
+      "subject": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "message_count": 1,
+      "participants": [
+        "Jobs at IMS, Inc."
+      ],
+      "started": "2020-08-19T20:46:41+00:00",
+      "last_reply": "2020-08-19T20:46:41+00:00",
+      "root_message_id": "msg-b5be7783a54b"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2017-03",
+  "messages": [
+    {
+      "id": "msg-52577edb477a",
+      "message_id": "<CAEEgvU1vdOmLZdeiOuv47fVq4BZ4Y31GnJuP5Uwaw9qtGtxDFg@mail.gmail.com>",
+      "from_name": "Mandy Vogel",
+      "from_email_hash": "67bc3cb058401fd229c6a65d9cf4e6fc2c9e6298673276563b112ad90795fa46",
+      "date": "2017-03-03T15:32:44+01:00",
+      "subject": "[R-jobs] Fwd: [LeipzigR] Job Offer Data Manager and Data Analysis Expert",
+      "subject_clean": "[R-jobs] Fwd: [LeipzigR] Job Offer Data Manager and Data Analysis Expert",
+      "in_reply_to": "<824667900.1488477961440.JavaMail.nobody@james2.pvt.meetup.com>",
+      "references": [
+        "<824667900.1488477961440.JavaMail.nobody@james2.pvt.meetup.com>"
+      ],
+      "body_plain": "Dear R-enthusiasts,\n\nbelow you find a job offer of the MPI CBS in Leipzig (\nhttp://www.cbs.mpg.de/en). Please forward the message to everyone who could\nbe interested. Thank you!\n\nMandy\n\nData Manager and Data Analysis Expert\n\nThe MPI studies the human brain function and also develops novel methods\nfor this purpose.\nThe studies at the forefront of fundamental neuroscience yield unique and\nrich datasets including data from magnetic resonance imaging (e.g., from\nthe only Connectom MRI in Continental Europe),\nelectroencephalography/magnetoencephalography\n(EEG/MEG), webcams, surveys, behavioural experiments and personal data of\nthe participants in scientific studies. We are looking for creative,\nself-motivated candidates who apply their special expertise in data\nanalysis and management to extract new insights from the rich datasets. The\npost holder is encouraged to also develop and establish new approaches and\nmethods.\n\n*Duties of the post holder*\n\n   - Responsible for the continuous development of the scientific databases\n   and data collection. In particular, for the strategic development of tools\n   and services facilitating the management of our data, our scientific\n   studies, and scientific projects at the MPI.\n\n\n   - Introduction of new technologies from the areas of Big Data,\n   Data-Mining, and modern search engines (e.g. Elasticsearch) to extract new\n   insights.\n\n\n   - Further development of the institute?s research data repositories\n   focusing on issues such as data accessibility, reuse, reproducibility,\n   resource optimization, metadata creation, content-validation quality\n   control and data sharing.\n\n\n   - Overall supervision of the work of the database programmer/developer.\n\n\n   - Deliver first and second level support to scientists to work with the\n   data collections.\n\n\n   - Publish the newly developed methods.\n\n\n   - Represent the institute at meetings with specific working groups of\n   the Max Planck Society, but also at national and international meetings.\n\nEssential experience and attributes\n\n   - Theoretical and practical knowledge regarding the creation and\n   development of research data repositories and experience with associated\n   data management tasks.\n\n\n   - Knowledge and preferably experience with data mining, Big Data, and\n   search engines technologies.\n\n\n   - Experience with: Web Applications, programming languages such as R,\n   Python, relational and NoSQL databases\n   - good line management and prioritization skills.\n   - Excellent communication skills including the ability communicate with\n   audiences at different levels. A good command of the German language is a\n   plus.\n   - Experience in publishing and presenting in the field of data\n   management and analysis is\n   desired.\n\n*Our offer*\nWe offer you an interesting, versatile workplace in an international\nenvironment in one of the international leading research institutes.\nThe position is full time. Salary depends on experience and is based on\nregulations of the Max Planck Society.\n\nThe MPI CBS is an equal opportunities employer, committed to the\nadvancement of individuals without regard to ethnicity, religion, gender,\nor disability.\n\nPlease use our online System to apply\n\nhttp://www.cbs.mpg.de/vacancies/open-positions\n\n(subject heading is ?DM 10/17?).\n\n\n\nYou can also send it via email to: personal at cbs.mpg.de. The deadline to\nsubmit for applications is 20 March 2017. The position will be filled at\nthe earliest opportunity.\nFor further details, please contact:\nDr. Helmut Hayd: hayd at cbs.mpg.de\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear R-enthusiasts,\n\nbelow you find a job offer of the MPI CBS in Leipzig (\nhttp://www.cbs.mpg.de/en). Please forward the message to everyone who could\nbe interested. Thank you!\n\nMandy\n\nData Manager a",
+      "thread_id": "thread-52577edb477a",
+      "thread_depth": 0,
+      "month": "2017-03"
+    },
+    {
+      "id": "msg-6f85afeb22c7",
+      "message_id": "<CAK3vgHFXCr78MJMWasHjAnfyBFdni0TZe7iSBkZMvpE7ed3Xng@mail.gmail.com>",
+      "from_name": "Clemens Noelke",
+      "from_email_hash": "b648d91f997e936fb1aab4c7c393bb61462f0a453090ca4438870d526f0d63cf",
+      "date": "2017-03-09T16:05:30Z",
+      "subject": "[R-jobs] (no subject)",
+      "subject_clean": "[R-jobs] (no subject)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Job Title: Sr Research Associate I\nLocation: Brandeis University, Waltham, MA\nFull/Part Time: Full-Time\nRegular/Temporary: Regular\n\n\n\nThe mission of the Institute for Child, Youth and Family Policy (ICYFP) is\nto conduct and disseminate policy-relevant research on health and\ndevelopment of children and their families. We seek a socially minded,\nhighly motivated data expert with full-time work experience in preparing,\nanalyzing and visualizing scientific data to join our data and analysis\nteam. The successful candidate will work with an interdisciplinary team of\nscholars to develop new technologies for monitoring childhood opportunities\nacross U.S. neighborhoods and conduct research on the impact of\nneighborhood conditions on childhood health and development. The initial\nappointment will be as Research Associate or Senior Research Associate,\ndepending on qualifications and experience.\n\nExamples of Key Responsibilities\n\nBuild a detailed understanding of relevant datasets and develop new\ntechnologies to monitor change in childhood opportunities across US\nneighborhoods.\nContribute analyses to existing or initiate new research project on causes\nand consequences of inequities in childhood opportunities.\nCommunicate results through manuscripts for peer-reviewed journals, online\nreports, blog posts and web-based data visualizations.\nContribute to maintaining project database and website.\n\nRequired Qualifications\n\nQuantitative (math, statistics, computer science, engineering, etc.)\nbackground or social science background with quantitative orientation\n(sociology, economics, public health, etc.). PhD or MA/MS with 1+ years of\nrelevant full-time work experience. Exceptionally qualified candidates with\na Bachelor?s degree and at least 3+ years of full-time work experience in a\ndata management and analysis role that closely fits the position\nrequirements.\nExpert knowledge in two of the following: Stata, R, Python.\nProficiency in several of the following: regression models for binary,\nsurvival, longitudinal and multilevel data, quasi-experimental research\ndesigns and estimators (differences-in-differences, instrumental variables,\netc.), data mining or machine learning algorithms.\nDemonstrated ability to complete data-intensive analysis projects involving\ncomplex data preparation, analysis and visualization tasks with limited\nsupervision in a timely manner.\nExcellent writing and verbal communication skills.\n\nDesired Skills/Experience\n\nExperience with some of the following databases: tabular or individual\nCensus Bureau data, e.g. American Community Survey; Current Population\nSurvey; complex administrative datasets or longitudinal/panel datasets.\nProficiency in research on racial/ethnic inequities in child health and\ndevelopment and related policy issues.\nCreative use of static and interactive data visualization with, e.g.,\nggplot2 or d3.\nProficiency in any of the following: GIS concepts and software, SQL, PHP,\nJavaScript, Vega, Julia, Drupal or other common CMS.\n\nHow to Apply\nSubmit cover letter and resume as a single document at\nhttp://www.brandeis.edu/humanresources/jobs/external.html.  Elect option\nfor \"External Applicant\".   Sort the job listing by clicking the Job ID\ncolumn heading.  Locate the desired job listing.  Click the job title and\nthen Apply Now.\n\nClosing Statement\nBrandeis University is an affirmative action/equal opportunity employer and\nencourages minorities, women, disabled individuals, and eligible veterans\nto apply. It is the policy of the University not to discriminate against\nany applicant or employee on the basis of race, ancestry, color, religion,\nsex, sexual orientation, age, genetic information, national origin,\ndisability, veteran status, or on the basis of any other legally protected\ncategory.\n\n--\nClemens Noelke\nResearch Scientist\nInstitute for Child, Youth & Family Policy\nHeller School for Social Policy & Management\nBrandeis University | 415 South Street, MS 035 | Waltham, MA 02453\nhttps://sites.google.com/site/clemensnoelke/\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Job Title: Sr Research Associate I\nLocation: Brandeis University, Waltham, MA\nFull/Part Time: Full-Time\nRegular/Temporary: Regular\n\n\n\nThe mission of the Institute for Child, Youth and Family Policy (I",
+      "thread_id": "thread-6f85afeb22c7",
+      "thread_depth": 0,
+      "month": "2017-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-52577edb477a",
+      "subject": "[R-jobs] Fwd: [LeipzigR] Job Offer Data Manager and Data Analysis Expert",
+      "message_count": 1,
+      "participants": [
+        "Mandy Vogel"
+      ],
+      "started": "2017-03-03T15:32:44+01:00",
+      "last_reply": "2017-03-03T15:32:44+01:00",
+      "root_message_id": "msg-52577edb477a"
+    },
+    {
+      "id": "thread-6f85afeb22c7",
+      "subject": "[R-jobs] (no subject)",
+      "message_count": 1,
+      "participants": [
+        "Clemens Noelke"
+      ],
+      "started": "2017-03-09T16:05:30+00:00",
+      "last_reply": "2017-03-09T16:05:30+00:00",
+      "root_message_id": "msg-6f85afeb22c7"
+    }
+  ]
+}

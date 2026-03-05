@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2016-02",
+  "messages": [
+    {
+      "id": "msg-2de69cd83d37",
+      "message_id": "<BD05E6F68165E141B3744375022356F437B28121EC@HQEXDB01.hq.un.fao.org>",
+      "from_name": "Fabi, Carola (ESS)",
+      "from_email_hash": "fffa26c1a1876d60d92bab3bc9e1e0dd0779b5d35aae3904cd4a55fb004ea518",
+      "date": "2016-02-15T18:11:59+01:00",
+      "subject": "[R-jobs] Statistician, R developer for agriculture statistics",
+      "subject_clean": "[R-jobs] Statistician, R developer for agriculture statistics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Job Description.\n\nWe are seeking 2 statisticians and R developers to join the Methodological innovation team of FAO Statistics Division in Rome, Italy. \n\nStatistics is a core function of FAO and represents a highly visible area of the Organization's work. FAO is recognized as having a fundamental global role in developing methods and standards for food and agriculture statistics and as hosting the world's largest statistical database for food and agriculture statistics, FAOSTAT. In addition to maintaining the collection, processing and dissemination of existing data series, there are increasing demands for new statistics.\n\nThe Methodological innovation team is responsible for the development of methods, standards, tools, norms and classifications used mainly within the organization with the objective to improve the efficiency of FAO's statistical system and the quality of its output.\n\nOngoing activities relate to the review of the approach and methods towards the preparation of Food Balance Sheets, a flagship statistical product, with particular emphasis on a rules-based framework for production imputation (using an ensemble approach), trade balancing, allocation of domestic supplies to domestic utilization as well as estimating elements of expected utilization, e.g. food, animal feed, seed, losses (using linear and non-linear parametric models).\n\nFuture activities will cover other statistical domains (agricultural prices, agro-environmental indicators, fisheries and forestry statistics). The consultant will contribute to the development of improved methods and processes with a focus on imputation methods for missing data, compilation of regional and world aggregates, data analysis and validation methods.\n\nBy way of example, with respect to methodological and technical work on Food Balance Sheet (FBS), the consultant would undertake the following duties:\n\n-               Develop optimum imputation, analysis and/or validation methods for improved Supply Utilization Accounts (SUA's) and FBS;\n-               Test and implement optimum statistical methods;\n-               Provide high-level recommendations on ways to implement the estimation and calculation of SUA elements (stocks, feed, seed, post-harvest losses and waste, and food consumption) in R and on the module architecture, and deliver script in accordance.\n-               Oversee the development of computational plug-ins in R script to be used in the new statistical working system.\n-               Document the statistical methods and corresponding R scripts.\n-               Develop validation routines.\n-               Analyse pilot results and validate data.\n\nCore skills:\n\n- Dynamic statistician equipped with both highly advanced statistical skills and R-programming skills and as well as with the ability to quickly master and apply new methods.\n- Ability to make recommendations and advise decision-makers on highly technical issues.\n- General understanding of databases and complex technological systems.\n- Ability to understand statistical user requirements\n- Ability to design a module architecture\n- Proven ability to self-start, progress quickly up a steep learning curve, assume initiative and to multi-task.\n- Focus on delivery and on meeting tight deadlines.\n- Knowledge of agricultural statistics and/or food commodities would be an advantage.\n- Effective collaborator, in particular familiar with GitHub.\n- Postgraduate in statistics or other relevant quantitative field.\n\nContract duration: 11-month renewable\nLocation: FAO head-quarters in Rome, Italy\n\nApplicants can contact:\nCarola Fabi\nStatistics Division\nFood and Agriculture Organization of the United Nations\nmailto: carola.fabi at fao.org",
+      "body_snippet": "Job Description.\n\nWe are seeking 2 statisticians and R developers to join the Methodological innovation team of FAO Statistics Division in Rome, Italy. \n\nStatistics is a core function of FAO and repre",
+      "thread_id": "thread-2de69cd83d37",
+      "thread_depth": 0,
+      "month": "2016-02"
+    },
+    {
+      "id": "msg-99509ee36705",
+      "message_id": "<2732C804E2DBB04AA90A678D76FAF2CC657EC21B6B@DFW1MBX02.mex07a.mlsrvr.com>",
+      "from_name": "Lisa Solomon",
+      "from_email_hash": "e6ffc8dc4d4389d0bb9086a7d2790c9b312b643682217969084274bac2524d6d",
+      "date": "2016-02-19T12:56:32-06:00",
+      "subject": "[R-jobs] 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
+      "subject_clean": "[R-jobs] 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "2 job opportunities: Data Scientist- Data Preparation AND Entry-Level Marketing Statistician\n\n(San Diego, CA)\n\n\nSalford Systems is an advanced data mining software and consulting company based in San Diego, California. We enjoy an open, creative environment, and have developed an international reputation for cutting-edge technology. Salford Systems is affiliated with several of the world's greatest scientists in the field of machine learning, and leads the data mining industry with exciting, innovative products.\n\n\n\nPlease send resume, wage history and requirements to HR at salford?systems.com.\n\n\n\nR-related qualifications:\n\n?         Minimum qualifications include:\n\no   Masters Degree in Statistics or related\n\no   2 years relevant work experience including statistical software (R, S?Plus, SAS, or similar), databases and scripting languages (such as Python). (Marketing Statistician, Data Scientist)\n\no   Ability to work with raw data sources in a variety of formats (Data Scientist)\n\n?         Responsibilities may include:\n\no   Working with our technical and marketing departments to prepare data that will be used for promotional projects and consulting projects  (Marketing Statistician, Data Scientist)\n\no   Scraping, merging, cleaning, formatting and repurposing of publicly available datasets.(Marketing Statistician, Data Scientist)\n\no   Add classical statistical approaches to data mining approaches to enhance our consulting projects. (Marketing Statistician)\n\n?         Preferred qualifications include:\n\no   Ability to add open?source and classical statistical approaches to data mining approaches to enhance our consulting projects and participation in data mining competitions. (Data Scientist)\n\n?         Link to full job descriptions:\n\no   Marketing Statistician: http://static1.squarespace.com/static/56c652f0746fb9697855ecc2/t/56c6944762cd9453ad11d58e/1455854664623/MarketingStatisticianjobdescription.docx.pdf\n\no   <http://static1.squarespace.com/static/56c652f0746fb9697855ecc2/t/56c6944762cd9453ad11d58e/1455854664623/MarketingStatisticianjobdescription.docx.pdf> Data Scientist- Data Preparation: http://static1.squarespace.com/static/56c652f0746fb9697855ecc2/t/56c6948601dbae8adb1ca38c/1455854728915/DataScientistjobdescription.docx-4.pdf\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "2 job opportunities: Data Scientist- Data Preparation AND Entry-Level Marketing Statistician\n\n(San Diego, CA)\n\n\nSalford Systems is an advanced data mining software and consulting company based in San ",
+      "thread_id": "thread-99509ee36705",
+      "thread_depth": 0,
+      "month": "2016-02"
+    },
+    {
+      "id": "msg-443a657472a2",
+      "message_id": "<2732C804E2DBB04AA90A678D76FAF2CC657EC21B77@DFW1MBX02.mex07a.mlsrvr.com>",
+      "from_name": "Lisa Solomon",
+      "from_email_hash": "e6ffc8dc4d4389d0bb9086a7d2790c9b312b643682217969084274bac2524d6d",
+      "date": "2016-02-19T13:19:46-06:00",
+      "subject": "[R-jobs] correct email: 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
+      "subject_clean": "[R-jobs] correct email: 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I apologize for posting a 2nd time.  My prior email had an incorrect email address for sending your resume.  This is now corrected.  Please send your resume, wage history and requirements to HR at salford-systems.com<mailto:HR at salford-systems.com>\n\n\nFrom: Lisa Solomon\nSent: Friday, February 19, 2016 10:57 AM\nTo: 'r-sig-jobs at r-project.org'\nSubject: 2 job postings: Data Scientist? Data Preparation AND Entry ?Level Marketing Statistician (San Diego, CA)\n\n2 job opportunities: Data Scientist- Data Preparation AND Entry-Level Marketing Statistician\n\n(San Diego, CA)\n\n\nSalford Systems is an advanced data mining software and consulting company based in San Diego, California. We enjoy an open, creative environment, and have developed an international reputation for cutting-edge technology. Salford Systems is affiliated with several of the world's greatest scientists in the field of machine learning, and leads the data mining industry with exciting, innovative products.\n\n\n\nR-related qualifications:\n\n?         Minimum qualifications include:\n\no   Masters Degree in Statistics or related\n\no   2 years relevant work experience including statistical software (R, S?Plus, SAS, or similar), databases and scripting languages (such as Python). (Marketing Statistician, Data Scientist)\n\no   Ability to work with raw data sources in a variety of formats (Data Scientist)\n\n?         Responsibilities may include:\n\no   Working with our technical and marketing departments to prepare data that will be used for promotional projects and consulting projects  (Marketing Statistician, Data Scientist)\n\no   Scraping, merging, cleaning, formatting and repurposing of publicly available datasets.(Marketing Statistician, Data Scientist)\n\no   Add classical statistical approaches to data mining approaches to enhance our consulting projects. (Marketing Statistician)\n\n?         Preferred qualifications include:\n\no   Ability to add open?source and classical statistical approaches to data mining approaches to enhance our consulting projects and participation in data mining competitions. (Data Scientist)\n\n?         Link to full job descriptions:\n\no   Marketing Statistician: http://static1.squarespace.com/static/56c652f0746fb9697855ecc2/t/56c6944762cd9453ad11d58e/1455854664623/MarketingStatisticianjobdescription.docx.pdf\n\no   Data Scientist- Data Preparation: http://static1.squarespace.com/static/56c652f0746fb9697855ecc2/t/56c6948601dbae8adb1ca38c/1455854728915/DataScientistjobdescription.docx-4.pdf\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I apologize for posting a 2nd time.  My prior email had an incorrect email address for sending your resume.  This is now corrected.  Please send your resume, wage history and requirements to HR at sal",
+      "thread_id": "thread-443a657472a2",
+      "thread_depth": 0,
+      "month": "2016-02"
+    },
+    {
+      "id": "msg-51592957df2e",
+      "message_id": "<0D0811308E281846AC318EF90FBD6AE31FC284@extorpcs2.inet.local>",
+      "from_name": "Gagan K. Dhanjal",
+      "from_email_hash": "d3b120dc896ec8a8deacd14494c881614f600fe11662a1ed68ff63e6bd1c8ebc",
+      "date": "2016-02-23T14:27:13-05:00",
+      "subject": "[R-jobs] Quantitative Research Analyst Job Opportunity - Radnor, PA. USA",
+      "subject_clean": "[R-jobs] Quantitative Research Analyst Job Opportunity - Radnor, PA. USA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Job Description:\n\n \n\nStevens Capital Management LP (\"SCM\") is a registered investment adviser\nthat manages a multi-billion dollar hedge fund that has been in business\nfor 20+ years.\n\nSCM specializes in the rigorous development and disciplined\nimplementation of empirically based quantitative trading strategies. Our\nhighly productive team works in a fast-paced collegial environment,\nutilizing extensive data sets, technology and the scientific method to\ndevise and employ trading strategies throughout the world's most liquid\nfinancial markets.\n\n \n\nQuantitative Research Analyst\n\n \n\nWe're seeking highly driven, production-oriented researchers who possess\nstrong technical skills and a thorough understanding of economics and\nfinance, along with the necessary combination of creativity,\nresourcefulness, pragmatism and attention to detail to develop\nsuccessful automated trading strategies. \n\n \n\n \n\nPrimary Responsibilities:\n\n* Utilize your analytical skills, market knowledge and intuition to\ndevelop and implement statistical trading models.\n\n* Participate in all aspects of research and trading model development,\nincluding generating research ideas, building data sets, conducting\nstatistical data analysis and implementing quantitative production\ntrading models. \n\n \n\n \n\nRequirements:\n\n* A degree in economics or finance, with extensive coursework in\nquantitative disciplines or a quantitative discipline (e.g. statistics,\neconometrics, mathematics, engineering, physics or computer science)\nwith extensive coursework in economics or finance.\n\n* Programming experience, ideally including R, C++ and/or Python.\n\n* Strong working knowledge of regression, time series analysis and other\nstatistical techniques.\n\n* Experience building, organizing and analyzing large data sets is\npreferred.\n\n* The ability to comprehend and synthesize academic literature in\nfinance, economics and statistics.\n\n* Strong financial market interest, knowledge and experience are\npreferred.\n\n* The ability to simplify and effectively communicate complex concepts.\n\n \n\n \n\nApplication Instructions:\n\nStevens Capital Management LP\n\nEmail: recruiting at scm-lp.com\n\nWebsite: www.scm-lp.com\n\n \n\n \n\nGagan Dhanjal\n\nWaterfront International Ltd\n\n(P) 416-368-6500\n\n(F) 416-956-4730\n\nToll Free 1-877-327-6367\n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Job Description:\n\n \n\nStevens Capital Management LP (\"SCM\") is a registered investment adviser\nthat manages a multi-billion dollar hedge fund that has been in business\nfor 20+ years.\n\nSCM specializes i",
+      "thread_id": "thread-51592957df2e",
+      "thread_depth": 0,
+      "month": "2016-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2de69cd83d37",
+      "subject": "[R-jobs] Statistician, R developer for agriculture statistics",
+      "message_count": 1,
+      "participants": [
+        "Fabi, Carola (ESS)"
+      ],
+      "started": "2016-02-15T18:11:59+01:00",
+      "last_reply": "2016-02-15T18:11:59+01:00",
+      "root_message_id": "msg-2de69cd83d37"
+    },
+    {
+      "id": "thread-99509ee36705",
+      "subject": "[R-jobs] 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
+      "message_count": 1,
+      "participants": [
+        "Lisa Solomon"
+      ],
+      "started": "2016-02-19T12:56:32-06:00",
+      "last_reply": "2016-02-19T12:56:32-06:00",
+      "root_message_id": "msg-99509ee36705"
+    },
+    {
+      "id": "thread-443a657472a2",
+      "subject": "[R-jobs] correct email: 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
+      "message_count": 1,
+      "participants": [
+        "Lisa Solomon"
+      ],
+      "started": "2016-02-19T13:19:46-06:00",
+      "last_reply": "2016-02-19T13:19:46-06:00",
+      "root_message_id": "msg-443a657472a2"
+    },
+    {
+      "id": "thread-51592957df2e",
+      "subject": "[R-jobs] Quantitative Research Analyst Job Opportunity - Radnor, PA. USA",
+      "message_count": 1,
+      "participants": [
+        "Gagan K. Dhanjal"
+      ],
+      "started": "2016-02-23T14:27:13-05:00",
+      "last_reply": "2016-02-23T14:27:13-05:00",
+      "root_message_id": "msg-51592957df2e"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2019-01",
+  "messages": [
+    {
+      "id": "msg-e87ade0ead43",
+      "message_id": "<alpine.DEB.2.21.1901251444280.25324@diana>",
+      "from_name": "Torsten Hothorn",
+      "from_email_hash": "2b42722d275b670988e4682eba2ca2538e93e289fa8448d590080c1cb472ce85",
+      "date": "2019-01-25T14:46:48+01:00",
+      "subject": "[R-jobs] Professorship in Data Science",
+      "subject_clean": "[R-jobs] Professorship in Data Science",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "University of Zurich invites applications for a newly founded\n\n \tProfessorship in Data Science\n\nThe ad can be found here: http://www.jobs.uzh.ch/jobDetail.php?jobID=8728\n\nBest,\n\nTorsten\n\n________________________________________________________________\n\nProf. Dr. Torsten Hothorn                       =========\n                                                 \\\\\nUniversitaet Zuerich                             \\\\\nInstitut fuer Epidemiologie, Biostatistik und     \\\\\nPraevention, Departement Biostatistik             //\nHirschengraben 84                                //\nCH-8001 Zuerich                                 //\nSchweiz                                        //\n                                                ==========\nTelephon:  +41 44 634 48 17\nFax:       +41 44 634 43 86\nWeb:       http://tiny.uzh.ch/bh",
+      "body_snippet": "University of Zurich invites applications for a newly founded\n\n \tProfessorship in Data Science\n\nThe ad can be found here: http://www.jobs.uzh.ch/jobDetail.php?jobID=8728\n\nBest,\n\nTorsten\n\n_____________",
+      "thread_id": "thread-e87ade0ead43",
+      "thread_depth": 0,
+      "month": "2019-01"
+    },
+    {
+      "id": "msg-74b51633cfcb",
+      "message_id": "<d1b95b57-d0a8-d6c9-09e1-dc75593c8891@uct.ac.za>",
+      "from_name": "Paolo Denti",
+      "from_email_hash": "e74e7ebb90bcc6d7d3411b4804669908111ba6e97d4d33bcff6136937407c060",
+      "date": "2019-01-25T14:49:07Z",
+      "subject": "[R-jobs] PhD student and postdoc positions in pharmacometrics at the University of Cape Town",
+      "subject_clean": "[R-jobs] PhD student and postdoc positions in pharmacometrics at the University of Cape Town",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nWe are looking for bright and motivated candidates to join our\npharmacometric modelling team at the University of Cape Town.\n\nPharmacometrics is an emerging discipline that uses mathematical and\nstatistical tools to quantify drug, disease, and trial information to\naid efficient drug development and/or regulatory decisions. It designs\nand applies mathematical models to describe the relationship between\ndrug exposure (pharmacokinetics) and response (pharmacodynamics) for\nboth desired and undesired effects, and aims to include in such models\nthe effects of individual patient characteristics.\n\nOur pharmacometrics group has established PK/PD modelling expertise in\nthe disease area of tuberculosis, HIV, and malaria. It is active\ninternationally and enjoys on-going collaborations and exchange programs\nwith some of the major pharmacometric research groups worldwide.\n\nScholarships at both PhD student and postdoc level are available and\nsupport funding suited to the cost of living in Cape Town is part of the\noffer.\n\nPlease refer to the links below for more details.\nPhD student - https://goo.gl/1Xh1K7\nPostdoc - https://goo.gl/vVbGsz\n\nTo apply, send your CV with references and a letter of\nintroduction/motivation to paolo.denti at uct.ac.za before February 17th.\n\nFor more information about our research, you can Google ?pharmacometrics\nCape Town? - or look at\nhttp://www.medicine.uct.ac.za/med/divisions/pharmacology\nFor any extracurricular reasons to move to the beautiful Mother City of\nAfrica, Google simply ?Cape Town? instead, and click on ?Images?.\nBonus perk of the job: you get to save on your flight and accommodation\nto attend the World Conference on Pharmacometrics 2020. :) -\nhttps://go-wcop.org/\n\n--\n------------------------------------------------\nPaolo Denti, PhD\nA/Prof of Pharmacometrics\nDivision of Clinical Pharmacology\nDepartment of Medicine\nUniversity of Cape Town\n\nK45 Old Main Building\nGroote Schuur Hospital\nObservatory, Cape Town\n7925 South Africa\nphone: +27 21 404 7719\nfax: +27 021 650 5410\nemail: paolo.denti at uct.ac.za\n------------------------------------------------\n\nDisclaimer - University of Cape Town This email is subject to UCT policies and email disclaimer published on our website at http://www.uct.ac.za/main/email-disclaimer or obtainable from +27 21 650 9111. If this email is not related to the business of UCT, it is sent by the sender in an individual capacity. Please report security incidents or abuse via https://csirt.uct.ac.za/page/report-an-incident.php.",
+      "body_snippet": "Dear all,\nWe are looking for bright and motivated candidates to join our\npharmacometric modelling team at the University of Cape Town.\n\nPharmacometrics is an emerging discipline that uses mathematical",
+      "thread_id": "thread-74b51633cfcb",
+      "thread_depth": 0,
+      "month": "2019-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e87ade0ead43",
+      "subject": "[R-jobs] Professorship in Data Science",
+      "message_count": 1,
+      "participants": [
+        "Torsten Hothorn"
+      ],
+      "started": "2019-01-25T14:46:48+01:00",
+      "last_reply": "2019-01-25T14:46:48+01:00",
+      "root_message_id": "msg-e87ade0ead43"
+    },
+    {
+      "id": "thread-74b51633cfcb",
+      "subject": "[R-jobs] PhD student and postdoc positions in pharmacometrics at the University of Cape Town",
+      "message_count": 1,
+      "participants": [
+        "Paolo Denti"
+      ],
+      "started": "2019-01-25T14:49:07+00:00",
+      "last_reply": "2019-01-25T14:49:07+00:00",
+      "root_message_id": "msg-74b51633cfcb"
+    }
+  ]
+}

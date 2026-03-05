@@ -1,0 +1,311 @@
+From Cr|@p|n@M|||er @end|ng |rom cruk@m@nche@ter@@c@uk  Wed Oct  1 12:37:03 2014
+From: Cr|@p|n@M|||er @end|ng |rom cruk@m@nche@ter@@c@uk (Crispin Miller)
+Date: Wed, 1 Oct 2014 10:37:03 +0000
+Subject: [R-jobs] JOB - PhD position: applying HPC in cancer research
+Message-ID: <54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>
+
+Dear all, we have an exciting PhD position applying HPC to the analysis of large scale cancer datasets.
+
+The post will suit an applicant from a strong computational background who wishes to apply their knowledge to help develop a better understanding of the processes that control how tumours develop.
+
+Details below:-
+
+High Performance Computing applied to cancer research: Computational analysis of Noncoding RNA regulators of gene expression in individual tumour cells
+
+RNABiology/Computational Biology
+The goal of this project is to use computational tools to ask how patterns in gene expression are disrupted in cancer. The project will suit a graduate student from a computational background with exceptional programming ability and strength in mathematics and statistics.
+
+The main focus of our group is directed at understanding the role played by noncoding RNAs (ncRNAs) in modulating the behaviour of cancer cells. These are RNA molecules that are transcribed, but never translated into protein sequences. Advances in sequencing technology have revealed large numbers of novel ncRNA loci in the genome, to the point where they are now known to outnumber protein-coding genes. Whilst most are uncharacterised, recent work has shown an increasing number to be functional ? and to act in a variety of regulatory roles within the cell. The successful applicant will join a highly interdisciplinary team comprising numerical- and biological-scientists who together exploit the power of new technologies such as single-cell RNA sequencing and protein mass spectrometry to investigate the fundamentals of gene expression in cancer. This project will involve applying machine learning and pattern recognition techniques to high volumes of RNA-sequencing data representing a combination of single cells, clinical samples, and experimental data generated using cell lines.
+
+The scale of the data mean that novel algorithms will be required in order to achieve the volume of computation required, and this will involve programming on the latest architectures. The successful applicant will make extensive use of our on-site High Performance Computing (HPC) facility, purpose built for the analysis of cancer genomics data. Experience coding in C, C++ or Java are critical, and familiarity with aspects of graph theory, machine learning, and parallel programming will be advantageous. While an understanding of basic genomics and cancer biology would be useful, it is not a prerequisite; the project is open to an enthusiastic individual from a numerical discipline who wishes to use their skills to help develop a better understanding of the processes that control gene expression, and how they are perturbed in tumours.
+
+Please visit our website to find out more: http://cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller
+
+best wishes,
+Crispin
+
+________________________________
+
+This email is confidential and intended solely for the u...{{dropped:12}}
+
+
+
+From @rn@ud@g@boury @end|ng |rom gm@||@com  Wed Oct  1 12:47:14 2014
+From: @rn@ud@g@boury @end|ng |rom gm@||@com (arnaud gaboury)
+Date: Wed, 1 Oct 2014 12:47:14 +0200
+Subject: [R-jobs] JOB - PhD position: applying HPC in cancer research
+In-Reply-To: <54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>
+References: <54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>
+Message-ID: <CAK1hC9uwTRxpxnbaSFHzGFjzYC_d-GTdGzkSLKDHJorjCjSxLw@mail.gmail.com>
+
+>
+> Please visit our website to find out more: http://cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller
+>
+
+Server not found.
+
+
+
+From Cr|@p|n@M|||er @end|ng |rom cruk@m@nche@ter@@c@uk  Wed Oct  1 12:54:24 2014
+From: Cr|@p|n@M|||er @end|ng |rom cruk@m@nche@ter@@c@uk (Crispin Miller)
+Date: Wed, 1 Oct 2014 10:54:24 +0000
+Subject: [R-jobs] JOB - PhD position: applying HPC in cancer research
+In-Reply-To: <54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>
+References: <54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>
+Message-ID: <CE2B0639-EA90-48F8-B2EA-EF2D3D8AA05F@cruk.manchester.ac.uk>
+
+Apologies - the web address below should be: http://www.cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller
+Crispin
+
+
+On 1 Oct 2014, at 11:37, Crispin Miller <Crispin.Miller at cruk.manchester.ac.uk> wrote:
+
+> Dear all, we have an exciting PhD position applying HPC to the analysis of large scale cancer datasets.
+>
+> The post will suit an applicant from a strong computational background who wishes to apply their knowledge to help develop a better understanding of the processes that control how tumours develop.
+>
+> Details below:-
+>
+> High Performance Computing applied to cancer research: Computational analysis of Noncoding RNA regulators of gene expression in individual tumour cells
+>
+> RNABiology/Computational Biology
+> The goal of this project is to use computational tools to ask how patterns in gene expression are disrupted in cancer. The project will suit a graduate student from a computational background with exceptional programming ability and strength in mathematics and statistics.
+>
+> The main focus of our group is directed at understanding the role played by noncoding RNAs (ncRNAs) in modulating the behaviour of cancer cells. These are RNA molecules that are transcribed, but never translated into protein sequences. Advances in sequencing technology have revealed large numbers of novel ncRNA loci in the genome, to the point where they are now known to outnumber protein-coding genes. Whilst most are uncharacterised, recent work has shown an increasing number to be functional ? and to act in a variety of regulatory roles within the cell. The successful applicant will join a highly interdisciplinary team comprising numerical- and biological-scientists who together exploit the power of new technologies such as single-cell RNA sequencing and protein mass spectrometry to investigate the fundamentals of gene expression in cancer. This project will involve applying machine learning and pattern recognition techniques to high volumes of RNA-sequencing data representing a combination of single cells, clinical samples, and experimental data generated using cell lines.
+>
+> The scale of the data mean that novel algorithms will be required in order to achieve the volume of computation required, and this will involve programming on the latest architectures. The successful applicant will make extensive use of our on-site High Performance Computing (HPC) facility, purpose built for the analysis of cancer genomics data. Experience coding in C, C++ or Java are critical, and familiarity with aspects of graph theory, machine learning, and parallel programming will be advantageous. While an understanding of basic genomics and cancer biology would be useful, it is not a prerequisite; the project is open to an enthusiastic individual from a numerical discipline who wishes to use their skills to help develop a better understanding of the processes that control gene expression, and how they are perturbed in tumours.
+>
+> Please visit our website to find out more: http://cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller
+>
+> best wishes,
+> Crispin
+>
+> ________________________________
+>
+> This email is confidential and intended solely for the...{{dropped:22}}
+
+
+
+From Cr|@p|n@M|||er @end|ng |rom cruk@m@nche@ter@@c@uk  Fri Oct  3 14:36:23 2014
+From: Cr|@p|n@M|||er @end|ng |rom cruk@m@nche@ter@@c@uk (Crispin Miller)
+Date: Fri, 3 Oct 2014 12:36:23 +0000
+Subject: [R-jobs] JOBS: New positions in computational biology,
+ bioinformatics, statistics, HPC and software engineering
+Message-ID: <E3555D2E-2971-454D-9C5F-347BC68B5ABE@cruk.manchester.ac.uk>
+
+Dear all,
+The CRUK MI have multiple positions in and around bioinformatics, biostatistics and computational biology.
+
+These range from HPC and mathematical programming, through biostatistics and biomarkers, to computational biology and bioinformatics. Focuses include single cell genomics and personalised medicine in lung and prostate cancer.
+
+For full details, please visit our website at:
+
+http://www.cruk.manchester.ac.uk
+
+Brief summaries below:
+
+RNA Biology Group - Crispin Miller
+==========================
+Postdoctoral Scientist in Computational Biology:
+A position is now available for a highly motivated postdoctoral research scientist to develop computational models of gene expression across populations of cells, and to ask how they change in tumours. The goal is to identify novel regulatory noncoding RNA molecules that are disrupted in cancer.
+
+4 Year PhD Studentship:
+This project will involve applying machine learning and pattern recognition techniques to high volumes of RNA-sequencing data representing a combination of single cells and bulk tissue. The scale of the data mean that novel algorithms will be required in order to achieve the volume of computation required, and this will involve programming on the latest architectures. The successful applicant will make extensive use of our on-site High Performance Computing (HPC) facility, purpose built for the analysis of cancer genomics data.
+
+Computational Biology Team leader:
+Seeking a senior computational biologist who can provide leadership to the Computational Biology Support team at the CRUK MI. They will work closely with the RNA Biology Group leader to coordinate the activities of a team providing state of the art analysis of high throughput genomics data.
+
+Clinical and Experimental Pharmacology Group (CEP) - Caroline Dive
+=====================================================
+Bioinformatician:
+We are now able to isolate single Circulating Tumour Cells (CTCs) from patients? blood samples and derive their genomic profiles utilising next generation sequencing (Hodgkinson et al Nature Medicine, June 2014). We will for the first time using advanced molecular analysis define CTC heterogeneity and examine differences in CTC genomic profiles of small cell lung cancer (SCLC) patients who are sensitive or resistant to chemotherapy, an approach that will ultimately lead to biomarker signatures for therapy selection.
+
+2 x Postdoctoral Scientists (Biomarker Statisticians):
+The successful candidates will be involved in biomarker driven clinical trial design, the development of statistical methods tailored to biomarker analysis (baseline and longitudinal data) and the analysis of resultant biomarker data with a view to optimising patient treatment.
+
+Molecular Oncology Group - Richard Marais & CEP Group - Caroline Dive
+========================================================
+Post-doctoral Scientist in Bioinformatics for Prostate Cancer - Prostate Cancer UK/Movember Funded:
+Together with Queen?s University Belfast, we have recently been awarded a Movember Centre of Excellence for prostate cancer research.The successful candidate will join a team who will implement personalised medicine for prostate cancer.  The post holder will be responsible for working with other team members to integrate genomics and proteomics data from patient samples.  They will collaborate to advance the data for practical use in the personalised medicine platform and to pursue follow-up studies as appropriate.
+
+Stem Cell Biology Group - Georges Lacaud
+=================================
+Bioinformatics analyst:
+seeking a proactive and well-organised candidate with excellent communication and interpersonal skills to work in a dynamic laboratory undertaking cutting edge research. The successful candidate will be expected to provide expert analysis of Microarray data, Next Generation and ChIP Sequencing using a range of bioinformatics methods and resources.
+
+About the Institute: The Cancer Research UK Manchester Institute (www.cruk.manchester.ac.uk<http://www.cruk.manchester.ac.uk>), an Institute of The University of Manchester (www.manchester.ac.uk<http://www.manchester.ac.uk>), is a world-leading centre for excellence in cancer research. The Institute is core funded by Cancer Research UK (www.cancerresearchuk.org<http://www.cancerresearchuk.org>), the largest independent cancer research organisation in the world. We are adjacent to The Christie NHS Foundation Trust (www.christie.nhs.uk<http://www.christie.nhs.uk>), one of the largest cancer treatment centres in Europe. These factors combine to provide an exceptional environment in which to pursue basic, translational and clinical research programmes. Our aim is to understand the fundamental basis of cancer and apply that knowledge to developing new treatment strategies for cancer patients. Our advanced research programmes span a spectrum of cancer research, from the molecular and cellular basis of cancer through to drug discovery, translational research and clinical trials. The Institute has outstanding laboratory facilities and exceptional core services, including next generation sequencing, microarrays, confocal microscopy, bioinformatics, histology and mass-spectrometry. We are situated in Manchester, England, a vibrant and dynamic city that is surrounded by beautiful countryside and has excellent transport links both nationally and internationally.
+________________________________
+
+This email is confidential and intended solely for the u...{{dropped:12}}
+
+
+
+From b@rrett@|o@t @end|ng |rom mon@@nto@com  Thu Oct  9 15:21:26 2014
+From: b@rrett@|o@t @end|ng |rom mon@@nto@com (FOAT, BARRETT [AG/1000])
+Date: Thu, 9 Oct 2014 13:21:26 +0000
+Subject: [R-jobs] Write R code to feed the world!
+Message-ID: <235757EC92A0CD4D989BBAE8DC3C6FFD3C444DF0@STLWEXMBXPRD14.na.ds.monsanto.com>
+
+We are hiring an R programmer to make biologists better at crop improvement:
+http://jobs.monsanto.com/missouri/research-and-development/jobid6130734-r-programmer-jobs
+
+Please apply if you are passionate about building R culture and infrastructure.
+
+.    .  ..    . ...  .  ...  .  ..  . . ... .   ... .    .      .   ..  .. .... ..    . ... .
+Barrett Foat, PhD
+Genome Data Analytics Team Lead
+Monsanto Company
+700 Chesterfield Parkway West
+Chesterfield, MO 63017
+636-737-4366
+
+This e-mail message may contain privileged and/or confidential information, and is intended to be received only by persons entitled
+to receive such information. If you have received this e-mail in error, please notify the sender immediately. Please delete it and
+all attachments from any servers, hard drives or any other media. Other use of this e-mail by you is strictly prohibited.
+
+All e-mails and attachments sent and received are subject to monitoring, reading and archival by Monsanto, including its
+subsidiaries. The recipient of this e-mail is solely responsible for checking for the presence of "Viruses" or other "Malware".
+Monsanto, along with its subsidiaries, accepts no liability for any damage caused by any such code transmitted by or accompanying
+this e-mail or any attachment.
+
+
+The information contained in this email may be subject to the export control laws and regulations of the United States, potentially
+including but not limited to the Export Administration Regulations (EAR) and sanctions regulations issued by the U.S. Department of
+Treasury, Office of Foreign Asset Controls (OFAC).  As a recipient of this information you are obligated to comply with all
+applicable U.S. export laws and regulations.
+
+	[[alternative HTML version deleted]]
+
+
+
+From zh||@||u @end|ng |rom gm@||@com  Thu Dec  4 21:41:46 2014
+From: zh||@||u @end|ng |rom gm@||@com (Zhifa Liu)
+Date: Thu, 4 Dec 2014 12:41:46 -0800
+Subject: [R-jobs] R CUDA package developer position at St Jude Children's
+	Research Hospital
+Message-ID: <CAAiXAJh9eK4hv6P91u2E4OWEGYmno4XH3AY+AUSG=XeZ=YKWmg@mail.gmail.com>
+
+Department  St Jude Children's Research Hospital Job Number  32636
+
+The position is particularly responsible for GPU (CUDA) programming to
+translate statistical algorithms into R CUDA package, as well as the
+maintenance of the R CUDA packages. The position calls for willingness to
+learn and adapt new methods and technologies for parallel and distributed
+computing platforms. Please go to St Jude Children's Research Hospital to
+find the detail info about this job
+Job Qualifications: EDUCATION REQUIREMENTS:
+Master's degree in Computer Science, Information Technology, or related
+field.
+
+EXPERIENCE REQUIREMENTS:
+One (1) year of experience in software, application, and database
+development required.
+
+Experience in object-oriented programming with C/C++
+Knowledge of parallel and distributed programming.
+Experience of developing/debugging parallel or multi-threaded software
+applications.
+Experience of GPU Programming with CUDA or OpenCL .
+Experience of R and/or Matlab programming
+Knowledge of Computational Genomics is a plus.
+
+	[[alternative HTML version deleted]]
+
+
+
+From zh||@||u @end|ng |rom gm@||@com  Fri Dec  5 20:44:05 2014
+From: zh||@||u @end|ng |rom gm@||@com (Zhifa Liu)
+Date: Fri, 5 Dec 2014 13:44:05 -0600
+Subject: [R-jobs] R CUDA package developer position at St Jude Children's
+	Research Hospital
+Message-ID: <CAAiXAJgXewKLhiTNVr79K0YOMHFy1b6h6AeSnN3Qm-cgdjnONg@mail.gmail.com>
+
+Here is the website link:
+
+
+https://jobs.stjude.org/css_external/CSSPage_JobDetail.ASP?T=20141205131210&
+
+
+
+
+The position is particularly responsible for GPU (CUDA) programming to
+translate statistical algorithms into R CUDA package, as well as the
+maintenance of the R CUDA packages. The position calls for willingness to
+learn and adapt new methods and technologies for parallel and distributed
+computing platforms. Please go to St Jude Children's Research Hospital to
+find the detail info about this job
+Job Qualifications: EDUCATION REQUIREMENTS:
+Master's degree in Computer Science, Information Technology, or related
+field.
+
+EXPERIENCE REQUIREMENTS:
+One (1) year of experience in software, application, and database
+development required.
+
+Experience in object-oriented programming with C/C++
+Knowledge of parallel and distributed programming.
+Experience of developing/debugging parallel or multi-threaded software
+applications.
+Experience of GPU Programming with CUDA or OpenCL .
+Experience of R and/or Matlab programming
+Knowledge of Computational Genomics is a plus.
+
+	[[alternative HTML version deleted]]
+
+
+
+From j@ke@m|ch@e|@on @end|ng |rom gm@||@com  Thu Dec 11 20:20:20 2014
+From: j@ke@m|ch@e|@on @end|ng |rom gm@||@com (Jake Michaelson)
+Date: Thu, 11 Dec 2014 13:20:20 -0600
+Subject: [R-jobs] Postdoctoral researcher: genome informatics in psychiatry
+Message-ID: <CAGfFKEuKZ8epwYTZPzipDU7KaQXQ-9zMB6q49LQKAXVCb6UAjw@mail.gmail.com>
+
+We are seeking a talented and driven postdoctoral fellow to join the
+laboratory of Jake Michaelson, PhD, assistant professor in the department
+of psychiatry at the University of Iowa.
+
+The Michaelson lab investigates the effect of genetic variation on the
+development and function of the brain, particularly in the context of
+neurodevelopmental conditions such as autism and language impairment. Our
+work revolves mostly around integrating information from large scale data
+sets (e.g., whole genome sequencing, RNA-seq, ChIP-seq, etc.) and deriving
+informative features so that predictive models can be built and used to
+better understand the molecular basis of neurodevelopmental conditions.
+
+This postdoctoral position will be devoted mostly to developing models that
+estimate the downstream effect of non-coding genetic variation on the brain
+in space and time.
+
+*Educational Requirements*
+Doctoral degree in human genetics, quantitative genetics, bioinformatics,
+computational biology, or other fields with strong quantitative skills is
+required.
+
+*Required Experience*
+
+   - demonstrated experience in machine learning or applied statistical
+   modeling
+   - scientific programming skills (using R) with a commitment to the
+   principles of clear documentation and reproducible research
+   - excellent verbal and written communication skills
+
+*Desired experience and skills*
+
+   - experience with databases (e.g. MySQL)
+   - demonstrated skills in effective data visualization
+   - familiarity with genome informatics concepts (e.g. software tools,
+   file formats, and workflows involved in next-generation sequencing)
+
+*Qualified candidates should apply at *
+https://jobs.uiowa.edu/postdoc/view/2324
+
+The University of Iowa combines a fantastic scientific environment with a
+healthy work-life balance. Faculty and staff living in Iowa City enjoy the
+affordability and friendliness of small town life while also benefiting
+from the cultural engagement and activities that come from being the home
+to a major university.
+
+	[[alternative HTML version deleted]]
+
+
+

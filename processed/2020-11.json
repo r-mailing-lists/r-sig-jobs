@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2020-11",
+  "messages": [
+    {
+      "id": "msg-3adffd8e9871",
+      "message_id": "<CALMpiDdnOjCkBVVqCVFK=Sm1NE_5zzUH9ZFQ_UxByZ6U3uFLkw@mail.gmail.com>",
+      "from_name": "Marcin Kosiński",
+      "from_email_hash": "5480d20092a0cf996146ed56424229ae89c35e6fbf478a72f58505d212e8c9a6",
+      "date": "2020-11-28T00:14:32+01:00",
+      "subject": "[R-jobs] Job opening: Data Scientist at Gradient Metrics",
+      "subject_clean": "[R-jobs] Job opening: Data Scientist at Gradient Metrics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Are you insatiably curious? A lover of research, statistics, and\nprogramming? Do you enjoy a formidable business challenge? If so, then we\nshare a lot in common and would love to get to know you better.\n\nFind out more in the job description\n<https://www.gradientmetrics.com/resources/job-opening-data-scientist> for\nexperienced Data Scientist with a knowledge of R\n\n-- \n\nMarcin Kosi?ski\n\nGradient Metrics | Data Scientist\n\n0048 503 435 652\n\n*Subscribe* <https://www.gradientmetrics.com/subscribe> to Trendlines to\nreceive our proprietary research in your inbox for free.\n\n*Read our most recent Trendlines edition online here.*\n<https://www.gradientmetrics.com/latest-trendlines>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Are you insatiably curious? A lover of research, statistics, and\nprogramming? Do you enjoy a formidable business challenge? If so, then we\nshare a lot in common and would love to get to know you bette",
+      "thread_id": "thread-3adffd8e9871",
+      "thread_depth": 0,
+      "month": "2020-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-3adffd8e9871",
+      "subject": "[R-jobs] Job opening: Data Scientist at Gradient Metrics",
+      "message_count": 1,
+      "participants": [
+        "Marcin Kosiński"
+      ],
+      "started": "2020-11-28T00:14:32+01:00",
+      "last_reply": "2020-11-28T00:14:32+01:00",
+      "root_message_id": "msg-3adffd8e9871"
+    }
+  ]
+}

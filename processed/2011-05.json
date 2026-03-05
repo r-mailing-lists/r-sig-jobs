@@ -1,0 +1,93 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-05",
+  "messages": [
+    {
+      "id": "msg-865d0401cdf3",
+      "message_id": "<BANLkTi=iFgVWjeOAFceWpkDybZyW235knQ@mail.gmail.com>",
+      "from_name": "Usuario R",
+      "from_email_hash": "6c1eed21635e2f078599b515973ca58cd0cf39a113f185b603fcbade87efbf9a",
+      "date": "2011-05-02T12:10:08+02:00",
+      "subject": "[R-jobs] R programmer position/Berlin (Germany)",
+      "subject_clean": "[R-jobs] R programmer position/Berlin (Germany)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi all,\n\nA company based in Berlin (Germany), with more than 10 years experience in\ndata analysis in the international management consulting industry, is\nsearching for R programmer. This role involves R basic programming skills.\nThe tasks will be maintaining of the code and improvement of it with any new\nrequirement.\n\nIt is required to be already living in Germany and have basic programming\nskills. German language is not required.\n\nIf anyone is interested and have any question, please write me.\n\nRegards\nPatricia Garc?a\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi all,\n\nA company based in Berlin (Germany), with more than 10 years experience in\ndata analysis in the international management consulting industry, is\nsearching for R programmer. This role involves",
+      "thread_id": "thread-865d0401cdf3",
+      "thread_depth": 0,
+      "month": "2011-05"
+    },
+    {
+      "id": "msg-9ab227fc23aa",
+      "message_id": "<BANLkTi=j4cUrbp3QTtb1NNjEvspj_YMsjA@mail.gmail.com>",
+      "from_name": "Johannes Signer",
+      "from_email_hash": "2a40c8119f7c186d6ba76f2da352f8c2823f233cbd8e619114e7fc9e973f8834",
+      "date": "2011-05-03T19:27:52+02:00",
+      "subject": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
+      "subject_clean": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear All,\n\nThe Decision and Policy Analysis (DAPA) program of the International Center\nfor Tropical\nAgriculture (CIAT), a not-for-profit agriculture, biodiversity and\necosystems research center,\nsupported by the Consultative Group of International Agricultural Research\n(CGIAR), with\nheadquarters in Cali, Colombia is looking for a visiting researcher to work\non various modeling\nprojects, primarily related with climate change, biodiversity and\nagriculture.\n\nThe full job description is attached.\n\nWe are looking forward from hearing anyone interested,\n\nBest Johannes",
+      "body_snippet": "Dear All,\n\nThe Decision and Policy Analysis (DAPA) program of the International Center\nfor Tropical\nAgriculture (CIAT), a not-for-profit agriculture, biodiversity and\necosystems research center,\nsuppo",
+      "thread_id": "thread-9ab227fc23aa",
+      "thread_depth": 0,
+      "month": "2011-05"
+    },
+    {
+      "id": "msg-a49febc6ff98",
+      "message_id": "<BANLkTi=wymGyWk9ogWNp48QEQPn2B-+Xgg@mail.gmail.com>",
+      "from_name": "Johannes Signer",
+      "from_email_hash": "2a40c8119f7c186d6ba76f2da352f8c2823f233cbd8e619114e7fc9e973f8834",
+      "date": "2011-05-03T19:43:22+02:00",
+      "subject": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
+      "subject_clean": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
+      "in_reply_to": "<201105031838.15255.corrado.topi@sei.se>",
+      "references": [
+        "<BANLkTi=j4cUrbp3QTtb1NNjEvspj_YMsjA@mail.gmail.com>",
+        "<201105031838.15255.corrado.topi@sei.se>"
+      ],
+      "body_plain": "Dear All,\n\napology four double posting, but I had troubles with the attachments:\n\nThe Decision and Policy Analysis (DAPA) program of the International Center\nfor Tropical\nAgriculture (CIAT), a not-for-profit agriculture, biodiversity and\necosystems research center,\nsupported by the Consultative Group of International Agricultural Research\n(CGIAR), with\nheadquarters in Cali, Colombia is looking for a visiting researcher to work\non various modeling\nprojects, primarily related with climate change, biodiversity and\nagriculture.\nRequired skills:\n\nExperience with species distributions modeling (preferably Maxent)\n\n   - High proficiency in R\n   - Good understanding of GIS, preferably GRASS GIS (and ArcGIS)\n   - Basic understanding of SQL\n   - Comfortable with working under Linux OS (Red Hat/CentOS, SuSe Linux)\n   - English: very good written/oral and reading skills\n\nAdditional skills\n\n\n   - Good knowledge of PostGIS\n   - Basic knowledge of Spanish (not needed for the job, but some basic\n   level might be required for living in the city)\n\nWe offer a 4-month visiting research position with\n\n\n   - Flights from country of origin and back\n   - 750 USD/month stipend (enough to live in Cali, very comfortably)\n   - Health insurance\n   - Daily transport from Cali to CIAT and the way back\n   - Lunch\n\nIf you are interested in this opportunity, please send us a copy of your CV\nto jmsigner at gmail.com,\nand j.r.villegas at cgiar.org\n\nFor more information, please visit:\nCIAT?s webpage: http://www.ciat.cgiar.org\nDAPA?s webpage: http://dapa.ciat.cgiar.org/about-dapa\n\n\nOn Tue, May 3, 2011 at 7:38 PM, Corrado Topi <corrado.topi at sei.se> wrote:\n\n> Dear Johannes,\n>\n> There is no document attached, could you please resend?\n>\n> On Tuesday 03 May 2011 18:27:52 Johannes Signer wrote:\n> > Dear All,\n> >\n> > The Decision and Policy Analysis (DAPA) program of the International\n> Center\n> > for Tropical\n> > Agriculture (CIAT), a not-for-profit agriculture, biodiversity and\n> > ecosystems research center,\n> > supported by the Consultative Group of International Agricultural\n> Research\n> > (CGIAR), with\n> > headquarters in Cali, Colombia is looking for a visiting researcher to\n> work\n> > on various modeling\n> > projects, primarily related with climate change, biodiversity and\n> > agriculture.\n> >\n> > The full job description is attached.\n> >\n> > We are looking forward from hearing anyone interested,\n> >\n> > Best Johannes\n>\n> --\n> Corrado Topi\n>\n> Stockholm Environment Institute\n>\n> Mob: +44 (0) 7769 601784\n> Tel: +44 (0) 1904 322893\n> Skype: corrado-eeos\n> Website:  sei-international.org\n>\n> University of York\n> York YO10 5DD\n> UK\n>\n> Fax: +44 (0) 1904 322898\n>\n> EMAIL DISCLAIMER: http://www.york.ac.uk/docs/disclaimer/email.htm\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear All,\n\napology four double posting, but I had troubles with the attachments:\n\nThe Decision and Policy Analysis (DAPA) program of the International Center\nfor Tropical\nAgriculture (CIAT), a not-for",
+      "thread_id": "thread-a49febc6ff98",
+      "thread_depth": 0,
+      "month": "2011-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-865d0401cdf3",
+      "subject": "[R-jobs] R programmer position/Berlin (Germany)",
+      "message_count": 1,
+      "participants": [
+        "Usuario R"
+      ],
+      "started": "2011-05-02T12:10:08+02:00",
+      "last_reply": "2011-05-02T12:10:08+02:00",
+      "root_message_id": "msg-865d0401cdf3"
+    },
+    {
+      "id": "thread-9ab227fc23aa",
+      "subject": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
+      "message_count": 1,
+      "participants": [
+        "Johannes Signer"
+      ],
+      "started": "2011-05-03T19:27:52+02:00",
+      "last_reply": "2011-05-03T19:27:52+02:00",
+      "root_message_id": "msg-9ab227fc23aa"
+    },
+    {
+      "id": "thread-a49febc6ff98",
+      "subject": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
+      "message_count": 1,
+      "participants": [
+        "Johannes Signer"
+      ],
+      "started": "2011-05-03T19:43:22+02:00",
+      "last_reply": "2011-05-03T19:43:22+02:00",
+      "root_message_id": "msg-a49febc6ff98"
+    }
+  ]
+}

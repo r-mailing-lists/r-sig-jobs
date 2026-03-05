@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2009-09",
+  "messages": [
+    {
+      "id": "msg-b51911808f40",
+      "message_id": "<8950cd610909031228oa07a1ceo5007a7445f570ee2@mail.gmail.com>",
+      "from_name": "Justin Neville-Rolfe",
+      "from_email_hash": "b7adf9fe4cb9dc561484579f511b3c180514a6da6319b6f81309af3ace86cd7e",
+      "date": "2009-09-03T20:28:19+01:00",
+      "subject": "[R-jobs] Looking for a casual contractor to write R functions and help integrate with Excel",
+      "subject_clean": "[R-jobs] Looking for a casual contractor to write R functions and help integrate with Excel",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are a small consulting company that uses R to automate several data\nextraction fuctions from SPSS files -- most notably we create powerpoint\nslides from a script in Excel (using VBA) which calls R to extract data and\nplace into Excel using RExcel. We're not specialists, and don't really have\nthe time to understand R. Our CIO is the only person who even vaguely\nunderstands R, and he does not have the time anymore to help us.\n\nWe'd be interested in creating a relationship with someone for occasional\n(e.g., 1 day here and there; a couple of hours here and there) to help us\nwrite functions in R. It's pretty low level stuff, and we're prepared to pay\ncash in some sort just to get us through simple change requests that come\nfrom our survey analysis team. We'd probably pay by the hour or job in small\nincrements using something like PayPal; though a formal contractor\narrangement could be put in place if required. Our core currencies are US$,\nUK? and Euro.\n\nIs there anyone who would like to know more? If so, please get in touch with\nme via:\n\nJustin Neville-Rolfe\nDirector, Product Development,\nYankee Group Research, Inc\njnevillerolfe at yankeegroup.com\nUS phone: +1-617-381-4313\nUK phone: +44-20-8144-1467\nUK cellphone: +44-7710-168632\nSkype: jnevillerolfe [explain why you're getting in touch in the contact\nrequest]\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "We are a small consulting company that uses R to automate several data\nextraction fuctions from SPSS files -- most notably we create powerpoint\nslides from a script in Excel (using VBA) which calls R ",
+      "thread_id": "thread-b51911808f40",
+      "thread_depth": 0,
+      "month": "2009-09"
+    },
+    {
+      "id": "msg-4883c5de3cfc",
+      "message_id": "<0E69ABC83C3341368A113AB3DC90F7A6@gne.windows.gene.com>",
+      "from_name": "Bert Gunter",
+      "from_email_hash": "fff944709cd4e01c43b94b925a795dc8ebb00f65da76c888c1d3901ec68b6b6b",
+      "date": "2009-09-08T11:21:51-07:00",
+      "subject": "[R-jobs] Genentech Nonclinical Biostatistics Position in South San Francisco",
+      "subject_clean": "[R-jobs] Genentech Nonclinical Biostatistics Position in South San Francisco",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Nonclinical Biostatistics position at Genentech, South San Francisco\n\nSeptember 3, 2009\n\nGenentech has an opening for a full time position in its Nonclinical\nBiostatistics group, located in South San Francisco, CA.\n\nThe nonclinical group currently consists of ten MS and PhD level\nstatisticians and mathematicians, plus one programmer, who work with\napproximately 1,000 scientists, engineers, and other investigators in drug\ndiscovery, preclinical testing, process and product development,\nmanufacturing, and quality control, among other areas - essentially\neverything but clinical trials. Statistical activities are commensurately\ndiverse. Some \"typical\" ones are design and analysis of in vitro and in vivo\nstudies exploring efficacy, pharmacokinetics, and toxicity; design and\nanalysis of high-throughput experiments including genomic, proteomic, and\nimaging platforms; bioanalytical assay development; optimization of robust\nantibody fermentation and purification processes; and statistical support to\nensure compliance, safety, and efficacy of our marketed products. \n\nWe are seeking individuals with a broad knowledge of statistical methodology\nwho are eager to work in an exciting collaborative environment to apply\ntheir knowledge to drug discovery and development. Because we are a science\ndriven company on the cutting edge of technology, we also expect our members\nto devote effort to learning about and staying current with our science and\ntechnology so that they can better communicate and work with our scientists.\n\nBasic qualifications that we seek include:\n\n-\tPhD in statistics or biostatistics or MS with suitable experience\n\n-\tUnderstanding of and experience with experimental design and\nanalysis techniques\n\n-\tExcellent problem-solving skills\n\n-\tExperience with statistical software packages such as R, JMP,\nS-Plus, SAS, MATLAB\n\n-\tStrong interpersonal skills \n\n-\tAbility to function effectively on interdisciplinary project teams\n\n-\tExcellent oral and written communication skills\n\n-\tExperience teaching statistics or working as a statistical\nconsultant\n\nIf you are interested in joining us, please email your CV and a cover letter\nto Dr. Imola Fodor, fodor.imola at gene.com.\n\n\n\nBert Gunter\nGenentech Nonclinical Biostatistics",
+      "body_snippet": "Nonclinical Biostatistics position at Genentech, South San Francisco\n\nSeptember 3, 2009\n\nGenentech has an opening for a full time position in its Nonclinical\nBiostatistics group, located in South San ",
+      "thread_id": "thread-4883c5de3cfc",
+      "thread_depth": 0,
+      "month": "2009-09"
+    },
+    {
+      "id": "msg-e687bf385934",
+      "message_id": "<040346FA7309BD439C327F97D4C4D69B077AC792@ISIS.fhcrc.org>",
+      "from_name": "Duran, Alysha M",
+      "from_email_hash": "8d6f130e18ff022eda9ea5f7884abc5f29fca4052f2d2051d1576b9c7e54bacd",
+      "date": "2009-09-08T12:54:56-07:00",
+      "subject": "[R-jobs] Fred Hutchinson Cancer Research Center - Systems Analyst/Programmer III/IV (AD-22564)",
+      "subject_clean": "[R-jobs] Fred Hutchinson Cancer Research Center - Systems Analyst/Programmer III/IV (AD-22564)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Systems Analyst /Programmer III/IV (AD-22564)\n\n \n\nAbout Us\n\n \n\nFred Hutchinson Cancer Research Center, home of three Nobel laureates,\nis an independent, nonprofit research institution dedicated to the\ndevelopment and advancement of biomedical research to eliminate cancer\nand other potentially fatal diseases. Recognized internationally for its\npioneering work in bone-marrow transplantation, the Center's four\nscientific divisions collaborate to form a unique environment for\nconducting basic and applied science. The Hutchinson Center, in\ncollaboration with its clinical and research partners, the University of\nWashington and Children's Hospital and Regional Medical Center, is the\nonly National Cancer Institute-designated comprehensive cancer center in\nthe Pacific Northwest. Join us and make a difference.\n\n \n\nResponsibilities\n\n \n\nWe are seeking an experienced Programmer/Systems Analyst.  The person\nwill join the Cancer Prevention Program providing support for the data\nanalysis of a large-scale genome-wide association study.  This\ngenome-wide scan is an NCI-funded multiple-year project with the goal to\nidentify susceptibility genes associated with cancer risk and to\ninvestigate interaction between genes and environmental factors.  The\nProgrammer/Systems Analyst will work in a multidisciplinary research\nteam.  He/she will provide programming support for management of high\ndimensional data sets, implement quality control procedures, apply\nvarious software applications, and assist with running statistical\nanalysis on high performance compute clusters.  Furthermore, the person\nwill prepare written documentation for the data management and the\nresults of data analysis. \n\n \n\nMajor Duties\n\n \n\nIn support of the research projects, the incumbent may perform one or\nmore of the following tasks in addition to other duties as assigned:\n\n \n\n1.\tParticipate in design and development of the data management\nsystem for studies. \n2.\tDesign, test, document, and maintain databases. \n3.\tDevelop, document, and maintain data cleaning procedures. \n4.\tImplement and maintain standard datasets and reports. \n5.\tPerform study-specific reporting. \n6.\tImplement various software tools, such as PLINK, BeadStudio,\nGenomeStudio, or software packages in R. \n7.\tDevelop and/or maintain user interface programs and software\ntools. \n8.\tAssist with the statistical analysis on high performance compute\ncluster.\n\nQualifications\n\n \n\nThe ideal candidate will possess the following qualifications:\nBachelor's degree in computer science or related field and two years'\nexperience as a Systems Analyst/Programmer III or equivalent; or one\nyear as a Systems Analyst/Programmer III or equivalent and a Master's\nDegree in a job-related area.  Experience with LINUX/Unix and R are\nrequired.  Knowledge of C, FORTRAN, PERL, PYTHON, Rmpi or mpi is\ndesirable.  Experience with management of complex, high-dimensional\ngenotype data is desirable.  Demonstrated ability to communicate\neffectively as part of a team. \n\n \n\n\nRecommended Qualifications\n\n\nProficient use of database management and statistical software.\nKnowledge of and experience in programming support of statistical\nanalysis and methods development, or other scientific research are\ndesired. Experience in writing program, system, and/or database\ndocumentation. \n\n \n\nTo Apply\n\n \n\nFor more information about the position and to apply, please visit the\nFred Hutchinson Cancer Research Center website at www.fhcrc.org\n<http://www.fhcrc.org/>  and search for Job# AD-22564.\n \nAlysha M. Duran\nHuman Resources Specialist/Recruiter\nFred Hutchinson Cancer Research Center\nSeattle Cancer Care Alliance\n \nPhone: (206) 667-2720\nFax: (206) 667-4051\nEmail: aduran at fhcrc.org <mailto:aduran at fhcrc.org> \n \n\nClick here to search for open positions: www.fhcrc.org\n<http://www.fhcrc.org/>  \n\nFollow new job openings on Twitter: http://twitter.com/FHCRC_Jobs\n\n\n \n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Systems Analyst /Programmer III/IV (AD-22564)\n\n \n\nAbout Us\n\n \n\nFred Hutchinson Cancer Research Center, home of three Nobel laureates,\nis an independent, nonprofit research institution dedicated to the",
+      "thread_id": "thread-e687bf385934",
+      "thread_depth": 0,
+      "month": "2009-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b51911808f40",
+      "subject": "[R-jobs] Looking for a casual contractor to write R functions and help integrate with Excel",
+      "message_count": 1,
+      "participants": [
+        "Justin Neville-Rolfe"
+      ],
+      "started": "2009-09-03T20:28:19+01:00",
+      "last_reply": "2009-09-03T20:28:19+01:00",
+      "root_message_id": "msg-b51911808f40"
+    },
+    {
+      "id": "thread-4883c5de3cfc",
+      "subject": "[R-jobs] Genentech Nonclinical Biostatistics Position in South San Francisco",
+      "message_count": 1,
+      "participants": [
+        "Bert Gunter"
+      ],
+      "started": "2009-09-08T11:21:51-07:00",
+      "last_reply": "2009-09-08T11:21:51-07:00",
+      "root_message_id": "msg-4883c5de3cfc"
+    },
+    {
+      "id": "thread-e687bf385934",
+      "subject": "[R-jobs] Fred Hutchinson Cancer Research Center - Systems Analyst/Programmer III/IV (AD-22564)",
+      "message_count": 1,
+      "participants": [
+        "Duran, Alysha M"
+      ],
+      "started": "2009-09-08T12:54:56-07:00",
+      "last_reply": "2009-09-08T12:54:56-07:00",
+      "root_message_id": "msg-e687bf385934"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2014-12",
+  "messages": [
+    {
+      "id": "msg-5cdd4327904a",
+      "message_id": "<CAAiXAJh9eK4hv6P91u2E4OWEGYmno4XH3AY+AUSG=XeZ=YKWmg@mail.gmail.com>",
+      "from_name": "Zhifa Liu",
+      "from_email_hash": "28e0020e8f6dc1e25c81ba008d01cf4d5bd8bd76e77099408a1feb1cd8cb5429",
+      "date": "2014-12-04T12:41:46-08:00",
+      "subject": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
+      "subject_clean": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Department  St Jude Children's Research Hospital Job Number  32636\n\nThe position is particularly responsible for GPU (CUDA) programming to\ntranslate statistical algorithms into R CUDA package, as well as the\nmaintenance of the R CUDA packages. The position calls for willingness to\nlearn and adapt new methods and technologies for parallel and distributed\ncomputing platforms. Please go to St Jude Children's Research Hospital to\nfind the detail info about this job\nJob Qualifications: EDUCATION REQUIREMENTS:\nMaster's degree in Computer Science, Information Technology, or related\nfield.\n\nEXPERIENCE REQUIREMENTS:\nOne (1) year of experience in software, application, and database\ndevelopment required.\n\nExperience in object-oriented programming with C/C++\nKnowledge of parallel and distributed programming.\nExperience of developing/debugging parallel or multi-threaded software\napplications.\nExperience of GPU Programming with CUDA or OpenCL .\nExperience of R and/or Matlab programming\nKnowledge of Computational Genomics is a plus.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Department  St Jude Children's Research Hospital Job Number  32636\n\nThe position is particularly responsible for GPU (CUDA) programming to\ntranslate statistical algorithms into R CUDA package, as well",
+      "thread_id": "thread-5cdd4327904a",
+      "thread_depth": 0,
+      "month": "2014-12"
+    },
+    {
+      "id": "msg-b1fa837f3933",
+      "message_id": "<CAAiXAJgXewKLhiTNVr79K0YOMHFy1b6h6AeSnN3Qm-cgdjnONg@mail.gmail.com>",
+      "from_name": "Zhifa Liu",
+      "from_email_hash": "28e0020e8f6dc1e25c81ba008d01cf4d5bd8bd76e77099408a1feb1cd8cb5429",
+      "date": "2014-12-05T13:44:05-06:00",
+      "subject": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
+      "subject_clean": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Here is the website link:\n\n\nhttps://jobs.stjude.org/css_external/CSSPage_JobDetail.ASP?T=20141205131210&\n\n\n\n\nThe position is particularly responsible for GPU (CUDA) programming to\ntranslate statistical algorithms into R CUDA package, as well as the\nmaintenance of the R CUDA packages. The position calls for willingness to\nlearn and adapt new methods and technologies for parallel and distributed\ncomputing platforms. Please go to St Jude Children's Research Hospital to\nfind the detail info about this job\nJob Qualifications: EDUCATION REQUIREMENTS:\nMaster's degree in Computer Science, Information Technology, or related\nfield.\n\nEXPERIENCE REQUIREMENTS:\nOne (1) year of experience in software, application, and database\ndevelopment required.\n\nExperience in object-oriented programming with C/C++\nKnowledge of parallel and distributed programming.\nExperience of developing/debugging parallel or multi-threaded software\napplications.\nExperience of GPU Programming with CUDA or OpenCL .\nExperience of R and/or Matlab programming\nKnowledge of Computational Genomics is a plus.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Here is the website link:\n\n\nhttps://jobs.stjude.org/css_external/CSSPage_JobDetail.ASP?T=20141205131210&\n\n\n\n\nThe position is particularly responsible for GPU (CUDA) programming to\ntranslate statistica",
+      "thread_id": "thread-b1fa837f3933",
+      "thread_depth": 0,
+      "month": "2014-12"
+    },
+    {
+      "id": "msg-543a5b587778",
+      "message_id": "<CAGfFKEuKZ8epwYTZPzipDU7KaQXQ-9zMB6q49LQKAXVCb6UAjw@mail.gmail.com>",
+      "from_name": "Jake Michaelson",
+      "from_email_hash": "9957727b55f8b5ce082e3d734ea96be4e7f46bc935d69d43d575cd88ad95f4d3",
+      "date": "2014-12-11T13:20:20-06:00",
+      "subject": "[R-jobs] Postdoctoral researcher: genome informatics in psychiatry",
+      "subject_clean": "[R-jobs] Postdoctoral researcher: genome informatics in psychiatry",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are seeking a talented and driven postdoctoral fellow to join the\nlaboratory of Jake Michaelson, PhD, assistant professor in the department\nof psychiatry at the University of Iowa.\n\nThe Michaelson lab investigates the effect of genetic variation on the\ndevelopment and function of the brain, particularly in the context of\nneurodevelopmental conditions such as autism and language impairment. Our\nwork revolves mostly around integrating information from large scale data\nsets (e.g., whole genome sequencing, RNA-seq, ChIP-seq, etc.) and deriving\ninformative features so that predictive models can be built and used to\nbetter understand the molecular basis of neurodevelopmental conditions.\n\nThis postdoctoral position will be devoted mostly to developing models that\nestimate the downstream effect of non-coding genetic variation on the brain\nin space and time.\n\n*Educational Requirements*\nDoctoral degree in human genetics, quantitative genetics, bioinformatics,\ncomputational biology, or other fields with strong quantitative skills is\nrequired.\n\n*Required Experience*\n\n   - demonstrated experience in machine learning or applied statistical\n   modeling\n   - scientific programming skills (using R) with a commitment to the\n   principles of clear documentation and reproducible research\n   - excellent verbal and written communication skills\n\n*Desired experience and skills*\n\n   - experience with databases (e.g. MySQL)\n   - demonstrated skills in effective data visualization\n   - familiarity with genome informatics concepts (e.g. software tools,\n   file formats, and workflows involved in next-generation sequencing)\n\n*Qualified candidates should apply at *\nhttps://jobs.uiowa.edu/postdoc/view/2324\n\nThe University of Iowa combines a fantastic scientific environment with a\nhealthy work-life balance. Faculty and staff living in Iowa City enjoy the\naffordability and friendliness of small town life while also benefiting\nfrom the cultural engagement and activities that come from being the home\nto a major university.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "We are seeking a talented and driven postdoctoral fellow to join the\nlaboratory of Jake Michaelson, PhD, assistant professor in the department\nof psychiatry at the University of Iowa.\n\nThe Michaelson ",
+      "thread_id": "thread-543a5b587778",
+      "thread_depth": 0,
+      "month": "2014-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-5cdd4327904a",
+      "subject": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
+      "message_count": 1,
+      "participants": [
+        "Zhifa Liu"
+      ],
+      "started": "2014-12-04T12:41:46-08:00",
+      "last_reply": "2014-12-04T12:41:46-08:00",
+      "root_message_id": "msg-5cdd4327904a"
+    },
+    {
+      "id": "thread-b1fa837f3933",
+      "subject": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
+      "message_count": 1,
+      "participants": [
+        "Zhifa Liu"
+      ],
+      "started": "2014-12-05T13:44:05-06:00",
+      "last_reply": "2014-12-05T13:44:05-06:00",
+      "root_message_id": "msg-b1fa837f3933"
+    },
+    {
+      "id": "thread-543a5b587778",
+      "subject": "[R-jobs] Postdoctoral researcher: genome informatics in psychiatry",
+      "message_count": 1,
+      "participants": [
+        "Jake Michaelson"
+      ],
+      "started": "2014-12-11T13:20:20-06:00",
+      "last_reply": "2014-12-11T13:20:20-06:00",
+      "root_message_id": "msg-543a5b587778"
+    }
+  ]
+}

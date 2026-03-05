@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2012-07",
+  "messages": [
+    {
+      "id": "msg-dd4bf864ea15",
+      "message_id": "<0B908F21-52BC-4FD0-8813-6B74767D576B@embl.de>",
+      "from_name": "Nicolas Delhomme",
+      "from_email_hash": "5edc53c30884f0c5518823dce097b16173b15bf4f6aedb2eff94170640ad71c4",
+      "date": "2012-07-10T17:37:21+02:00",
+      "subject": "[R-jobs] A position of Bioinformatician is available at Sophia Genetics (Lausanne, Switzerland).",
+      "subject_clean": "[R-jobs] A position of Bioinformatician is available at Sophia Genetics (Lausanne, Switzerland).",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Please do NOT contact me for this post. Please see below for contact details.\n\nThe company offers solutions for the secure storage and analysis of patient genome sequence information to enable its effective, confidential application to personalized healthcare. The jobholder will be involved in clinical next generation sequence (NGS) data analysis pipeline development. The candidates will be responsible for testing different open-??source solutions and tailoring for in-??house use. The applicant will be expected to read research publications and implement analysis algorithms. The successful applicant should have expertise in NGS data analysis and high volume data visualization. The applicant must be able to demonstrate excellence in the following areas: Strong programming experience in C/C++; Strong data analysis experience using R/Bioconductor, Java/Python; Unix shell programming; Experience in the analysis of high-??throughput sequencing data (preferably Solexa/Illumina and 454 sequence data); Experience in genome structural variation detection; Familiarity with Galaxy or other pipeline building system; Experience in parallel computing using clusters; The applicant should work well in a group as well as be able to move forward independently. Good documentation skills are required (flowcharts, layouts, diagrams, charts, code comments and clear code). \n\nPlease send your cover letter and CV to Zhenyu Xu (zxu at sophiagenetics.com )\n\nSophia Genetics SA \nPSE-??EPFL Campus Batiment D\nCH-??1024 Ecublens",
+      "body_snippet": "Please do NOT contact me for this post. Please see below for contact details.\n\nThe company offers solutions for the secure storage and analysis of patient genome sequence information to enable its eff",
+      "thread_id": "thread-dd4bf864ea15",
+      "thread_depth": 0,
+      "month": "2012-07"
+    },
+    {
+      "id": "msg-ca7c3d2cad06",
+      "message_id": "<A2D7C76FBBB0FC44AEEE42E6006DEACA64C91D45@PSCEMBP00103.ad.insidemedia.net>",
+      "from_name": "Simon Raper",
+      "from_email_hash": "648f3b41b03ad6652781de835eb34c213a424fda644f18f103bd05e47659049c",
+      "date": "2012-07-11T16:03:12Z",
+      "subject": "[R-jobs] (no subject)",
+      "subject_clean": "[R-jobs] (no subject)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are looking for creative problems solvers at all levels of experience who are passionate about R, statistics, visualisation and data science to join an innovative modelling team in the heart of an exciting London media agency. If you are interested please email me at simon.raper at mindshareworld.com\n\nPrivileged/Confidential Information may be contained in this message. If you\nare not the addressee indicated in this message (or responsible for delivery\nof the message to such person), you may not copy or deliver this message to \nanyone. In such case, you should destroy this message and kindly notify the\nsender by reply email. Please advise immediately if you or your employer\ndoes not consent to email for messages of this kind. Opinions, conclusions\nand other information in this message that do not relate to the official\nbusiness of the GroupM companies shall be understood as neither given nor\nendorsed by it.   GroupM companies are a member of WPP plc. For more\ninformation on our business ethical standards and Corporate Responsibility \npolicies please refer to our website at\nhttp://www.wpp.com/WPP/About/\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "We are looking for creative problems solvers at all levels of experience who are passionate about R, statistics, visualisation and data science to join an innovative modelling team in the heart of an ",
+      "thread_id": "thread-ca7c3d2cad06",
+      "thread_depth": 0,
+      "month": "2012-07"
+    },
+    {
+      "id": "msg-32c5abf0ec8d",
+      "message_id": "<CAKFxdiRS0rFAY2uMN3kq1ksaPunpSc2PXpF3UqXV+Y=-D8CO+g@mail.gmail.com>",
+      "from_name": "Kevin Wright",
+      "from_email_hash": "a8092acca5931b5d7944fadf58284290a9509c57bb38213110843ec7ce37c064",
+      "date": "2012-07-27T10:02:31-05:00",
+      "subject": "[R-jobs] Job at Pioneer Hi-Bred",
+      "subject_clean": "[R-jobs] Job at Pioneer Hi-Bred",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Pioneer Hi-Bred is seeking a Research Scientist to provide statistical\nconsulting and statistical programming to support and enable\nexperimental planning, data analysis and statistics research in the\nModeling and Statistical Methods group.\n\nMore details can be found here:\nhttps://sjobs.brassring.com/1033/ASP/TG/cim_jobdetail.asp?partnerid=162&siteid=5152&jobid=618972\n\n-- \nKevin Wright",
+      "body_snippet": "Pioneer Hi-Bred is seeking a Research Scientist to provide statistical\nconsulting and statistical programming to support and enable\nexperimental planning, data analysis and statistics research in the\n",
+      "thread_id": "thread-32c5abf0ec8d",
+      "thread_depth": 0,
+      "month": "2012-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-dd4bf864ea15",
+      "subject": "[R-jobs] A position of Bioinformatician is available at Sophia Genetics (Lausanne, Switzerland).",
+      "message_count": 1,
+      "participants": [
+        "Nicolas Delhomme"
+      ],
+      "started": "2012-07-10T17:37:21+02:00",
+      "last_reply": "2012-07-10T17:37:21+02:00",
+      "root_message_id": "msg-dd4bf864ea15"
+    },
+    {
+      "id": "thread-ca7c3d2cad06",
+      "subject": "[R-jobs] (no subject)",
+      "message_count": 1,
+      "participants": [
+        "Simon Raper"
+      ],
+      "started": "2012-07-11T16:03:12+00:00",
+      "last_reply": "2012-07-11T16:03:12+00:00",
+      "root_message_id": "msg-ca7c3d2cad06"
+    },
+    {
+      "id": "thread-32c5abf0ec8d",
+      "subject": "[R-jobs] Job at Pioneer Hi-Bred",
+      "message_count": 1,
+      "participants": [
+        "Kevin Wright"
+      ],
+      "started": "2012-07-27T10:02:31-05:00",
+      "last_reply": "2012-07-27T10:02:31-05:00",
+      "root_message_id": "msg-32c5abf0ec8d"
+    }
+  ]
+}

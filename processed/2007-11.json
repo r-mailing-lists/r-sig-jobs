@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2007-11",
+  "messages": [
+    {
+      "id": "msg-c07eb258c51a",
+      "message_id": "<8942AAB276A3D645B013939D95119CE5075914DC8B@EXIRV01.am.edwards.lcl>",
+      "from_name": "Janine Long",
+      "from_email_hash": "2aac792a0895221b65c5e946021a8c08a92ea903e4dca506b8da4eeb10ed88b1",
+      "date": "2007-11-02T07:13:51-07:00",
+      "subject": "[R-jobs] Splus/R Programmer- Edwards Lifesciences in Irvine, CA",
+      "subject_clean": "[R-jobs] Splus/R Programmer- Edwards Lifesciences in Irvine, CA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Statistical Programmer (SAS or Splus/R)\n\nAbout the Company:\nEdwards Lifesciences (NYSE: EW) is a global leader in products and technologies to treat advanced cardiovascular disease, the global leader in acute hemodynamic monitoring and the number-one heart valve company in the world.  Headquartered in Irvine, California, Edwards has more than 5,000 employees' worldwide, selling medical technologies in more than 100 countries.  Edwards Lifesciences leverages its research, design, development and marketing expertise through five main product categories: Heart Valve Therapy, Critical Care, Cardiac Surgery, Vascular Therapy, and Percutaneous Heart Valve Interventions.\n\nFor us, saving lives is not just a slogan; it's what we do. From developing devices that keep a heart pumping to creating new technology that monitor vital signs in the critical care setting, we help ensure that patients not only wake up the next morning, but also regain their activity.\n\n\n\n\n\nOpportunity Snapshot:\nBe a part of a dynamic biostatistical group using the latest statistical and programming techniques to collaborate in industry-leading cardiovascular research.  Use your skills to manage, analyze, and present clinical data from trials involving heart valve repair/replacement, peripheral vascular interventions, and critical care monitoring.  Take this opportunity to be a part of an exciting company on the cutting edge of the fight against heart disease!\n\nResponsibilities:\n\n *   Develop, test, validate, document, maintain and execute programs in SAS or Splus/R in the Clinical Affairs department.\n *   Prepare, document, and review data listings, summary tables, and graphs for inclusion in clinical reports or presentations.\n *   Collaborate with senior statisticians to prepare analysis datasets. Ensure analysis data and programming code meet regulatory and company standards and are consistently structured to permit efficient programming, reporting, and review.\n *   Work with company team members and respond to data requests.\n *   Perform quality assurance procedures on statistical data and programs.\n\nRequirements:\n\n *   Minimum of three (3) years of solid full-time SAS programming experience, ideally with clinical data. Senior Statistical Programmers require a minimum of five (5) years full-time SAS experience in the clinical environment.\n *   BS or MS degree, in Mathematics, Statistics, or Computer Science. A Master's degree in statistics is preferred.\n *   Knowledge of UNIX and Windows operating systems required.\n *   Good oral and written communication skills essential.\n *   In order to be considered for this position you must be authorized to work in the United States, sponsorship will not be provided for this opportunity.\n *   This is a full-time opportunity\n\n\nHow to Apply:\n\nAt Edwards Lifesciences, we want you to have as much information as possible before making an important career decision. To find out more about this role and the opportunity it offers, please visit our website:\nwww.edwards.com<http://www.edwards.com>\n\nOR\n\nTo apply directly to this position, please click the link below or cut and paste it into your browser:\nhttp://www.edwards.com/Careers/reqfinder?urlvariablestring=2420\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Statistical Programmer (SAS or Splus/R)\n\nAbout the Company:\nEdwards Lifesciences (NYSE: EW) is a global leader in products and technologies to treat advanced cardiovascular disease, the global leader ",
+      "thread_id": "thread-c07eb258c51a",
+      "thread_depth": 0,
+      "month": "2007-11"
+    },
+    {
+      "id": "msg-2f6816f5bfc3",
+      "message_id": "<474D7DA6.3000804@embl.de>",
+      "from_name": "Julien Gagneur",
+      "from_email_hash": "92e061931dcbf00a2e950209d192c734ac2c1f39f5fcf1e9d7bd732d157df2bd",
+      "date": "2007-11-28T15:39:34+01:00",
+      "subject": "[R-jobs] Bioinformatician / Statistician position at EMBL Heidelberg",
+      "subject_clean": "[R-jobs] Bioinformatician / Statistician position at EMBL Heidelberg",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Bioinformatician / Statistician\n\nGrade: 5 or 6, depending on experience and qualifications\n\nEMBL site: EMBL Heidelberg\n\nCommencing date: 1 March 2008\n\nJob description: We are seeking a highly motivated Bioinformatician / \nStatistician to work in the Centre for High Throughput Functional \nGenomics. The position involves statistical and bioinformatic analysis \nof genome wide datasets and support in experimental design.\n\nQualifications and experience: The ideal applicant should have an \nappropriate university degree in computer science and/or statistics. \nExtensive experience in bioinformatics, statistical analysis of large \ndatasets as well as good statistical programming skills are required. \nPrior experience with analysis of genome wide datasets and the \nprogramming language R is an advantage. The post holder should be able \nto work independently and interact well within a team environment. Good \ncommunication and interpersonal skills as well as a working knowledge of \nEnglish are essential.\n\nContract: A contract of 3 years will be offered to the successful \ncandidate. This can be renewed, depending on circumstances at the time \nof the review.\n\nClosing date: 9 December 2007\n\nWeb page: http://www.embl.de\n\nEMBL is an inclusive, equal opportunity employer offering attractive \nconditions and benefits appropriate to an international research \norganisation.\n\nPlease note that EMBL does not return CVs or attached documents to \napplicants.\n\nTo apply, please send a CV (including names and addresses of references) \nand a covering letter, by e-mail, quoting ref. no. W/07/174 in the \nsubject line, to: application at embl.de\n\nPersonnel, EMBL, Postfach 10.2209, 69012 Heidelberg, Germany.\n\nFax: +49 6221 387555       E-mail:  application at embl.de\n-- \nJulien Gagneur\nEMBL/HTFG Center\nTel: +49-(0)6221-387-8433\nFax: +49-(0)6221-387-8166\nEmail: julien.gagneur at embl.de\n\nRoom 62\nMeyerhofstrasse 1\nD-69117 Heidelberg\nGermany",
+      "body_snippet": "Bioinformatician / Statistician\n\nGrade: 5 or 6, depending on experience and qualifications\n\nEMBL site: EMBL Heidelberg\n\nCommencing date: 1 March 2008\n\nJob description: We are seeking a highly motivate",
+      "thread_id": "thread-2f6816f5bfc3",
+      "thread_depth": 0,
+      "month": "2007-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c07eb258c51a",
+      "subject": "[R-jobs] Splus/R Programmer- Edwards Lifesciences in Irvine, CA",
+      "message_count": 1,
+      "participants": [
+        "Janine Long"
+      ],
+      "started": "2007-11-02T07:13:51-07:00",
+      "last_reply": "2007-11-02T07:13:51-07:00",
+      "root_message_id": "msg-c07eb258c51a"
+    },
+    {
+      "id": "thread-2f6816f5bfc3",
+      "subject": "[R-jobs] Bioinformatician / Statistician position at EMBL Heidelberg",
+      "message_count": 1,
+      "participants": [
+        "Julien Gagneur"
+      ],
+      "started": "2007-11-28T15:39:34+01:00",
+      "last_reply": "2007-11-28T15:39:34+01:00",
+      "root_message_id": "msg-2f6816f5bfc3"
+    }
+  ]
+}

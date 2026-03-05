@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2010-11",
+  "messages": [
+    {
+      "id": "msg-d4eca771a249",
+      "message_id": "<CB5A8FE9897E814A88C3B63830DC42C003ECABC36899@Jupiter2.atlas.local>",
+      "from_name": "Joe O",
+      "from_email_hash": "d2d26eb89f989a9d0365b3605c4a50a7bec2288d17c7d445fb0d7067d897f8d6",
+      "date": "2010-11-16T10:41:58-06:00",
+      "subject": "[R-jobs] R consultant needed!",
+      "subject_clean": "[R-jobs] R consultant needed!",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Greetings!\n\nI have funding for some short term R consulting.\n\nI have written a spec for an NxN euclidean distance function I need implemented in R.\n\nIt doesn't matter where you live, as long as we can converse (in English) over\nIM or email, and collaborate on the source code over Git.\n\nOther opportunities might arise, depending on how this goes.\n\nFor more information, please contact jo5729 at nododos.com\n\nThanks!\n--Joe",
+      "body_snippet": "Greetings!\n\nI have funding for some short term R consulting.\n\nI have written a spec for an NxN euclidean distance function I need implemented in R.\n\nIt doesn't matter where you live, as long as we can",
+      "thread_id": "thread-d4eca771a249",
+      "thread_depth": 0,
+      "month": "2010-11"
+    },
+    {
+      "id": "msg-9f93a3ba4e87",
+      "message_id": "<ECBDD2620D45F74C9B4AA3DBA750C5800C76C9BE@Exchange>",
+      "from_name": "Samuel Le",
+      "from_email_hash": "68ac0456154c7e6df26a9b0d0964300adb94f95edf8df9bde5cd10453f0cda01",
+      "date": "2010-11-29T19:27:39Z",
+      "subject": "[R-jobs] job offer of Quantitative Developper",
+      "subject_clean": "[R-jobs] job offer of Quantitative Developper",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Overview\n\nStatistical Research Laboratory (SRL) is an established hedge fund and asset management technology company based in London and New York, with significant mandates to provide cutting edge technology solutions to leading investment companies.\n\nA highly experienced Quantitative Developer is required to support a rapidly evolving Statitisical Research project based on R. The Quantitative Developer will report to the Head of the Statistical Research Team.\n\nYou will be the dedicated resource for the development environment team of 10 developers. User requirements change frequently, and as such you will have to be able to adapt and absorb a new environment or technology rapidly. Also, since the components are clearly separated, the ability to work independently is very important, as is the ability to manage a high work load during several key moments of the product life cycle.\n\nResponsibilities\n\nYou will be responsible for designing/developing modularised statistical libraries based on a user function specification. You will communicate with the java front-end and server developers to clearly specify the statistical functions required by the Nexus software development.\n\nCandidate Requirements\n\nEssential:\n\n*       Staistical Lanaguage : R, Splus or Matlab\n\nDesirable:\n\n*       Master degress or PHD in Statistics or Mathematics\n*       knowledge of financial modeling\n*       Working with versioned file system (subversion or CVS)\n*       Experience of working in Linux environment\n\nGeneral skills / attributes\n\n*       Effective communication : have the ability to express your ideas clearly to the team members\n*       Writing skills : a basic level is required to document the technical aspects of the components\n*       Motivation: highly motivated and comfortable in handling pressure\n*       Familiar with developing production quality software\n\nCandidate must be eligible to work in the UK\n\nPlease contact samuel.le at srlglobal.com\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Overview\n\nStatistical Research Laboratory (SRL) is an established hedge fund and asset management technology company based in London and New York, with significant mandates to provide cutting edge tec",
+      "thread_id": "thread-9f93a3ba4e87",
+      "thread_depth": 0,
+      "month": "2010-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d4eca771a249",
+      "subject": "[R-jobs] R consultant needed!",
+      "message_count": 1,
+      "participants": [
+        "Joe O"
+      ],
+      "started": "2010-11-16T10:41:58-06:00",
+      "last_reply": "2010-11-16T10:41:58-06:00",
+      "root_message_id": "msg-d4eca771a249"
+    },
+    {
+      "id": "thread-9f93a3ba4e87",
+      "subject": "[R-jobs] job offer of Quantitative Developper",
+      "message_count": 1,
+      "participants": [
+        "Samuel Le"
+      ],
+      "started": "2010-11-29T19:27:39+00:00",
+      "last_reply": "2010-11-29T19:27:39+00:00",
+      "root_message_id": "msg-9f93a3ba4e87"
+    }
+  ]
+}

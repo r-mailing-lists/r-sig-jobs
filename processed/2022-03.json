@@ -1,0 +1,40 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2022-03",
+  "messages": [
+    {
+      "id": "msg-17ee7a05ad04",
+      "message_id": "<CY4PR22MB032538BF61EA2AE60D23A236BD189@CY4PR22MB0325.namprd22.prod.outlook.com>",
+      "from_name": "Jobs at IMS, Inc.",
+      "from_email_hash": "3fbdf74e0a63f5679a85209f2ab005911c838e3c6d03623ab4d52562b22414e5",
+      "date": "2022-03-23T19:21:49Z",
+      "subject": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "subject_clean": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "in_reply_to": "<MWHPR22MB07043E81773E01D4AF7CB5E7A6279@MWHPR22MB0704.namprd22.prod.outlook.com>",
+      "references": [
+        "<02860a80d8cf48d982a1a6ec8ad149fd@THALASSA.omni.imsweb.com>",
+        "<c2c72e1e2fa44dcfa627043922f145c9@THALASSA.omni.imsweb.com>",
+        "<MWHPR22MB07043E81773E01D4AF7CB5E7A6279@MWHPR22MB0704.namprd22.prod.outlook.com>"
+      ],
+      "body_plain": "Looking for a collaborative, fun company with room for growth?\n\n\n\nIMS, Inc. is a recognized leader in the biomedical IT field, with clients including the NCI, CDC, & major pharmaceutical firms. We are a diverse group of people with a focus on product quality, customer satisfaction, & enjoying what we do. We have a relaxed, friendly work environment, where employees are recognized for the work that they do. Add to that work/life balance, social events, casual dress, & no cubicles- that's why many employees have stayed with us.\n\n\n\nJoin us as a Statistician/Programmer & see what makes IMS such a unique place to work!\n\n\n\nAs a Statistician/Programmer, you will:\n\n  *   Collaborate with nationally recognized counterparts at the National Cancer Institute (NCI) and support NCI's work in studying genomics, cancer rates, determinants of cancer, cancer treatment, and prevention\n  *   Conduct statistical analyses as well as interpret and publish their results\n  *   Develop statistical methods and data analysis procedures to analyze genomic studies, observational studies, intervention, trials, and laboratory studies\n  *   Work with cohort and case/control studies as well as population-based data sources to model trends in incidence, mortality, and survival, relating those trends to changes in risk factors and control practices in the population\n  *   Perform other statistical related duties as assigned\n\n\n\nTo be eligible for this position, you must meet the following requirements:\n\n  *   MS or PhD in Stat or related field from an institution considered accredited by U.S. DOE, with a 2.9+ GPA\n  *   0-5 years of related professional experience\n  *   Experience with genetic analysis preferred\n  *   Knowledge of R\n  *   Knowledge of software development methodology\n  *   Knowledge of genetic research a plus\n  *   Knowledge of SAS, C, C++, and other higher level programming languages preferred\n  *   Familiarity with modern biostatistical analysis techniques including spatial analysis and survival analysis methods\n  *   Demonstrated strong verbal and written communication skills\n  *   Demonstrated ability to relay technical information to clients and users in layman terms\n  *   Demonstrated strong problem-solving and analytical skills\n  *   Excellent attention to detail and organization skills\n  *   Must be able to multi-task, meet deadlines, and work within a team\n\n\n\nIf this sounds like the right position for your career, apply today at: https://www.imsweb.com/employment/job.description.php?position=26577.\n\n\nIMS is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, protected veteran status, or other characteristic protected by applicable law.\n\n\n________________________________\n\nInformation in this e-mail may be confidential. It is intended only for the addressee(s) identified above. If you are not the addressee(s), or an employee or agent of the addressee(s), please note that any dissemination, distribution, or copying of this communication is strictly prohibited. If you have received this e-mail in error, please notify the sender of the error.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Looking for a collaborative, fun company with room for growth?\n\n\n\nIMS, Inc. is a recognized leader in the biomedical IT field, with clients including the NCI, CDC, & major pharmaceutical firms. We are",
+      "thread_id": "thread-17ee7a05ad04",
+      "thread_depth": 0,
+      "month": "2022-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-17ee7a05ad04",
+      "subject": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "message_count": 1,
+      "participants": [
+        "Jobs at IMS, Inc."
+      ],
+      "started": "2022-03-23T19:21:49+00:00",
+      "last_reply": "2022-03-23T19:21:49+00:00",
+      "root_message_id": "msg-17ee7a05ad04"
+    }
+  ]
+}

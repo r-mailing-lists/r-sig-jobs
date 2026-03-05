@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2014-01",
+  "messages": [
+    {
+      "id": "msg-861baea86bce",
+      "message_id": "<000001cf0ca6$03657940$0a306bc0$@com>",
+      "from_name": "Barbara ONeill",
+      "from_email_hash": "1db8c87cd714f269eb362b100934809f42ca0be35e4b14c39a00f950a276b92e",
+      "date": "2014-01-08T12:15:35-07:00",
+      "subject": "[R-jobs] Statistical and Risk Consultant",
+      "subject_clean": "[R-jobs] Statistical and Risk Consultant",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Statistical and Risk Consultant\nJanuary 2013\n\nWe are currently looking for a motivated and talented Statistical and Risk\nConsultant who desires to use quantitative skills to make a difference in\nreal-life problems. \n\nRequired qualifications:\n-\tAdvanced degree (MSc. or PhD) in applied statistics, or proven\nequivalent experience;\n-\tAt least 2 years of working experience in quantitative modeling;\n-\tAt least 2 years of demonstrable experience and/or training in\nmulti-level modeling and spatial statistics;\n-\tCapable of creative and applied thinking;\n-\tExcellent communication skills, both oral and in writing;\n-\tAbility to deliver on time and under tight deadlines.\n\nDesired qualifications:\n-\tDemonstrable experience applying advanced statistical models (e.g.\nmixed effects, hierarchical, Bayesian modeling);\n-\tExperience with Monte Carlo simulation and/or other simulation\nmodeling methods\n-\tWorking knowledge of the R statistical language, VBA and/or other\nstatistical programming environments;\n-\tExperience with Monte Carlo simulation Excel Add-ins (e.g. @RISK,\nCrystal Ball);\n-\tExperience working in a private/consulting environment;\n\nFounded in 2003, EpiX Analytics provides pragmatic answers to decision\nmakers using sound quantitative methods. We are interested in hiring\nprofessionals who are passionate about being on the cutting edge of\nquantitative modeling and analytical methods and would enjoy helping a\ndiverse portfolio of clients and work (ranging from oil & gas and\nmanufacturing to pharmaceuticals and food safety & health) with a diverse\nand accomplished team.\n\nIf you have a desire to help our clients solve complex issues, and want to\nbe a part of an organization that is committed to your growth and\ndevelopment, please send a resume and cover letter to\ncareers at epixanalytics.com. \n\nThe finally selected applicant(s) will be required to pass a background\ncheck.\n\n\nBest regards,\nBarbara O?Neill\nOffice Manager\nEpiX Analytics \nPhone: +1 303 440 8524? |?? Fax: +1 303 440 0320 \n1643 Spruce Street, Boulder, CO, 80302, USA \nwww.EpiXAnalytics.com? |? boneill at epixanalytics.com\n\n?\n?",
+      "body_snippet": "Statistical and Risk Consultant\nJanuary 2013\n\nWe are currently looking for a motivated and talented Statistical and Risk\nConsultant who desires to use quantitative skills to make a difference in\nreal-",
+      "thread_id": "thread-861baea86bce",
+      "thread_depth": 0,
+      "month": "2014-01"
+    },
+    {
+      "id": "msg-65daaaff352b",
+      "message_id": "<52D3E46F.3080900@oncology.ox.ac.uk>",
+      "from_name": "Francesca Buffa",
+      "from_email_hash": "08fc7a2780b75ae496535a1ad78a2fc5e1c7811cc3d12c4b3b7ab32fde2e53c9",
+      "date": "2014-01-13T13:04:47Z",
+      "subject": "[R-jobs] position available University of Oxford",
+      "subject_clean": "[R-jobs] position available University of Oxford",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*\n***\nBioinformatics/Statistics**Postdoctoral Researcher\n**University of Oxford, UK*  *\n\nAn exciting opportunity has arisen for a Bioinformatics/Statistics \nPostdoctoral Researcher to join the Department of Oncology. The work \nwill involve the integration of bioinformatics and genome-wide \ndata-mining approaches with cancer physiological models, to develop \ntools for clinical decision making. The postholder will be involved in \ndevelopment and implementation of data-mining methods, as well as \nanalysis of samples from clinical studies and a wide range of \nexperimental model systems.\n\nFurther information and instructions to apply can be found at the link\n\nhttp://www.nature.com/naturejobs/science/jobs/366261-bioinformatician-statistician\n\nPlease use reference ID when applying for the position: 111350\n\nPlease note deadline for applications: 24th January 2014\n\n-- \n\nFrancesca Meteora Buffa, PhD\nApplied Computational Genomics Group Leader\nDepartment of Oncology, University of Oxford. Old Road Campus Research Building, Oxford, OX3 7DQ.\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*\n***\nBioinformatics/Statistics**Postdoctoral Researcher\n**University of Oxford, UK*  *\n\nAn exciting opportunity has arisen for a Bioinformatics/Statistics \nPostdoctoral Researcher to join the Departm",
+      "thread_id": "thread-65daaaff352b",
+      "thread_depth": 0,
+      "month": "2014-01"
+    },
+    {
+      "id": "msg-a596c5e2ca39",
+      "message_id": "<CAMWAfS42196ACfC_G7zSXgj9H5JioEjCp=y7CcjV8AXS+__cBA@mail.gmail.com>",
+      "from_name": "Konrad Banachewicz",
+      "from_email_hash": "f9292bb17728a15fc04e292b6d25033d872f1e020f283533f566e7bef13b23b3",
+      "date": "2014-01-17T15:04:55+01:00",
+      "subject": "[R-jobs] Quantitative R developer in Amsterdam",
+      "subject_clean": "[R-jobs] Quantitative R developer in Amsterdam",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\nThe company is in the final stages of implementing in a production\nenvironment it economic capital model in\norder to comply with Solvency II using a partial internal model. The core\nmodelling infrastructure consist of component written in R for pre-\nand post- processing, and a Java component for Monte Carlo simulation and\napplying risk mitigation (reinsurance).\nWe are looking for the right person to complement the development team. The\nposition is based in Amsterdam.\n\nTasks:\n\n-         Implement data (pre-)processing for ORSA reporting in  R\n\n-         Contribute to final testing.\n\n-         Act as a quantitative development expert for the team.\n\n-         Facilitate in handover of knowledge to new quantitative\ndevelopers of the team.\n\n\n\nKey skills:\n\n-         Minimum of 3 years experience developing quantitative code.\n\n-         Needs to have R experience.\n\n-         Strong analytic skills (university level maths, physics,\nengineering, etc.). A PhD is a plus.\n\n-         Strong, proven programming skills.\n\n-         Good understanding of statistics and probability theory.\n\n-         Experience with numerical programming and optimisation.\n\n-         Familiarity with regulatory requirements (Solvency II, Basel II /\nIII) is a plus.\n\n-         Familiarity with Credit Portfolio models is a plus.\n\n-         SQL experience\n\nregards,\nKonrad\n\nFor additional information contact:\nKonrad Banachewicz, PhD\nemail: konrad.banachewicz at gmail.com\nlinkedin: nl.linkedin.com/pub/konrad-banachewicz/2/957/887/\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\n\nThe company is in the final stages of implementing in a production\nenvironment it economic capital model in\norder to comply with Solvency II using a partial internal model. The core\nmodelling ",
+      "thread_id": "thread-a596c5e2ca39",
+      "thread_depth": 0,
+      "month": "2014-01"
+    },
+    {
+      "id": "msg-6fcfed15ec1d",
+      "message_id": "<3D44C7EF-0C71-4116-9CD4-DC7826ECCA06@oracle.com>",
+      "from_name": "Michael Haupt",
+      "from_email_hash": "cc8cb690c3c9b7077bfd044c387475c200cf8b87f656a8f90ceada0026de7cf1",
+      "date": "2014-01-23T10:20:45+01:00",
+      "subject": "[R-jobs] internship at Oracle Labs",
+      "subject_clean": "[R-jobs] internship at Oracle Labs",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nwe are offering an internship position at Oracle Labs, in Redwood Shores (CA) or Potsdam (Germany). An outline of the job description can be found below. Additional details can be found at https://irecruitment.oracle.com (search for IRC2419637).\n\nBest regards,\n\nMichael Haupt\n\n\"In the context of the Alphabet Soup project, Oracle Labs is contributing to an open-source optimised implementation of the R programming language and environment called FastR. The R environment has powerful support for plotting and graphics. This internship position should focus on providing an initial version of this functionality. The work to be done involves implementing graphics primitives and higher-level plotting routines. The programming language used is Java; the FastR implementation is based on the Truffle framework for AST-based interpretation. Applicants should have excellent Java programming skills. A background in language implementation is beneficial, as is a solid understanding of R and graphics.\"\n\n-- \nDr. Michael Haupt\nPrincipal Member of Technical Staff\nPhone: +49 331 200 7277, Fax: +49 331 200 7561\nOracle Labs\nOracle Deutschland B.V. & Co. KG, Schiffbauergasse 14, 14467 Potsdam, Germany",
+      "body_snippet": "Dear all,\n\nwe are offering an internship position at Oracle Labs, in Redwood Shores (CA) or Potsdam (Germany). An outline of the job description can be found below. Additional details can be found at ",
+      "thread_id": "thread-6fcfed15ec1d",
+      "thread_depth": 0,
+      "month": "2014-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-861baea86bce",
+      "subject": "[R-jobs] Statistical and Risk Consultant",
+      "message_count": 1,
+      "participants": [
+        "Barbara ONeill"
+      ],
+      "started": "2014-01-08T12:15:35-07:00",
+      "last_reply": "2014-01-08T12:15:35-07:00",
+      "root_message_id": "msg-861baea86bce"
+    },
+    {
+      "id": "thread-65daaaff352b",
+      "subject": "[R-jobs] position available University of Oxford",
+      "message_count": 1,
+      "participants": [
+        "Francesca Buffa"
+      ],
+      "started": "2014-01-13T13:04:47+00:00",
+      "last_reply": "2014-01-13T13:04:47+00:00",
+      "root_message_id": "msg-65daaaff352b"
+    },
+    {
+      "id": "thread-a596c5e2ca39",
+      "subject": "[R-jobs] Quantitative R developer in Amsterdam",
+      "message_count": 1,
+      "participants": [
+        "Konrad Banachewicz"
+      ],
+      "started": "2014-01-17T15:04:55+01:00",
+      "last_reply": "2014-01-17T15:04:55+01:00",
+      "root_message_id": "msg-a596c5e2ca39"
+    },
+    {
+      "id": "thread-6fcfed15ec1d",
+      "subject": "[R-jobs] internship at Oracle Labs",
+      "message_count": 1,
+      "participants": [
+        "Michael Haupt"
+      ],
+      "started": "2014-01-23T10:20:45+01:00",
+      "last_reply": "2014-01-23T10:20:45+01:00",
+      "root_message_id": "msg-6fcfed15ec1d"
+    }
+  ]
+}

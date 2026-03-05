@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2010-12",
+  "messages": [
+    {
+      "id": "msg-0ac1a7f07b07",
+      "message_id": "<AANLkTimuTCmnDFnK2dm9Hb6cTXrVmG-Prz1SAGwyO4vy@mail.gmail.com>",
+      "from_name": "A.J. Rossini",
+      "from_email_hash": "ccffcd8086e98cd586393597c6e5cca8b8136bdfff3eb4c842e4829a61b703d6",
+      "date": "2010-12-10T10:46:37+01:00",
+      "subject": "[R-jobs] Statistics and Bioinformatics Positions, Novartis Molecular Diagnostics, Cambridge MA USA and Basel, Switzerland",
+      "subject_clean": "[R-jobs] Statistics and Bioinformatics Positions, Novartis Molecular Diagnostics, Cambridge MA USA and Basel, Switzerland",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all -\n\n   My group at Novartis is looking for statisticians,\n   bioinformaticians, or R programmers to support molecular\n   diagnostics, with open positions in Cambridge MA, USA (priority)\n   and in Basel Switzerland (possible).  We do a range of data\n   analyses across product lifecycle (research, tech dev, clin dev,\n   market access) to support the development of prognostic and\n   predictive diagnostics.\n\n   And of course, our main computational platform is R (using Emacs /\n   ESS / org-mode for workflow, SNOW and add-ons for computation,\n   etc), on a mixture of Microsoft and Linux workstations and\n   clusters.\n\n   Knowledge of \"classic\" experimental design/DoE methods,\n   bioinformatics (BioConductor), and visualization is required.\n   Experience in IVD development is a big plus, strong R programming\n   skills including working knowledge of ggplot2, plyr, reshape;\n   awareness of BioConductor is required.  Must be client and team\n   oriented, willing to use SAS and similar other tools as needed to\n   get the job done.  Communication skills are important.  Interest\n   and awareness of Common Lisp and Knowledge Management, is a plus.\n\n   If the description is interesting and you think you can fill the\n   requirements, please consider applying electronically on the\n   Novartis careers WWW site\n   http://www.novartis.com/careers/job-search/brassring/index.shtml\n\n   More details and requirements can be found on the above site by\n   searching by Job ID,\n\n   72289BR (Cambridge)\n   69554BR (Switzerland)\n\n   If there are questions about details after reading this email and\n   the position descriptions, I can be contacted directly.\n\n\nbest,\n-tony\n\nblindglobe at gmail.com\nMuttenz, Switzerland.\n\"Commit early,commit often, and commit in a repository from which we\ncan easily roll-back your mistakes\" (AJR, 4Jan05).\n\nDrink Coffee:? Do stupid things faster with more energy!",
+      "body_snippet": "Dear all -\n\n   My group at Novartis is looking for statisticians,\n   bioinformaticians, or R programmers to support molecular\n   diagnostics, with open positions in Cambridge MA, USA (priority)\n   and",
+      "thread_id": "thread-0ac1a7f07b07",
+      "thread_depth": 0,
+      "month": "2010-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0ac1a7f07b07",
+      "subject": "[R-jobs] Statistics and Bioinformatics Positions, Novartis Molecular Diagnostics, Cambridge MA USA and Basel, Switzerland",
+      "message_count": 1,
+      "participants": [
+        "A.J. Rossini"
+      ],
+      "started": "2010-12-10T10:46:37+01:00",
+      "last_reply": "2010-12-10T10:46:37+01:00",
+      "root_message_id": "msg-0ac1a7f07b07"
+    }
+  ]
+}

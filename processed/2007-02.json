@@ -1,0 +1,252 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2007-02",
+  "messages": [
+    {
+      "id": "msg-5b279361c41c",
+      "message_id": "<71257D09F114DA4A8E134DEAC70F25D307779D32@groamrexm03.amer.pfizer.com>",
+      "from_name": "Kuhn, Max",
+      "from_email_hash": "9c6379865233ec4e1197b3927b6b49a940d68d7bf51cdc52fff0520d10de2b42",
+      "date": "2007-02-08T11:30:01-05:00",
+      "subject": "[R-jobs] R-sig-jobs",
+      "subject_clean": "[R-jobs] R-sig-jobs",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "This is a Special Interest Group (SIG) for job postings related to R\nprogramming.\n\nPlease follow these rules when posting messages to R-sig-jobs:\n\n    * Send messages as plain text (as opposed to HTML or RTF).\n    * Please provide short position summaries and links to the real job\nposting. If the description is not long, it is permissible to include it\nin the body.\n    * Please do not use attachments for the position descriptions. \n\n----------------------------------------------------------------------\nLEGAL NOTICE\\ Unless expressly stated otherwise, this messag...{{dropped}}",
+      "body_snippet": "This is a Special Interest Group (SIG) for job postings related to R\nprogramming.\n\nPlease follow these rules when posting messages to R-sig-jobs:\n\n    * Send messages as plain text (as opposed to HTML",
+      "thread_id": "thread-5b279361c41c",
+      "thread_depth": 0,
+      "month": "2007-02"
+    },
+    {
+      "id": "msg-ff72de1dd077",
+      "message_id": "<45CC45DA.9080709@mango-solutions.com>",
+      "from_name": "Romain Francois",
+      "from_email_hash": "942f5b6015291131c7242e1461320c61ef17e95f73c5d935252141e25483c9ca",
+      "date": "2007-02-09T09:58:50Z",
+      "subject": "[R-jobs] R/S Programmer - Mango Solutions (UK)",
+      "subject_clean": "[R-jobs] R/S Programmer - Mango Solutions (UK)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Mango Solutions, providers of R and S-PLUS consulting, systems \ndevelopment and Training Services, are looking for a R/S Programmer to \njoin their UK - Wiltshire based technical team. We are looking for \nhighly motivated individuals to work in a customer-focused environment.\n\nThis is a unique opportunity to develop within a dynamic company which \nhas been expanding rapidly and profitably since it's inception in 2002. \nMango Solutions have an excellent reputation for quality work, and \ncustomers include major finance, pharmaceutical, marketing and consumer \ncompanies. For further information, please send your CV to \ncareers at mango-solutions.com\n\n\nThe role\n\n* To provide ad-hoc programming services to customers.\n* To create and deliver tailored software applications and libraries to \nclients worldwide.\n* Provide programming services to customers.\n* To participate in the design and implementation of bespoke data \nreporting applications.\n\n\nQualifications\n\n* Knowledge of statistical languages: S-PLUS, R or Matlab.\n* Excellent communication skills.\n* Experience of general software systems is an advantage (eg. Java, \n.NET, Oracle, C, XML, HTML, ?).\n* Experience of programming within a regulated environment an advantage\n\n\nOffering\n\n* Opportunity to extend your technical knowledge while working in \nalongside commercial clients.\n* Great variety of work, with customers from pharmaceutical, finance, \nCRM, consumer and environmental sectors.\n* Flexible working environment and working hours.\n* Competitive salary ?24-?35k including benefits depending on experience.\n\n\n-- \nMango Solutions\nTel +44 1249 467 467\nFax +44 1249 467 468\nMob +44 7813 526 123\ndata analysis that delivers\n\nR Site Search extension for firefox\nhttp://addictedtor.free.fr/rsitesearch",
+      "body_snippet": "Mango Solutions, providers of R and S-PLUS consulting, systems \ndevelopment and Training Services, are looking for a R/S Programmer to \njoin their UK - Wiltshire based technical team. We are looking f",
+      "thread_id": "thread-ff72de1dd077",
+      "thread_depth": 0,
+      "month": "2007-02"
+    },
+    {
+      "id": "msg-8aa32e549ab8",
+      "message_id": "<45CC4644.5090000@mango-solutions.com>",
+      "from_name": "Romain Francois",
+      "from_email_hash": "942f5b6015291131c7242e1461320c61ef17e95f73c5d935252141e25483c9ca",
+      "date": "2007-02-09T10:00:36Z",
+      "subject": "[R-jobs] Senior R/S Programmer - Mango Solutions (UK)",
+      "subject_clean": "[R-jobs] Senior R/S Programmer - Mango Solutions (UK)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Mango Solutions, providers of R and S-PLUS consulting, systems \ndevelopment and Training Services, are looking for a senior R/S \nProgrammer to join their UK - Wiltshire based technical team. We are \nlooking for highly motivated individuals to work in a customer-focused \nenvironment.\n\nThis is a unique opportunity to develop within a dynamic company which \nhas been expanding rapidly and profitably since it's inception in 2002. \nMango Solutions have an excellent reputation for quality work, and \ncustomers include major finance, pharmaceutical, marketing and consumer \ncompanies. For further information, please send your CV to \ncareers at mango-solutions.com\n\n\nThe role\n\n* To provide ad-hoc programming services to customers.\n* To create and deliver tailored software applications and libraries to \nclients worldwide.\n* To advise customers on R/S software issues and to provide programming \nservices to customers.\n* To participate in the design and implementation of bespoke data \nreporting applications.\n\n\nQualifications\n\n* Knowledge of statistical languages: R, S-PLUS or Matlab.\n* Excellent communication skills.\n* Experience of general software systems is an advantage (eg. Java, \n.NET, Oracle, C, XML, HTML, ?).\n* Experience of programming within a regulated environment an advantage\n* 5 years commercial or academic experience\n\n\nOffering\n\n* Opportunity to extend your technical knowledge while working in \nalongside commercial clients.\n* Great variety of work, with customers from pharmaceutical, finance, \nCRM, consumer and environmental sectors.\n* Flexible working environment and working hours.\n* Competitive salary ?35-?55k including benefits depending on experience.\n\n-- \nMango Solutions\nTel  +44 1249 467 467\nFax  +44 1249 467 468\nMob  +44 7813 526 123\ndata analysis that delivers\n\nupcoming R Training Course in London\nwww.mango-solutions.com/services/rtraining/r_schedule.html",
+      "body_snippet": "Mango Solutions, providers of R and S-PLUS consulting, systems \ndevelopment and Training Services, are looking for a senior R/S \nProgrammer to join their UK - Wiltshire based technical team. We are \nl",
+      "thread_id": "thread-8aa32e549ab8",
+      "thread_depth": 0,
+      "month": "2007-02"
+    },
+    {
+      "id": "msg-809079cea95c",
+      "message_id": "<45CC470B.8040901@mango-solutions.com>",
+      "from_name": "Romain Francois",
+      "from_email_hash": "942f5b6015291131c7242e1461320c61ef17e95f73c5d935252141e25483c9ca",
+      "date": "2007-02-09T10:03:55Z",
+      "subject": "[R-jobs] R/S-PLUS Pharmaceutical Consultant - Mango Solutions (UK)",
+      "subject_clean": "[R-jobs] R/S-PLUS Pharmaceutical Consultant - Mango Solutions (UK)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Mango Solutions, providers of S-PLUS and R consulting, development and \nTraining Services, are looking for consultants to join their UK-based \ntechnical team.  We are looking for highly motivated individuals to work \nin a customer-focused environment.\n\nThis is a unique opportunity to develop within a dynamic company which \nhas been expanding rapidly and profitably since it's inception in 2002.  \nMango Solutions have an excellent reputation for quality work, and \ncustomers include major finance, pharmaceutical, marketing and consumer \ncompanies.  For further information, please send your CV to \ncareers at mango-solutions.com\n\n\nThe role\n\n    * To provide ad-hoc statistical software consulting services to \npharmaceutical customers.\n    * To create and deliver tailored statistical software courses to \npharmaceutical clients worldwide.\n    * To advise pharmaceutical customers on statistical and software issues.\n    * To participate in the design and implementation of bespoke \nstatistical and reporting applications.\n\n\nQualifications\n\n    * Msc or Phd in statistics, mathematics or computer sciences.\n    * Knowledge of statistical languages: S-PLUS, R, or SAS.\n    * Experience of statistical programming and modelling in a \npharmaceutical environment.\n    * Excellent communication skills.\n    * Experience of other pharmaceutical softwares is an advantage (eg. \nNONMEM, Spotfire, Pharsight, WinBugs).\n    * Experience of general software systems is an advantage (eg. Java, \nOracle, C, XML, HTML).\n\n\nOffering\n\n    * Opportunity to extend your technical knowledge within the \npharmaceutical sector.\n    * Exposure to other areas of statistical software consulting by \nworking with customers from finance, CRM, consumer and environmental \nsectors.\n    * Flexible working environment and working hours.\n    * Competitive salary.\n\n-- \nMango Solutions\nTel  +44 1249 467 467\nFax  +44 1249 467 468\nMob  +44 7813 526 123\ndata analysis that delivers\n\nR Site Search extension for firefox\nhttp://addictedtor.free.fr/rsitesearch",
+      "body_snippet": "Mango Solutions, providers of S-PLUS and R consulting, development and \nTraining Services, are looking for consultants to join their UK-based \ntechnical team.  We are looking for highly motivated indi",
+      "thread_id": "thread-809079cea95c",
+      "thread_depth": 0,
+      "month": "2007-02"
+    },
+    {
+      "id": "msg-f0cf15e9e372",
+      "message_id": "<45CC47AA.5050005@mango-solutions.com>",
+      "from_name": "Romain Francois",
+      "from_email_hash": "942f5b6015291131c7242e1461320c61ef17e95f73c5d935252141e25483c9ca",
+      "date": "2007-02-09T10:06:34Z",
+      "subject": "[R-jobs] R/SPLUS Finance Consultant - Mango Solutions (UK)",
+      "subject_clean": "[R-jobs] R/SPLUS Finance Consultant - Mango Solutions (UK)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Mango Solutions, providers of S-PLUS and R consulting, development and \nTraining Services, are looking for consultants to join their UK-based \ntechnical team.  We are looking for highly motivated individuals to work \nin a customer-focused environment. This is a unique opportunity to \ndevelop within a dynamic company which has been expanding rapidly and \nprofitably since it's inception in 2002.  Mango Solutions have an \nexcellent reputation for quality work, and customers include major \nfinance, pharmaceutical, marketing and consumer companies.  For further \ninformation, please send your CV to careers at mango-solutions.com\n\n\nThe role\n\n    * To support the development of the R language in the financial sector.\n    * To provide ad-hoc statistical software consulting services to \nfinance customers.\n    * To create and deliver tailored statistical software courses to \nfinance clients worldwide.\n    * To advise financial customers on statistical and software issues.\n    * To participate in the design and implementation of bespoke \nstatistical and reporting applications.\n\n\nQualifications\n\n    * Msc or Phd in statistics, mathematics, physics or computer sciences.\n    * Knowledge of statistical languages: S-PLUS, R, or Matlab.\n    * Experience of programming and analysis in a financial company.\n    * Excellent communication skills.\n    * Experience of other finance softwares is an advantage (eg. eViews, \nFactSet, RATS).\n    * Experience of general software systems is an advantage (eg. Java, \nOracle, C, XML, HTML).\n\n\nOffering\n\n    * Opportunity to extend your technical knowledge within the finance \nsector.\n    * Exposure to other areas of statistical software consulting by \nworking with customers from pharmaceutcal, CRM, consumer and \nenvironmental sectors.\n    * Flexible working environment and working hours.\n    * Competitive salary.\n\n-- \nMango Solutions\nTel  +44 1249 467 467\nFax  +44 1249 467 468\nMob  +44 7813 526 123\ndata analysis that delivers\n\nupcoming R Training Course in London \nwww.mango-solutions.com/services/rtraining/r_schedule.html",
+      "body_snippet": "Mango Solutions, providers of S-PLUS and R consulting, development and \nTraining Services, are looking for consultants to join their UK-based \ntechnical team.  We are looking for highly motivated indi",
+      "thread_id": "thread-f0cf15e9e372",
+      "thread_depth": 0,
+      "month": "2007-02"
+    },
+    {
+      "id": "msg-444b96cb85bc",
+      "message_id": "<182544D7A3144B42994EEA5662C54E010521B823@NLDNC105PEX1.ubsw.net>",
+      "from_name": "joh@@g@vi@ m@iii@g oii ubs@com",
+      "from_email_hash": "4a8120581fc1dd2cae6ac4fb13a227501d0bedb2ae1122ba1af67e247ce3639a",
+      "date": "2007-02-12T15:00:51Z",
+      "subject": "[R-jobs] job advertisement - finance - London based",
+      "subject_clean": "[R-jobs] job advertisement - finance - London based",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nThe following job advert was already incorrectly sent to r-help\nso I am reposting here.\n\nWe are looking for a skilled statistician/programmer \nseeking a career at the intersection of \nfinance, applied statistics and computer science. \nThis position requires a person with a strong background in \n- data analysis, \n- design and implementation of algorithms, \n- software development\n- statistical methodology.\n\nThe primary responsibilities are to develop software, \nusing the R language, for:\n- Handling/analysing high-frequency, real-time, streaming, financial\ndata. \n- Interfacing R/S-Plus to other languages, especially Java.\n- Applying high-dimensional regression/machine learning applications.\n- Assisting in the prototyping and testing of trading algorithms. \n\nFor more details please go to\nhttp://tinyurl.com/36bwe6\nclick on 'Search our global job board',\nclick on 'Search openings',\nscroll down to 'keyword' and type the job reference '19257BR' \nand click the search button \n(sorry but there isn't a more direct link on this site).\n\nAlternatively, the job is also advertised at\nhttp://tinyurl.com/2clsy8\n\nRegards,\n\nJohn.\n\nJohn Gavin <john.gavin at ubs.com>,\nCommodities, FIRC,\nUBS Investment Bank, 2nd floor, \n100 Liverpool St., London EC2M 2RH, UK.\nPhone +44 (0) 207 567 4289\nThis communication is issued by UBS AG and/or affiliates to\\...{{dropped}}",
+      "body_snippet": "Hi,\n\nThe following job advert was already incorrectly sent to r-help\nso I am reposting here.\n\nWe are looking for a skilled statistician/programmer \nseeking a career at the intersection of \nfinance, ap",
+      "thread_id": "thread-444b96cb85bc",
+      "thread_depth": 0,
+      "month": "2007-02"
+    },
+    {
+      "id": "msg-9d41313ae499",
+      "message_id": "<17873.46071.287059.46444@rembrandt.fdm.uni-freiburg.de>",
+      "from_name": "Jan Beyersmann",
+      "from_email_hash": "3d635e1c036e05eafa2c2156ee1cad276124f22ea690a6271e48b59eb9fda6ab",
+      "date": "2007-02-13T13:49:59+01:00",
+      "subject": "[R-jobs] Research Position Statistical Computing in Biostatistics",
+      "subject_clean": "[R-jobs] Research Position Statistical Computing in Biostatistics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "X-Mailer: VM 7.17 under 21.4 (patch 18) \"Social Property\" XEmacs Lucid\nFCC: ~/mail/sent-mail\nFrom: Jan.Beyersmann at fdm.uni-freiburg.de\n--text follows this line--\nhi everyone,\n\nplease find below a job advert for a research position statistical\ncomputing in biostatistics, emphasis is on R and survival\nanalysis. see also wangler et al., p. 31-35 in\n\nhttp://cran.r-project.org/doc/Rnews/Rnews_2006-2.pdf\n\nto get an idea what we have in mind.\n\nour institute is in freiburg, south-west germany.\n\nbest, jan\n\n--\nJan Beyersmann\n\nInstitute of Med. Biometry and Med. Informatics Stefan-Meier-Stra?e\n26, D-79104 Freiburg, Germany\n\nFreiburg Centre for Data Analysis and Modelling Eckerstrasse 1,\nD-79104 Freiburg, Germany\n\njan.beyersmann at fdm.uni-freiburg.de\n\nhttp://www.imbi.uni-freiburg.de, http://www.fdm.uni-freiburg.de\n\n+49 (0)761/203-7702\n\n\n\nResearch Position Statistical Computing in Biostatistics\n\nThe Department of Medical Biometry and Statistics at the University of\nFreiburg invites applications for a research position (statistical\nprogrammer) in methodological research, with special emphasis on\nstatistical programming in biostatistics or clinical\nepidemiology. Applicants should have a diploma, master's degree or\nPh.D. in biostatistics, statistics, or mathematics or computer\nscience, respectively, with experiences in applied\nstatistics. Advanced knowledge of the statistical computing system R\n(or S) is a prerequisite. Ideally, the candidate has practical\nexperience in one of the following areas:\n\n- event history analysis (survival analysis, competing risks)\n- development of R packages\n\nGood command of the English language is a must. We also expect the\ncandidate to appreciate the importance of concisely documenting\nsoftware for everyday use.\n\nThe Department of Medical Biometry and Statistics cooperates with\nnearly all areas of medicine and beyond; it hosts the German Cochrane\nCenter, the DFG funded Research Unit \"Statistical modeling and data\nanalysis in clinical epidemiology\" and is closely linked to the Center\nof Clinical Trials. In addition, its methodological research\nactivities are incorporated into the interdisciplinary Freiburg Center\nfor Data Analysis and Modeling (FDM) of the University of Freiburg.\n\nThe successful applicant will be integrated into a strong and active\ngroup of scientists with expert knowledge in biostatistics and its\nclinical applications. (S)he will play a key role in an ongoing and\nsuccessful research project, making advanced survival regression\ntechniques and nonparametric estimators of multivariate survival\nfunctions available through R packages and R News\n(http://cran.r-project.org/doc/Rnews) articles. This will be work at\nthe gateway between cutting edge methodology and wide accessibility\nfor applications.\n\nThus, the position offers ideal conditions for successful research and\ncontinuing education and qualification; they provide a unique\nopportunity for a challenging and demanding methodological task with\ndirect benefit for applications in clinical epidemiology. The position\nwill be limited in time. Salary is according to BAT depending on\nexperience and qualification. For further information, please contact\none of the following persons: Dr. Jan Beyersmann\n(jan at imbi.uni-freiburg.de) or Prof. Dr. Martin Schumacher\n(ms at imbi.uni-freiburg.de).\n\nApplicants should send a letter of interest by post or email including\na statement of current and future research interests, a curriculum\nvitae and a list of publications/available R packages if applicable\nto:\n\nProf. Dr. Martin Schumacher\nInstitut f?r Med. Biometrie und Med. Informatik\nAbteilung Medizinische Biometrie und Statistik\nUniversit?tsklinikum Freiburg\nStefan-Meier-Stra?e 26\n79104 Freiburg\ne-mail: sec at imbi.uni-freiburg.de\nhttp://www.imbi.uni-freiburg.de/",
+      "body_snippet": "X-Mailer: VM 7.17 under 21.4 (patch 18) \"Social Property\" XEmacs Lucid\nFCC: ~/mail/sent-mail\nFrom: Jan.Beyersmann at fdm.uni-freiburg.de\n--text follows this line--\nhi everyone,\n\nplease find below a jo",
+      "thread_id": "thread-9d41313ae499",
+      "thread_depth": 0,
+      "month": "2007-02"
+    },
+    {
+      "id": "msg-74220c863986",
+      "message_id": "<A89517C7FD248040BB71CA3C04C1ACBB0BD4D355@CNTUSMAEXS4.na.jnj.com>",
+      "from_name": "Pikounis, Bill [CNTUS]",
+      "from_email_hash": "bd7b7738407fc1783caa294472b4197e70a874e39008c12d2c810bdba1436a7a",
+      "date": "2007-02-15T11:53:10-05:00",
+      "subject": "[R-jobs] Nonclinical Statistics Opening at Centocor: suburban Philadelphia\t PA (USA)",
+      "subject_clean": "[R-jobs] Nonclinical Statistics Opening at Centocor: suburban Philadelphia\t PA (USA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are searching to add to our Nonclinical Statistics group at Centocor.\nDetails and resume/CV submission can be found via\nhttp://www.jnj.com/careers/ : enter 0702215 for Requisition number in the\nupper right hand corner textbox of that page.\n\nThanks,\nBill\n\n-------------------------------\nBill Pikounis, PhD\nNonclinical Statistics\nCentocor, Inc.",
+      "body_snippet": "We are searching to add to our Nonclinical Statistics group at Centocor.\nDetails and resume/CV submission can be found via\nhttp://www.jnj.com/careers/ : enter 0702215 for Requisition number in the\nupp",
+      "thread_id": "thread-74220c863986",
+      "thread_depth": 0,
+      "month": "2007-02"
+    },
+    {
+      "id": "msg-39cfa5b3d9c0",
+      "message_id": "<53B4F156-D438-4FCF-BFA0-5DC5FE7EA192@ad-co.com>",
+      "from_name": "Kyle G. Lundstedt, Ph.D.",
+      "from_email_hash": "4f2dc8f9ad41f654d9c1a8fac664742de93e73719197a4d1b53ea63a669bb694",
+      "date": "2007-02-19T01:28:16-08:00",
+      "subject": "[R-jobs] Financial Modeling Position",
+      "subject_clean": "[R-jobs] Financial Modeling Position",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Andrew Davidson & Co., Inc. (ADCo) is looking for a talented modeler  \nwith a strong background in finance, statistics, or econometrics to  \njoin its team of financial engineers in the San Francisco Bay Area.   \nThe position involves applying the R language to mortgage data in  \nsupport of ADCo's prepayment and default modeling businesses.\n\nIn particular, the role would entail estimation of discrete hazard  \nmodels (logistic regression on time series-cross section data, or  \nMarkov transition models) of prepayment, delinquency, and default  \nbased upon large datasets (~100 million records) of monthly mortgage  \npayment histories.\n\nThe ideal candidate will have the following qualifications:\n\n- an MBA, MFE, or MS in statistics, economics, or finance, or a Ph.D.  \nin those disciplines;\n- significant expertise in the statistical language R or S-Plus (also  \nknowing SAS is a plus);\n- experience working in financial services, particularly in the  \nmortgage or investment banking sectors;\n- some background programming in Java, C++, SQL Server, or Sybase IQ,  \nand producing documentation in LaTeX.\n\nADCo (http://www.ad-co.com) is a leading provider of risk analytics  \nand consulting services with offices in New York, Seattle, and San  \nFrancisco.  For further information, please send a resume to the  \nemail below.\n---\nKyle G. Lundstedt\nAndrew Davidson & Co., Inc.\nkyle  at  ad-co.com",
+      "body_snippet": "Andrew Davidson & Co., Inc. (ADCo) is looking for a talented modeler  \nwith a strong background in finance, statistics, or econometrics to  \njoin its team of financial engineers in the San Francisco B",
+      "thread_id": "thread-39cfa5b3d9c0",
+      "thread_depth": 0,
+      "month": "2007-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-5b279361c41c",
+      "subject": "[R-jobs] R-sig-jobs",
+      "message_count": 1,
+      "participants": [
+        "Kuhn, Max"
+      ],
+      "started": "2007-02-08T11:30:01-05:00",
+      "last_reply": "2007-02-08T11:30:01-05:00",
+      "root_message_id": "msg-5b279361c41c"
+    },
+    {
+      "id": "thread-ff72de1dd077",
+      "subject": "[R-jobs] R/S Programmer - Mango Solutions (UK)",
+      "message_count": 1,
+      "participants": [
+        "Romain Francois"
+      ],
+      "started": "2007-02-09T09:58:50+00:00",
+      "last_reply": "2007-02-09T09:58:50+00:00",
+      "root_message_id": "msg-ff72de1dd077"
+    },
+    {
+      "id": "thread-8aa32e549ab8",
+      "subject": "[R-jobs] Senior R/S Programmer - Mango Solutions (UK)",
+      "message_count": 1,
+      "participants": [
+        "Romain Francois"
+      ],
+      "started": "2007-02-09T10:00:36+00:00",
+      "last_reply": "2007-02-09T10:00:36+00:00",
+      "root_message_id": "msg-8aa32e549ab8"
+    },
+    {
+      "id": "thread-809079cea95c",
+      "subject": "[R-jobs] R/S-PLUS Pharmaceutical Consultant - Mango Solutions (UK)",
+      "message_count": 1,
+      "participants": [
+        "Romain Francois"
+      ],
+      "started": "2007-02-09T10:03:55+00:00",
+      "last_reply": "2007-02-09T10:03:55+00:00",
+      "root_message_id": "msg-809079cea95c"
+    },
+    {
+      "id": "thread-f0cf15e9e372",
+      "subject": "[R-jobs] R/SPLUS Finance Consultant - Mango Solutions (UK)",
+      "message_count": 1,
+      "participants": [
+        "Romain Francois"
+      ],
+      "started": "2007-02-09T10:06:34+00:00",
+      "last_reply": "2007-02-09T10:06:34+00:00",
+      "root_message_id": "msg-f0cf15e9e372"
+    },
+    {
+      "id": "thread-444b96cb85bc",
+      "subject": "[R-jobs] job advertisement - finance - London based",
+      "message_count": 1,
+      "participants": [
+        "joh@@g@vi@ m@iii@g oii ubs@com"
+      ],
+      "started": "2007-02-12T15:00:51+00:00",
+      "last_reply": "2007-02-12T15:00:51+00:00",
+      "root_message_id": "msg-444b96cb85bc"
+    },
+    {
+      "id": "thread-9d41313ae499",
+      "subject": "[R-jobs] Research Position Statistical Computing in Biostatistics",
+      "message_count": 1,
+      "participants": [
+        "Jan Beyersmann"
+      ],
+      "started": "2007-02-13T13:49:59+01:00",
+      "last_reply": "2007-02-13T13:49:59+01:00",
+      "root_message_id": "msg-9d41313ae499"
+    },
+    {
+      "id": "thread-74220c863986",
+      "subject": "[R-jobs] Nonclinical Statistics Opening at Centocor: suburban Philadelphia\t PA (USA)",
+      "message_count": 1,
+      "participants": [
+        "Pikounis, Bill [CNTUS]"
+      ],
+      "started": "2007-02-15T11:53:10-05:00",
+      "last_reply": "2007-02-15T11:53:10-05:00",
+      "root_message_id": "msg-74220c863986"
+    },
+    {
+      "id": "thread-39cfa5b3d9c0",
+      "subject": "[R-jobs] Financial Modeling Position",
+      "message_count": 1,
+      "participants": [
+        "Kyle G. Lundstedt, Ph.D."
+      ],
+      "started": "2007-02-19T01:28:16-08:00",
+      "last_reply": "2007-02-19T01:28:16-08:00",
+      "root_message_id": "msg-39cfa5b3d9c0"
+    }
+  ]
+}

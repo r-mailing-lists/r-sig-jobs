@@ -1,0 +1,858 @@
+From |@we@@e|@ @end|ng |rom nk|@n|  Tue Jan  3 17:51:03 2012
+From: |@we@@e|@ @end|ng |rom nk|@n| (Lodewyk Wessels)
+Date: Tue, 3 Jan 2012 17:51:03 +0100
+Subject: [R-jobs] Job opportunity in AMSTERDAM: ANALYSIS OF NGS CANCER
+	DATA
+In-Reply-To: <501462EA-549B-4386-BA31-4C8EF1DCA830@nki.nl>
+References: <10756372-589C-4CC3-B2ED-2BCD8E48889F@nki.nl>
+	<501462EA-549B-4386-BA31-4C8EF1DCA830@nki.nl>
+Message-ID: <C863C477-6232-40D1-833A-90B01582723D@nki.nl>
+
+COMPUTATIONAL ANALYSIS OF NEXT GENERATION SEQUENCE DATA 
+(http://bioinformatics.nki.nl/vacancies.php)
+
+THREE BIOINFORMATICS POSITIONS 
+
+PROJECT OUTLINE 
+
+Genomic alterations are major determinant of responses to (targeted) therapies in cancer. In fact, the best positive and negative predictors of responses to targeted therapies are alterations in kinases or their direct downstream effectors. To gain insight into resistance mechanisms to therapy and thus better tailor treatment, we are approaching this problem from two different angles. First, we have acquired large panels of human tumors, on which we are currently performing kinase exon sequencing. More specifically, we are performing sequencing on 1) 400 samples from the NEO-ALTTO study to find alterations associated with resistance to HER2 targeted therapies; 2) at least 200 colorectal samples and 300 breast cancers (triple negatives and invasive lobular carcinomas) to detect alterations frequently occurring in these patient populations. A very strong feature of all these datasets is that matched controls are available to ensure high accuracy in variant calling. The goal is to detect genomic alterations associated with response to therapy and cancer subtypes and to place these alterations in the context of molecular regulatory networks such that our understanding of the oncogenic and resistance process is maximized. Second we have transplanted tumors from mouse models of breast cancer that have been treated with a range of (targeted) therapies. Matched pre- and post treatment pairs of resistant and sensitive tumors have been full exon sequenced and are available for analysis. The goal is to detect genomic alterations associated with response to therapy. The successful candidates will work closely with the biological groups to develop computational approaches for the detection of mutations and copy number alterations associated with specific cancer subtypes as well as therapy response in human and mouse model-derived tumors. A major aim of the project is to integrate the detected mutations with other genomic data sources to maximize our knowledge gain. 
+
+CANDIDATE REQUIREMENTS -- EDUCATION AND EXPERIENCE 
+
+We are seeking highly motivated Postdoc and PhD candidates with a degree in bioinformatics or a mathematical discipline with a strong cancer biological interest. Applicants should either have strong modeling/applied statistics skills or strong documented experience in analyzing high-throughput sequencing data. In addition, we strongly value experience in one or more of the following: sequence analysis, machine learning, applied statistics and R, computer science and expression analysis. The candidate also needs to be proficient in a programming language such as Java, Perl or Python, and be comfortable with Linux systems. Fluency in spoken and written English is a strong requirement. 
+
+LOCATION 
+
+The project will employ the complementary expertise and tools of three groups participating in the Cancer Systems Biology Center (csbc.nki.nl) at the Netherlands Cancer Institute, Amsterdam: Rene Bernards (Molecular Carcinogenesis), Jos Jonkers (Mouse Models for Breast Cancer) and Lodewyk Wessels (Computational Biology). The position are primarily embedded within the Bioinformatics and Statistics Group (Wessels) (bioinformatics.nki.nl) at the Netherlands Cancer Institute, Amsterdam. 
+
+CONTACT DETAILS 
+
+Please contact Dr. Lodewyk Wessels, tel. +31 20 512 7987 or e-mail: l.wessels at nki.nl. When applying please ensure you include a CV, list of publications and the names and addresses of at least two persons that can be approached to obtain further information. Also see bioinformatics.nki.nl and csbc.nki.nl for further information. 
+
+CLOSING DATE: 31 JANUARY 2012 
+
+
+
+
+
+
+
+
+	[[alternative HTML version deleted]]
+
+
+
+From derek@norton @end|ng |rom revo|ut|on@n@|yt|c@@com  Tue Jan  3 18:00:35 2012
+From: derek@norton @end|ng |rom revo|ut|on@n@|yt|c@@com (Derek Norton)
+Date: Tue, 3 Jan 2012 12:00:35 -0500
+Subject: [R-jobs] PRESALES / TECHNICAL SALES
+In-Reply-To: <CAGfM87MBnD2eWm2464sFN9GsS2Ss_T4omHpxiDW3=YgLq5wBOw@mail.gmail.com>
+References: <CAGfM87MBnD2eWm2464sFN9GsS2Ss_T4omHpxiDW3=YgLq5wBOw@mail.gmail.com>
+Message-ID: <CAGfM87PrtdC7cBDWPyiHCzpXSF4Sp-80eoBoOSdXm-JUV0nwdg@mail.gmail.com>
+
+PreSales / Technical Sales (Associate/Senior)
+Palo Alto, CA
+
+Revolution Analytics is the leading commercial provider of software and
+support for the open source ???R??? statistical computing language. Our
+products, including* Revolution R* and *Revolution R Enterprise*, enable
+statisticians, scientists and others to create superior predictive models
+and derive meaning from mission-critical data in record time. Revolution
+Analytics works closely with the R community to incorporate the latest
+developments in open source R and with our clients to support their efforts
+to produce ground-breaking innovations in life sciences, financial
+services, defense technology and other industries where high-level
+analytics are crucial to success.
+
+The ideal candidate will be passionate about R, have experience with data
+analysis in an enterprise data environment, and love working with
+customers.  In addition, candidates should be solution oriented with an
+ability to stay cool while managing multiple tasks and changing priorities.
+
+*Duties and Responsibilities*
+
+   - Be the technical expert that supports Sales through product
+   demonstrations, expertise in product capabilities, and proof of concept
+   applications.
+   - Respond to customer requests for information, and assist in
+   installations and product use prior to sale.
+   - Assist Marketing by developing white papers, relevant technical
+   examples, and case studies.
+   - Work with the Marketing and Product Development teams to maintain
+   currency on the technical capabilities of the product and the product
+   roadmap.
+   - Actively communicate customer feedback to Sales and Marketing.
+   - Support product demonstrations at trade shows, seminars and other
+   events.
+   - Participate in training courses, support and consulting engagements as
+   needed.
+   - Ability to travel up to 20%
+
+*Required Qualifications:*
+
+   - Strong verbal and written communication skills and experience in
+   developing and presenting technical subject matter.
+   - Strong communication and interpersonal skills with the ability to work
+   in a multi-disciplinary team.
+   - Expert in R programming including some experience with database
+   interfaces.
+   - Minimum 3 years experience in a consulting/client-facing role
+   including some interaction with enterprise IT, system integration, and
+   development in both Windows and Linux environments.
+   - MS in Statistics, Computer Science, Math, Engineering, or related
+   field.
+   - Local candidates only (Bay Area).
+
+*Additional Qualifications (Nice to have):*
+
+   - Some experience with other commercial data analysis packages such as
+   SAS, SPSS, JMP, or Matlab.
+   - Additional experience with one or more of the following: Hadoop,
+   Netezza, Relational database management systems, Talend, Ab Initio, Python,
+   Java, PMML, BI tools, web services, cloud computing.
+
+*Experience the energy and excitement of a start-up company with solid
+financial backing ??? *
+*join Revolution Analytics.*
+
+At a time when many companies are cutting back, we???re still offering a
+*competitive
+compensation package*that includes a solid base salary, *full health
+care* including
+dental, long-term disability, and *401(k).*
+
+Revolution Analytics is an equal opportunity employer and encourages
+applications from women and members of underrepresented minority groups.
+
+Please email your resume to careers at revolutionanalytics.com, noting the job
+title and location.
+
+	[[alternative HTML version deleted]]
+
+
+
+From derek@norton @end|ng |rom revo|ut|on@n@|yt|c@@com  Tue Jan  3 18:04:49 2012
+From: derek@norton @end|ng |rom revo|ut|on@n@|yt|c@@com (Derek Norton)
+Date: Tue, 3 Jan 2012 12:04:49 -0500
+Subject: [R-jobs] PreSales / Technical Sales
+Message-ID: <CAGfM87Pz0s-msaKZsVT=LxetRMetmd7YQNLNupSB8kqhHJK8iA@mail.gmail.com>
+
+PreSales / Technical Sales (Associate/Senior)
+Palo Alto, CA
+
+Revolution Analytics is the leading commercial provider of software and
+support for the open source R statistical computing language. Our
+products, including Revolution R and Revolution R Enterprise, enable
+statisticians, scientists and others to create superior predictive models
+and derive meaning from mission-critical data in record time. Revolution
+Analytics works closely with the R community to incorporate the latest
+developments in open source R and with our clients to support their efforts
+to produce ground-breaking innovations in life sciences, financial
+services, defense technology and other industries where high-level
+analytics are crucial to success.
+
+The ideal candidate will be passionate about R, have experience with data
+analysis in an enterprise data environment, and love working with
+customers. ?In addition, candidates should be solution oriented with an
+ability to stay cool while managing multiple tasks and changing priorities.
+
+Duties and Responsibilities
+
+? ?- Be the technical expert that supports Sales through product
+? ?demonstrations, expertise in product capabilities, and proof of concept
+? ?applications.
+? ?- Respond to customer requests for information, and assist in
+? ?installations and product use prior to sale.
+? ?- Assist Marketing by developing white papers, relevant technical
+? ?examples, and case studies.
+? ?- Work with the Marketing and Product Development teams to maintain
+? ?currency on the technical capabilities of the product and the product
+? ?roadmap.
+? ?- Actively communicate customer feedback to Sales and Marketing.
+? ?- Support product demonstrations at trade shows, seminars and other
+? ?events.
+? ?- Participate in training courses, support and consulting engagements as
+? ?needed.
+? ?- Ability to travel up to 20%
+
+Required Qualifications:
+
+? ?- Strong verbal and written communication skills and experience in
+? ?developing and presenting technical subject matter.
+? ?- Strong communication and interpersonal skills with the ability to work
+? ?in a multi-disciplinary team.
+? ?- Expert in R programming including some experience with database
+? ?interfaces.
+? ?- Minimum 3 years experience in a consulting/client-facing role
+? ?including some interaction with enterprise IT, system integration, and
+? ?development in both Windows and Linux environments.
+? ?- MS in Statistics, Computer Science, Math, Engineering, or related
+? ?field.
+? ?- Local candidates only (Bay Area).
+
+Additional Qualifications (Nice to have):
+
+? ?- Some experience with other commercial data analysis packages such as
+? ?SAS, SPSS, JMP, or Matlab.
+? ?- Additional experience with one or more of the following: Hadoop,
+? ?Netezza, Relational database management systems, Talend, Ab Initio, Python,
+? ?Java, PMML, BI tools, web services, cloud computing.
+
+Experience the energy and excitement of a start-up company with solid
+financial backing,?join Revolution Analytics.
+
+At a time when many companies are cutting back, we're still offering a
+competitive?compensation package that includes a solid base salary,
+full health
+care including?dental, long-term disability, and 401(k).
+
+Revolution Analytics is an equal opportunity employer and encourages
+applications from women and members of underrepresented minority groups.
+
+Please email your resume to careers at revolutionanalytics.com, noting the job
+title and location.
+
+
+
+From |b@juk @end|ng |rom t|bco@com  Wed Jan  4 00:10:21 2012
+From: |b@juk @end|ng |rom t|bco@com (Louis Bajuk-Yorgan)
+Date: Tue, 3 Jan 2012 23:10:21 +0000
+Subject: [R-jobs] TIBCO looking for an Analytics Consultant
+Message-ID: <B6B83B4D8B4C5B48A81903EC3EB874EA3C7719@PA-MBX03.na.tibco.com>
+
+ANALYTICS CONSULTANT
+Hiring Manager: Michael O'Connell
+Location: East Coast US
+
+TIBCO is a rapidly growing software company with more than 3000 employees worldwide and approx. $900MM annual revenue in 2011. TIBCO provides a comprehensive software platform that allows customers to perform in-depth analysis on their data, while injecting predictive and complex statistics in the analysis.  TIBCO Spotfire is an interactive, visual environment with inbuilt R/S+ analytics, allowing individuals to analyze and visualize trends, patterns, outliers, and unanticipated relationships in data quickly.  TIBCO Spotfire customers include Fortune500 customers from variety of industries, including: Life Science, Energy, Financial Services, Telco, Retail and others.
+
+We are looking for an Analytics Consultant to join our rapidly growing Industry Analytics Group and provide analytics expertise within customer implementations of TIBCO software. The successful candidate will also engage in methodology development to sharpen our current tool kit.  This position will require some travel to customer locations (about 25%) as well as research and development within the TIBCO suite of products. The work can be accomplished from a home office, but candidates who live in the northeast US, especially the North Carolina Research Triangle Park area, will be given preference.
+
+QUALIFICATIONS
+
+  *   Experience in statistical data analysis and some involvement in delivering statistical analyses as part of projects, engagements or deployed software applications a must
+  *   3+ years of experience with S-PLUS or R
+  *   Experience with other software environments e.g. SAS, Matlab, Spotfire, Spotfire Miner, and/or other data mining software and/or .Net and/or scripting environments e.g. Python, is a plus
+  *   Candidate should have a masters or PhD degree with a major in statistics. Candidates with a major in computer science and with statistics classes will also be considered.
+  *   Graduate statistics classes in Time Series Analysis, Longitudinal Methods and/or Data Mining are a plus.
+  *   Candidates must be proficient in the Windows environment; Linux is a plus.
+
+
+--------------------------
+Lou Bajuk-Yorgan
+Sr. Director, Product Management
+Spotfire, TIBCO Software
+206-802-2328
+lbajuk at tibco.com
+http://spotfire.tibco.com<http://spotfire.tibco.com/>
+
+
+	[[alternative HTML version deleted]]
+
+
+
+From k|ttudg @end|ng |rom gm@||@com  Mon Jan  9 09:21:07 2012
+From: k|ttudg @end|ng |rom gm@||@com (sayan dasgupta)
+Date: Mon, 9 Jan 2012 13:51:07 +0530
+Subject: [R-jobs] Analytics Consultant,
+ Sr. Analytics Consultant and Principal Analytics Consultant
+ (AC/SAC/PAC), Bangalore India
+Message-ID: <CAEdE6U6xHtWDp_WQxOszrv_S_-SYWyKg99up-k2Le4OhXrZ0kg@mail.gmail.com>
+
+Hi UseRs,
+
+Please find the Job Description posted below. Our organization is looking
+for people with strong quantitative skills who is also strong in
+programming with R.
+
+Do get in touch with Prabhanshu (prabhanshu.pandey at 247customer.com) if you
+consider your
+experience and skills a good fit for the roles below.
+Location: *Bangalore, India*
+
+Let me know if you need any further clarification.
+
+Thanks and Regards,
+Sayan Dasgupta
+
+*Analytics Consultant, Sr. Analytics Consultant and Principal Analytics
+Consultant (AC/SAC/PAC)*
+
+Company             Innovation Labs, 24/7 Customer, Bangalore India
+
+Type                       Full-time
+
+Experience:        Junior to Mid Level
+
+Function:             Analytics / Data Sciences
+
+Industry:              Information Technology and Services
+
+Location:              Position is based in *Bangalore, India*
+
+Reports to:         Manager/Director/Senior Director
+
+Reportees:         0
+
+* *
+
+*Statement of purpose*
+
+Deliver Predictive Analytics, Data Mining, Text Mining, Machine Learning
+driven products and solutions to 24/7 Clients
+
+* *
+
+*Summary of essential job functions*
+
+?         Builds models in the broad areas of statistics and data mining
+
+?         Works with product engineering teams to implement these models
+into products
+
+?         Implements these models in production environment to create
+business value
+
+*Minimum requirements (Education Qualification & Work Experience)*
+
+?         MS/PhD from a reputed institution
+
+?         Field of graduate education ? Computer Science, Mathematics,
+Statistics, Engineering or related fields
+
+?         Strong academic record
+
+?         1-8 years of experience in the field of Advanced statistics, data
+mining and text mining
+
+*Competency Requirements: [Technical & Behavioral]*
+
+?         *Strong background in programming and modeling in R a must*
+
+?         Passion and technical competency in quantitative methods and/or
+predictive analytics
+
+?         Experience with techniques such as Data mining, Advanced
+Statistics, Pattern Recognition, Artificial Intelligence, Text mining,
+weblog mining etc.
+
+?         Scripting languages such as Python or Perl a strong plus
+
+?         Hands on experience in model building and/or coding
+
+?         Proven problem-solving skills.
+
+?         Excellent computation and data management skills. Experience
+handling voluminous data
+
+?         Understanding of marketing science and customer service domains a
+plus
+
+	[[alternative HTML version deleted]]
+
+
+
+From nor@@e|genw||| @end|ng |rom u|z@de  Wed Jan 11 09:50:35 2012
+From: nor@@e|genw||| @end|ng |rom u|z@de (Nora Eigenwill)
+Date: Wed, 11 Jan 2012 09:50:35 +0100
+Subject: [R-jobs] Researcher (PostDoc)
+Message-ID: <4F0D4D5B.1020500@ufz.de>
+
+*****Job offer: PostDoc position at UFZ Leipzig (Germany)*****
+
+The /Department of Computational Landscape Ecology/ ((www.ufz.de/cle) 
+and Community Ecology (BZF) invite
+applications for a*PostDoc position (m/f) on Statistical Computing and 
+Statistical Consulting*
+(code digit 2/2012) to commence as soon as possible.
+
+We seek a highly motivated, team-oriented scientist with a wide range of 
+experience in statistics. The
+position has two facets: statistical consulting and research 
+applications of statistical computing.
+
+For detailed information, please have a look here:
+http://www.ufz.de/index.php?de=11426
+
+The appointment is for an initial period of 3 years, an extension is
+aspired. _Applications_ with curriculum vitae, certificates of academic 
+degrees and reprints of most
+important publications _are accepted under the code digit 2/2012 until 
+03.02.2012_.
+
+
+
+	[[alternative HTML version deleted]]
+
+
+
+From j|@|ng @end|ng |rom k|@d|ver@|||ed@com  Wed Jan 25 19:30:31 2012
+From: j|@|ng @end|ng |rom k|@d|ver@|||ed@com (Laing, John)
+Date: Wed, 25 Jan 2012 18:30:31 +0000
+Subject: [R-jobs] Developer / Quant job
+In-Reply-To: <9521E343A086484BA65D55F35299A20201F6487D@ny-exch.KLS.corp>
+References: <9521E343A086484BA65D55F35299A20201F6487D@ny-exch.KLS.corp>
+Message-ID: <9521E343A086484BA65D55F35299A20201F64B59@ny-exch.KLS.corp>
+
+Position: Software Developer/Quantitative Analyst - New York - Fixed Income
+
+We are searching for a software developer with 3 to 6 years experience in software design and implementation. Qualified candidate should have superior quantitative skills, disciplined programming habits, and extensive knowledge of fixed income products and technology platforms. Candidate will work closely with front office trading, risk, middle office, and accounting to maintain, streamline, and develop our systems.
+
+Background:
+We are a growing, 4+ year old diversified fixed income fund with $1.2 billion of AUM. We seek to preserve capital while delivering high risk-adjusted absolute returns with low volatility and low correlation to equity and bond markets. Our product set spans the full range of rates/FX, structured, and credit fixed income products.
+
+Key Responsibilities:
+* Maintain and support internal database and related applications.
+* Maintain and enhance data feeds, including Bloomberg Gateway, Geneva, and several ad hoc sources.
+* Responsible for RiskMetrics systems and integrity of related risk reporting.
+* Assist with implementing process improvements across front and middle office technology platforms.
+* Assist with writing business requirement documents.
+* Assist in the development and tracking of project plans.
+
+Position Requires:
+* Bachelors degree in Computer Science, Mathematics, or other quantitative discipline.
+* Experience using Linux/UNIX including shell scripting.
+* Strong programming skills in languages like C++, Java, R, Ruby, Python.
+* Experience with relational databases including knowledge of SQL and PL/SQL.
+* Experience working in a multi-developer environment including use of source control and project management tools.
+* Knowledge of capital markets, operational workflows, and accounting principles.
+* Understanding of fixed income and derivative securities.
+* Exceptional analytical and communication skills.
+
+Other Qualifications:
+* Understanding of hedge fund accounting.
+* Understanding of how all P&L components are calculated.
+* Experience with RiskMetrics and Bloomberg AIM.
+* Experience with Advent Geneva including developing RSL.
+* Experience developing SQL Server / SSIS.
+* Knowledge of risk theory and measurement techniques.
+
+Please respond to: middleofficeresume at gmail.com
+
+The information contained in this email communication is confidential and is intended only for the recipients named above and any others who have been specifically authorized to receive it. Any unauthorized dissemination, copying or use of the contents of this email is strictly prohibited and may be unlawful. If you received this email in error, please delete it and any attachments from your system and notify the sender immediately.
+
+This communication is for informational purposes only an...{{dropped:6}}
+
+
+
+From @te|@no@|@cu@ @end|ng |rom un|m|@|t  Fri Feb  3 16:10:52 2012
+From: @te|@no@|@cu@ @end|ng |rom un|m|@|t (stefano iacus)
+Date: Fri, 03 Feb 2012 16:10:52 +0100
+Subject: [R-jobs] [PostDoc Position] University of Milan
+Message-ID: <6F2E3DB2-48FB-49B6-9BDE-5743BD7CC8DD@unimi.it>
+
+The Department of Economics, Business and Statistics at the University of Milan, Italy, has opened  a 1-year post-doc position in the areas of mathematics and statistics on the following research theme
+
+Inference for CO-GARCH processes: theory and numerical implementation
+
+
+The research activities of the candidate are indicated as follows
+
+1)     Development of statistical tools for parametric estimation and model selection discretely observed CO-GARCH processes;
+2)     R language implementation of simulation and estimation techniques for CO-GARCH processes;
+3)     Writing of research papers and release of the corresponding open-source software.
+
+
+The successful candidate should have solid bases on mathematical statistics, stochastic processes and good knowledge of the R programming language.
+The deadline for the application is  23-feb-2012
+
+Further details are available here (in italian)
+
+http://www.unimi.it/ricerca/assegni_ricerca/2780.htm
+
+or asked directly to stefano.iacus at unimi.it
+
+-----------------------------------
+Stefano M. Iacus
+Department of Economics,
+Business and Statistics
+University of Milan
+Via Conservatorio, 7
+I-20123 Milan - Italy
+Ph.: +39 02 50321 461
+Fax: +39 02 50321 505
+http://www.economia.unimi.it/iacus
+------------------------------------------------------------------------------------
+Please don't send me Word or PowerPoint attachments if not 
+absolutely necessary. See:
+http://www.gnu.org/philosophy/no-word-attachments.html
+
+
+
+From keen@@v@ge @end|ng |rom gm@||@com  Sun Feb 12 03:02:19 2012
+From: keen@@v@ge @end|ng |rom gm@||@com (Keen Savage)
+Date: Sat, 11 Feb 2012 21:02:19 -0500
+Subject: [R-jobs] ETF / Futures Projects
+Message-ID: <CAJYJ=mEPiYwsDWyHuxzJdShWa+mQ--0-gRksxa0Q-+R1Pmy8mg@mail.gmail.com>
+
+We're Looking for 1 or 2 high-level programmers with research /
+trading experience to assist with a couple projects:
+
+- ETF and futures markets
+
+- ~5 hours each
+
+ Please have some fund / CTA experience. Please send your CV or work
+samples along with your rates. Thanks.
+
+
+
+From @d|22 @end|ng |rom c@m@@c@uk  Thu Feb 23 13:33:59 2012
+From: @d|22 @end|ng |rom c@m@@c@uk (Dr S.D.W. Frost)
+Date: 23 Feb 2012 12:33:59 +0000
+Subject: [R-jobs] Research Associate at University of Cambridge
+Message-ID: <Prayer.1.3.4.1202231233590.31224@hermes-2.csi.cam.ac.uk>
+
+UNIVERSITY OF CAMBRIDGE
+
+Research Associate In Statistical Software 
+
+Grade 7: ?27,428.00 to ?35,788.00
+
+Start date: 1st May 2012
+Limit of Tenure: 30thth April 2013
+
+The successful applicant will work on developing and implementing 
+statistical methodology to analyze social network data. This individual 
+will implement and document statistical algorithms in the form of packages 
+for the R statistical software platform, to help analyze data on 
+respondent-driven sampling datasets 
+(http://www.respondentdrivensampling.org) as well as on dynamic network 
+data generated e.g. by radio frequency identification tagging technology.
+
+You must have a University degree and relevant experience in statistics and 
+programming, in particular in R and C/C++. An interest in public health 
+aspects of infectious disease is preferred. The candidate should have good 
+communication skills, and will be expected to publish manuscripts on 
+software packages to journals such as Journal of Statistical Software and 
+The R Journal.
+
+For informal enquiries please email Simon Frost at sdf22 at cam.ac.uk
+Further particulars are available at: http://www.vet.cam.ac.uk/news/ 
+
+Applicants should supply the following documents:
+
+A letter of application stating areas of interest A full Curriculum Vitae, 
+with the names and contact details of three referees A completed 
+application form CHRIS/6 available from the Melissa Large on 01223 337055 
+or from http://www.vet.cam.ac.uk/news/
+
+Applications should be sent for the attention of Miss Melissa Large, 
+Department of Veterinary Medicine, Madingley Road, Cambridge CB3 0ES. 
+Applications can be made via email to vetmed at hermes.cam.ac.uk with the 
+above documents as word attachments.
+
+Interviews will be held 19th April 2012.
+Closing Date for applications  23rd  March 2012 at 12 noon.
+
+
+
+From @|ngh@|b|r @end|ng |rom gm@||@com  Fri Mar  2 11:50:36 2012
+From: @|ngh@|b|r @end|ng |rom gm@||@com (Harsh)
+Date: Fri, 2 Mar 2012 16:20:36 +0530
+Subject: [R-jobs] R developer opportunity in a computational marketing
+	startup
+Message-ID: <CA+qkPeYcT12xfc-eudyTtZqKm+kFKbx4a81LS7=ymVZtyL3gEA@mail.gmail.com>
+
+Dear R users/developers,
+
+I am posting on behalf of a friend who is looking for R developers.
+
+The requirements are :
+-          Available to work/re-locate to Bangalore, India
+-          Over 5 - 6 years of solid R experience is essential
+-          The ideal candidate should have worked on regression
+modeling and predictive models
+-          Experience using Big Data technologies (like Hadoop) is desirable
+-          Experience with marketing analytics and marketing decision
+sciences would be a plus but is not essential
+
+About the company:
+The company is a NYC/Bangalore based computational marketing startup
+and is currently in a deep stealth mode. This startup combines
+next-generation marketing science with new large datasets to surface
+competitive dynamics at the DMA-level. Using this, it generates
+actionable insights to power a new way of marketing called Agile
+Marketing System. The startup has real customers and expects to come
+out of the stealth mode by end of the year. It is backed by some of
+the biggest names in the marketing and technology space.
+
+
+If you are interested and fit the requirements listed above you can
+get in touch with Harsh on singhalblr at gmail.com with Subject: "BLR
+Startup", resume in PDF format and a cover letter which ideally should
+contain the following :
+
+- A difficult problem you solved in R which required you to
+significantly roll your own functions ( a brief description of what
+you created)
+- Accessing databases via R (any experience using key-value
+store/NoSQL databases via API(s) available for R like MongoDB)
+- Examples of your experience in using Big Data technologies
+- Links to any work you may have contributed to the R/open source
+community (for example, your GitHub page, R packages developed, any
+such project you're currently working on)
+- Links to questions asked/answered on Stack Overflow related to R
+
+
+Thanks and Regards,
+Harsh
+singhalblr at gmail.com
+
+
+
+From m|ch@e|@@ch|mek @end|ng |rom medun|gr@z@@t  Wed Mar  7 14:23:59 2012
+From: m|ch@e|@@ch|mek @end|ng |rom medun|gr@z@@t (Prof. M. G. Schimek)
+Date: Wed, 07 Mar 2012 14:23:59 +0100
+Subject: [R-jobs] Job offer predoc/PhD position Medical University of Graz,
+	Austria
+Message-ID: <4F57616F.3000309@medunigraz.at>
+
+*Vacancy: Scientific Collaborator in Statistical Bioinformatics*
+
+*Institute for Medical Informatics, Statistics and Documentation**, 
+Medical University of Graz, Austria*
+
+predoc level with PhD opportunity, 30 hours per week
+available from May 1st, 2012
+
+*Tasks:*
+
+  * Working in the project "Biostatistical-genomical analysis of the
+    clinical relevance of liver cancer models" which is collaborative
+    research with the Institute of Pathology and part of international
+    collaborations on metabolic disease-driven hepatocellular cancer
+  * Statistical analysis of human and mouse arrayCGH data from our
+    laboratory using R packages
+  * Application of statistical modelling and statistical (machine)
+    learning approaches to omics data
+  * Analysis of time-course or functional data from omics experiments
+  * Algorithmic and software development in R (Bioconductor)
+
+*Qualifications:*
+
+  * Master degree from an accredited university in (bio)statistics,
+    mathematical or computational biology, bioinformatics with a strong
+    statistical component or similar
+  * Experience with the statistical analysis of arrayCGHs and of other
+    array technologies
+  * Experience with R and another omics-relevant programming language
+  * Preferably also experience with R-Forge projects and CRAN submissions
+  * Excellent command of English when not native
+  * Basic knowledge of German when not native
+
+*For more information see: * 
+http://www.medunigraz.at/imi/en/events/job_medinfo_02_2012.php
+
+Enquiries are welcome and should be directed to *Prof. Michael G. 
+Schimek* per email: michael.schimek at medunigraz.at 
+<javascript:toMailer('michael.schimek*medunigraz.at');>. *The closing 
+date for the receipt of applications is **March 24th, 2012.*
+
+
+
+-- 
+===============================================================
+Prof. Michael G. SCHIMEK, DPhil, PhD
+===============================================================
+Institute for Medical Informatics, Statistics and Documentation
+Medical University of Graz
+Auenbruggerplatz 2/V
+8036 Graz
+AUSTRIA, EUROPE
+===============================================================
+Phone: +43 316 385 Ext. 14263 (desk), Ext. 13201 (secretary)
+Fax: +43 316 385 13590
+E-Mail Office: imi at medunigraz.at
+Web: http://www.meduni-graz.at/imi/en/index.php
+===============================================================
+
+
+	[[alternative HTML version deleted]]
+
+
+
+From @|ngh@|b|r @end|ng |rom gm@||@com  Thu Mar 15 12:04:46 2012
+From: @|ngh@|b|r @end|ng |rom gm@||@com (Harsh)
+Date: Thu, 15 Mar 2012 16:34:46 +0530
+Subject: [R-jobs] R developer opportunity in a computational marketing
+	startup
+In-Reply-To: <CA+qkPeYcT12xfc-eudyTtZqKm+kFKbx4a81LS7=ymVZtyL3gEA@mail.gmail.com>
+References: <CA+qkPeYcT12xfc-eudyTtZqKm+kFKbx4a81LS7=ymVZtyL3gEA@mail.gmail.com>
+Message-ID: <CA+qkPeZB0eDU+09nNQhz90roYtEHSu1NBZTD+WCPBDnghOh44g@mail.gmail.com>
+
+Dear R users/developers,
+
+I am posting on behalf of a friend who is looking for R developers.
+
+The requirements are :
+- ? ? ? ? ?Available to work/re-locate to Bangalore, India
+- ? ? ? ? ?Over 5 - 6 years of solid R experience is essential
+- ? ? ? ? ?The ideal candidate should have worked on regression
+modeling and predictive models
+- ? ? ? ? ?Experience using Big Data technologies (like Hadoop) is desirable
+- ? ? ? ? ?Experience with marketing analytics and marketing decision
+sciences would be a plus but is not essential
+
+About the company:
+The company is a NYC/Bangalore based computational marketing startup
+and is currently in a deep stealth mode. This startup combines
+next-generation marketing science with new large datasets to surface
+competitive dynamics at the DMA-level. Using this, it generates
+actionable insights to power a new way of marketing called Agile
+Marketing System. The startup has real customers and expects to come
+out of the stealth mode by end of the year. It is backed by some of
+the biggest names in the marketing and technology space.
+
+
+If you are interested and fit the requirements listed above you can
+get in touch with Harsh on singhalblr at gmail.com with Subject: "BLR
+Startup", resume in PDF format and a cover letter which ideally should
+contain the following :
+
+- A difficult problem you solved in R which required you to
+significantly roll your own functions ( a brief description of what
+you created)
+- Accessing databases via R (any experience using key-value
+store/NoSQL databases via API(s) available for R like MongoDB)
+- Examples of your experience in using Big Data technologies
+- Links to any work you may have contributed to the R/open source
+community (for example, your GitHub page, R packages developed, any
+such project you're currently working on)
+- Links to questions asked/answered on Stack Overflow related to R
+
+
+Thanks and Regards,
+Harsh
+singhalblr at gmail.com
+
+
+
+From d@|ev|n @end|ng |rom dundee@@c@uk  Thu Mar 15 15:15:12 2012
+From: d@|ev|n @end|ng |rom dundee@@c@uk (Daniel Levin)
+Date: Thu, 15 Mar 2012 14:15:12 +0000
+Subject: [R-jobs] Job in Scotland - Analyst Programmer/Data Warehouse Manager
+Message-ID: <B6272230336DD24D8E0D9BDE7F93C5C11277FF86@DB3PRD0410MB357.eurprd04.prod.outlook.com>
+
+Grade:                 Grade 7 - 8 depending on experience and skills
+Salary range:        Grade 7 (spine point 29; ?29,099)  up to grade 8 (point 40; ?40,280)
+Duration of Post:    Two years in the first instance
+Location:               Medical Research Institute, College of Medicine, Dentistry & Nursing, Ninewells Hospital & Medical School Campus, University of Dundee, DD1 9SY.
+
+The Diabetes Epidemiology Group at the University of Dundee Medical Research Institute is seeking a skilled programmer to interface with software developers in the various teams from whom we source data.
+The Group is at the cutting edge of exploiting large scale data including, electronic health records and large genetic datasets, to lead to advances in disease prevention and medical treatments.
+Examples of the sort of work we do include using large scale data on drug prescribing linked with hospitalisation data to detect and quantify adverse reactions to drugs used in diabetes care.
+Other examples are using large genome wide genotype data linked with clinical data to understand the genetics of complications of diabetes.
+
+This post provides a great opportunity for an enthusiastic programmer to develop core expertise in this rapidly expanding field.
+Such expertise was recently identified as being of growing strategic importance for UK science by the Medical Research Council (http://www.mrc.ac.uk/Utilities/Documentrecord/index.htm?d=MRC007896)
+and one where there will be many future job opportunities.
+
+We are seeking a person with good programming skills to provide a key link between the source of our raw data and the analytics team.
+Our data can come from many different sources in different formats and has often had minimal cleaning or processing before we receive it.
+The data providers often provide it as flat files though are moving to holding data on ORACLE, Netezza and other platforms.
+Our analytics team comprises machine learning specialists, biostatisticians and epidemiologists.
+Key attributes are good interpersonal skills and an ability to communicate clearly, experience with a relational database management package such as MySQL and familiarity with the LINUX environment.
+The appointee should have a sound understanding of good code documentation practices and tools.
+
+The principal responsibilities of the post are:
+
+
+  *   Continue development of our current database (now MySQL but you can migrate to another platform if needed) to create a local front end for analysis
+  *   Integrate  data  held in various formats and coming from various platforms
+  *   Implement structures and metadata to support data definition, quality definition and data  transformation from a variety of information sources
+  *   Process the data to a state ready for subsequent  analysis using a language such as PYTHON, PERL or other and write it back to the database for use by the analytic team who work in R, MATLAB , SAS STATA
+  *   Work with the analytic team to improve analytic efficiency such as  by re-writing some R Functions in  a lower level language such as C  or by parallelising the  code or application
+  *   Work with the analytic team to ensure data flows  and data version control are adequately documented  and that data analysis code and functions  common to different projects are organised in shared libraries
+  *   Work with the analytic team to ensure appropriate sharing of tools and methods across specific projects  and to set up the necessary systems to facilitate this
+
+
+For more experienced applicants we also envisage a leadership role that involves
+
+  *   establishing operational policies on data processing and data security across the team
+  *   being the point of communication between the  University IT support and the Diabetes Epidemiology  group and to represent the group in any IT and computing related discussions across the University
+  *   providing advice on investment in software and hardware within the group
+  *   participating in the recruitment, management and appraisal of the programming team as it expands
+
+
+Person Specification:
+
+Essential:
+Experience in setting up and maintaining a relational database
+Experience with an open source relational database management package such as MySQL or ORACLE or other
+Experience of working within a Unix/Linux environment
+Good interpersonal skills and an ability to communicate clearly
+Able to work on one's own initiative
+Ability to understand and debug an inherited codebase
+
+Desirable
+Experience of working with statisticians
+A degree in a related discipline such as computer science, mathematics or statistics
+
+Experience with an array programming language such as R or Matlab would be an advantage but is not essential
+Experience in any of:  Java, C++,-/- C#, Python,
+Experience of developing Web applications & Web Services
+Experience of managing a Linux server
+
+Ability to resolve relatively complex issues and manage change
+Experience of project management and team management
+
+How to Apply:
+To apply on-line please visit: www.dundee.ac.uk/jobs<http://www.dundee.ac.uk/jobs>.   Please quote reference number MDN0306.
+
+Potential applicants are encouraged to have an informal discussion about the post with Professor Helen Colhoun:  please email: m.z.mccann at dundee.ac.uk<mailto:m.z.mccann at dundee.ac.uk>
+
+The University of Dundee is committed to equal opportunities and welcomes applications from all sections of the community.
+
+
+
+
+The University of Dundee is a registered Scottish Charity, No: SC015096
+
+	[[alternative HTML version deleted]]
+
+
+
+From |||ndenbergh @end|ng |rom @@tonc@rter@com  Tue Mar 27 18:40:12 2012
+From: |||ndenbergh @end|ng |rom @@tonc@rter@com (Lindenbergh, Ilse)
+Date: Tue, 27 Mar 2012 17:40:12 +0100
+Subject: [R-jobs] R Specialist for an insurance company in Amsterdam
+Message-ID: <BF0CC331BAA07E448AD65CA6E4232015016FDB4F@EUR-COLOEMBX01.allegisgroup.com>
+
+We are searching for an R developer who is familiar with Java, for a big insurance company in Amsterdam.
+Qualified candidate should have at least 2 years experience with R.
+
+Job requirements:
+-          Experienced R programmer with good Java experience
+-          Experience of Rapid Application Development
+-          Experience of R architecture and deployment
+-          Experience of developing applications which calls R and co-locating Java and R
+
+Are available for a new job opportunity and interested in this one? Please let me know.
+
+r-sig-jobs at r-project.org
+
+Kind regards / Met vriendelijke groeten,
+
+Ilse Lindenbergh
+Aston Carter International, A Teksystems Company
+Part of the Allegis Group
+
+T:  +31 (0) 30 298 21 94
+E:  ilindenbergh at astoncarter.com
+
+Graadt van Roggenweg 328-334
+Blok D  - 3531 AH Utrecht
+The Netherlands
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aston Carter is now on Twitter, please follow us at http://twitter.com/aston_carter
+
+This email and any files transmitted with it are confide...{{dropped:20}}
+
+
+

@@ -1,0 +1,65 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2018-12",
+  "messages": [
+    {
+      "id": "msg-d63a7d8a61da",
+      "message_id": "<DB7PR08MB3516959D1F38AD41CDA64FFB80AE0@DB7PR08MB3516.eurprd08.prod.outlook.com>",
+      "from_name": "Tiago Magalhaes",
+      "from_email_hash": "c590ce03e90fdc4ee30568051265fab2a53dcd0b7943d0fe8e96ccda0b00cf77",
+      "date": "2018-12-03T17:03:01Z",
+      "subject": "[R-jobs] Positions at GMI, Dublin, Ireland",
+      "subject_clean": "[R-jobs] Positions at GMI, Dublin, Ireland",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear mailing list,\n\n\nGenomics Medicine Ireland is opening new positions for our bioinformatics team. The team will analyse the ?omics data produced at GMI, which currently includes disease cohorts such as IBD, Multiple sclerosis, Alzheimer's, rare diseases, cancer and recently we have opened programs in diabetes and asthma. Our work will also focus on ancestry related topics, namely how population genetics can increase the power of disease analysis.\n\n\nWe are building a team of cognitively diverse people, that will feed off each other to find GMI?s analytical solutions, ranging from bioinformaticians; biologists or medical doctors with knowledge of bioinformatics tools; individuals with an IT background with an enthusiasm to apply their knowledge to ?omics.\n\n\nIf you are interested or know anyone that might be, check the full application at:\n\nhttps://my.hirehive.io/genomics-medicine-ireland/jobs/39038/bioinformatician\n<https://bit.ly/2BfDvRA>\n\n\nDublin is currently a great place to work and live! :-)\n\nCherrywood Business Park, Building 4 | Dublin D18 K7W4 | Ireland\n\nThis e-mail message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). Any unauthorised disclosure, dissemination, distribution, copying or the taking of any action in reliance on the information herein is prohibited. Genomics Medicine Ireland Limited is a private limited company, incorporated in Ireland, company #562626. Registered office: Cherrywood Business Park, Building 4, Dublin D18 K7W4, Ireland.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear mailing list,\n\n\nGenomics Medicine Ireland is opening new positions for our bioinformatics team. The team will analyse the ?omics data produced at GMI, which currently includes disease cohorts suc",
+      "thread_id": "thread-d63a7d8a61da",
+      "thread_depth": 0,
+      "month": "2018-12"
+    },
+    {
+      "id": "msg-374547a684ad",
+      "message_id": "<CAPDNHNdyxYxtVBP29w8Lu0a9KdR8oJpSF4LFE6o6cmWAs6tuZw@mail.gmail.com>",
+      "from_name": "Christopher Tong",
+      "from_email_hash": "570258f59111604ce0ac353fa9b79988cb45ba4eaedd4d2222e70c8544b0deb3",
+      "date": "2018-12-03T13:55:28-08:00",
+      "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "subject_clean": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "in_reply_to": "<CAPDNHNf5j1_5gxT9G3DfPEOgcOMqrwmEJ=K+UguSoaq5j1xfHw@mail.gmail.com>",
+      "references": [
+        "<CAPDNHNf5j1_5gxT9G3DfPEOgcOMqrwmEJ=K+UguSoaq5j1xfHw@mail.gmail.com>"
+      ],
+      "body_plain": "CENTER FOR VETERINARY BIOLOGICS\n\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2019\n\n[Link to application at bottom of this note.  Applications are being\naccepted until 12/20/18.]\n\nWe bring a broad perspective to our consulting and analytical work\nwith scientists at the USDA National Centers for Animal Health. Our\nStatistics Section is looking for a good communicator who is\ncomfortable dealing with the analytical aspects of practical\nscientific issues.\n\nWe are looking for skills that support the\n* Statistical design, analysis, and interpretation of scientific studies\n* Application of statistical principles to specific problems in\napplied disciplines\n* Effective communication with scientists about practical issues\n\nWe?d also like to know about your background in areas that may advance\nour work, such as laboratory applications, epidemiology, machine\nlearning, or statistical programming.\n\nApplicants must be United States citizens.\n\nContact\nDave Siev, DVM, MS\nStatistics Section Leader\nUSDA Center for Veterinary Biologics\nAmes, IA 50010\ndavid.siev at aphis.usda.gov\n\n\nThe Center for Veterinary Biologics regulates vaccines,\nimmuno-therapeutics, diagnostics, and other biologics used to manage\nanimal diseases. It is located on the campus of the National Centers\nfor Animal Health in Ames, Iowa, where it maintains a close\naffiliation with the other animal disease centers on the campus and\nwith nearby Iowa State University. Ames is known for its stimulating\ncultural environment, pleasant surroundings, and stable economy. It is\n40 minutes north of Des Moines International Airport.\n\nEmployment benefits include flexible work schedule, ten paid federal\nholidays, liberal leave allowance (annual leave, sick leave, and\nfamily friendly leave policy), retirement and thrift savings plans,\nlife insurance program, and health insurance program.\n\n/*** Applications are being accepted for this position until Dec. 20\nat USAJOBS:  ***/\n\nhttps://www.usajobs.gov/GetJob/ViewDetails/518048900",
+      "body_snippet": "CENTER FOR VETERINARY BIOLOGICS\n\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2019\n\n[Link to application at bottom of this note.  Applications are bei",
+      "thread_id": "thread-374547a684ad",
+      "thread_depth": 0,
+      "month": "2018-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-374547a684ad",
+      "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "message_count": 1,
+      "participants": [
+        "Christopher Tong"
+      ],
+      "started": "2018-12-03T13:55:28-08:00",
+      "last_reply": "2018-12-03T13:55:28-08:00",
+      "root_message_id": "msg-374547a684ad"
+    },
+    {
+      "id": "thread-d63a7d8a61da",
+      "subject": "[R-jobs] Positions at GMI, Dublin, Ireland",
+      "message_count": 1,
+      "participants": [
+        "Tiago Magalhaes"
+      ],
+      "started": "2018-12-03T17:03:01+00:00",
+      "last_reply": "2018-12-03T17:03:01+00:00",
+      "root_message_id": "msg-d63a7d8a61da"
+    }
+  ]
+}

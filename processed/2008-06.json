@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2008-06",
+  "messages": [
+    {
+      "id": "msg-d8c21a4115cf",
+      "message_id": "<C46DCA99.7B72%CMiller@PICR.man.ac.uk>",
+      "from_name": "Crispin Miller",
+      "from_email_hash": "b75838e507e34fb1a030b504c271cb86eda591beea528ad9dee1aa2710c51ec1",
+      "date": "2008-06-05T16:53:45+01:00",
+      "subject": "[R-jobs] Positions in computational biology and bioinformatics",
+      "subject_clean": "[R-jobs] Positions in computational biology and bioinformatics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear All,\n\nWe have just advertised a number of jobs which may be of interest. I've\npasted the text from the advert below; more details can be found on our\nwebsite at:\n\n http://bioinformatics.pir.man.ac.uk\n\n------------------------------\nPositions in Applied Computational Biology and Bioinformatics\n\nThe Paterson Institute is a leading cancer centre of excellence core-funded\nby Cancer Research UK and is an Institute of The University of Manchester.\n\nWe are seeking motivated scientists to join our team and develop new\ntechniques to explore the biological processes (such as microRNA expression\nand alternative splicing) involved in the regulation and control of gene\nexpression, and to develop a better understanding of how these processes are\naltered in cancer.\n\nComputation Biologists\n----------------------\nTwo positions are available for postdoctoral researchers with experience\nanalysing high throughput genomic data and/or a detailed knowledge of genome\nannotation and gene structure.\n\nThe ideal candidate will have a PhD in Bioinformatics, Computational Biology\n(or a related discipline), enjoy working alongside clinicians and biologists\non complex real-world datasets, and will have significant experience using\ntools such as R/Bioconductor, Matlab, Perl Java and SQL.\n\nBioinformatics Programmer\n-------------------------\nWe are seeking a software engineer to build novel databases and\nBioconductor/R software for the analysis of biological data. The successful\ncandidate will be an accomplished programmer with experience in SQL, C/C++\nand Java. Experience using Perl, R, Matlab and/or BioConductor would be\nadvantageous. A masters degree in computer science (or a related\ndiscipline), or proven experience in software development would convey a\nsignificant advantage.\n\nBest wishes,\n\nCrispin \n--------------------------------------------------------\nThis email is confidential and intended solely for the u...{{dropped:12}}",
+      "body_snippet": "Dear All,\n\nWe have just advertised a number of jobs which may be of interest. I've\npasted the text from the advert below; more details can be found on our\nwebsite at:\n\n http://bioinformatics.pir.man.a",
+      "thread_id": "thread-d8c21a4115cf",
+      "thread_depth": 0,
+      "month": "2008-06"
+    },
+    {
+      "id": "msg-630831ce3f6f",
+      "message_id": "<3c7af3e80806121012i510095d6p351a951bc5e8d5cd@mail.gmail.com>",
+      "from_name": "David Carruthers",
+      "from_email_hash": "740e5c73f3ad695a0bcecfe999c2be6be223618e291031081b939b3ea7462413",
+      "date": "2008-06-12T18:12:50+01:00",
+      "subject": "[R-jobs] Summer contract London Financial",
+      "subject_clean": "[R-jobs] Summer contract London Financial",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are looking for someone to mine a database of financial data, covering\nstock loans and short selling.  Ideally with skills in R and SQL, Excel an\nadvantage; We are looking for trading signals and data quality improvements,\nidentification of outliers.  We will pay a competitive salary for 3 months,\nJuly - September, with the possiblity of a full time post thereafter.  Based\nin London in the Financial District.  Send CVs to David Carruthers at\nignatz101 at googlemail.com\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "We are looking for someone to mine a database of financial data, covering\nstock loans and short selling.  Ideally with skills in R and SQL, Excel an\nadvantage; We are looking for trading signals and d",
+      "thread_id": "thread-630831ce3f6f",
+      "thread_depth": 0,
+      "month": "2008-06"
+    },
+    {
+      "id": "msg-9cc72610458c",
+      "message_id": "<20080616161252.5jrqjtpmhsg00kw4@icare.u-paris10.fr>",
+      "from_name": "cge@oii@ m@iii@g oii u-p@ris10@ir",
+      "from_email_hash": "342075f4cac6e93c6bc359b644a376072882651c326b98f106809ac98f15d72d",
+      "date": "2008-06-16T16:12:52+02:00",
+      "subject": "[R-jobs] Optimization: rewriting R in C",
+      "subject_clean": "[R-jobs] Optimization: rewriting R in C",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi the job-list,\n\nI need help to customize a algorithm. The kernel of my program is about \n12 lines (simple and clear indented code), but it uses two loop. I \nwould like to use C code instead. Does someone provide this kind of \nservice? What kind of price?\n\nSincerly\n\nChristophe",
+      "body_snippet": "Hi the job-list,\n\nI need help to customize a algorithm. The kernel of my program is about \n12 lines (simple and clear indented code), but it uses two loop. I \nwould like to use C code instead. Does so",
+      "thread_id": "thread-9cc72610458c",
+      "thread_depth": 0,
+      "month": "2008-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d8c21a4115cf",
+      "subject": "[R-jobs] Positions in computational biology and bioinformatics",
+      "message_count": 1,
+      "participants": [
+        "Crispin Miller"
+      ],
+      "started": "2008-06-05T16:53:45+01:00",
+      "last_reply": "2008-06-05T16:53:45+01:00",
+      "root_message_id": "msg-d8c21a4115cf"
+    },
+    {
+      "id": "thread-630831ce3f6f",
+      "subject": "[R-jobs] Summer contract London Financial",
+      "message_count": 1,
+      "participants": [
+        "David Carruthers"
+      ],
+      "started": "2008-06-12T18:12:50+01:00",
+      "last_reply": "2008-06-12T18:12:50+01:00",
+      "root_message_id": "msg-630831ce3f6f"
+    },
+    {
+      "id": "thread-9cc72610458c",
+      "subject": "[R-jobs] Optimization: rewriting R in C",
+      "message_count": 1,
+      "participants": [
+        "cge@oii@ m@iii@g oii u-p@ris10@ir"
+      ],
+      "started": "2008-06-16T16:12:52+02:00",
+      "last_reply": "2008-06-16T16:12:52+02:00",
+      "root_message_id": "msg-9cc72610458c"
+    }
+  ]
+}

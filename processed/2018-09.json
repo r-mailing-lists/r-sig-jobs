@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2018-09",
+  "messages": [
+    {
+      "id": "msg-a17b04127e5c",
+      "message_id": "<CAFafZOZ1AcC8hwUTU0+fq6YtoL9uWKcx_+ToTAu_AZ8A05Rg4Q@mail.gmail.com>",
+      "from_name": "Eusebi Llensa",
+      "from_email_hash": "30132693de426d32acaa7e040509e79187296b6e82197d4b993417fe0e29d637",
+      "date": "2018-09-27T21:31:17+02:00",
+      "subject": "[R-jobs] Japanese speaking data scientist for a 3 months project in Tokyo",
+      "subject_clean": "[R-jobs] Japanese speaking data scientist for a 3 months project in Tokyo",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear Group,\n\nwe are currently searching for a data scientist to support our client in a\n3 months engagement in Tokyo. If you are interested please reply to me or\napply in the following link.\n\nhttps://www.outvise.com/walls/opportunity/13x47374\n\nThanks,\n\nEusebi.\n-- \n\n\n*EUSEBI LLENSA EISINGER*\nCEO & Partner\n(+34) 670 774 964\nellensa at outvise.com | *www.outvise.com* <http://www.outvise.com/>\n\n-- \nIn compliance with Regulation (EU) 2016/679 and Law 34/2002, (LSSICE), we \ninform you that the personal data contained in this email will be part of a \nFile belonging to Outvise, S.L., whose purpose is to manage communications \nand the sending of advertising or commercial information, either because of \nyour relationship with us or because you have authorised us to have your \npersonal data included in such file. This data will be processed and \nretained as confidential, by applying the relevant security measures and \nfor the period required to provide our services or, failing that, for the \nperiod required by law. The data provided will not be disclosed to any \nthird party except as may be required by applicable law. As a Data Subject, \nyou may at any time exercise the right of access, rectification, erasure, \nrestriction of the processing, as well as the right to data portability or \nobject to processing by writing to Outvise, S.L., with Tax Identification \nNo. B66335947 and registered office at C/ Milanesat, 6, 08017 - Barcelona, \nor by email at support at outvise.com <mailto:support at outvise.com>, together \nwith a proof of identity. This email message is intended solely for the \nrecipient(s) referred to therein. The information therein contained may be \nconfidential and/or private, so its reproduction or dissemination is \nstrictly prohibited. If you are not the intended recipient of this message, \nplease return it immediately to the mailing address and destroy it.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear Group,\n\nwe are currently searching for a data scientist to support our client in a\n3 months engagement in Tokyo. If you are interested please reply to me or\napply in the following link.\n\nhttps://",
+      "thread_id": "thread-a17b04127e5c",
+      "thread_depth": 0,
+      "month": "2018-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a17b04127e5c",
+      "subject": "[R-jobs] Japanese speaking data scientist for a 3 months project in Tokyo",
+      "message_count": 1,
+      "participants": [
+        "Eusebi Llensa"
+      ],
+      "started": "2018-09-27T21:31:17+02:00",
+      "last_reply": "2018-09-27T21:31:17+02:00",
+      "root_message_id": "msg-a17b04127e5c"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2014-10",
+  "messages": [
+    {
+      "id": "msg-7db681b81052",
+      "message_id": "<54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>",
+      "from_name": "Crispin Miller",
+      "from_email_hash": "3ed728e0fc0c400697775ae4500ed09ba80b70dbe126fbe20ad6ed1b98420391",
+      "date": "2014-10-01T10:37:03Z",
+      "subject": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
+      "subject_clean": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all, we have an exciting PhD position applying HPC to the analysis of large scale cancer datasets.\n\nThe post will suit an applicant from a strong computational background who wishes to apply their knowledge to help develop a better understanding of the processes that control how tumours develop.\n\nDetails below:-\n\nHigh Performance Computing applied to cancer research: Computational analysis of Noncoding RNA regulators of gene expression in individual tumour cells\n\nRNABiology/Computational Biology\nThe goal of this project is to use computational tools to ask how patterns in gene expression are disrupted in cancer. The project will suit a graduate student from a computational background with exceptional programming ability and strength in mathematics and statistics.\n\nThe main focus of our group is directed at understanding the role played by noncoding RNAs (ncRNAs) in modulating the behaviour of cancer cells. These are RNA molecules that are transcribed, but never translated into protein sequences. Advances in sequencing technology have revealed large numbers of novel ncRNA loci in the genome, to the point where they are now known to outnumber protein-coding genes. Whilst most are uncharacterised, recent work has shown an increasing number to be functional ? and to act in a variety of regulatory roles within the cell. The successful applicant will join a highly interdisciplinary team comprising numerical- and biological-scientists who together exploit the power of new technologies such as single-cell RNA sequencing and protein mass spectrometry to investigate the fundamentals of gene expression in cancer. This project will involve applying machine learning and pattern recognition techniques to high volumes of RNA-sequencing data representing a combination of single cells, clinical samples, and experimental data generated using cell lines.\n\nThe scale of the data mean that novel algorithms will be required in order to achieve the volume of computation required, and this will involve programming on the latest architectures. The successful applicant will make extensive use of our on-site High Performance Computing (HPC) facility, purpose built for the analysis of cancer genomics data. Experience coding in C, C++ or Java are critical, and familiarity with aspects of graph theory, machine learning, and parallel programming will be advantageous. While an understanding of basic genomics and cancer biology would be useful, it is not a prerequisite; the project is open to an enthusiastic individual from a numerical discipline who wishes to use their skills to help develop a better understanding of the processes that control gene expression, and how they are perturbed in tumours.\n\nPlease visit our website to find out more: http://cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller\n\nbest wishes,\nCrispin\n\n________________________________\n\nThis email is confidential and intended solely for the u...{{dropped:12}}",
+      "body_snippet": "Dear all, we have an exciting PhD position applying HPC to the analysis of large scale cancer datasets.\n\nThe post will suit an applicant from a strong computational background who wishes to apply thei",
+      "thread_id": "thread-7db681b81052",
+      "thread_depth": 0,
+      "month": "2014-10"
+    },
+    {
+      "id": "msg-27f8020f563f",
+      "message_id": "<CAK1hC9uwTRxpxnbaSFHzGFjzYC_d-GTdGzkSLKDHJorjCjSxLw@mail.gmail.com>",
+      "from_name": "arnaud gaboury",
+      "from_email_hash": "8d66b3010463ba4609c087a2aec53210a2c80004ddc8ee34092b23f175a5a8d2",
+      "date": "2014-10-01T12:47:14+02:00",
+      "subject": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
+      "subject_clean": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
+      "in_reply_to": "<54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>",
+      "references": [
+        "<54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>"
+      ],
+      "body_plain": ">\n> Please visit our website to find out more: http://cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller\n>\n\nServer not found.",
+      "body_snippet": ">\n> Please visit our website to find out more: http://cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller\n>\n\nServer not found.",
+      "thread_id": "thread-7db681b81052",
+      "thread_depth": 1,
+      "month": "2014-10"
+    },
+    {
+      "id": "msg-9d86becd20b5",
+      "message_id": "<CE2B0639-EA90-48F8-B2EA-EF2D3D8AA05F@cruk.manchester.ac.uk>",
+      "from_name": "Crispin Miller",
+      "from_email_hash": "3ed728e0fc0c400697775ae4500ed09ba80b70dbe126fbe20ad6ed1b98420391",
+      "date": "2014-10-01T10:54:24Z",
+      "subject": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
+      "subject_clean": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
+      "in_reply_to": "<54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>",
+      "references": [
+        "<54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>"
+      ],
+      "body_plain": "Apologies - the web address below should be: http://www.cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller\nCrispin\n\n\nOn 1 Oct 2014, at 11:37, Crispin Miller <Crispin.Miller at cruk.manchester.ac.uk> wrote:\n\n> Dear all, we have an exciting PhD position applying HPC to the analysis of large scale cancer datasets.\n>\n> The post will suit an applicant from a strong computational background who wishes to apply their knowledge to help develop a better understanding of the processes that control how tumours develop.\n>\n> Details below:-\n>\n> High Performance Computing applied to cancer research: Computational analysis of Noncoding RNA regulators of gene expression in individual tumour cells\n>\n> RNABiology/Computational Biology\n> The goal of this project is to use computational tools to ask how patterns in gene expression are disrupted in cancer. The project will suit a graduate student from a computational background with exceptional programming ability and strength in mathematics and statistics.\n>\n> The main focus of our group is directed at understanding the role played by noncoding RNAs (ncRNAs) in modulating the behaviour of cancer cells. These are RNA molecules that are transcribed, but never translated into protein sequences. Advances in sequencing technology have revealed large numbers of novel ncRNA loci in the genome, to the point where they are now known to outnumber protein-coding genes. Whilst most are uncharacterised, recent work has shown an increasing number to be functional ? and to act in a variety of regulatory roles within the cell. The successful applicant will join a highly interdisciplinary team comprising numerical- and biological-scientists who together exploit the power of new technologies such as single-cell RNA sequencing and protein mass spectrometry to investigate the fundamentals of gene expression in cancer. This project will involve applying machine learning and pattern recognition techniques to high volumes of RNA-sequencing data representing a combination of single cells, clinical samples, and experimental data generated using cell lines.\n>\n> The scale of the data mean that novel algorithms will be required in order to achieve the volume of computation required, and this will involve programming on the latest architectures. The successful applicant will make extensive use of our on-site High Performance Computing (HPC) facility, purpose built for the analysis of cancer genomics data. Experience coding in C, C++ or Java are critical, and familiarity with aspects of graph theory, machine learning, and parallel programming will be advantageous. While an understanding of basic genomics and cancer biology would be useful, it is not a prerequisite; the project is open to an enthusiastic individual from a numerical discipline who wishes to use their skills to help develop a better understanding of the processes that control gene expression, and how they are perturbed in tumours.\n>\n> Please visit our website to find out more: http://cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller\n>\n> best wishes,\n> Crispin\n>\n> ________________________________\n>\n> This email is confidential and intended solely for the...{{dropped:22}}",
+      "body_snippet": "Apologies - the web address below should be: http://www.cruk.manchester.ac.uk/Education/PhD-Studentships/2015-Projects/Crispin-Miller\nCrispin\n\n\nOn 1 Oct 2014, at 11:37, Crispin Miller <Crispin.Miller ",
+      "thread_id": "thread-7db681b81052",
+      "thread_depth": 1,
+      "month": "2014-10"
+    },
+    {
+      "id": "msg-0cb4c6529223",
+      "message_id": "<E3555D2E-2971-454D-9C5F-347BC68B5ABE@cruk.manchester.ac.uk>",
+      "from_name": "Crispin Miller",
+      "from_email_hash": "3ed728e0fc0c400697775ae4500ed09ba80b70dbe126fbe20ad6ed1b98420391",
+      "date": "2014-10-03T12:36:23Z",
+      "subject": "[R-jobs] JOBS: New positions in computational biology, bioinformatics, statistics, HPC and software engineering",
+      "subject_clean": "[R-jobs] JOBS: New positions in computational biology, bioinformatics, statistics, HPC and software engineering",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\nThe CRUK MI have multiple positions in and around bioinformatics, biostatistics and computational biology.\n\nThese range from HPC and mathematical programming, through biostatistics and biomarkers, to computational biology and bioinformatics. Focuses include single cell genomics and personalised medicine in lung and prostate cancer.\n\nFor full details, please visit our website at:\n\nhttp://www.cruk.manchester.ac.uk\n\nBrief summaries below:\n\nRNA Biology Group - Crispin Miller\n==========================\nPostdoctoral Scientist in Computational Biology:\nA position is now available for a highly motivated postdoctoral research scientist to develop computational models of gene expression across populations of cells, and to ask how they change in tumours. The goal is to identify novel regulatory noncoding RNA molecules that are disrupted in cancer.\n\n4 Year PhD Studentship:\nThis project will involve applying machine learning and pattern recognition techniques to high volumes of RNA-sequencing data representing a combination of single cells and bulk tissue. The scale of the data mean that novel algorithms will be required in order to achieve the volume of computation required, and this will involve programming on the latest architectures. The successful applicant will make extensive use of our on-site High Performance Computing (HPC) facility, purpose built for the analysis of cancer genomics data.\n\nComputational Biology Team leader:\nSeeking a senior computational biologist who can provide leadership to the Computational Biology Support team at the CRUK MI. They will work closely with the RNA Biology Group leader to coordinate the activities of a team providing state of the art analysis of high throughput genomics data.\n\nClinical and Experimental Pharmacology Group (CEP) - Caroline Dive\n=====================================================\nBioinformatician:\nWe are now able to isolate single Circulating Tumour Cells (CTCs) from patients? blood samples and derive their genomic profiles utilising next generation sequencing (Hodgkinson et al Nature Medicine, June 2014). We will for the first time using advanced molecular analysis define CTC heterogeneity and examine differences in CTC genomic profiles of small cell lung cancer (SCLC) patients who are sensitive or resistant to chemotherapy, an approach that will ultimately lead to biomarker signatures for therapy selection.\n\n2 x Postdoctoral Scientists (Biomarker Statisticians):\nThe successful candidates will be involved in biomarker driven clinical trial design, the development of statistical methods tailored to biomarker analysis (baseline and longitudinal data) and the analysis of resultant biomarker data with a view to optimising patient treatment.\n\nMolecular Oncology Group - Richard Marais & CEP Group - Caroline Dive\n========================================================\nPost-doctoral Scientist in Bioinformatics for Prostate Cancer - Prostate Cancer UK/Movember Funded:\nTogether with Queen?s University Belfast, we have recently been awarded a Movember Centre of Excellence for prostate cancer research.The successful candidate will join a team who will implement personalised medicine for prostate cancer.  The post holder will be responsible for working with other team members to integrate genomics and proteomics data from patient samples.  They will collaborate to advance the data for practical use in the personalised medicine platform and to pursue follow-up studies as appropriate.\n\nStem Cell Biology Group - Georges Lacaud\n=================================\nBioinformatics analyst:\nseeking a proactive and well-organised candidate with excellent communication and interpersonal skills to work in a dynamic laboratory undertaking cutting edge research. The successful candidate will be expected to provide expert analysis of Microarray data, Next Generation and ChIP Sequencing using a range of bioinformatics methods and resources.\n\nAbout the Institute: The Cancer Research UK Manchester Institute (www.cruk.manchester.ac.uk<http://www.cruk.manchester.ac.uk>), an Institute of The University of Manchester (www.manchester.ac.uk<http://www.manchester.ac.uk>), is a world-leading centre for excellence in cancer research. The Institute is core funded by Cancer Research UK (www.cancerresearchuk.org<http://www.cancerresearchuk.org>), the largest independent cancer research organisation in the world. We are adjacent to The Christie NHS Foundation Trust (www.christie.nhs.uk<http://www.christie.nhs.uk>), one of the largest cancer treatment centres in Europe. These factors combine to provide an exceptional environment in which to pursue basic, translational and clinical research programmes. Our aim is to understand the fundamental basis of cancer and apply that knowledge to developing new treatment strategies for cancer patients. Our advanced research programmes span a spectrum of cancer research, from the molecular and cellular basis of cancer through to drug discovery, translational research and clinical trials. The Institute has outstanding laboratory facilities and exceptional core services, including next generation sequencing, microarrays, confocal microscopy, bioinformatics, histology and mass-spectrometry. We are situated in Manchester, England, a vibrant and dynamic city that is surrounded by beautiful countryside and has excellent transport links both nationally and internationally.\n________________________________\n\nThis email is confidential and intended solely for the u...{{dropped:12}}",
+      "body_snippet": "Dear all,\nThe CRUK MI have multiple positions in and around bioinformatics, biostatistics and computational biology.\n\nThese range from HPC and mathematical programming, through biostatistics and bioma",
+      "thread_id": "thread-0cb4c6529223",
+      "thread_depth": 0,
+      "month": "2014-10"
+    },
+    {
+      "id": "msg-ca2978aed26f",
+      "message_id": "<235757EC92A0CD4D989BBAE8DC3C6FFD3C444DF0@STLWEXMBXPRD14.na.ds.monsanto.com>",
+      "from_name": "FOAT, BARRETT [AG/1000]",
+      "from_email_hash": "5c79da13eecda1d86d3c4ea2f0d5050182b905af26f26f2b397ce3a087427444",
+      "date": "2014-10-09T13:21:26Z",
+      "subject": "[R-jobs] Write R code to feed the world!",
+      "subject_clean": "[R-jobs] Write R code to feed the world!",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are hiring an R programmer to make biologists better at crop improvement:\nhttp://jobs.monsanto.com/missouri/research-and-development/jobid6130734-r-programmer-jobs\n\nPlease apply if you are passionate about building R culture and infrastructure.\n\n.    .  ..    . ...  .  ...  .  ..  . . ... .   ... .    .      .   ..  .. .... ..    . ... .\nBarrett Foat, PhD\nGenome Data Analytics Team Lead\nMonsanto Company\n700 Chesterfield Parkway West\nChesterfield, MO 63017\n636-737-4366\n\nThis e-mail message may contain privileged and/or confidential information, and is intended to be received only by persons entitled\nto receive such information. If you have received this e-mail in error, please notify the sender immediately. Please delete it and\nall attachments from any servers, hard drives or any other media. Other use of this e-mail by you is strictly prohibited.\n\nAll e-mails and attachments sent and received are subject to monitoring, reading and archival by Monsanto, including its\nsubsidiaries. The recipient of this e-mail is solely responsible for checking for the presence of \"Viruses\" or other \"Malware\".\nMonsanto, along with its subsidiaries, accepts no liability for any damage caused by any such code transmitted by or accompanying\nthis e-mail or any attachment.\n\n\nThe information contained in this email may be subject to the export control laws and regulations of the United States, potentially\nincluding but not limited to the Export Administration Regulations (EAR) and sanctions regulations issued by the U.S. Department of\nTreasury, Office of Foreign Asset Controls (OFAC).  As a recipient of this information you are obligated to comply with all\napplicable U.S. export laws and regulations.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "We are hiring an R programmer to make biologists better at crop improvement:\nhttp://jobs.monsanto.com/missouri/research-and-development/jobid6130734-r-programmer-jobs\n\nPlease apply if you are passiona",
+      "thread_id": "thread-ca2978aed26f",
+      "thread_depth": 0,
+      "month": "2014-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7db681b81052",
+      "subject": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
+      "message_count": 3,
+      "participants": [
+        "Crispin Miller",
+        "arnaud gaboury"
+      ],
+      "started": "2014-10-01T10:37:03+00:00",
+      "last_reply": "2014-10-01T10:54:24+00:00",
+      "root_message_id": "msg-7db681b81052"
+    },
+    {
+      "id": "thread-0cb4c6529223",
+      "subject": "[R-jobs] JOBS: New positions in computational biology, bioinformatics, statistics, HPC and software engineering",
+      "message_count": 1,
+      "participants": [
+        "Crispin Miller"
+      ],
+      "started": "2014-10-03T12:36:23+00:00",
+      "last_reply": "2014-10-03T12:36:23+00:00",
+      "root_message_id": "msg-0cb4c6529223"
+    },
+    {
+      "id": "thread-ca2978aed26f",
+      "subject": "[R-jobs] Write R code to feed the world!",
+      "message_count": 1,
+      "participants": [
+        "FOAT, BARRETT [AG/1000]"
+      ],
+      "started": "2014-10-09T13:21:26+00:00",
+      "last_reply": "2014-10-09T13:21:26+00:00",
+      "root_message_id": "msg-ca2978aed26f"
+    }
+  ]
+}

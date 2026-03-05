@@ -1,0 +1,213 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-03",
+  "messages": [
+    {
+      "id": "msg-8290d38a6e53",
+      "message_id": "<AANLkTinJdJov1xXXLefRWcUePv3T9Z947DaWwqEa9Nnb@mail.gmail.com>",
+      "from_name": "Joseph Kahn",
+      "from_email_hash": "df56e00d1f0a2e59defe4db05259145a503b5fa60c138852f23220e954661166",
+      "date": "2011-03-02T16:15:23-05:00",
+      "subject": "[R-jobs] summer internship at Novartis",
+      "subject_clean": "[R-jobs] summer internship at Novartis",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R coders,\n\nThe Modeling & Simulation department at Novartis is seeking a summer\nintern to complete development on an R package.\n\nDescription:\n* Complete development, enhancements and release/publication of the\nsimR package and related projects:\n(http://user2010.org/abstracts/Kahn+Danenberg+Das+Ayers.pdf)\n\n* Internship requires a commitment of approximately 12 weeks, full time.\n\nRequirements:\n* Ideal intern should be an excellent R coder versed in OOP, able to\nwork on a mixture of Windows and Linux/clusters\n\nFor more info, please see the description and apply at the link below.\nBest regards,\n- Joseph\n\nhttps://sjobs.brassring.com/2057/asp/tg/cim_jobdetail.asp?jobId=1408375&PartnerId=13617&SiteId=5260&type=mail&JobReqLang=1&recordstart=1&JobSiteId=5268&JobSiteInfo=1408375_5268&gqid=0",
+      "body_snippet": "Dear R coders,\n\nThe Modeling & Simulation department at Novartis is seeking a summer\nintern to complete development on an R package.\n\nDescription:\n* Complete development, enhancements and release/publ",
+      "thread_id": "thread-8290d38a6e53",
+      "thread_depth": 0,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-2e84feacb021",
+      "message_id": "<C99AC27C.2642%DavidHodgkinson@quintessa.org>",
+      "from_name": "David Hodgkinson",
+      "from_email_hash": "690414f2541260c78bd0b94bd4c7fff803098de05ee4cdba4fdb1534ef4026a9",
+      "date": "2011-03-07T17:12:28Z",
+      "subject": "[R-jobs] JOB: Statistical and Mathematical Modelling in the Energy and Environment Sectors",
+      "subject_clean": "[R-jobs] JOB: Statistical and Mathematical Modelling in the Energy and Environment Sectors",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "JOB: Statistical and Mathematical Modelling in the Energy and Environment\nSectors\n\nQuintessa (www.quintessa.org) is an employee-owned company that undertakes\nhigh-quality science-based consultancy, research and software development\nfor industry and governments around the world in the energy and environment\nsectors. Statistical and mathematical modelling of complex systems (ranging\nfrom geological storage facilities for carbon dioxide to the graphite cores\nof Advanced Gas-cooled Reactors) represents an important part of the\ncompany's activities. We would like to hear from individuals interested in\njoining Quintessa's office in Henley-on-Thames to contribute to our work in\nthese areas.  We are looking for someone with a first class academic record,\ngood presentation skills, and a proven ability to solve problems using\nstatistical and mathematical modelling techniques. Candidates, who must\nalready be living in the UK, should send a CV with a covering letter by\ne-mail to DavidHodgkinson at quintessa.org.\n\n-- \nDr David P Hodgkinson, Managing Director, Quintessa Ltd\nThe Hub, 14 Station Road, Henley-on-Thames, Oxfordshire RG9 1AY, UK\nTel: 01491 636246  DD: 01491 630041 Fax: 01491 636247",
+      "body_snippet": "JOB: Statistical and Mathematical Modelling in the Energy and Environment\nSectors\n\nQuintessa (www.quintessa.org) is an employee-owned company that undertakes\nhigh-quality science-based consultancy, re",
+      "thread_id": "thread-2e84feacb021",
+      "thread_depth": 0,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-462725fee20a",
+      "message_id": "<AANLkTimBRup=uzxAQZP6EqPVit4UXnBTVEB1nhJjhXhK@mail.gmail.com>",
+      "from_name": "Rocky Mehta",
+      "from_email_hash": "37d3e3eb1a300ea00ea3bc83d49a23b5619c1e5cd321de2baddb3ff8c31ce753",
+      "date": "2011-03-08T22:25:55-05:00",
+      "subject": "[R-jobs] Data Scientist opportunity",
+      "subject_clean": "[R-jobs] Data Scientist opportunity",
+      "in_reply_to": "<AANLkTin0QEGNAFTi5Lhs9FBqw9hghVQwpECxgrjZqH7Z@mail.gmail.com>",
+      "references": [
+        "<AANLkTin0QEGNAFTi5Lhs9FBqw9hghVQwpECxgrjZqH7Z@mail.gmail.com>"
+      ],
+      "body_plain": ">\n> Hi All,\n>\n> We have a great opportunity (DC Metro area) to be part of a new product\n> leveraging existing predictive analytics technologies to be applied to\n> potentially different vertical markets/fields.  We're seeking several\n> experienced consultants to help including this key role.  US Citizenship\n> required due to access to sensitive data.  If interested please get in touch\n> for more details:\n>\n> *Data Scientist* - Python and R experience required; Hadoop ecosystem,\n> MongoDB, Neo4j, etc... Visualization, Inference or Recommendation tool\n> experience in any of a number of different vertical markets also desired\n> (e.g., online retail, content, etc.);  M.S. in Mathematics, Statistics,\n> Political Science, Physics, Computer Science, Electrical Engineering,\n> Computer Engineering or equivalent work experience\n>\n> Please provide links to stackoverflow.com submissions, and GitHub\n> projects...\n>\n> Thanks,\n>  Rocky Mehta\n> (office) 703-281-4646\n> (cell)   703-400-5289\n> (eFax) 703-552-1942\n>\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": ">\n> Hi All,\n>\n> We have a great opportunity (DC Metro area) to be part of a new product\n> leveraging existing predictive analytics technologies to be applied to\n> potentially different vertical market",
+      "thread_id": "thread-462725fee20a",
+      "thread_depth": 0,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-59534b5060da",
+      "message_id": "<AANLkTinLqYdx_azhUQ4o2p1dWczbb_OVnxBAeDTJjqvE@mail.gmail.com>",
+      "from_name": "Usuario R",
+      "from_email_hash": "6c1eed21635e2f078599b515973ca58cd0cf39a113f185b603fcbade87efbf9a",
+      "date": "2011-03-09T09:53:46+01:00",
+      "subject": "[R-jobs] Data Scientist opportunity",
+      "subject_clean": "[R-jobs] Data Scientist opportunity",
+      "in_reply_to": "<AANLkTimBRup=uzxAQZP6EqPVit4UXnBTVEB1nhJjhXhK@mail.gmail.com>",
+      "references": [
+        "<AANLkTin0QEGNAFTi5Lhs9FBqw9hghVQwpECxgrjZqH7Z@mail.gmail.com>",
+        "<AANLkTimBRup=uzxAQZP6EqPVit4UXnBTVEB1nhJjhXhK@mail.gmail.com>"
+      ],
+      "body_plain": "Hi,\n\nI am not sure if a rule for this mailing list already exist or not, but it\nwould be nice to have an idea in which city the position refers by just\nreading the email. And I am sorry but \"DC metro\" doesn't mean anything for\nme.\n(I am also very sorry but this list is not only for USA and USA is not the\ncenter if the universe so we don't necessarily have to know the states\nabreviations)\n\nThanks\nRegards\n\n\n\n2011/3/9 Rocky Mehta <rockymehta at gtpartners.biz>\n\n> >\n> > Hi All,\n> >\n> > We have a great opportunity (DC Metro area) to be part of a new product\n> > leveraging existing predictive analytics technologies to be applied to\n> > potentially different vertical markets/fields.  We're seeking several\n> > experienced consultants to help including this key role.  US Citizenship\n> > required due to access to sensitive data.  If interested please get in\n> touch\n> > for more details:\n> >\n> > *Data Scientist* - Python and R experience required; Hadoop ecosystem,\n> > MongoDB, Neo4j, etc... Visualization, Inference or Recommendation tool\n> > experience in any of a number of different vertical markets also desired\n> > (e.g., online retail, content, etc.);  M.S. in Mathematics, Statistics,\n> > Political Science, Physics, Computer Science, Electrical Engineering,\n> > Computer Engineering or equivalent work experience\n> >\n> > Please provide links to stackoverflow.com submissions, and GitHub\n> > projects...\n> >\n> > Thanks,\n> >  Rocky Mehta\n> > (office) 703-281-4646\n> > (cell)   703-400-5289\n> > (eFax) 703-552-1942\n> >\n> >\n>\n>        [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-jobs mailing list\n> R-sig-jobs at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n>\n\n\n\n-- \nPatricia Garc?a Gonz?lez\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi,\n\nI am not sure if a rule for this mailing list already exist or not, but it\nwould be nice to have an idea in which city the position refers by just\nreading the email. And I am sorry but \"DC metro\"",
+      "thread_id": "thread-462725fee20a",
+      "thread_depth": 1,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-c2d27749f0c8",
+      "message_id": "<19831.28603.204954.591359@ny.koplon.com>",
+      "from_name": "Marc Schwarzschild",
+      "from_email_hash": "08a69da45c5fa12d0bce0008ccf30f4bf0fda15e95d5a9281893bc2d3ecf24bb",
+      "date": "2011-03-09T07:16:59-05:00",
+      "subject": "[R-jobs] Data Scientist opportunity",
+      "subject_clean": "[R-jobs] Data Scientist opportunity",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I have tried without success to remove myself from this list.\nPlease advise.\n\n_________________________________________________________\nMarc Schwarzschild              The Brookhaven Group, LLC\n1-212-580-1175         Analytics for Hedge Fund Investors\n                 Risk it, carefully!",
+      "body_snippet": "I have tried without success to remove myself from this list.\nPlease advise.\n\n_________________________________________________________\nMarc Schwarzschild              The Brookhaven Group, LLC\n1-212-",
+      "thread_id": "thread-c2d27749f0c8",
+      "thread_depth": 0,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-74cddeefb27f",
+      "message_id": "<4553891296692088610@unknownmsgid>",
+      "from_name": "Rocky Mehta",
+      "from_email_hash": "37d3e3eb1a300ea00ea3bc83d49a23b5619c1e5cd321de2baddb3ff8c31ce753",
+      "date": "2011-03-09T11:09:05-05:00",
+      "subject": "[R-jobs] Data Scientist opportunity",
+      "subject_clean": "[R-jobs] Data Scientist opportunity",
+      "in_reply_to": "<AANLkTinLqYdx_azhUQ4o2p1dWczbb_OVnxBAeDTJjqvE@mail.gmail.com>",
+      "references": [
+        "<AANLkTin0QEGNAFTi5Lhs9FBqw9hghVQwpECxgrjZqH7Z@mail.gmail.com>",
+        "<AANLkTimBRup=uzxAQZP6EqPVit4UXnBTVEB1nhJjhXhK@mail.gmail.com>",
+        "<AANLkTinLqYdx_azhUQ4o2p1dWczbb_OVnxBAeDTJjqvE@mail.gmail.com>"
+      ],
+      "body_plain": "Good points, \"DC Metro\" is Washington DC, USA Metropolitan area.\n\nThanks,\nRocky\n\n\nOn Mar 9, 2011, at 3:53 AM, Usuario R <r.user.spain at gmail.com> wrote:\n\nHi,\n\nI am not sure if a rule for this mailing list already exist or not, but it\nwould be nice to have an idea in which city the position refers by just\nreading the email. And I am sorry but \"DC metro\" doesn't mean anything for\nme.\n(I am also very sorry but this list is not only for USA and USA is not the\ncenter if the universe so we don't necessarily have to know the states\nabreviations)\n\nThanks\nRegards\n\n\n\n2011/3/9 Rocky Mehta <rockymehta at gtpartners.biz>\n\n> >\n> > Hi All,\n> >\n> > We have a great opportunity (DC Metro area) to be part of a new product\n> > leveraging existing predictive analytics technologies to be applied to\n> > potentially different vertical markets/fields.  We're seeking several\n> > experienced consultants to help including this key role.  US Citizenship\n> > required due to access to sensitive data.  If interested please get in\n> touch\n> > for more details:\n> >\n> > *Data Scientist* - Python and R experience required; Hadoop ecosystem,\n> > MongoDB, Neo4j, etc... Visualization, Inference or Recommendation tool\n> > experience in any of a number of different vertical markets also desired\n> > (e.g., online retail, content, etc.);  M.S. in Mathematics, Statistics,\n> > Political Science, Physics, Computer Science, Electrical Engineering,\n> > Computer Engineering or equivalent work experience\n> >\n> > Please provide links to stackoverflow.com submissions, and GitHub\n> > projects...\n> >\n> > Thanks,\n> >  Rocky Mehta\n> > (office) 703-281-4646\n> > (cell)   703-400-5289\n> > (eFax) 703-552-1942\n> >\n> >\n>\n>        [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-jobs mailing list\n> R-sig-jobs at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n>\n\n\n\n-- \nPatricia Garc?a Gonz?lez\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Good points, \"DC Metro\" is Washington DC, USA Metropolitan area.\n\nThanks,\nRocky\n\n\nOn Mar 9, 2011, at 3:53 AM, Usuario R <r.user.spain at gmail.com> wrote:\n\nHi,\n\nI am not sure if a rule for this mailin",
+      "thread_id": "thread-462725fee20a",
+      "thread_depth": 2,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-cd4baf7d69c9",
+      "message_id": "<20110316142629.GA4830@cs.umn.edu>",
+      "from_name": "Darin A. England",
+      "from_email_hash": "4928ac6bd3bef7ad69dba2a9b50300e02826e2e4e6a2dfdda90cfe0771531220",
+      "date": "2011-03-16T09:26:29-05:00",
+      "subject": "[R-jobs] Opening for a Research Statistician",
+      "subject_clean": "[R-jobs] Opening for a Research Statistician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Research Statistician\n\nJob Summary / General Description\nSavvysherpa, LLC collaborates with its partners to do behavioral\nresearch, quantitative analysis, and product and process\ninnovation. We are looking for a statistician to join our team of\nresearch scientists.\n\nPrimary functions and responsibilities\n- Designing experiments and analyzing experimental and historical\n  data.\n\nDesired Skills/Attributes\n\nCandidates for this position should:\n- Experience in screening and factorial design\n- Regression analysis\n- Categorical data analysis \n- Non-parametric analysis \n- Discrete distributions is desired \n- Thoroughly understand all core statistical concepts \n- Excel at explaining these concepts to others\n\nRequirements\n- M.S. or Ph.D. in statistics with 5+ years experience \n- Experience working as a scientific or statistical consultant,\n  either as an internal or external resource preferred.\n- Experience with a statistical package is required, preferably R or\n  SAS, as well as a basic understanding of data architecture and\n  SQL.\n\nPlease email us at careers at savvysherpa.com to apply.\nhttp://www.savvysherpa.com/pages/Careers.html",
+      "body_snippet": "Research Statistician\n\nJob Summary / General Description\nSavvysherpa, LLC collaborates with its partners to do behavioral\nresearch, quantitative analysis, and product and process\ninnovation. We are lo",
+      "thread_id": "thread-cd4baf7d69c9",
+      "thread_depth": 0,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-9f0b9f849458",
+      "message_id": "<9530A3E1599DBD4AA061423EEDCF7E9D0CABED@USXLXEXC100.NG.CORP>",
+      "from_name": "Wang Yu",
+      "from_email_hash": "70d107a727bf07457fc85e61a959dda4eec5a2ed1d695a116abd9fc1390120b4",
+      "date": "2011-03-31T08:51:19-04:00",
+      "subject": "[R-jobs] Noble America Announcement for Summer Internship 2011",
+      "subject_clean": "[R-jobs] Noble America Announcement for Summer Internship 2011",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "#####################################################\n\nNoble America Announcement for Summer Internship 2011 \n\n######################################################\n\nOrganization Name: Noble America, http://www.thisisnoble.com/   \n\nLocation: Stamford, Connecticut, USA \n\nPeriod: 10-12 Weeks for Summer 2011 starting May/June 2011\n\nBrief Description of work: \n\n\nThe summer intern will work on building tools for the Trading/Risk groups, and would require:\n\n1. Strong knowledge of R and C# programming \n2. Strong knowledge of time series (more generally mathematical and statistical knowledge is welcome but not strictly necessary) \n3. Financial engineering knowledge, specifically in the area of derivative pricing, is a great plus.  General Finance knowledge is _not_ required.\n\nTypical tasks include:\n\n1. Helping with the testing and building of new systems, tools, models, etc for commodity trading desks \n2. Documentation of existing tools, models, etc\n\nThe typical intern may expect to work closely with Risk and Trading and gain some valuable experience in the makings of tools and analysis pertaining to commodities trading (especially Natural Gas and Power)\n\n======================================================\n\nApplication: Please send CV by email\n\nFor information please address :\n\nWang Yu (WangYu at thisisnoble.com) and Yannis Tzamouranis (yct at thisisnoble.com)",
+      "body_snippet": "#####################################################\n\nNoble America Announcement for Summer Internship 2011 \n\n######################################################\n\nOrganization Name: Noble America,",
+      "thread_id": "thread-9f0b9f849458",
+      "thread_depth": 0,
+      "month": "2011-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-8290d38a6e53",
+      "subject": "[R-jobs] summer internship at Novartis",
+      "message_count": 1,
+      "participants": [
+        "Joseph Kahn"
+      ],
+      "started": "2011-03-02T16:15:23-05:00",
+      "last_reply": "2011-03-02T16:15:23-05:00",
+      "root_message_id": "msg-8290d38a6e53"
+    },
+    {
+      "id": "thread-2e84feacb021",
+      "subject": "[R-jobs] JOB: Statistical and Mathematical Modelling in the Energy and Environment Sectors",
+      "message_count": 1,
+      "participants": [
+        "David Hodgkinson"
+      ],
+      "started": "2011-03-07T17:12:28+00:00",
+      "last_reply": "2011-03-07T17:12:28+00:00",
+      "root_message_id": "msg-2e84feacb021"
+    },
+    {
+      "id": "thread-462725fee20a",
+      "subject": "[R-jobs] Data Scientist opportunity",
+      "message_count": 3,
+      "participants": [
+        "Rocky Mehta",
+        "Usuario R"
+      ],
+      "started": "2011-03-08T22:25:55-05:00",
+      "last_reply": "2011-03-09T11:09:05-05:00",
+      "root_message_id": "msg-462725fee20a"
+    },
+    {
+      "id": "thread-c2d27749f0c8",
+      "subject": "[R-jobs] Data Scientist opportunity",
+      "message_count": 1,
+      "participants": [
+        "Marc Schwarzschild"
+      ],
+      "started": "2011-03-09T07:16:59-05:00",
+      "last_reply": "2011-03-09T07:16:59-05:00",
+      "root_message_id": "msg-c2d27749f0c8"
+    },
+    {
+      "id": "thread-cd4baf7d69c9",
+      "subject": "[R-jobs] Opening for a Research Statistician",
+      "message_count": 1,
+      "participants": [
+        "Darin A. England"
+      ],
+      "started": "2011-03-16T09:26:29-05:00",
+      "last_reply": "2011-03-16T09:26:29-05:00",
+      "root_message_id": "msg-cd4baf7d69c9"
+    },
+    {
+      "id": "thread-9f0b9f849458",
+      "subject": "[R-jobs] Noble America Announcement for Summer Internship 2011",
+      "message_count": 1,
+      "participants": [
+        "Wang Yu"
+      ],
+      "started": "2011-03-31T08:51:19-04:00",
+      "last_reply": "2011-03-31T08:51:19-04:00",
+      "root_message_id": "msg-9f0b9f849458"
+    }
+  ]
+}

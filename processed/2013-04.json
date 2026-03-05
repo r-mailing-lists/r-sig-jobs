@@ -1,0 +1,276 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-04",
+  "messages": [
+    {
+      "id": "msg-700d178e58ea",
+      "message_id": "<CAFK+dJQ6ztZ9Ei-8EP4wHNBwbNHcVkQ1G-EQ31T3-f=y4Ckbhw@mail.gmail.com>",
+      "from_name": "Mike Kellen",
+      "from_email_hash": "2f6d6f1aa716512736ab06c8444dc1f991814355c6a2af02d885e7509e96a015",
+      "date": "2013-04-01T08:22:56-07:00",
+      "subject": "[R-jobs] Scientific Programmer job",
+      "subject_clean": "[R-jobs] Scientific Programmer job",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Software Engineer / Scientific Programmer\n\nDo you want to change how scientists approach basic and clinical life\nscience research and change how pharmaceutical companies develop cures for\ndiseases? Sage Bionetworks <http://www.sagebase.org/> is a medical research\norganization dedicated to building advanced predictive models of human\ndiseases.  Our primary objectives are two-fold: to build and support an\nopen access platform and databases for building innovative new dynamic\ndisease models; and to interconnect scientists as contributors to evolving,\nintegrated networks of biological data.  See our recent feature in the\nSeattle Times<http://seattletimes.nwsource.com/html/pacificnw/2017392286_pacificpsage12.html>for\nmore information.\n\n\n\nWe currently have an opening for a Software Engineer to join the team\nresponsible for the design, creation, testing, and deployment of the Synapse\nsoftware infrastructure <http://synapse.sagebase.org/>. The Synapse system will\nprovide scalable access to clinical genomics data and compute resources to\nscientists at Sage and around the world. This is an opportunity to work on\na software platform with significant impact on human health research, and\nto work in a fast-paced entrepreneurial environment.  The position will\nfocus on the development of Synapse???s client-side integrations with data\nanalysis tools like R and Python.  Ability to work on cross-functional\nteams supporting scientific end users in the use of Sage informatics tools\nis expected.\n\n\n\n*Requirements*\n\n???      BS or MS in Computer Science or equivalent\n\n???      Experience building, shipping, and supporting commercial or academic\nsoftware products with significant user bases. Proven experience developing\nnew products in rapidly changing engineering environment strongly preferred.\n\n???      Versatile and strong programming skills with the ability to work\nwith a variety of programming languages, with a focus on R, Python, and Java\n\n???      Strong understanding object oriented design and programming, and\ndesign patterns\n\n???      Experience developing software tools used by scientific user\ncommunities.  Background in data analysis, machine learning, and statistics\nis highly beneficial.  However, the position is a software-engineering\nfocused position designed to develop tools and support a scientific user\nbase, not a scientific research position.\n\n???      Experience with one or more of the following:\n\n???    Bioinformatics / genomics data and use cases\n\n???    Machine learning / statistics / data analysis\n\n???      Ability to rapidly assess and integrate new software technologies\ninto a complete solution\n\n???      Experience with\n\n???    Unix/Linux\n\n???    N-tier enterprise software architectures\n\n???    Relational database systems and SQL\n\n???    Web Services\n\n???      Practical agile development lifecycle experience.  Familiarity with\nsoftware development tools (Eclipse, Jira Studio, Maven, Git etc.)\n\n???      Strong verbal, written, and organizational skills\n\n???      Ability to thrive in a dynamic start-up environment, and collaborate\non evolving research projects\n\n???      Self-starter with the ability to multitask\n\n???      Experience with one or more of the following desirable:\n\n???    Cloud Computing Infrastructures especially AWS, SaaS architectures\n\n???    Open source software development\n\n\n\nSage offers a comprehensive benefits package, including relocation\nbenefits, to bring the right talent to the team. To apply, please forward\nyour CV and cover letter to: sw.jobs at sagebase.org.\n\n\n-- \nMichael Kellen, Ph.D.\nDirector, Technology Platform and Services\nSage Bionetworks\n206-667-1118\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Software Engineer / Scientific Programmer\n\nDo you want to change how scientists approach basic and clinical life\nscience research and change how pharmaceutical companies develop cures for\ndiseases? Sa",
+      "thread_id": "thread-700d178e58ea",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-dbf199b09bbd",
+      "message_id": "<CAFK+dJRUf49jeOoBan95cPTsZL=bYOBhHPF+Jd6x9JH0tBAWHw@mail.gmail.com>",
+      "from_name": "Mike Kellen",
+      "from_email_hash": "2f6d6f1aa716512736ab06c8444dc1f991814355c6a2af02d885e7509e96a015",
+      "date": "2013-04-01T08:24:04-07:00",
+      "subject": "[R-jobs] Bioinformatics Job",
+      "subject_clean": "[R-jobs] Bioinformatics Job",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Bioinformatics Specialist, Sage Bionetworks, Seattle, WA*\n\nSage Bionetworks is a world-leading nonprofit biomedical research\norganization dedicated to: (1) developing predictive models of\ndisease-related phenotypes through integrative analysis of large-scale\ngenomic data sets; (2) building and supporting an open source compute\nplatform and database to more effectively harness genome-scale data by\nenabling disease models to be evolved by contributor scientists with a\nshared vision to accelerate the elimination of human disease.\n\nCentral to our mission of advancing open science is our publicly available\ngenomics Commons, which currently contains over 17,000 curated,\nstandardized, and analysis-ready datasets.\n\nWe are seeking an exceptional candidate to lead the development of the\nprocessing pipelines to seed the Commons and support scientific projects\nusing this data in research. These automated data processing and QC\npipelines will be designed to process data derived from most commonly used\ngenomics technologies ??? but especially RNA-seq and whole genome sequencing.\nAll data is processed and shared through our Synapse software platform,\nallowing data to be queried, versioned, access controlled, and linked to\ndownstream analytical pipelines through provenance records. The effort to\nbuild the Commons is central to our efforts to enable collaborative\ndevelopment of disease models by investigators worldwide.\n\nSpecific responsibilities include:\n\n???     Work within a team of biologists, statisticians and software\nengineers to compile and format large, high-dimensional data sets for\ndownstream analysis. Detect, model and normalize batch and experimental\nartifacts in data.\n\n???     Support scientists involved in multiple projects within Sage\nBionetworks in developing data processing pipelines, and coordinate these\nefforts to develop reusable pipelines that synergize into a coherent\noverall effort to develop the Commons.\n\n???     Work closely with software development team and communicate\nrequirements and features of Synapse to help create maximum value of the\nCommons.\n\n???     Help develop strategy, including how to best differentiate from\nexisting efforts, and how best to integrate functionality of these efforts.\n\n???     Stay abreast of new biological experimental protocols as experimental\ntechnology changes.\n\n???     Automate the execution and implementation of new analysis methods\nusing scripting and statistical programming.\n\n???     Work with scientific staff to utilize data resources in research\nprojects.\n\n???     Assist in the evaluation and implementation of data and phenotype\ncuration tools.\n\nQualifications:\n\n???     Candidate will either (1) hold a Masters or Bachelors degree, with 4+\nyears of significant relevant work experience (2) hold a Ph.D. in computer\nscience, bioinformatics, or related quantitative discipline plus at least 2\nyears of work experience;\n\n???     Experience working with high dimensional genomic data, such as\nsequencing data, gene expression, genotype, CNV, sequence and/or data from\nother high throughput biological technologies. Experience working with\nclinical data is desired. Will have basic expertise in the informatics\nmethods used to analyze these types of data.\n\n???     Experience managing  large data volumes, as in a core facility or\nother high throughput lab.\n\n???     Software development experience, including strong programming skills\nin a high level language especially R and/or Python. Experience with Linux\nshell scripting required.  Experience with database development and/or\ncloud hosted IT infrastructure (especially AWS) is a plus.\n\n???     Strong collaboration, teamwork, and communication skills.  Past\nexperience supporting multi-institutional research collaborations or\nprojects desired.\n\n???     Desire to work in a core services group supporting a variety of\ninternal and external research projects.\n\n???     Ability to drive projects to completion in a rapidly changing,\nstart-up environment.\n\n???     A desire to change the world and contribute to the elimination of\nhuman disease.\n\n\n\nSage Bionetworks, www.sagebase.org, is a medical research organization\nbuilding advanced predictive models of disease.  Sage offers a\ncomprehensive benefits package, including relocation benefits to bring the\nright talent to the team.  Compensation level is flexible, depending on\nlevel of experience and expertise.\n\nTo apply for this position, please contact: sw.jobs at sagebase.org.\n\n\n-- \nMichael Kellen, Ph.D.\nDirector, Technology Platform and Services\nSage Bionetworks\n206-667-1118\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Bioinformatics Specialist, Sage Bionetworks, Seattle, WA*\n\nSage Bionetworks is a world-leading nonprofit biomedical research\norganization dedicated to: (1) developing predictive models of\ndisease-rel",
+      "thread_id": "thread-dbf199b09bbd",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-4a7020ff5af2",
+      "message_id": "<515A710A.6050402@ufz.de>",
+      "from_name": "Daniel Doktor",
+      "from_email_hash": "3aa7b478c9d35f15b169f28742cdd51be02666a9188e9932b29f9e5e2f5dfd21",
+      "date": "2013-04-02T07:47:54+02:00",
+      "subject": "[R-jobs] PhD position in the field of combining Hyperspectral and Radar (L-Band) Remote Sensing of Vegetation",
+      "subject_clean": "[R-jobs] PhD position in the field of combining Hyperspectral and Radar (L-Band) Remote Sensing of Vegetation",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Helmholtz Alliance of Earth System Dynamics aims at the development \nof innovative remote sensing products based on the newest satellite \nmissions. The focus here is on quantifying dynamic processes within the \nbio-, hydro-, geo- and cryosphere to monitor and understand \nenvironmental change on a global scale.\n\nThe Alliance will be the nucleus within an innovative network of more \nthan 60 internationally renowned research institutions. At the Helmholtz \nCentre for Environmental Research - UFZ alone, 4 PhD students will be \nworking on respective topics.\n\nThe successful candidate should hold a master/diploma in Earth Sciences \nor Physics. He/she has strong computational skills (C, R, IDL) and \nremote sensing experience. The responsibilities of the post will involve \ni) successfully combine remote sensing data of different sensor types \n(hyperspectral and radar), ii) derive robustly bio-physical plant \nvariables, iii) up-scaling of remote sensing products via radiative \ntransfer and/or eco-physiological models. Basic statistical and/or \nknowledge of plant physiology are of a strong advantage. Working \nlanguage will be English.\n\nBest regards,\n\nDaniel Doktor\n\n-- \n\n------------------------------------------------------\nDr. Daniel Doktor\nDepartment for Computational Landscape Ecology\nHelmholtz Centre for Environmental Research - UFZ\nPermoserstra?e 15 / 04318 Leipzig / Germany\nTel. +49 (0)341 235 1943 / fax: +49 (0)341 235 1939\n\nSitz der Gesellschaft: Leipzig\n\nRegistergericht: Amtsgericht Leipzig, Handelsregister Nr. B 4703\nVorsitzender des Aufsichtsrats: MinDirig Wilfried Kraus\nWissenschaftlicher Gesch?ftsf?hrer: Prof. Dr. Georg Teutsch\n\nAdministrativer Gesch?ftsf?hrerin: Dr. Heike Gra?mann",
+      "body_snippet": "The Helmholtz Alliance of Earth System Dynamics aims at the development \nof innovative remote sensing products based on the newest satellite \nmissions. The focus here is on quantifying dynamic process",
+      "thread_id": "thread-4a7020ff5af2",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-b887e0664671",
+      "message_id": "<01a101ce3142$19114d90$4b33e8b0$@ac.uk>",
+      "from_name": "Phil Taylor",
+      "from_email_hash": "9567a485392ff7f73076a5c0b180c53a3681bfa9b759d76fccb818cca980e4b5",
+      "date": "2013-04-04T15:38:34+01:00",
+      "subject": "[R-jobs] Strategic Research Bioinformatician required, Cardiff, UK.",
+      "subject_clean": "[R-jobs] Strategic Research Bioinformatician required, Cardiff, UK.",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear All, \n\n \n\nWe (The Cardiff Institute of Infection and Immunity) are very keen to\nappoint a bioinformatician with a range of opportunities from 'simple' array\nanalysis to aiding in the programming and analysis of novel data platforms.\nThis is an Institutional, not just a project specific, appointment centred\non the high quality Internationally-recognised Immunology research done in\nCardiff.\n\n \n\nThe position (reference 373BR at Cardiff University) is available to see at\njobs.ac.uk (with link to job descriptions etc.):\n\nhttp://www.jobs.ac.uk/job/AGG207/postdoctoral-core-bioinformaticist/\n\nand the closing date for applications is 19th April.\n\n \n\nBest wishes and thank you for your consideration,\n\n \n\nPhil\n\n \n\nProf. Philip Taylor\n\nProfessor of Translational Immunology,\n\nMedical Research Council Senior Non-Clinical Fellow,,\n\nCardiff Institute of Infection and Immunity,\n\nSchool of Medicine,\n\nTenovus Building,\n\nHeath Park,\n\nCardiff,\n\nCF14 4XN,\n\nUK.\n\nTel: +44(0) 2920687328 (Office)\n\nFax: +44(0) 2920687303\n\nemail: TaylorPR at cf.ac.uk\n\nhttp://medicine.cf.ac.uk/infect-immun/research/inflammation/myeloid-cell-bio\nlogy-group/  \n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear All, \n\n \n\nWe (The Cardiff Institute of Infection and Immunity) are very keen to\nappoint a bioinformatician with a range of opportunities from 'simple' array\nanalysis to aiding in the programming ",
+      "thread_id": "thread-b887e0664671",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-063e8df1d181",
+      "message_id": "<516318A3.3090803@noaa.gov>",
+      "from_name": "Brian Kinlan (NOAA Affiliate)",
+      "from_email_hash": "d66b64b80a0668761e55efd0672a07102f3152c05125eca9214ba33c9135b405",
+      "date": "2013-04-08T15:21:07-04:00",
+      "subject": "[R-jobs] Computational Ecologist Job at NOAA in Silver Spring, MD -- Marine Wildlife Spatial Modeling in R",
+      "subject_clean": "[R-jobs] Computational Ecologist Job at NOAA in Silver Spring, MD -- Marine Wildlife Spatial Modeling in R",
+      "in_reply_to": "<51631464.5040200@noaa.gov>",
+      "references": [
+        "<51631464.5040200@noaa.gov>"
+      ],
+      "body_plain": "The NOAA National Centers for Coastal Ocean Science is hiring a \nComputational Ecologist, a statistical/computational ecologist with \nexperience fitting advanced spatial models to marine wildlife survey \ndata (e.g., seabirds and marine mammal transects, fisheries trawl \nsurveys) in R and other statistical languages. This is a full-time, \nlong-term stable contract position. We are looking for an expert R \nprogrammer with experience in spatial modeling, especially of marine \nwildlife survey transect data (e.g. seabirds, marine mammals). Please \nnote that this is a contract position, so rather than applying directly \nto NOAA the link below directs you to the contracting company \n(CSS-Dynamac, Inc.). We are looking to hire someone immediately.\n\n----------------\n\nComputational Ecologist\n\nContract position with NOAA's National Ocean Service, National Centers \nfor Coastal Ocean Science, Biogeography Branch (Contract Company: \nhttp://www.css-dynamac.com/)\n\nApply for this job online at \nhttps://jobs-consolidatedsafety.icims.com/jobs/1486/job\n\nResponsibilities:\nA person with experience or academic training in quantitative ecology, \nadvanced statistical modeling, computational analysis, and scientific \nprogramming in R and Matlab; who also has demonstrated interest and \nexperience in advanced spatial analysis, is being sought for a full-time \ncontract position with the National Oceanic and Atmospheric \nAdministration?s (NOAA) National Centers for Coastal Ocean Science \n(NCCOS). NCCOS? Biogeography Branch conducts ecological and \noceanographic studies to map, characterize, assess, and model the \nspatial distributions and movements of marine organisms across habitats \nthroughout the United States and Island Territories. We are seeking an \nindividual with a broad suite of quantitative, statistical, and \ncomputational skills. A strong background in statistical modeling of \nspatial ecological data with some experience in marine sciences is \npreferred. The successful candidate will join an experienced scientific \nteam at the forefront of marine ecological predictive analytics. The \ninitial assignment for this position will involve developing, \nimplementing, and running machine-learning models for predictive \nspatio-temporal modeling of marine bird and groundfish distributions to \nsupport marine planning processes. Additional potential projects include \npredictive modeling of deep sea corals, marine mammals, sea turtles, \nmarine fish, fishing fleets, and marine ecosystem processes. ?\n\n\nCore responsibilities\nProvide statistical, computational, and analytical support to projects \nthat use predictive statistical models, in conjunction with large \nwildlife survey and oceanographic databases, to provide \nspatially-explicit maps and analyses that answer questions of marine \nmanagement and conservation relevance.\nDesign and implement spatial and spatio-temporal statistical models of \nmarine species? distributions (e.g., seabird and marine mammal \noccurrence probability and abundance), marine habitat, and marine \necosystem properties\nDevelop and maintain computer code to interface with large oceanographic \nand ecological databases and mine these databases to improve predictive \nmodels\nAssess model performance and uncertainty in management-relevant scenarios\nAssist with writing journal articles/reports and present at scientific \nconferences\nOffer technical guidance for selection and implementation of different \nstatistical methods to detect patterns in wildlife surveys.\nExplain statistical results as they relate to project goals and \nsummarize results in the form of tables, figures, journal articles and \ntechnical reports.\nTravel to federal and state laboratories and academic institutions as \npart of collaborative research projects\nDevelop, maintain, and grow a codebase for advanced spatial analysis\nApply new developments in statistical modeling to a marine \necological/wildlife survey context\nImplement model selection, assessment, and validation algorithms\nDevelop, maintain, and grow oceanographic and ecological geo-databases\nBuild a database of oceanographic and environmental predictor variables \nof relevance to marine ecological modeling\nAnalyze satellite and observational datasets and raw ocean model outputs \nto develop derived products that improve predictive models\nAutomate data acquisition, data mining, model assessment & QA/QC processes\n\nQualifications:\nEssential\nAdvanced degree (Masters or PhD), or equivalent experience, in \nQuantitative Ecology, Applied Statistics, or similarly highly \nquantitative field. Ecology, Marine Science and related advanced degrees \nalso acceptable with demonstrated evidence of a strong quantitative \nfocus and statistical and computer programming expertise described below\nMust be proficient and highly experienced with R and Matlab (3-5+ years \nexperience with one or both of these languages); a code sample may be \nrequested to demonstrate proficiency\nExperience implementing a variety of spatially-explicit statistical \nmodels in R and/or Matlab, including at least 3 of the following: \nmachine learning models (e.g., component-wise boosting), geostatistical \nmodels, GLMMs, GAMs, regression trees/forests\nAbility to independently identify, analyze and solve complex statistical \nand computational problems\nDemonstrated written and oral scientific communication skills\nAble to work effectively in a dynamic, fast-paced, team-oriented \nmulti-project environment\n\nPreferred\nExperience with spatial analysis of wildlife survey data, especially \nmarine bird data, in the marine environment\nKnowledge of ecology, marine science, oceanography, and/or a related field\nAbility to interface with large databases through THREDDS/ERDDAP servers \nin R and/or Matlab\nExperience working with ocean remote sensing data, numerical ocean model \noutputs (e.g., ROMS), and large distributed oceanographic databases\nProficiency with programmable GIS (e.g., Python scripting with ArcGIS or \nequivalent); Experience with geostatistics (gstat, ESRI Geostatistical \nAnalyst, rgeos, GSLIB, or equivalent)\nAlthough not required, we value experience developing hierarchical \nBayesian or Approximate Bayesian models on large spatial datasets\nRecord of academic publication\n\nApply for this job online at \nhttps://jobs-consolidatedsafety.icims.com/jobs/1486/job\nTo discuss the position or for more information contact:\nDr. Brian Kinlan\nMarine Spatial Ecologist\nNOAA NOS National Centers for Coastal Ocean Science\nBrian.Kinlan at NOAA.gov\n\n-- \n*******************************************\nBrian P. Kinlan, Ph.D\nMarine Spatial Ecologist\n\nNOAA National Ocean Service\nContractor, CSS Inc.\nNCCOS-CCMA-Biogeography Branch\n1305 East-West Hwy, SSMC-4, N/SCI-1, #9224\nSilver Spring, MD 20910-3278\n\nhttp://ccma.nos.noaa.gov/about/biogeography/\n*******************************************\n\nDisclaimer: Any views or opinions expressed in this message are those of \nthe sender, not NOAA, the United States Government or its agents, or \nConsolidated Safety Services, Inc.",
+      "body_snippet": "The NOAA National Centers for Coastal Ocean Science is hiring a \nComputational Ecologist, a statistical/computational ecologist with \nexperience fitting advanced spatial models to marine wildlife surv",
+      "thread_id": "thread-063e8df1d181",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-682c3624d7af",
+      "message_id": "<CAJPQAUEtmaQt6MPrFpHiv7w=cZH-thGKBDNsncagGE3aLT5Tpg@mail.gmail.com>",
+      "from_name": "Ramesha Karunakaran",
+      "from_email_hash": "11c978da1067e6d190e9182e00b700ebe5fe7261e6800712297c30e7948a457b",
+      "date": "2013-04-09T10:04:41+05:30",
+      "subject": "[R-jobs] Computational Ecologist Job at NOAA in Silver Spring, MD -- Marine Wildlife Spatial Modeling in R",
+      "subject_clean": "[R-jobs] Computational Ecologist Job at NOAA in Silver Spring, MD -- Marine Wildlife Spatial Modeling in R",
+      "in_reply_to": "<516318A3.3090803@noaa.gov>",
+      "references": [
+        "<51631464.5040200@noaa.gov>",
+        "<516318A3.3090803@noaa.gov>"
+      ],
+      "body_plain": "Hi,\n\nPFA resume for the below position.\n\nThanks,\nK.Ramesha\n\n\nOn Tue, Apr 9, 2013 at 12:51 AM, Brian Kinlan (NOAA Affiliate) <\nbrian.kinlan at noaa.gov> wrote:\n\n> The NOAA National Centers for Coastal Ocean Science is hiring a\n> Computational Ecologist, a statistical/computational ecologist with\n> experience fitting advanced spatial models to marine wildlife survey data\n> (e.g., seabirds and marine mammal transects, fisheries trawl surveys) in R\n> and other statistical languages. This is a full-time, long-term stable\n> contract position. We are looking for an expert R programmer with\n> experience in spatial modeling, especially of marine wildlife survey\n> transect data (e.g. seabirds, marine mammals). Please note that this is a\n> contract position, so rather than applying directly to NOAA the link below\n> directs you to the contracting company (CSS-Dynamac, Inc.). We are looking\n> to hire someone immediately.\n>\n> ----------------\n>\n> Computational Ecologist\n>\n> Contract position with NOAA's National Ocean Service, National Centers for\n> Coastal Ocean Science, Biogeography Branch (Contract Company:\n> http://www.css-dynamac.com/)\n>\n> Apply for this job online at https://jobs-**consolidatedsafety.icims.com/*\n> *jobs/1486/job <https://jobs-consolidatedsafety.icims.com/jobs/1486/job>\n>\n> Responsibilities:\n> A person with experience or academic training in quantitative ecology,\n> advanced statistical modeling, computational analysis, and scientific\n> programming in R and Matlab; who also has demonstrated interest and\n> experience in advanced spatial analysis, is being sought for a full-time\n> contract position with the National Oceanic and Atmospheric\n> Administration?s (NOAA) National Centers for Coastal Ocean Science (NCCOS).\n> NCCOS? Biogeography Branch conducts ecological and oceanographic studies to\n> map, characterize, assess, and model the spatial distributions and\n> movements of marine organisms across habitats throughout the United States\n> and Island Territories. We are seeking an individual with a broad suite of\n> quantitative, statistical, and computational skills. A strong background in\n> statistical modeling of spatial ecological data with some experience in\n> marine sciences is preferred. The successful candidate will join an\n> experienced scientific team at the forefront of marine ecological\n> predictive analytics. The initial assignment for this position will involve\n> developing, implementing, and running machine-learning models for\n> predictive spatio-temporal modeling of marine bird and groundfish\n> distributions to support marine planning processes. Additional potential\n> projects include predictive modeling of deep sea corals, marine mammals,\n> sea turtles, marine fish, fishing fleets, and marine ecosystem processes. \n>\n>\n> Core responsibilities\n> Provide statistical, computational, and analytical support to projects\n> that use predictive statistical models, in conjunction with large wildlife\n> survey and oceanographic databases, to provide spatially-explicit maps and\n> analyses that answer questions of marine management and conservation\n> relevance.\n> Design and implement spatial and spatio-temporal statistical models of\n> marine species? distributions (e.g., seabird and marine mammal occurrence\n> probability and abundance), marine habitat, and marine ecosystem properties\n> Develop and maintain computer code to interface with large oceanographic\n> and ecological databases and mine these databases to improve predictive\n> models\n> Assess model performance and uncertainty in management-relevant scenarios\n> Assist with writing journal articles/reports and present at scientific\n> conferences\n> Offer technical guidance for selection and implementation of different\n> statistical methods to detect patterns in wildlife surveys.\n> Explain statistical results as they relate to project goals and summarize\n> results in the form of tables, figures, journal articles and technical\n> reports.\n> Travel to federal and state laboratories and academic institutions as part\n> of collaborative research projects\n> Develop, maintain, and grow a codebase for advanced spatial analysis\n> Apply new developments in statistical modeling to a marine\n> ecological/wildlife survey context\n> Implement model selection, assessment, and validation algorithms\n> Develop, maintain, and grow oceanographic and ecological geo-databases\n> Build a database of oceanographic and environmental predictor variables of\n> relevance to marine ecological modeling\n> Analyze satellite and observational datasets and raw ocean model outputs\n> to develop derived products that improve predictive models\n> Automate data acquisition, data mining, model assessment & QA/QC processes\n>\n> Qualifications:\n> Essential\n> Advanced degree (Masters or PhD), or equivalent experience, in\n> Quantitative Ecology, Applied Statistics, or similarly highly quantitative\n> field. Ecology, Marine Science and related advanced degrees also acceptable\n> with demonstrated evidence of a strong quantitative focus and statistical\n> and computer programming expertise described below\n> Must be proficient and highly experienced with R and Matlab (3-5+ years\n> experience with one or both of these languages); a code sample may be\n> requested to demonstrate proficiency\n> Experience implementing a variety of spatially-explicit statistical models\n> in R and/or Matlab, including at least 3 of the following: machine learning\n> models (e.g., component-wise boosting), geostatistical models, GLMMs, GAMs,\n> regression trees/forests\n> Ability to independently identify, analyze and solve complex statistical\n> and computational problems\n> Demonstrated written and oral scientific communication skills\n> Able to work effectively in a dynamic, fast-paced, team-oriented\n> multi-project environment\n>\n> Preferred\n> Experience with spatial analysis of wildlife survey data, especially\n> marine bird data, in the marine environment\n> Knowledge of ecology, marine science, oceanography, and/or a related field\n> Ability to interface with large databases through THREDDS/ERDDAP servers\n> in R and/or Matlab\n> Experience working with ocean remote sensing data, numerical ocean model\n> outputs (e.g., ROMS), and large distributed oceanographic databases\n> Proficiency with programmable GIS (e.g., Python scripting with ArcGIS or\n> equivalent); Experience with geostatistics (gstat, ESRI Geostatistical\n> Analyst, rgeos, GSLIB, or equivalent)\n> Although not required, we value experience developing hierarchical\n> Bayesian or Approximate Bayesian models on large spatial datasets\n> Record of academic publication\n>\n> Apply for this job online at https://jobs-**consolidatedsafety.icims.com/*\n> *jobs/1486/job <https://jobs-consolidatedsafety.icims.com/jobs/1486/job>\n> To discuss the position or for more information contact:\n> Dr. Brian Kinlan\n> Marine Spatial Ecologist\n> NOAA NOS National Centers for Coastal Ocean Science\n> Brian.Kinlan at NOAA.gov\n>\n> --\n> *********************************************\n> Brian P. Kinlan, Ph.D\n> Marine Spatial Ecologist\n>\n> NOAA National Ocean Service\n> Contractor, CSS Inc.\n> NCCOS-CCMA-Biogeography Branch\n> 1305 East-West Hwy, SSMC-4, N/SCI-1, #9224\n> Silver Spring, MD 20910-3278\n>\n> http://ccma.nos.noaa.gov/**about/biogeography/<http://ccma.nos.noaa.gov/about/biogeography/>\n> *********************************************\n>\n> Disclaimer: Any views or opinions expressed in this message are those of\n> the sender, not NOAA, the United States Government or its agents, or\n> Consolidated Safety Services, Inc.\n>\n> ______________________________**_________________\n> R-sig-jobs mailing list\n> R-sig-jobs at r-project.org\n> https://stat.ethz.ch/mailman/**listinfo/r-sig-jobs<https://stat.ethz.ch/mailman/listinfo/r-sig-jobs>\n>",
+      "body_snippet": "Hi,\n\nPFA resume for the below position.\n\nThanks,\nK.Ramesha\n\n\nOn Tue, Apr 9, 2013 at 12:51 AM, Brian Kinlan (NOAA Affiliate) <\nbrian.kinlan at noaa.gov> wrote:\n\n> The NOAA National Centers for Coastal ",
+      "thread_id": "thread-063e8df1d181",
+      "thread_depth": 1,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-27363e721c57",
+      "message_id": "<1581F854-0B46-4EA3-8498-E969DF0E1121@yougov.com>",
+      "from_name": "Steffen Weiss",
+      "from_email_hash": "22e010682589b180df4102aac0bbbf6e3ad6f6dab751d0e9d82fec18d628c4ca",
+      "date": "2013-04-10T21:20:12Z",
+      "subject": "[R-jobs] Research Analyst at YouGov in Palo Alto, CA",
+      "subject_clean": "[R-jobs] Research Analyst at YouGov in Palo Alto, CA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "RESEARCH ANALYST\n\nYouGov is currently recruiting a Research Analyst to work in our Palo Alto office within our Operations department. The successful candidate will work with the Analytics team, which provides project directors  with the operational services they require to offer quality consultancy on a wide variety of topics.\n\nThe successful candidate will be provided with the relevant training and support needed to carry out the role.\n\nResponsibilities will include the implementation of house-built software for statistical analysis, including statistical graphics and Web-based delivery.\n\nThe ideal candidate should have the following qualifications:\n\n  -- Strong R programming skills\n\n  -- Programming with Python, SQL, C/C++, etc.\n\n  -- Expert with Linux/Unix systems\n\n  -- Commitment and attention to detail and accuracy\n\n  -- Excellent interpersonal, communication, and organizational  skills\n\n  -- Ability to learn new software and techniques\n\n  -- Knowledge of applied statistics is very useful\n\n  -- Familiarity with some or all of discrete choice models, panel data, measurement error, missing data, hierarchical Bayes, survey sampling, factor analysis, structural equation models, experimental design, and data mining very useful\n\nThe candidate must have the legal right to work in the United States. Benefits include medical, dental, vision, 401K plan, and Caltrain Go Pass.\n\nPlease email jobs.us at yougov.com if you have questions or to apply.\n\nMore information and other job opportunities can also be found at http://research.yougov.com/about/careers/\n\n\n\n\nSteffen Weiss, Ph.D.\nDirector of Panel Analytics\nYouGov\nWhat the world thinks\n\n285 Hamilton Avenue Suite 200\nPalo Alto, CA 94301\nT: +1 650-462-8000\nsteffen.weiss at yougov.com\nhttp://www.yougov.com",
+      "body_snippet": "RESEARCH ANALYST\n\nYouGov is currently recruiting a Research Analyst to work in our Palo Alto office within our Operations department. The successful candidate will work with the Analytics team, which ",
+      "thread_id": "thread-27363e721c57",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-0051f2a9eaed",
+      "message_id": "<CACMZ_gd4FBafEvzsJiYLh2r7an5bg6FU56nXOEsDOY+MeVdEmA@mail.gmail.com>",
+      "from_name": "Irina Kukuyeva",
+      "from_email_hash": "1c6a8c94246f4ae0fedbdc173725986beaa765598a89ae9d00776fcb45656fc4",
+      "date": "2013-04-11T10:31:25-07:00",
+      "subject": "[R-jobs] Data Modeler/ Statistical Programmer – Job Opening in Los Angeles",
+      "subject_clean": "[R-jobs] Data Modeler/ Statistical Programmer – Job Opening in Los Angeles",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Ipsos -- a global market research firm -- has an opening for a Data\nModeler/ Statistical Programmer. We seek an experienced and creative\nprogrammer with unrelenting attention to detail, an ability to work\nwell with a small team (including both programmers and\nnon-programmers), and a strong interest in behavioral consumer\nresearch.  Fluency in R is required.\n_____________________________________________________________________________________\n\nData Modeler/ Statistical Programmer ? Marketing Science ? Los Angeles\n\nJob ID:4874\nCategory: Marketing/Communications\nJob Level: Intermediate Level\nLocation: Los Angeles, California\n\nResponsibilities:\n-- Provide sophisticated programming assistance to large-scale data\nand statistical modeling efforts.\n-- Develop new data science products by translating conceptual\nblueprints into polished applications.\n-- Maintain and enhance large codebases underlying existing key applications.\n-- Perform other marketing science analyses for clients as required.\n\nIdeal Candidate has the following Skills and Experience:\nRequired\n--Proficiency in advanced R programming, including the ability to\ndebug and streamline very large functions\n\nPreferred\n-- Experience in parallelizing R processes.\n-- Integrating R with other code (C++, SQL, etc.).\n-- Large dataset manipulation.\n-- Database administration.\n-- Web integration (both in terms of pulling/analyzing online data and\nposting web applications).\n-- Programming skill in other languages including Python, Java,\nMathematic, Matlab, C++, SQL, .NET, C#, JavaScript, and/or HTML5.\n-- Familiarity with particular methods/models including simulation,\nmachine learning, optimization, data fusion, predictive models,\nnetwork analysis, system dynamics, and/or agent-based models.\n-- Advanced degree (M.S., Ph.D.) preferred.\n\nInterested candidates can apply online at\nhttp://www.ipsos-na.com/careers/index.cfm?fuseaction=viewjob&id=4874&country=93&goback=.gde_3413038_member_224752909\nor email me their resume.\n\nThank you,\n\n--Irina\n____________________________________________\nIrina Kukuyeva, Ph.D.\nDirector, Ipsos Science Center\n10567 Jefferson Blvd, Culver City, CA 90232\nIrina.Kukuyeva at ipsos.com",
+      "body_snippet": "Ipsos -- a global market research firm -- has an opening for a Data\nModeler/ Statistical Programmer. We seek an experienced and creative\nprogrammer with unrelenting attention to detail, an ability to ",
+      "thread_id": "thread-0051f2a9eaed",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-dcab5786b5d4",
+      "message_id": "<000301ce3c77$09832ed0$1c898c70$@figurestofacts.be>",
+      "from_name": "Figures to Facts",
+      "from_email_hash": "7ffa0d0e2977f51e2a6eadfb85c23b1bb68f1587c2c083a88b146e228f6ff610",
+      "date": "2013-04-18T22:55:19+02:00",
+      "subject": "[R-jobs] R Data Project Manager",
+      "subject_clean": "[R-jobs] R Data Project Manager",
+      "in_reply_to": null,
+      "references": [
+        "<001401ce3c76$7bffc410$73ff4c30$@jacobs@figurestofacts.be>"
+      ],
+      "body_plain": "Figures to Facts is a company specialized in BI dashboard and report\ncreation on sales and marketing data. \n\nWe are a small, fast growing company, working for the largest Fast Moving\nConsumer Goods enterprises in the world. \n\nWe are currently looking for an R programmer, who will become responsible\nfor the complete 'data environment' in our company.\n\n \n\nMain responsibilities: \n\n-    You will update and/or improve existing functions in R \n\n-    You will take care of the reconversion of existing programs from SPlus\ninto R\n\n-    You will maintain and create databases in SQL (SQLite, ProgreSQL)\n\n-    You will act as point of contact for external R consultants and ensure\nfollow-up of the projects they handle\n\n-    You will create new functions in R for new business development\npurposes\n\n \n\nRequired:\n\n* Thorough knowledge of efficient programming in R, \n\n* Thorough knowledge of handling SQLite, ProgreSQL, Ubuntu and RApache \n\n* Aptitude in programming and data analysis in order to develop tools for\nmanipulating, managing and analyzing data\n\n* Knowledge of VBA for Excel is a plus\n\n* Knowledge of Phyton is a plus\n\n* Knowledge of statistics and econometrics is a plus\n\n* You are a dynamic teamplayer who works efficiently and in a structured way\n\n* You are operational within a short period of time\n\n \n\nOffer:\n\nCompetitive reward\n\nContract type to be discussed\n\nFreelance offers will not be retained\n\n \n\nFigures to Facts offices are located in Belgium, Ninove (+/- 25km from\nBrussels), within walking distance from the central station.\n\n \n\nInterested? Don't hesitate to send a statement of interest and CV to\n\n <mailto:info at figurestofacts.be> info at figurestofacts.be\n\n \n\n \n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Figures to Facts is a company specialized in BI dashboard and report\ncreation on sales and marketing data. \n\nWe are a small, fast growing company, working for the largest Fast Moving\nConsumer Goods en",
+      "thread_id": "thread-dcab5786b5d4",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-656f152be0a2",
+      "message_id": "<20130429161535.33968c5966c8a8a95c416300@peercorpstrust.org>",
+      "from_name": "Michael L. Wilson",
+      "from_email_hash": "1d9bff3bdcf119957238d32017048c5c8e6d37ff241a51e824b4fc979a0d1dc5",
+      "date": "2013-04-29T16:15:35+03:00",
+      "subject": "[R-jobs] R consultant/biostatistician sought for short term project",
+      "subject_clean": "[R-jobs] R consultant/biostatistician sought for short term project",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are looking for a capable biostatistician or epidemiologist with sufficient exposure and knowledge of R in order to translate a series of legacy code into R compatible syntax files and perform statistical analyses on an as needed basis. \n\nResponsibilities:\n-- Translation of legacy syntax from Stata .do files into reproducible R compatible syntax files.\n-- Perform other statistical analyses as required.\n\nIdeal Candidate has the following Skills and Experience:\n\nRequired\n-- Proficiency in advanced R programming, analyses (trends; Poisson, logistic, linear regression) and knowledge of graphical functions\n-- Skills in dataset manipulation (40,000+ cases)\n\nPreferred\n-- Proficiency using a Linux-based operating system\n-- Proficiency using Libre/OpenOffice suite of desktop applications\n-- Possess at least a relevant graduate degree (statistics, mathematics, etc.) OR demonstrate proficiency using R\n\nPlease reply with CV (in PDF format only) to ipc at peercorpstrust.org \n\n(NB! Only shortlisted candidates will be contacted).\n\n-- \nM. L. Wilson\nPeerCorps Trust Fund\n352/64 Makunganya Street\nCo-Architecture Building, 4th Floor\nP. O. Box 22499, DSM, Tanzania",
+      "body_snippet": "We are looking for a capable biostatistician or epidemiologist with sufficient exposure and knowledge of R in order to translate a series of legacy code into R compatible syntax files and perform stat",
+      "thread_id": "thread-656f152be0a2",
+      "thread_depth": 0,
+      "month": "2013-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-700d178e58ea",
+      "subject": "[R-jobs] Scientific Programmer job",
+      "message_count": 1,
+      "participants": [
+        "Mike Kellen"
+      ],
+      "started": "2013-04-01T08:22:56-07:00",
+      "last_reply": "2013-04-01T08:22:56-07:00",
+      "root_message_id": "msg-700d178e58ea"
+    },
+    {
+      "id": "thread-dbf199b09bbd",
+      "subject": "[R-jobs] Bioinformatics Job",
+      "message_count": 1,
+      "participants": [
+        "Mike Kellen"
+      ],
+      "started": "2013-04-01T08:24:04-07:00",
+      "last_reply": "2013-04-01T08:24:04-07:00",
+      "root_message_id": "msg-dbf199b09bbd"
+    },
+    {
+      "id": "thread-4a7020ff5af2",
+      "subject": "[R-jobs] PhD position in the field of combining Hyperspectral and Radar (L-Band) Remote Sensing of Vegetation",
+      "message_count": 1,
+      "participants": [
+        "Daniel Doktor"
+      ],
+      "started": "2013-04-02T07:47:54+02:00",
+      "last_reply": "2013-04-02T07:47:54+02:00",
+      "root_message_id": "msg-4a7020ff5af2"
+    },
+    {
+      "id": "thread-b887e0664671",
+      "subject": "[R-jobs] Strategic Research Bioinformatician required, Cardiff, UK.",
+      "message_count": 1,
+      "participants": [
+        "Phil Taylor"
+      ],
+      "started": "2013-04-04T15:38:34+01:00",
+      "last_reply": "2013-04-04T15:38:34+01:00",
+      "root_message_id": "msg-b887e0664671"
+    },
+    {
+      "id": "thread-063e8df1d181",
+      "subject": "[R-jobs] Computational Ecologist Job at NOAA in Silver Spring, MD -- Marine Wildlife Spatial Modeling in R",
+      "message_count": 2,
+      "participants": [
+        "Brian Kinlan (NOAA Affiliate)",
+        "Ramesha Karunakaran"
+      ],
+      "started": "2013-04-08T15:21:07-04:00",
+      "last_reply": "2013-04-09T10:04:41+05:30",
+      "root_message_id": "msg-063e8df1d181"
+    },
+    {
+      "id": "thread-27363e721c57",
+      "subject": "[R-jobs] Research Analyst at YouGov in Palo Alto, CA",
+      "message_count": 1,
+      "participants": [
+        "Steffen Weiss"
+      ],
+      "started": "2013-04-10T21:20:12+00:00",
+      "last_reply": "2013-04-10T21:20:12+00:00",
+      "root_message_id": "msg-27363e721c57"
+    },
+    {
+      "id": "thread-0051f2a9eaed",
+      "subject": "[R-jobs] Data Modeler/ Statistical Programmer – Job Opening in Los Angeles",
+      "message_count": 1,
+      "participants": [
+        "Irina Kukuyeva"
+      ],
+      "started": "2013-04-11T10:31:25-07:00",
+      "last_reply": "2013-04-11T10:31:25-07:00",
+      "root_message_id": "msg-0051f2a9eaed"
+    },
+    {
+      "id": "thread-dcab5786b5d4",
+      "subject": "[R-jobs] R Data Project Manager",
+      "message_count": 1,
+      "participants": [
+        "Figures to Facts"
+      ],
+      "started": "2013-04-18T22:55:19+02:00",
+      "last_reply": "2013-04-18T22:55:19+02:00",
+      "root_message_id": "msg-dcab5786b5d4"
+    },
+    {
+      "id": "thread-656f152be0a2",
+      "subject": "[R-jobs] R consultant/biostatistician sought for short term project",
+      "message_count": 1,
+      "participants": [
+        "Michael L. Wilson"
+      ],
+      "started": "2013-04-29T16:15:35+03:00",
+      "last_reply": "2013-04-29T16:15:35+03:00",
+      "root_message_id": "msg-656f152be0a2"
+    }
+  ]
+}

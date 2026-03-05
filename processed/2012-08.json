@@ -1,0 +1,65 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2012-08",
+  "messages": [
+    {
+      "id": "msg-e35960a02b9a",
+      "message_id": "<50285677.8050609@integratedstatistics.com>",
+      "from_name": "Laura Shulman",
+      "from_email_hash": "7427632f207a0bddc57f2c6fa1f33c9acd1505c523787f909b9a7d7b338e1475",
+      "date": "2012-08-12T21:20:55-04:00",
+      "subject": "[R-jobs] employment opportunity for Fisheries Post Doc and R programmer",
+      "subject_clean": "[R-jobs] employment opportunity for Fisheries Post Doc and R programmer",
+      "in_reply_to": "<5023E696.1050103@integratedstatistics.com>",
+      "references": [
+        "<5023E696.1050103@integratedstatistics.com>"
+      ],
+      "body_plain": "*August 12, 2012*\n\n**\n\n*Postdoctoral Researcher working on spatial models of marine wildlife, \nusing R. *\n\nIntegrated Statistics is looking for a post doctoral scientist to work \nwith the Passive Acoustics Research Group and Large Whale Research \nGroup, part of the Protected Species Branch at the Northeast Fisheries \nScience Center in Woods Hole, Massachusetts \n(http://nefsc.noaa.gov/psb/acoustics/).We are looking for someone to \nbring new ideas, approaches and analytical methods to derive abundance, \ndensity and distributions of marine mammals from passive acoustics, \ntagging and visual sightings data. We are interested in candidates with \nexperience working in the R software environment.\n\nThis position is for one year full time with the possibility of renewal \nbased on availability of funding and job performance. Limited funds for \ntravel to conferences, workshops, and/or field work is also available. \nThe successful candidate will work on three main areas:\n\n1.Develop new methods to analyze and visualize long term records of \npassive acoustic (i.e. whale calls) data together with the NEFSC Passive \nAcoustics Program\n\n2.Use passive acoustic data (whale and fish calls) to derive estimates \nof calling and densities of animals together with the NEFSC Passive \nAcoustics Program and collaborate with scientists at CREEM (the Centre \nfor Research into Ecological and Environmental Modeling at the \nUniversity of St Andrews).\n\n3.Explore different analytical options for estimating density of marine \nmammals from visual sightings, acoustic records and tagged animals, \nworking with the NEFSC Passive Acoustics and Large Whale Programs, and \nscientists at the Woods Hole Oceanographic Institution .\n\nWe are specifically looking for a candidate who will come with a strong \nstatistical background and an interest in trying new analytical methods \nin areas where conventional approaches are currently used, as well as \ndeveloping new methods for integrating acoustic, visual and tagging \ndata. We're looking for someone interested in moving beyond the \nstandard, generalized additive model based, approach to handling these data.\n\nExamples of some of the existing approaches to these questions can be \nfound here: http://cetsound.noaa.gov/cetacean.html \nandhttp://www.creem.st-and.ac.uk/decaf/\n\n/Preferred Qualifications:/\n\n?PhD in spatial ecology, or spatial statistics; ora PhDin oceanography, \npopulation ecology, or marine biology, or similar field, with strong \nspatial analytical skills.\n\n?Three or more years experience in analysis of large volume, long-term \ndatasets, evidenced by publication in peer-reviewed journals.\n\n/Additional requirements:/\n\n?The position requires access to US Federal office buildings or ships \nand communication networks. Applicants do not need to have US \ncitizenship but they do need to obtainwork documents that do not expire \nduring the contract period, before the start of employment.\n\n?Able to pass government background security check, required for working \nwithin a US government facility.\n\nSalary will range between $45 -- 60k/year depending on experience.\n\nExcellent employee benefits are provided including paid medical \ninsurance, and holiday, vacation and sick leave.\n\n/How to apply:/\n\nA complete application package includes recent CV detailing \nqualifications and relevant experience, including a short statement \nidentifying some of the new approaches you have use to addressresearch \nquestions, and names and contact information for at least two \nprofessional references.\n\nReview of candidates will begin on September 1st, 2011 and preference \nwill be given to applicants that submit a full application prior to that \ndate.\n\nTo apply for this position, please email your resume to \nHR at IntegratedStatistics.com \n<mailto:HR at IntegratedStatistics.com?subject=PSB%20Post%20Doc>.\n\n-- \nLaura Shulman, Ph. D.\nIntegrated Statistics Incorporated, President\n16 Sumner Street, Woods Hole, MA 02543\nPhone: (508) 540-8560\nFax: (508) 721-6841\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*August 12, 2012*\n\n**\n\n*Postdoctoral Researcher working on spatial models of marine wildlife, \nusing R. *\n\nIntegrated Statistics is looking for a post doctoral scientist to work \nwith the Passive Acou",
+      "thread_id": "thread-e35960a02b9a",
+      "thread_depth": 0,
+      "month": "2012-08"
+    },
+    {
+      "id": "msg-63d49fa37f21",
+      "message_id": "<1B102C40-D8ED-48F3-93E5-A80FFDCE5DCF@mindspring.com>",
+      "from_name": "Vik Rubenfeld",
+      "from_email_hash": "abdb2d082ed894f4324822a12c342fc1909bc578a182bfc41e44124a011b2f5b",
+      "date": "2012-08-20T19:24:17-07:00",
+      "subject": "[R-jobs] Use DoE.base and AlgDesign to Produce Choice-Based Conjoint Questionnaire Design",
+      "subject_clean": "[R-jobs] Use DoE.base and AlgDesign to Produce Choice-Based Conjoint Questionnaire Design",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I am a Director of Market Research in Los Angeles. I am seeking an R statistician to work with in order to design the questionnaire for a choice-based conjoint study. \n\nThere will be approximately 20 attributes, each of which has 2-5 levels. I want to show each respondent no more than 5 attributes at a time.  I understand that an appropriate questionnaire design for use with R can be produced using DoE.base and the OptBlock function in AlgDesign. \n\nDeliverables will include the R scripts used to produce the questionnaire design.\n\nPlease reach me at vikr at mindspring.com.\n\nI look forward to speaking to you.\n\n-Vik Rubenfeld",
+      "body_snippet": "I am a Director of Market Research in Los Angeles. I am seeking an R statistician to work with in order to design the questionnaire for a choice-based conjoint study. \n\nThere will be approximately 20 ",
+      "thread_id": "thread-63d49fa37f21",
+      "thread_depth": 0,
+      "month": "2012-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e35960a02b9a",
+      "subject": "[R-jobs] employment opportunity for Fisheries Post Doc and R programmer",
+      "message_count": 1,
+      "participants": [
+        "Laura Shulman"
+      ],
+      "started": "2012-08-12T21:20:55-04:00",
+      "last_reply": "2012-08-12T21:20:55-04:00",
+      "root_message_id": "msg-e35960a02b9a"
+    },
+    {
+      "id": "thread-63d49fa37f21",
+      "subject": "[R-jobs] Use DoE.base and AlgDesign to Produce Choice-Based Conjoint Questionnaire Design",
+      "message_count": 1,
+      "participants": [
+        "Vik Rubenfeld"
+      ],
+      "started": "2012-08-20T19:24:17-07:00",
+      "last_reply": "2012-08-20T19:24:17-07:00",
+      "root_message_id": "msg-63d49fa37f21"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2019-06",
+  "messages": [
+    {
+      "id": "msg-d2924bfaa477",
+      "message_id": "<ace970cc-72d4-067a-bb07-04baaca6fbbd@mbacou.com>",
+      "from_name": "Bacou, Melanie",
+      "from_email_hash": "5c81096d55abd34e703ffa1377a7ff0fd373feb65a5df014e46c31d2da952066",
+      "date": "2019-06-07T16:16:38-04:00",
+      "subject": "[R-jobs] Business Intelligence LEAD (weather insurance ops)",
+      "subject_clean": "[R-jobs] Business Intelligence LEAD (weather insurance ops)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear List,\n\nWorldCover is hiring a full-time BI Analyst / Data Engineer to support \nour weather insurance operations. IMHO this is a fantastic opportunity \nto build innovative fintech solutions from scratch and to join a dynamic \nteam that's focused on mitigating climate risks for millions of small \nbusinesses.\n\nhttps://hire.withgoogle.com/public/jobs/worldcovrcom/view/P_AAAAAAHAAC-LS7vh6mYOza\n\nThanks for your consideration. Feel free to circulate, --Mel.\n\n-- \nMelanie BACOU\nHead of Research\nWorldCover PBC\nmelanie.bacou at worldcovr.com  \nskype:mbacou\nhttp://worldcovr.com/",
+      "body_snippet": "Dear List,\n\nWorldCover is hiring a full-time BI Analyst / Data Engineer to support \nour weather insurance operations. IMHO this is a fantastic opportunity \nto build innovative fintech solutions from s",
+      "thread_id": "thread-d2924bfaa477",
+      "thread_depth": 0,
+      "month": "2019-06"
+    },
+    {
+      "id": "msg-0685ccc55fdc",
+      "message_id": "<alpine.DEB.2.21.1906181521590.10945@diana>",
+      "from_name": "Torsten Hothorn",
+      "from_email_hash": "6060fd95d3e4dba59127ec2031900b6db5f4e0b7021748e22b35039f0c50f46a",
+      "date": "2019-06-18T15:25:15+02:00",
+      "subject": "[R-jobs] Statistics PostDoc in Zurich",
+      "subject_clean": "[R-jobs] Statistics PostDoc in Zurich",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "There is a PostDoc position open in my group at Univ of Zurich, \nSwitzerland. Details are available from\n\n \thttps://bit.ly/2KRCK6x\n\nBest,\n\nTorsten\n\n________________________________________________________________\n\nProf. Dr. Torsten Hothorn                       =========\n                                                 \\\\\nUniversitaet Zuerich                             \\\\\nInstitut fuer Epidemiologie, Biostatistik und     \\\\\nPraevention, Departement Biostatistik             //\nHirschengraben 84                                //\nCH-8001 Zuerich                                 //\nSchweiz                                        //\n                                                ==========\nTelephon:  +41 44 634 48 17\nFax:       +41 44 634 43 86\nWeb:       http://tiny.uzh.ch/bh",
+      "body_snippet": "There is a PostDoc position open in my group at Univ of Zurich, \nSwitzerland. Details are available from\n\n \thttps://bit.ly/2KRCK6x\n\nBest,\n\nTorsten\n\n____________________________________________________",
+      "thread_id": "thread-0685ccc55fdc",
+      "thread_depth": 0,
+      "month": "2019-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d2924bfaa477",
+      "subject": "[R-jobs] Business Intelligence LEAD (weather insurance ops)",
+      "message_count": 1,
+      "participants": [
+        "Bacou, Melanie"
+      ],
+      "started": "2019-06-07T16:16:38-04:00",
+      "last_reply": "2019-06-07T16:16:38-04:00",
+      "root_message_id": "msg-d2924bfaa477"
+    },
+    {
+      "id": "thread-0685ccc55fdc",
+      "subject": "[R-jobs] Statistics PostDoc in Zurich",
+      "message_count": 1,
+      "participants": [
+        "Torsten Hothorn"
+      ],
+      "started": "2019-06-18T15:25:15+02:00",
+      "last_reply": "2019-06-18T15:25:15+02:00",
+      "root_message_id": "msg-0685ccc55fdc"
+    }
+  ]
+}

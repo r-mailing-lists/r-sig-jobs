@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2016-03",
+  "messages": [
+    {
+      "id": "msg-149170f40f3e",
+      "message_id": "<E2335A15-943F-4660-B541-32DF34B2F8E0@perspectum-diagnostics.com>",
+      "from_name": "Matt Kelly",
+      "from_email_hash": "b3200cb4c3f0c22bf9d62db3e8753a1e6af2c2197e9631d2aa50fcac6fdfca35",
+      "date": "2016-03-16T10:36:41Z",
+      "subject": "[R-jobs] JOB: Closing soon! Biostatistician - Perspectum Diagnostics Ltd (Oxford) and University of Westminster (London)",
+      "subject_clean": "[R-jobs] JOB: Closing soon! Biostatistician - Perspectum Diagnostics Ltd (Oxford) and University of Westminster (London)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nPerspectum Diagnostics Ltd (Oxford, UK) and the University of Westminster (London, UK) are recruiting a Biostatistician as part of Innovation UK?s Knowledge Transfer Partnership (KTP). The successful candidate will be based at Perspectum?s office in Oxford and be responsible for analysing clinical and liver MRI imaging data from the UK biobank to support product development. The candidate will receive a generous training package and be an integral part of an exciting and expanding company, gaining exposure to all aspects of the business.\n\nClosing date for applications is 20th March, 2016.\n\nMore details can be found at the link below:\n\nhttps://vacancies.westminster.ac.uk/Hrvacancies/default.aspx?id=50043758<https://vacancies.westminster.ac.uk/hrvacancies/default.aspx?id=50043758>\n\nPlease feel free to contact me at: matt.kelly at perspectum-diagnostics.com<mailto:matt.kelly at perspectum-diagnostics.com> if you have any questions about the position.\n\nBest wishes,\nMatt Kelly\n\n\nDr Matt Kelly,  Ph.D.\nHead of Innovation\nPerspectum Diagnostics Ltd, Oxford Centre for Innovation, New Road, Oxford, OX1 1BY, UK\n+44 (0) 1865 261457  @LiverMultiScan  www.perspectum-diagnostics.com<http://www.perspectum-diagnostics.com/>\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nPerspectum Diagnostics Ltd (Oxford, UK) and the University of Westminster (London, UK) are recruiting a Biostatistician as part of Innovation UK?s Knowledge Transfer Partnership (KTP). The ",
+      "thread_id": "thread-149170f40f3e",
+      "thread_depth": 0,
+      "month": "2016-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-149170f40f3e",
+      "subject": "[R-jobs] JOB: Closing soon! Biostatistician - Perspectum Diagnostics Ltd (Oxford) and University of Westminster (London)",
+      "message_count": 1,
+      "participants": [
+        "Matt Kelly"
+      ],
+      "started": "2016-03-16T10:36:41+00:00",
+      "last_reply": "2016-03-16T10:36:41+00:00",
+      "root_message_id": "msg-149170f40f3e"
+    }
+  ]
+}

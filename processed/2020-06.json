@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2020-06",
+  "messages": [
+    {
+      "id": "msg-7ceb0f3dac8f",
+      "message_id": "<CY4PR20MB1605895733E2BE46EF019E4AA86E0@CY4PR20MB1605.namprd20.prod.outlook.com>",
+      "from_name": "Barbara O'Neill",
+      "from_email_hash": "1db8c87cd714f269eb362b100934809f42ca0be35e4b14c39a00f950a276b92e",
+      "date": "2020-06-29T21:08:58Z",
+      "subject": "[R-jobs] EpiX Analytics - Consultant Position",
+      "subject_clean": "[R-jobs] EpiX Analytics - Consultant Position",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Consultant - Decision and risk analysis applied to infectious diseases and animal health\n\nAPPLICATIONS RECEIVED UNTIL JULY 21, 2020\nLocation: Fort Collins, CO (physical presence strongly preferred)\nPosition type: Full time\nApply at: https://www.epixanalytics.com/join-our-team.html\n\nEpiX analytics is a consulting and research firm specialized in risk and decision modeling. We are seeking a full-time Consultant, to contribute to a variety of quantitative risk and decision analysis projects. The candidate will initially focus (for at least one year) on projects related to animal health, infectious diseases, and biosecurity. During this period there will also be opportunities to get involved in other projects related to EpiX's diversified portfolio at https://www.epixanalytics.com/clients-of-epix-analytics.html.\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Consultant - Decision and risk analysis applied to infectious diseases and animal health\n\nAPPLICATIONS RECEIVED UNTIL JULY 21, 2020\nLocation: Fort Collins, CO (physical presence strongly preferred)\nPo",
+      "thread_id": "thread-7ceb0f3dac8f",
+      "thread_depth": 0,
+      "month": "2020-06"
+    },
+    {
+      "id": "msg-417d5914a21b",
+      "message_id": "<CY4PR20MB160563DE53C27B1EA7CB67A6A86E0@CY4PR20MB1605.namprd20.prod.outlook.com>",
+      "from_name": "Barbara O'Neill",
+      "from_email_hash": "1db8c87cd714f269eb362b100934809f42ca0be35e4b14c39a00f950a276b92e",
+      "date": "2020-06-29T21:10:56Z",
+      "subject": "[R-jobs] EpiX Analytics - Scientist Position",
+      "subject_clean": "[R-jobs] EpiX Analytics - Scientist Position",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Scientist - Decision and risk analysis applied to antimicrobial resistance\n\nAPPLICATIONS RECEIVED UNTIL JULY 21, 2020\nLocation: Fort Collins, CO (physical presence strongly preferred)\nPosition type: Two-year full time (potential for longer-term)\nApply at: https://www.epixanalytics.com/join-our-team.html\n\nEpiX analytics is a consulting and research firm specialized in risk and decision modeling.  We are seeking a full-time Scientist. For the first two years, the candidate will focus on projects related to antimicrobial resistance (AMR), human and animal health, infectious disease, and food safety. Because results from the AMR-related projects are expected to be published in peer-reviewed journals, the position can potentially be considered a post-doc position. The candidate will be able to pursue additional funding to continue working on AMR after the initial two year period, or opt to transition to a role that might involve consulting as related to EpiX's diversified portfolio at https://www.epixanalytics.com/clients-of-epix-analytics.html.\n\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Scientist - Decision and risk analysis applied to antimicrobial resistance\n\nAPPLICATIONS RECEIVED UNTIL JULY 21, 2020\nLocation: Fort Collins, CO (physical presence strongly preferred)\nPosition type: T",
+      "thread_id": "thread-417d5914a21b",
+      "thread_depth": 0,
+      "month": "2020-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7ceb0f3dac8f",
+      "subject": "[R-jobs] EpiX Analytics - Consultant Position",
+      "message_count": 1,
+      "participants": [
+        "Barbara O'Neill"
+      ],
+      "started": "2020-06-29T21:08:58+00:00",
+      "last_reply": "2020-06-29T21:08:58+00:00",
+      "root_message_id": "msg-7ceb0f3dac8f"
+    },
+    {
+      "id": "thread-417d5914a21b",
+      "subject": "[R-jobs] EpiX Analytics - Scientist Position",
+      "message_count": 1,
+      "participants": [
+        "Barbara O'Neill"
+      ],
+      "started": "2020-06-29T21:10:56+00:00",
+      "last_reply": "2020-06-29T21:10:56+00:00",
+      "root_message_id": "msg-417d5914a21b"
+    }
+  ]
+}

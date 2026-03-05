@@ -1,0 +1,211 @@
+From xchen @end|ng |rom out|ook@jp  Sat Oct 28 18:28:26 2017
+From: xchen @end|ng |rom out|ook@jp (=?utf-8?B?6ZmIIOi0pOaWhw==?=)
+Date: Sat, 28 Oct 2017 16:28:26 +0000
+Subject: [R-jobs] Job opportunity: postdoc or PhD at Norwegian Institute for
+ Nature Research (NINA)
+Message-ID: <SG2PR0301MB193492861195A1E64DFBA7FDDF5B0@SG2PR0301MB1934.apcprd03.prod.outlook.com>
+
+Dear all,
+
+The Norwegian Institute for Nature Research (NINA) seeks a post doc or
+Ph.D. candidate in mapping and valuation of ecosystem services from
+green infrastructure in Oslo. The candidate has preferably skills in
+Open Source GIS (OSGeo) and a M.Sc./Ph.D. in geomatics with an
+interest in urban ecosystem services, or a M.Sc./Ph.D. in nature
+management, landscape architecture, geography, ecological or
+environmental economics with specialization in spatial analysis and
+GIS.
+
+It is a flexible announcement in which the quality and experience of
+the applicant will determine whether a post doc or Ph.D. position is
+established.
+
+Main workplace is NINAs offices in Oslo.
+
+Annual salary is between NOK 459 100 and NOK 482 500 for Ph.D.
+candidate, or between NOK 579 300 and NOK 590 000 for Postdoc,
+depending on qualiifaction.
+
+The deadline is 10th November 2017.
+
+All relevant information is found here:
+http://www.nina.no/english/News/News-article/ArticleId/4354/Postdoc-Phd-Urban-nature-values-1
+
+Please help spread the information.
+
+Sincerely,
+Xianwen
+
+	[[alternative HTML version deleted]]
+
+
+From he|d|@@e|bo|d @end|ng |rom uzh@ch  Tue Nov 21 11:39:06 2017
+From: he|d|@@e|bo|d @end|ng |rom uzh@ch (Heidi Seibold)
+Date: Tue, 21 Nov 2017 11:39:06 +0100
+Subject: [R-jobs] Data Scientists,
+	Biostatisticians and Bioinformaticians (LMU Munich)
+Message-ID: <2ae27622-cce9-e3c9-d281-eb0e30def0e1@uzh.ch>
+
+We are currently looking for Data Scientists, Biostatisticians and
+Bioinformaticians for the Data Analysis Group at the newly founded Data
+Integration Center at the Institute for Medical Information Processing,
+Biometry and Epidemiology, LMU Munich.
+
+The tasks of the Data Analysis Group include the development and
+implementation
+of new techniques for data analysis, data quality assessment and
+visualisation,
+as well as the development of secure distributed data analysis
+approaches. The
+group will collaborate with other university hospitals throughout the
+country.
+
+What we expect from you:
+
+- A university degree in statistics, biostatistics, computer science,
+? bioinformatics, data science or a comparable subject
+- Knowledge and skills in data analysis, machine learning and/or distributed
+? computing
+
+What we offer:?????????????????????????????????????????????????
+
+- The opportunity to work with compelling medical data and state of the art
+? methodologies to improve the health of patients
+- Interdisciplinary collaborations within and outside our growing and
+engaging
+? team, at one of the best universities in Germany
+- The possibility to be at the forefront of open science and reproducible
+? research in the field
+- A contract for up to 4 years
+- The possibility of doing your PhD while working in our group
+- An office in the beautiful city of Munich, at the LMU University Hospital
+? Grosshadern
+
+
+Interested? Please send your application to:
+
+Prof. Dr. Ulrich Mansmann
+Lehrstuhl f?r Biometrie und Bioinformatik
+Medizinische Fakult?t
+Ludwig-Maximilians-Universit?t
+Marchioninistrasse 15
+81377 M?nchen
+E-Mail: ulrich.mansmann at lmu.de
+www: http://www.ibe.med.uni-muenchen.de
+
+
+
+From b@@|||e @end|ng |rom u||@edu  Mon Nov 27 22:50:52 2017
+From: b@@|||e @end|ng |rom u||@edu (Mathieu Basille)
+Date: Mon, 27 Nov 2017 16:50:52 -0500
+Subject: [R-jobs] Data expert position: PostGIS and spatial ecology,
+ University of Florida, Fort Lauderdale, FL
+Message-ID: <2fb4f878-e790-e6e4-9588-f4028a957fcd@ufl.edu>
+
+The MabLab at the University of Florida's Fort Lauderdale Research and
+Education Center (Davie, FL) is looking to fill an immediate opening for
+the position of a Biological Scientist. We are looking for an enthusiastic,
+highly motivated and responsible individual to join an exciting research
+team focused on spatial ecology, from fine-scale movement and habitat
+selection to range dynamics. Candidate will be responsible of the data
+system of the Lab (database, GIS and documents), and will assist research
+and extension projects within the Lab's themes.
+
+The primary missions of the Biological Scientist will be:
+
+1. Manage the Lab data system: the Lab relies on a data server using Linux
+(Debian). Most notably, the server runs a PostGIS database system, which
+hosts data from research projects of the Lab (notably wood stork, sea
+turtle and raccoon telemetry data and associated GIS layers), as well as
+Rstudio Server, Shiny, and GitLab, among others. The candidate will
+entirely manage the server (keep the data base and the associated metadata
+clean and up-to-date, set permissions for users and groups, develop Shiny
+apps to access and display data, etc.).
+2. Assist and train other Lab members for data processing and analysis:
+candidate will assist Lab members (notably students) to process the data
+stored in the Lab database system, in order to prepare them for statistical
+analysis. He/she will also assist the next step of statistical analysis
+when relevant.
+3. Maintain and develop the Lab R packages (basr, hab, rpostgis,
+rpostgisLT, ?), and publish them on CRAN when appropriate. Maintaining
+packages means keeping them up-to-date with changes in R and package
+dependencies, while developing involves the integration of new functions or
+the improvement of existing ones.
+4. Contribute to the Lab?s extension program, through extensive
+communication with the Lab's partners (USGS, USFWS, ?), the preparation of
+brochures or posters, or the participation in outreach events.
+5. Participate in field work: The Lab and its partners periodically needs
+help in various field work projects in the area, in the Everglades or
+beyond. The candidate will contribute to the field work effort whenever
+necessary.
+6. Finally, significant time will be reserved for the candidate to conduct
+personal projects, which can include side projects or overarching issues
+within the Lab themes, and eventually lead to peer-reviewed publications.
+
+Details of the position and application can be found here:
+
+http://explore.jobs.ufl.edu/cw/en-us/job/505347/landscape-ecology-biological-scientist-ii
+
+Start Date: Flexible, as early as January 2018. This is a permanent
+position from the University of Florida.
+
+Closing Date: 07 January 2018.
+
+Contact: For more information, please contact:
+
+Mathieu Basille
+Assistant Professor in Landscape Ecology
+University of Florida
+basille at ufl.edu
+
+
+-- 
+
+Mathieu Basille
+
+basille at ufl.edu | https://mablab.org/
++1 954-577-6314 | University of Florida FLREC
+
+  ? Le tout est de tout dire, et je manque de mots
+  Et je manque de temps, et je manque d'audace. ?
+  ? Paul ?luard
+
+
+
+From tob|@@@verbeke @end|ng |rom open@n@|yt|c@@eu  Tue Dec  5 21:27:19 2017
+From: tob|@@@verbeke @end|ng |rom open@n@|yt|c@@eu (Tobias Verbeke)
+Date: Tue, 5 Dec 2017 21:27:19 +0100 (CET)
+Subject: [R-jobs] Job Openings: Statistician and Data Scientist at
+ OpenAnalytics (Belgium)
+Message-ID: <563179213.271577.1512505639103.JavaMail.zimbra@openanalytics.eu>
+
+Open Analytics is an international company providing data analysis services and products across geographies and industrial sectors.
+
+We are currently looking to expand our team with the following profiles:
+
+Statisticians: MSc / PhD in Statistics, Applied Mathematics or Computer Science
+Data Scientists: MSc / PhD in Computer Science, Engineering or Statistics
+
+A detailed description can be found at
+
+http://www.openanalytics.eu/jobs
+
+Kind regards,
+Tobias Verbeke
+
+-- 
+
+Tobias Verbeke
+Managing Director
+
+Open Analytics NV
+Jupiterstraat 20
+2600 Antwerp
+Belgium 
+
+E tobias.verbeke at openanalytics.eu
+M +32 499 36 33 15
+http://www.openanalytics.eu
+
+
+

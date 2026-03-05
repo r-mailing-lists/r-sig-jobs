@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-08",
+  "messages": [
+    {
+      "id": "msg-15bc56e348ed",
+      "message_id": "<E6E983882972D447AF74D38898C199631066B02357@USETCMSXMB02.NAFTA.SYNGENTA.ORG>",
+      "from_name": "Juiie@Leo@@rd m@iii@g oii SYNGENTA@COM",
+      "from_email_hash": "59651aa032e38079d624800fddfb3366c2f5225f8eba48910e202ded72b766d4",
+      "date": "2011-08-05T12:03:40-04:00",
+      "subject": "[R-jobs] contract statistician position available",
+      "subject_clean": "[R-jobs] contract statistician position available",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Adecco Engineering and Technical, a division of the world leader in the recruitment of scientific, engineering and information technology professionals, has an immediate opening for a Bioinformatics Statistician for a 12 month CONTRACT opportunity with a leading company in Durham, NC.\nDuties include:\n1) Working directly with laboratory and greenhouse scientists to optimize experimental processes by analyzing existing collections of experimental data and providing guidance on optimal combinations of experimental conditions.\n2) Consulting with scientists to develop prospective experimental design and statistical analysis plans for field, greenhouse, and laboratory studies, including providing power calculations to improve the ability of experimental data to distinguish between competing hypotheses.\n3) Providing formal and informal training to scientific colleagues on basic statistical techniques, including developing written materials, workshops and seminars.\n4) Writing code in R to accomplish necessary analyses.\n5) Obtaining/reformatting data from a variety of sources to create analysis datasets; providing instructions to scientists on necessary data format for submission for statistical analysis; developing data collection forms.\n6) Working with software programmers to develop tools for scientists to use in analyzing their data.\n7) Recommending data management solutions.\n8) Evaluating and recommending statistical software.\nRequirements\nA master's degree in statistics or biostatistics or a closely related field. Experience applying statistical methods to experimental design and optimization of biological experiments, preferably in a business setting. Training in and experience using linear models, non-linear models, power calculations, non-parametric methods, longitudinal models, general linear models, and combinatorial design of experiments with many factors. Excellent written and spoken English and demonstrated ability to communicate statistical ideas to non-statisticians. Demonstrated ability to work independently. Proficiency in use of R for statistical computing.\nIf interested, contact Warren Thompson at warren.thompson at adeccona.com or call (919) 484-8008, ext. 105.\n\nJulie Leonard\nComputational Biologist\nSyngenta Biotechnology Inc.\n(919) 281-7449\njulie.leonard at syngenta.com\n\n\n\n\nmessage may contain confidential information. If you are not the designated recipient, please notify the sender immediately, and delete the original and any copies. Any use of the message by you is prohibited. \n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Adecco Engineering and Technical, a division of the world leader in the recruitment of scientific, engineering and information technology professionals, has an immediate opening for a Bioinformatics S",
+      "thread_id": "thread-15bc56e348ed",
+      "thread_depth": 0,
+      "month": "2011-08"
+    },
+    {
+      "id": "msg-639646cecdab",
+      "message_id": "<14A69EC0BED14955BE9B2CF8706C9766@metrumrg.com>",
+      "from_name": "Jim Rogers",
+      "from_email_hash": "10f53b05afd479b619cda0009159c5823d52918feda9b201ed40fe4585e5232e",
+      "date": "2011-08-05T16:23:27-04:00",
+      "subject": "[R-jobs] Data Programmer at MetrumRG",
+      "subject_clean": "[R-jobs] Data Programmer at MetrumRG",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Opening for a Data Programmer \n\nMetrum Research Group is seeking a full-time data programmer to support our biomedical modeling and simulation services. This is an excellent opportunity to develop as a data programmer while gaining exposure to cutting edge problems in the growing field of pharmacometrics. The individual will work as an integral member of our team, based in Tariffville, CT. We provide a full benefits package and salary is competitive. Professional development is supported. \n\nPrimary responsibilities: \n\n* Data set preparation and data quality control. \n* Exploratory data analysis.\n* Optimization and automation of data flow processes.\n* Code review. \n* Depending on experience level, responsibilities may also include the development of model fitting and/or simulation code.\n\nQualifications: \n\n* Bachelor's degree required, Master's degree preferred. \n* Experience involving code management and/or data management and/or data analysis is required. \n* Proficiency with the R (or S+) language is highly desirable. Experience with other high-level languages for scripting and/or data analysis (e.g. Matlab, Python, Perl) is desirable.\n* Experience with code versioning systems (e.g. Subversion) is highly desirable. \n* Experience with Amazon Web Services and/or parallel computing is desirable.\n* Excellent communication skills are required. \n* Excellent attention to detail is required. \n\nMetrum Research Group is a leading provider of biomedical modeling and simulation services in the U.S.A. and internationally. Founded in 2004, Metrum Research Group has worked with over 85 clients on more than 250 projects. Our experience spans R&D efforts for small molecule pharmaceuticals, biologic therapeutics, diagnostics, and medical device/drug-device combinations, across multiple therapeutic areas. See www.metrumrg.com for more information. \n\nPlease send resume to employment at metrumrg.com, including a brief cover letter in the body of the email. We prefer to hear directly from candidates. No recruiters please. \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Opening for a Data Programmer \n\nMetrum Research Group is seeking a full-time data programmer to support our biomedical modeling and simulation services. This is an excellent opportunity to develop as ",
+      "thread_id": "thread-639646cecdab",
+      "thread_depth": 0,
+      "month": "2011-08"
+    },
+    {
+      "id": "msg-9db78bf918d4",
+      "message_id": "<CAP6E4dUgRynGzQBVp_vV2RuSytXt_Xp1ChKgk8rhDZVifpS5MQ@mail.gmail.com>",
+      "from_name": "James Rogers",
+      "from_email_hash": "10f53b05afd479b619cda0009159c5823d52918feda9b201ed40fe4585e5232e",
+      "date": "2011-08-05T16:27:05-04:00",
+      "subject": "[R-jobs] Data Programmer position at MetrumRG",
+      "subject_clean": "[R-jobs] Data Programmer position at MetrumRG",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Opening for a Data Programmer\n\nMetrum Research Group is seeking a full-time data programmer to\nsupport our biomedical modeling and simulation services. This is an\nexcellent opportunity to develop as a data programmer while gaining\nexposure to cutting edge problems in the growing field of\npharmacometrics. The individual will work as an integral member of our\nteam, based in Tariffville, CT. We provide a full benefits package and\nsalary is competitive. Professional development is supported.\n\nPrimary responsibilities:\n\n* Data set preparation and data quality control.\n* Exploratory data analysis.\n* Optimization and automation of data flow processes.\n* Code review.\n* Depending on experience level, responsibilities may also include the\ndevelopment of model fitting and/or simulation code.\n\nQualifications:\n\n* Bachelor's degree required, Master's degree preferred.\n* Experience involving code management and/or data management and/or\ndata analysis is required.\n* Proficiency with the R (or S+) language is highly desirable.\nExperience with other high-level languages for scripting and/or data\nanalysis (e.g. Matlab, Python, Perl) is desirable.\n* Experience with code versioning systems (e.g. Subversion) is highly\ndesirable.\n* Experience with Amazon Web Services and/or parallel computing is desirable.\n* Excellent communication skills are required.\n* Excellent attention to detail is required.\n\nMetrum Research Group is a leading provider of biomedical modeling and\nsimulation services in the U.S.A. and internationally. Founded in\n2004, Metrum Research Group has worked with over 85 clients on more\nthan 250 projects. Our experience spans R&D efforts for small molecule\npharmaceuticals, biologic therapeutics, diagnostics, and medical\ndevice/drug-device combinations, across multiple therapeutic areas.\nSee www.metrumrg.com for more information.\n\nPlease send resume to employment at metrumrg.com, including a brief cover\nletter in the body of the email. We prefer to hear directly from\ncandidates. No recruiters please.",
+      "body_snippet": "Opening for a Data Programmer\n\nMetrum Research Group is seeking a full-time data programmer to\nsupport our biomedical modeling and simulation services. This is an\nexcellent opportunity to develop as a",
+      "thread_id": "thread-9db78bf918d4",
+      "thread_depth": 0,
+      "month": "2011-08"
+    },
+    {
+      "id": "msg-bb59768c39ce",
+      "message_id": "<925112E5BE14F34EB3F21B2DFF4D91BDEB9A7450@HQEXDB02.hq.un.fao.org>",
+      "from_name": "Stigler, Matthieu (ESS)",
+      "from_email_hash": "225769fed8d651e4e7a4593ff7cf505b133f5bcf55f1efff78332ec422dce27e",
+      "date": "2011-08-10T16:47:07+02:00",
+      "subject": "[R-jobs] Short term position in Rome: R trainer and developer",
+      "subject_clean": "[R-jobs] Short term position in Rome: R trainer and developer",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi\n\nOur organisation, Food and Agricultural Organization of the United Nations (FAO) has launched a small pilot project to encourage the use of R within FAO. In this regard, we are looking for a motivated person with strong skills in R, able to teach R to beginners, and to develop specific packages on request.  \n\nMore specifically, the candidate will be given the challenge to build staff's capacities in R. This will involve setting-up a series of introductory training sessions, organising a series of seminars inviting external speakers and offering on-demand training on specific packages/topics. Besides capacity building, the candidate will also be asked to develop/improve packages on demand, most likely on data exchange (xml-sdmx and REST APIs).\n\nFAO is an international non-profit organization based in Rome, Italy, focusing on areas such as food security, climate change and agricultural development. The candidate will work in the Economic and Social: Statistics division (ESS) and will have the opportunity to interact with many statisticians at FAO who work on very diverse fields such as epidemiology, agronomy, household survey analysis, econometric time-series or geo-spatial analysis.\n\nFor more informations or to apply, please write to Matthieu.Stigler at fao.org. If you are interested, please send your CV and, instead of a cover letter, answer briefly the questions at bottom of e-mail. Kindly also give an estimate of your salary expectation (upon which contract duration will depend, probably 3 to 6 months due to limited budget of pilot project). Contract start is as early as possible, hopefully September.    \n\nBest regards\n\nMatthieu Stigler\n\nQuestions to answer if interested:\n-What experience do you possess with R (please mention packages developed if any)?,\n-Do you possess any experience in teaching?\n-Are you familiar with one of XML, ggplot2, rehsape? Parallel computing? Do you use LaTeX (beamer) and Sweave?\n-Would you write a package in S3 or S4? Explain your choice.\n-If you were given free time, what would you develop in R?",
+      "body_snippet": "Hi\n\nOur organisation, Food and Agricultural Organization of the United Nations (FAO) has launched a small pilot project to encourage the use of R within FAO. In this regard, we are looking for a motiv",
+      "thread_id": "thread-bb59768c39ce",
+      "thread_depth": 0,
+      "month": "2011-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-15bc56e348ed",
+      "subject": "[R-jobs] contract statistician position available",
+      "message_count": 1,
+      "participants": [
+        "Juiie@Leo@@rd m@iii@g oii SYNGENTA@COM"
+      ],
+      "started": "2011-08-05T12:03:40-04:00",
+      "last_reply": "2011-08-05T12:03:40-04:00",
+      "root_message_id": "msg-15bc56e348ed"
+    },
+    {
+      "id": "thread-639646cecdab",
+      "subject": "[R-jobs] Data Programmer at MetrumRG",
+      "message_count": 1,
+      "participants": [
+        "Jim Rogers"
+      ],
+      "started": "2011-08-05T16:23:27-04:00",
+      "last_reply": "2011-08-05T16:23:27-04:00",
+      "root_message_id": "msg-639646cecdab"
+    },
+    {
+      "id": "thread-9db78bf918d4",
+      "subject": "[R-jobs] Data Programmer position at MetrumRG",
+      "message_count": 1,
+      "participants": [
+        "James Rogers"
+      ],
+      "started": "2011-08-05T16:27:05-04:00",
+      "last_reply": "2011-08-05T16:27:05-04:00",
+      "root_message_id": "msg-9db78bf918d4"
+    },
+    {
+      "id": "thread-bb59768c39ce",
+      "subject": "[R-jobs] Short term position in Rome: R trainer and developer",
+      "message_count": 1,
+      "participants": [
+        "Stigler, Matthieu (ESS)"
+      ],
+      "started": "2011-08-10T16:47:07+02:00",
+      "last_reply": "2011-08-10T16:47:07+02:00",
+      "root_message_id": "msg-bb59768c39ce"
+    }
+  ]
+}

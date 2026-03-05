@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-02",
+  "messages": [
+    {
+      "id": "msg-b67f9bd69c96",
+      "message_id": "<DBXPR04MB318527BDD8891547DD70B79C13C0@DBXPR04MB318.eurprd04.prod.outlook.com>",
+      "from_name": "Stuart McGurnaghan (Staff)",
+      "from_email_hash": "0a6589be7b1dc49cd35e32923901acfac7409d591704f373a31989a2ed0ab8a2",
+      "date": "2015-02-02T14:47:48Z",
+      "subject": "[R-jobs] Software Developer Position",
+      "subject_clean": "[R-jobs] Software Developer Position",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Where:                       University of Dundee, Scotland UK\n\nSalary range:           Grade 7 (?30,434 - ?32,277) REF: MDN0953\n\nDuration of Post:    One year in the first instance\n\nCollege:                      Medicine, Dentistry and Nursing\nSchool:                       Medicine\nDivision:                     Population Health Sciences\n\nLocation:               Medical Research Institute, Ninewells Hospital & Medical School Campus, University of Dundee, DD1 9SY.\n\nClosing Date:          3 March 2015\n\n\nWe are seeking a person with good programming skills to provide a key link between the source of our raw data and the analytics team. Our data can come from many different sources in different formats and has often had minimal cleaning or processing before we receive it. The data providers often provide flat files which are processed in Python and translated to database format. Our analytics team comprises machine learning specialists, biostatisticians and epidemiologists. The key responsibilities of the post are to liaise with those providing the data to help them provide it in an appropriate format and to assist in the warehousing of the data including processing and documenting the data to make it ready for the analytics team. Essential attributes are good interpersonal skills and an ability to communicate clearly, experience with a relational database management package such as MySQL and familiarity with the Linux environment. Good working knowledge in any of C/C++, Python or Java. Experience with an array programming language such as R or Matlab would be useful though not essential.\n\nTo apply and for further details please visit our website and enter reference MDN0953:\nwww.jobs.dundee.ac.uk\n\n\nThe University of Dundee is a registered Scottish Charity, No: SC015096\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Where:                       University of Dundee, Scotland UK\n\nSalary range:           Grade 7 (?30,434 - ?32,277) REF: MDN0953\n\nDuration of Post:    One year in the first instance\n\nCollege:         ",
+      "thread_id": "thread-b67f9bd69c96",
+      "thread_depth": 0,
+      "month": "2015-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b67f9bd69c96",
+      "subject": "[R-jobs] Software Developer Position",
+      "message_count": 1,
+      "participants": [
+        "Stuart McGurnaghan (Staff)"
+      ],
+      "started": "2015-02-02T14:47:48+00:00",
+      "last_reply": "2015-02-02T14:47:48+00:00",
+      "root_message_id": "msg-b67f9bd69c96"
+    }
+  ]
+}

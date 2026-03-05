@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-11",
+  "messages": [
+    {
+      "id": "msg-5736b53fede4",
+      "message_id": "<CANmWeUxgJdJY8XrxwhES8rZJK6huSOiLHkeqO_hW6evi1VJYfQ@mail.gmail.com>",
+      "from_name": "Lydia Makaroff",
+      "from_email_hash": "1ee0a85259ad8f1dc7536b7fd65b077a8c2ea72fe8e6bda532a99a45cbd3b789",
+      "date": "2013-11-12T10:19:02+01:00",
+      "subject": "[R-jobs] Data Analyst and Coordinator",
+      "subject_clean": "[R-jobs] Data Analyst and Coordinator",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R-Sig-Jobs members,\n\nFor its Executive Office in Brussels, The International Diabetes\nFederation (IDF) is looking to hire a Data Analyst & Coordinator with\nsignificant R experience. This person will join the Epidemiology and\nPublic Health unit that sits within the Policy & Programmes\ndepartment. They will be responsible for the management of IDF?s\nhigh-profile Diabetes Atlas. They will coordinate the collection,\nanalysis, interpretation and presentation of data on the burden of\ndiabetes globally in countries at all levels of economic development.\n\nThe IDF is an alliance of over 200 national diabetes associations with\ntwo million members in more than 160 countries and territories. For\nover 50 years, IDF has been at the vanguard of global diabetes\nadvocacy. IDF has a multinational staff of around 40 people at its\nBrussels Executive Office and has 7 regional offices. IDF?s work\nrelies on the contribution of a large number of expert volunteers and\nupon the commitment and expertise of our member associations.\n\nFor further details, see: http://www.idf.org/jobs/data-analyst\n\nInterested and qualified candidates should send a curriculum vitae and\ncover letter to describe interest and relevance to the position to Mrs\nEvelyne Haubruge, HR & Office Manager, evelyne.haubruge at idf.org, by 30\nJanuary 2014.\n\n\nL Makaroff, PhD\nEpidemiology and Public Health Manager\nInternational Diabetes Federation\n166 Chaussee de La Hulpe\n1170 Brussels, Belgium",
+      "body_snippet": "Dear R-Sig-Jobs members,\n\nFor its Executive Office in Brussels, The International Diabetes\nFederation (IDF) is looking to hire a Data Analyst & Coordinator with\nsignificant R experience. This person w",
+      "thread_id": "thread-5736b53fede4",
+      "thread_depth": 0,
+      "month": "2013-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-5736b53fede4",
+      "subject": "[R-jobs] Data Analyst and Coordinator",
+      "message_count": 1,
+      "participants": [
+        "Lydia Makaroff"
+      ],
+      "started": "2013-11-12T10:19:02+01:00",
+      "last_reply": "2013-11-12T10:19:02+01:00",
+      "root_message_id": "msg-5736b53fede4"
+    }
+  ]
+}

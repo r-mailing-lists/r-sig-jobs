@@ -1,0 +1,171 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-06",
+  "messages": [
+    {
+      "id": "msg-c5d1c2f6d1e0",
+      "message_id": "<a6598677c57847b59b8827a77c10a5ad@BY2PR26MB0006.067d.mgd.msft.net>",
+      "from_name": "Chasalow, Scott",
+      "from_email_hash": "a943d65faa5e180bd0aedf78abfeae06ef3fcdd56618250db8226109ceff0d2d",
+      "date": "2015-06-05T21:27:45Z",
+      "subject": "[R-jobs] Bioinformatics Statistician at Bristol-Myers Squibb",
+      "subject_clean": "[R-jobs] Bioinformatics Statistician at Bristol-Myers Squibb",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nWe are looking for a statistician who would love to apply his or her statistical expertise in our expanding translational bioinformatics group.  This position will be based in central New Jersey (US), near Princeton.\n\nIf you enjoy collaborating to solve challenging problems at the intersection of modern statistics and modern biology to help bring new medicines to patients, please have a look here:\n\nhttp://jobs.bms.com/jobs/1502292\n\nFor this position, industry experience might be helpful but is not required.  Applications from recent PhDs and post-docs, as well as more-experienced (bio)statisticians, would be welcome.\n\nWith best regards,\nScott\n\n------------------------------\nScott Chasalow\nSenior Principal Scientist\nTranslational Bioinformatics\nBristol-Myers Squibb\n------------------------------\n________________________________\nThis message (including any attachments) may contain con...{{dropped:11}}",
+      "body_snippet": "Hi,\n\nWe are looking for a statistician who would love to apply his or her statistical expertise in our expanding translational bioinformatics group.  This position will be based in central New Jersey ",
+      "thread_id": "thread-c5d1c2f6d1e0",
+      "thread_depth": 0,
+      "month": "2015-06"
+    },
+    {
+      "id": "msg-df8d1bc833e6",
+      "message_id": "<6325E751-CA0B-49C6-8B44-D9EA8FAC87AB@citesmike.org>",
+      "from_name": "Julian Blanc",
+      "from_email_hash": "54467a0a9bd104f05de032f1f86d01495eed3e0fb3ce97cd8c304e80ba7bee93",
+      "date": "2015-06-15T09:05:28+03:00",
+      "subject": "[R-jobs] Data scientist for Monitoring the Illegal Killing of Elephants at UNEP in Nairobi, Kenya",
+      "subject_clean": "[R-jobs] Data scientist for Monitoring the Illegal Killing of Elephants at UNEP in Nairobi, Kenya",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The CITES Programme for monitoring the illegal killing of elephants (MIKE) is looking for a Data Scientist based at the UN Environment Programme in Nairobi, Kenya. For more details and to apply, please go to http://tinyurl.com/mikeds-p3. Deadline for applications is 3 July. \n\n\nOrg. Setting and Reporting\n\t\nThe United Nations Environment Programme (UNEP) is the United Nations system's designated entity for addressing environmental issues at the global and regional level. Its mandate is to coordinate the development of environmental policy consensus by keeping the global environment under review and bringing emerging issues to the attention of governments and the international community for action. CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) is an international agreement between states. Its aim is to ensure that international trade in specimens of wild animals and plants does not threaten their survival (www.cites.org). The MIKE programme was  established by the CITES Conference of the Parties to monitor levels of illegal killing of elephants at more than 80 conservation areas spread across 47 elephant range States in Africa and Asia, with the goal of providing reliable information and building capacity for the management of elephant populations. This positions is in the CITES Secretariat, administered by UNEP, and located at the Nairobi duty station.\n\n\t\nResponsibilities\n\t\nUnder the supervision of the MIKE Coordinator, the incumbent will: \n1) Implement the analytical programme of work of the MIKE Programme and coordinate the Programme?s scientific outputs by: Managing and further developing the MIKE data management systems; developing and applying effective quality assurance mechanisms to ensure the accuracy, consistency and comparability of the data sets; preparing reports of MIKE analyses for technical and non-technical audiences alike, including range State governments, the CITES Parties, the scientific community and the public; participating in the preparation of specialized papers for publication in the peer-reviewed scientific literature; and contributing to the preparation, conduct and follow-up of technical meetings. Representing the CITES Secretariat at relevant national and international fora, and presenting the MIKE Programme?s scientific work and findings; and responding effectively to relevant inquiries on specialized topics from the media and the scientific community.\n2) Participate in the development and coordination of site-level monitoring and information management initiatives implemented under the MIKES Project, including: Developing improved monitoring tools and systems for data collection, management and application; providing technical and scientific guidance and advice to participating governments and partners to strengthen monitoring systems and capacity at participating sites, including through the preparation of training materials; and leading in the development, documentation and deployment of monitoring protocols for the collection of relevant data. \n3) Participate in the development and coordination of international information management and dissemination initiatives implemented under the MIKES Project, including: Conducting analyses of monitoring data and preparing analytical reports and data visualizations; contributing to the further development of tools and methodologies for analysing monitoring data to ensure the production of reliable, cost effective and user-friendly synthesis information; collaborating with the Elephant Trade Information System (ETIS) in developing and consolidating systems and capacity for monitoring trade in elephant products, and exploring collaborations for similar databases for other illegally-traded target species; and collaborating with partners on monitoring the population status, trends and threats to target and contributing to the development of population status databases.\n4) Participate in the management, monitoring and further development of the MIKE Programme by: Leading the development and implementation of the MIKE Implementation Monitoring System (MIMS); communicating regularly with designated focal points in governments, implementing partners and MIKE governance structures on technical and implementation matters; reviewing and preparing relevant documents and progress reports; identifying problems and issues to be addressed, proposing corrective actions and tracking their execution; coordinating activities related to budget and funding (programme/project preparation and submissions, progress reports, financial statements, etc.) concerning project activities for which he/she is responsible, and preparing related documents/reports , (work programmes, budgets, etc.); participating in the supervision of consultants, including scientists and statistical experts.  \n5) Undertake any other related duties as required.\n\n\t\nCompetencies\n\n? Professionalism: Knowledge and experience in the use of advanced statistical methods, including information-theoretic approaches and Bayesian methods using the R language; ability to prepare, manage and assure the quality of data, as well as to design and administer relational and spatial databases using PostgreSQL and SQLite; Knowledge and understanding of theories, concepts and approaches relevant to particular sector, functional area or other specialized field; Ability to identify issues, analyze and participate in the resolution of issues/problems; Ability to develop sources for data collection; Conceptual analytical and evaluative skills to conduct independent research and analysis, including familiarity with and experience in the use of various research sources, including electronic sources on the internet, intranet and other databases. Shows pride in work and in achievements; Ability to apply judgment in the context of assignments given, plan own work and manage conflicting priorities;  Demonstrates professional competence and mastery of subject matter; Is conscientious and efficient in meeting commitments, observing deadlines and achieving results; Is motivated by professional rather than personal concerns; Shows persistence when faced with difficult problems or challenges; Remains calm in stressful situations.\n? Planning & Organizing: Develops clear goals that are consistent with agreed strategies; Identifies priority activities and assignments; adjusts priorities as required ; Allocates appropriate amount of time and resources for completing work; Foresees risks and allows for contingencies when planning; Monitors and adjusts plans and actions as necessary; Uses time efficiently.\n? Communication: Speaks and writes clearly and effectively; Listens to others, correctly interprets messages from others and responds appropriately; Asks questions to clarify, and exhibits interest in having two-way communication; Tailors language, tone, style and format to match the audience; Demonstrates openness in sharing information and keeping people informed.\n? Teamwork:  Works collaboratively with colleagues to achieve organizational goals; Solicits input by genuinely valuing others? ideas and expertise; Is willing to learn from others; Places team agenda before personal agenda; Supports and acts in accordance with final group decision, even when such decisions may not entirely reflect own position; Shares credit for team accomplishments and accepts joint responsibility for team shortcomings.\n? Creativity: Actively seeks to improve programmes or services; Offers new and different options to solve problems or meet client needs; Promotes and persuades others to consider new ideas; Takes calculated risks on new and unusual ideas; Thinks ?outside the box?; takes an interest in new ideas and new ways of doing things; Is not bound by current thinking or traditional approaches.\n\t\nEducation\n\nAdvanced university degree (Master's degree or equivalent) in Statistics, Biostatistics, Quantitative Ecology, Forestry or a related field, additional training in database systems an advantage.  A first-level university degree in combination with two additional years of qualifying experience may be accepted in lieu of the advanced university degree.\n\t\nWork Experience\n\t\nAt least five years of progressively responsible professional experience in data management and statistical analysis is required. At least three years of experience at the international level, preferably in developing countries would be desirable. Experience in the publication of scientific research in relevant fields and in the workings of scientific committees is desirable.\n\t\nLanguages\n\t\nEnglish and French are the working languages of the United Nations Secretariat. For this post, fluency in written and oral English is required.  Working knowledge of other UN official languages is desirable.\n\t\nAssessment Method\n\t\nEvaluation of qualified candidates for this position may include a substantive assessment which will be followed by a competency-based interview.",
+      "body_snippet": "The CITES Programme for monitoring the illegal killing of elephants (MIKE) is looking for a Data Scientist based at the UN Environment Programme in Nairobi, Kenya. For more details and to apply, pleas",
+      "thread_id": "thread-df8d1bc833e6",
+      "thread_depth": 0,
+      "month": "2015-06"
+    },
+    {
+      "id": "msg-10a3bcd8e3d0",
+      "message_id": "<AM2PR01MB0898D42408F21B5DFA9228FBE7A00@AM2PR01MB0898.eurprd01.prod.exchangelabs.com>",
+      "from_name": "Laure Massi",
+      "from_email_hash": "020ec74053d685ea650cb9cffbe805b2608168b0cd68ea97484bc94fef0bd562",
+      "date": "2015-06-23T13:53:28Z",
+      "subject": "[R-jobs] Ipsos Data Scientist - Culver City CA",
+      "subject_clean": "[R-jobs] Ipsos Data Scientist - Culver City CA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello All, \n\nIpsos is currently hiring a Data Scientist, if this position is of interest, please apply using the link below.?? If you have any questions, please do not hesitate to reach out to me directly. \n\nData Scientist - Culver City, CA\n\nSummary:\nA capable and creative programmer with unrelenting attention to detail, an ability to work well with a small team (including both programmers and non-programmers), and a strong interest in advanced analytic techniques. Fluency in R and/or Python is required.\n\nResponsibilities:\n\n. Contribute to large-scale data and statistical modeling efforts.\n. Develop new data science products by translating conceptual blueprints into polished applications.\n. Maintain and enhance large codebases underlying existing key applications.\n. Perform other marketing science analyses for clients as required\n\nSkills: \n\nRequired\n\n. Proficiency in advanced R and/or Python programming, including the ability to produce and maintain reusable and modular codebases.\n\nPreferred\n\n. Working knowledge of SQL. Further experience with database design and administration considered a plus.\n. Familiarity with particular analytic tools including Monte Carlo simulation, machine learning, genetic algorithms, data fusion, predictive models, network analysis, system dynamics, and/or agent-based models.\n. Experience with collaboration tools and version control systems (e.g. Git).\n. Experience in code optimization (parallelizing processes, etc.).\n. Experience integrating R and/or Python with each other and C\\C++.\n. Large dataset manipulation. Experience in distributed storage and computing a plus.\n. Experience with JavaScript, esp. visualization libraries (e.g. d3.js).\n. Experience creating and deploying web applications.\n. Familiarity with web scraping tools and techniques.\n. Advanced degree (M.S., Ph.D.) preferred but by no means required. \n\nPlease Apply online at:\n\nhttps://ipsos-na-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=951&source=ONLINE&JobOwner=992274&company_id=16736&version=1&byBusinessUnit=NULL&bycountry=0&bystate=1&byRegion=US_CA&bylocation=&keywords=&byCat=&proximityCountry=&postalCode=&radiusDistance=&isKilometers=&tosearch=yes&city=\n\n\nLaure Massi \nRecruiter \nIpsos North America\n\n222 South Riverside Plaza, Chicago, IL 60606\nDirect: +1.312.526.4387\nLaure.massi at ipsos.com?| http://www.ipsos.com? \nGame Changers",
+      "body_snippet": "Hello All, \n\nIpsos is currently hiring a Data Scientist, if this position is of interest, please apply using the link below.?? If you have any questions, please do not hesitate to reach out to me dire",
+      "thread_id": "thread-10a3bcd8e3d0",
+      "thread_depth": 0,
+      "month": "2015-06"
+    },
+    {
+      "id": "msg-1db5d89f9c5f",
+      "message_id": "<AM2PR01MB08989855192DD0D7D482A0C8E7A00@AM2PR01MB0898.eurprd01.prod.exchangelabs.com>",
+      "from_name": "Laure Massi",
+      "from_email_hash": "020ec74053d685ea650cb9cffbe805b2608168b0cd68ea97484bc94fef0bd562",
+      "date": "2015-06-23T13:53:30Z",
+      "subject": "[R-jobs] Ipsos Sr. Data Scientist - Culver City, CA",
+      "subject_clean": "[R-jobs] Ipsos Sr. Data Scientist - Culver City, CA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello All, \n\nIpsos is currently hiring a Data Scientist, if this position is of interest, please apply using the link below.?? If you have any questions, please do not hesitate to reach out to me directly. \n\n\nSenior Data Scientist - Culver City, CA \n\nSummary: \n\nA capable and creative leader who is experienced in designing, conducting and selling Data Science analytics.? Role includes sales and execution of advanced analytic techniques.? Requires unrelenting attention to detail, an ability to work well with a small team (including both programmers and non-programmers), and ability to communicate value of methods to non-technical individuals.? Fluency in R and/or Python is required.\n\nResponsibilities:\n\n. Primary role is to conduct business development efforts to sell Data Science analytic services to clients\n. Design and work with team members on execution of large-scale data and statistical modeling efforts.\n. Assist in developing new data science products by translating needs identified with clients into analytic frameworks that can be developed into polished applications.\n. Direct outreach to clients and at industry events to discuss the analytic opportunities through statistical and computational modeling solutions to business problems\n. Perform other business development, leadership and marketing science analyses as required.\n\nSkills:\n\nRequired\n\n. Excellent communications and client experience selling analytic services.\n. Ability to design and execute advanced data science analyses such as Monte Carlo simulation, Data Mining, Pattern Recognition, Agent Based Modeling, Bayesian Network analysis, genetic algorithms as well as advanced statistical analysis.\n. Proficiency in advanced R and/or Python programming.\n\nPreferred\n\n. Working knowledge of Database and Big Data analytics (SQL, Hadoop, Mahout).\n. Large dataset manipulation.? Experience in distributed storage and computing a plus.\n. Experience with collaboration tools and version control systems (e.g. Git).\n. Experience with JavaScript, esp. visualization libraries (e.g. d3.js).\n. Familiarity with web scraping tools and techniques.\n. Advanced degree (M.S., Ph.D.) preferred but by no means required.\n\nHow to Apply: \nInterested in joining a premier organization committed to satisfying our clients beyond their expectations? Please submit a detailed resume that demonstrates you have the experience and abilities we are seeking.?? The job can be found online at:?\n\nhttps://ipsos-na-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=964&source=ONLINE&JobOwner=992274&company_id=16736&version=1&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=8136&byCat=&proximityCountry=&postalCode=&radiusDistance=&isKilometers=&tosearch=yes&city\n\n\n\nLaure Massi \nRecruiter \nIpsos North America\n\n222 South Riverside Plaza, Chicago, IL 60606\nDirect: +1.312.526.4387\nLaure.massi at ipsos.com?| http://www.ipsos.com? \nGame Changers",
+      "body_snippet": "Hello All, \n\nIpsos is currently hiring a Data Scientist, if this position is of interest, please apply using the link below.?? If you have any questions, please do not hesitate to reach out to me dire",
+      "thread_id": "thread-1db5d89f9c5f",
+      "thread_depth": 0,
+      "month": "2015-06"
+    },
+    {
+      "id": "msg-5ee4322ce19e",
+      "message_id": "<DCF4E03E-C74C-4273-B9DF-AABDE66AC89C@genzentrum.lmu.de>",
+      "from_name": "Julien Gagneur",
+      "from_email_hash": "c6490fa2a111371e6a19fbb046354414847bc7a42e8798242e32c9cec32df8e3",
+      "date": "2015-06-24T23:23:54+02:00",
+      "subject": "[R-jobs] Post-doc in Systems Genetics, Gagneur lab, Munich",
+      "subject_clean": "[R-jobs] Post-doc in Systems Genetics, Gagneur lab, Munich",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nwe seek a talented and motivated post-doc to develop computational methods for inferring the molecular basis of genetic diseases by integration of personal omics data. Research topics include: identifying causal mutations of rare disease patients by meta-analysis; inferring disease-causing molecular pathways from genotype, phenotypes, and omics profile of patient-derived cell lines (transcritptomic, proteomic and metabolic). The developed methods will be applied to data from our collaborator Dr. Holger Prokisch, Institute of Human Genetics of Munich (cellular respiratory disorders) and will lead to functional validation studies directly on cell lines derived from patients.\n\nThe successful candidate will be part of SOUND, an international research project funded by the European Commission within its Horizon 2020 Research and Innovation programme ?Personalizing Health and Care?. Its objective is to create the bioinformatic tools for statistically informed use of personal genomic and other ?omic data in medicine, including cancers and rare metabolic diseases. It comprises partners from top research institutions including Cambridge, Munich, Zurich, Seattle, Heidelberg and Lisbon, and will run from September 2015 for 3 years.\n\nCandidates must either hold a PhD in computational biology or bioinformatics, or hold a PhD in physics, statistics, or applied mathematics with practical experience with high-dimensional data analysis. Experience in quantitative genetics is a plus. Applicants must have a proven publication record and an interest for translational research.\n\nThe Gagneur lab is a young, lively, and multidisciplinary group with a research focus on systems genetics and gene regulation. It is located at the Gene Center of the LMU (University of Munich), an interdisciplinary institution whose 16 independent research groups investigate the regulation of gene expression at all levels - from the underlying molecular mechanisms to the biological system. The institute is located on the biomedical research campus Munich-Grosshadern, offering a dynamic, interactive and internationally oriented research environment. The dynamism of Munich and the proximity of the Alps provide an excellent quality of life.\n\nThe salary is according to the TV-L (German academic salary scale).\n\nApplications including a cover letter, CV, and references must be sent to Julien Gagneur (gagneur at genzentrum.lmu.de) until July 31st 2015\n\nhttp://www.gagneur.genzentrum.lmu.de\n\nRelevant references:\nGagneur et al., PLoS Genetics, 2013, Genotype-Environment Interactions Reveal Causal Pathways That Mediate Genetic Effects on Phenotype\nKornblum et al, Nature Genetics, 2013, Loss-of-function mutations in MGME1 impair mtDNA replication and cause multisystemic mitochondrial disease\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nwe seek a talented and motivated post-doc to develop computational methods for inferring the molecular basis of genetic diseases by integration of personal omics data. Research topics inclu",
+      "thread_id": "thread-5ee4322ce19e",
+      "thread_depth": 0,
+      "month": "2015-06"
+    },
+    {
+      "id": "msg-c205d8790187",
+      "message_id": "<243627.2549903.1435415779159.JavaMail.zimbra@openanalytics.eu>",
+      "from_name": "Tobias Verbeke",
+      "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
+      "date": "2015-06-27T16:36:19+02:00",
+      "subject": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
+      "subject_clean": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Open Analytics is an international company providing data analysis services and products across geographies and industrial sectors.\n\nWe are currently looking to expand our team with the following profiles:\n\nStatisticians: MSc / PhD in Statistics, Applied Mathematics or Computer Science\n\nData Scientists: MSc / PhD in Computer Science, Engineering or Statistics\n\nA detailed description can be found at\n\nhttp://www.openanalytics.eu/jobs\n\nKind regards,\nTobias Verbeke\n\nP.S. We have a strong presence at UseR! 2015. Don't hesitate to get in touch with us if you attend too!\n\n-- \n\nTobias Verbeke\nManaging Director\n\nOpen Analytics NV\nJupiterstraat 20\n2600 Antwerp\nBelgium \n\nE tobias.verbeke at openanalytics.eu\nM +32 499 36 33 15\nhttp://www.openanalytics.eu",
+      "body_snippet": "Open Analytics is an international company providing data analysis services and products across geographies and industrial sectors.\n\nWe are currently looking to expand our team with the following prof",
+      "thread_id": "thread-c205d8790187",
+      "thread_depth": 0,
+      "month": "2015-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c5d1c2f6d1e0",
+      "subject": "[R-jobs] Bioinformatics Statistician at Bristol-Myers Squibb",
+      "message_count": 1,
+      "participants": [
+        "Chasalow, Scott"
+      ],
+      "started": "2015-06-05T21:27:45+00:00",
+      "last_reply": "2015-06-05T21:27:45+00:00",
+      "root_message_id": "msg-c5d1c2f6d1e0"
+    },
+    {
+      "id": "thread-df8d1bc833e6",
+      "subject": "[R-jobs] Data scientist for Monitoring the Illegal Killing of Elephants at UNEP in Nairobi, Kenya",
+      "message_count": 1,
+      "participants": [
+        "Julian Blanc"
+      ],
+      "started": "2015-06-15T09:05:28+03:00",
+      "last_reply": "2015-06-15T09:05:28+03:00",
+      "root_message_id": "msg-df8d1bc833e6"
+    },
+    {
+      "id": "thread-10a3bcd8e3d0",
+      "subject": "[R-jobs] Ipsos Data Scientist - Culver City CA",
+      "message_count": 1,
+      "participants": [
+        "Laure Massi"
+      ],
+      "started": "2015-06-23T13:53:28+00:00",
+      "last_reply": "2015-06-23T13:53:28+00:00",
+      "root_message_id": "msg-10a3bcd8e3d0"
+    },
+    {
+      "id": "thread-1db5d89f9c5f",
+      "subject": "[R-jobs] Ipsos Sr. Data Scientist - Culver City, CA",
+      "message_count": 1,
+      "participants": [
+        "Laure Massi"
+      ],
+      "started": "2015-06-23T13:53:30+00:00",
+      "last_reply": "2015-06-23T13:53:30+00:00",
+      "root_message_id": "msg-1db5d89f9c5f"
+    },
+    {
+      "id": "thread-5ee4322ce19e",
+      "subject": "[R-jobs] Post-doc in Systems Genetics, Gagneur lab, Munich",
+      "message_count": 1,
+      "participants": [
+        "Julien Gagneur"
+      ],
+      "started": "2015-06-24T23:23:54+02:00",
+      "last_reply": "2015-06-24T23:23:54+02:00",
+      "root_message_id": "msg-5ee4322ce19e"
+    },
+    {
+      "id": "thread-c205d8790187",
+      "subject": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
+      "message_count": 1,
+      "participants": [
+        "Tobias Verbeke"
+      ],
+      "started": "2015-06-27T16:36:19+02:00",
+      "last_reply": "2015-06-27T16:36:19+02:00",
+      "root_message_id": "msg-c205d8790187"
+    }
+  ]
+}

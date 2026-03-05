@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2017-12",
+  "messages": [
+    {
+      "id": "msg-7f7ccfcbdb7b",
+      "message_id": "<563179213.271577.1512505639103.JavaMail.zimbra@openanalytics.eu>",
+      "from_name": "Tobias Verbeke",
+      "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
+      "date": "2017-12-05T21:27:19+01:00",
+      "subject": "[R-jobs] Job Openings: Statistician and Data Scientist at OpenAnalytics (Belgium)",
+      "subject_clean": "[R-jobs] Job Openings: Statistician and Data Scientist at OpenAnalytics (Belgium)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Open Analytics is an international company providing data analysis services and products across geographies and industrial sectors.\n\nWe are currently looking to expand our team with the following profiles:\n\nStatisticians: MSc / PhD in Statistics, Applied Mathematics or Computer Science\nData Scientists: MSc / PhD in Computer Science, Engineering or Statistics\n\nA detailed description can be found at\n\nhttp://www.openanalytics.eu/jobs\n\nKind regards,\nTobias Verbeke\n\n-- \n\nTobias Verbeke\nManaging Director\n\nOpen Analytics NV\nJupiterstraat 20\n2600 Antwerp\nBelgium \n\nE tobias.verbeke at openanalytics.eu\nM +32 499 36 33 15\nhttp://www.openanalytics.eu",
+      "body_snippet": "Open Analytics is an international company providing data analysis services and products across geographies and industrial sectors.\n\nWe are currently looking to expand our team with the following prof",
+      "thread_id": "thread-7f7ccfcbdb7b",
+      "thread_depth": 0,
+      "month": "2017-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7f7ccfcbdb7b",
+      "subject": "[R-jobs] Job Openings: Statistician and Data Scientist at OpenAnalytics (Belgium)",
+      "message_count": 1,
+      "participants": [
+        "Tobias Verbeke"
+      ],
+      "started": "2017-12-05T21:27:19+01:00",
+      "last_reply": "2017-12-05T21:27:19+01:00",
+      "root_message_id": "msg-7f7ccfcbdb7b"
+    }
+  ]
+}

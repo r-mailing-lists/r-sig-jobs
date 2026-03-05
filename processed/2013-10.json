@@ -1,0 +1,166 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-10",
+  "messages": [
+    {
+      "id": "msg-3d9c788d0a01",
+      "message_id": "<CAP9OmtcXDYGJrd=Rbj5-PxkR=7GGTaJOu=f9rk53TFTMUTm8Lw@mail.gmail.com>",
+      "from_name": "Thomas Lukacovic",
+      "from_email_hash": "0175bbe66bf647a508de90aefa991f2480329d1ffc9252e7e9eb814d4db4f6cf",
+      "date": "2013-10-10T14:59:06-04:00",
+      "subject": "[R-jobs] Freelance job on Long Island, NY",
+      "subject_clean": "[R-jobs] Freelance job on Long Island, NY",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I am looking for someone to tutor me in R programming and GIT (version\ncontrol) for a small start-up company. Areas of interest are graph theory\n(igraph), network analysis and Rankpage (sorting, ranking) algorithms.  I\nam located in NY- Long Island.\n\nGreat pay CASH    10-20 hrs to start\n\nContact Tom tlukes at gmail.com\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I am looking for someone to tutor me in R programming and GIT (version\ncontrol) for a small start-up company. Areas of interest are graph theory\n(igraph), network analysis and Rankpage (sorting, ranki",
+      "thread_id": "thread-3d9c788d0a01",
+      "thread_depth": 0,
+      "month": "2013-10"
+    },
+    {
+      "id": "msg-a9cf46154be4",
+      "message_id": "<525D5A26.3010600@gmail.com>",
+      "from_name": "MK",
+      "from_email_hash": "e4b0a5b5f9862e775d7b3abb9a69392981323f4bc13983d1c39fd7c52d5d3070",
+      "date": "2013-10-15T17:07:18+02:00",
+      "subject": "[R-jobs] R trainer required",
+      "subject_clean": "[R-jobs] R trainer required",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Food and Agricultural Organization of the United Nations is looking \nfor an R expert to assist the translation of current methodology from \nother statistical software into R. The position will involve sitting \ndown with statisticians from various team to understand the current \nmethodology and support the staff to develop the methodology in R.\n\nThis is a full-time position based in Rome starting as soon as possible \ntill the end of the year and opportunity for extension.\n\nThe desire candidate will possess the following skills.\n\nEssential:\n- Advanced statistical knowledge. (e.g. Multiple imputation, \nnon-parametric regression, mixture model etc ...)\n- Extensive knowledge of R\n- Experienced with tools for reproducibility ( \nhttps://github.com/jtleek/rpackages)\n- Excellent communication skill\n\nPlus:\n- Experience with the S4 class, and connecting to data bases through API.\n- Social network analysis, sentimental analysis and text mining.\n\nIf you are interested in the position, please send your CV and code \nsnippets to michael.kao at fao.org\n\nBest Regards,\nMichael\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The Food and Agricultural Organization of the United Nations is looking \nfor an R expert to assist the translation of current methodology from \nother statistical software into R. The position will inv",
+      "thread_id": "thread-a9cf46154be4",
+      "thread_depth": 0,
+      "month": "2013-10"
+    },
+    {
+      "id": "msg-38cb8c707619",
+      "message_id": "<525FE708.60407@oncology.ox.ac.uk>",
+      "from_name": "Francesca Buffa",
+      "from_email_hash": "08fc7a2780b75ae496535a1ad78a2fc5e1c7811cc3d12c4b3b7ab32fde2e53c9",
+      "date": "2013-10-17T14:32:56+01:00",
+      "subject": "[R-jobs] position available University of Oxford",
+      "subject_clean": "[R-jobs] position available University of Oxford",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "*Bioinformatics/Statistics**Postdoctoral Researcher\n**University of Oxford, UK\n      *\n\nAn exciting opportunity has arisen for a Bioinformatics/Statistics \nPostdoctoral Researcher to join the Applied Computational Genomics Group \nin the Department of Oncology. The work will involve the integration of \nbioinformatics and genome-wide data-mining approaches with cancer \nphysiological models, to develop tools for clinical decision making. The \npostholder will be involved in development and implementation of \ndata-mining methods, as well as analysis of samples from clinical \nstudies and a wide range of experimental model systems.\n\nFurther information and instructions to apply can be found at the link\n\nhttps://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=110386\n\nPlease cite the reference ID: 110386\n\n\n-- \n\nFrancesca Meteora Buffa, PhD\nApplied Computational Genomics Group Leader\nDepartment of Oncology, University of Oxford. Old Road Campus Research Building, Oxford, OX3 7DQ.\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*Bioinformatics/Statistics**Postdoctoral Researcher\n**University of Oxford, UK\n      *\n\nAn exciting opportunity has arisen for a Bioinformatics/Statistics \nPostdoctoral Researcher to join the Applied ",
+      "thread_id": "thread-38cb8c707619",
+      "thread_depth": 0,
+      "month": "2013-10"
+    },
+    {
+      "id": "msg-fb1ca266e181",
+      "message_id": "<CFB2F767-CE22-4665-BF2E-C90B73DA656D@illinois.edu>",
+      "from_name": "Hudson, Matthew",
+      "from_email_hash": "178b4584cedfa5ffea83067109affe93329e305f76b710082546d06b69271782",
+      "date": "2013-10-24T16:08:28Z",
+      "subject": "[R-jobs] Faculty Position in Biometry / Biological Statistics at Illinois",
+      "subject_clean": "[R-jobs] Faculty Position in Biometry / Biological Statistics at Illinois",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Assistant/Associate Professor of Biometry\nDepartment of Crop Sciences\nCollege of Agricultural, Consumer and Environmental Sciences\nUniversity of Illinois at Urbana ? Champaign\n\nThe Department of Crop Sciences is seeking candidates for an Assistant/Associate Professor of Statistics.\nThe successful candidate will develop a vigorous, externally funded, and nationally recognized research program with relevance to biometry, biostatistics, biology, crop, soil or plant science, or a related area. The University of Illinois has a long tradition in statistics, biometry and quantitative biology and is home to world-class computational resources including the National Center for Supercomputer Applications and Blue Waters, currently the fastest supercomputer available in public sector research. For more information, go to ncsa.illinois.edu<http://ncsa.illinois.edu>.\nTeaching responsibilities will include an undergraduate/graduate level course in applied linear models and introductory statistics (CPSC 440), which is taught each fall and spring semester. The successful applicant will be expected to develop an additional quantitative course (for example spatial statistics, Bayesian analysis, survival analysis), taught once per year.\nFor appointment at the Associate rank, the candidate must exhibit a very strong record of independent scholarship that includes credentials meeting the standards required for promotion at the University of Illinois. Such credentials include national and/or international recognition and impact in research and teaching with clear evidence of obtaining competitive funding, initiating, completing, and publishing the results of successful projects.\nAn earned PhD degree in statistics, crop sciences, biology, agronomy, plant science, soil science, or a closely related field is required. Post-doctoral experience is desired. Excellent oral and written communication skills are essential, and teaching experience is an advantage.\nThis is a 9-month, 100% time, academic, tenure-track position with opportunity for summer appointment. Salary will be commensurate with qualifications and experience, and includes a comprehensive benefits package. The position is available as soon as a qualified candidate is chosen.\nFor additional information contact: Dr. Matthew Hudson, Search Committee Chair, Department of Crop Sciences, University of Illinois at Urbana-Champaign, 1101 West Peabody Drive, Urbana, IL 61801, email: mhudson at illinois.edu<mailto:mhudson at illinois.edu>, or go to cropsci.illinois.edu<http://cropsci.illinois.edu>.\nCandidates must create a profile at jobs.illinois.edu<http://jobs.illinois.edu> and upload a cover letter with a detailed statement of research and teaching goals, a curriculum vitae, a copy of official undergraduate and graduate transcripts and contact information for three professional references. Only applications with all requested materials will be considered. For full consideration, applications must be received by December 6, 2013. For further information regarding application procedures, contact Linda Kemplin, kemplin at illinois.edu<mailto:kemplin at illinois.edu>.\nIllinois is an Affirmative Action/Equal Opportunity Employer and welcomes individuals with diverse backgrounds, experiences, and ideas who embrace and value diversity and inclusivity. (www.inclusiveillinois.illinois.edu<http://www.inclusiveillinois.illinois.edu>).\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Assistant/Associate Professor of Biometry\nDepartment of Crop Sciences\nCollege of Agricultural, Consumer and Environmental Sciences\nUniversity of Illinois at Urbana ? Champaign\n\nThe Department of Crop ",
+      "thread_id": "thread-fb1ca266e181",
+      "thread_depth": 0,
+      "month": "2013-10"
+    },
+    {
+      "id": "msg-7a04faf8500d",
+      "message_id": "<26E4CDC6AA9D6A449FF3993907705BEB63990D8E@skpcmxsmb4>",
+      "from_name": "Alpert, William",
+      "from_email_hash": "100e033302e0f2e7b381872339dc99f026e513f96e1a7727af0688187fb0d9ff",
+      "date": "2013-10-25T13:51:43Z",
+      "subject": "[R-jobs] Intern at Barron's ! -- use statistics for investigative financial journalism",
+      "subject_clean": "[R-jobs] Intern at Barron's ! -- use statistics for investigative financial journalism",
+      "in_reply_to": "<mailman.11.1378634403.6857.r-sig-jobs@r-project.org>",
+      "references": [
+        "<mailman.11.1378634403.6857.r-sig-jobs@r-project.org>"
+      ],
+      "body_plain": "We're seeking interns for the summer of 2014 here at Barron's the Dow Jones newsweekly that's searched out good investments and financial frauds since 1921, when our founder exposed Charles Ponzi. We're at the center of the financial world in New York and can pay a bit of a stipend to cover the city's high living costs.  Here's the blurb:\n\nDo some good. Intern at Barron's, the New York financial publication with a decades-long tradition of investigative journalism and a more recent commitment to data analytic exposure of fraud in finance, business and healthcare. Bring us your zeal and your data munging skills and we'll teach you how to be a writer, stock analyst and gumshoe investigator. We assemble unique data sets to scrutinize activities like Jim Cramer's CNBC stock picking, for-profit colleges, Medicare rip-offs and the hyping of US-listed China stocks. Our stories achieve instant reform of bad situations. Please help us make Wall Street safe for the little guy.\n\nWe will hire one programmer-journalist intern to work from June through August of 2014. Desirable skills would include programming fluency in R (for data analysis and visualization), a scripting language (like Perl or Python) and SQL. If you can write, you will also get stories published under your byline.\n\nAs part of the Dow Jones News Fund, the program provides free pre-internship training seminars, 10 weeks' salary, $1,000 scholarships for interns returning to school, and a travel allowance. The salary is not princely, so it helps if you have a place to stay in the New York area.\n\nAPPLICATION DEADLINE: November 1, 2014 (that's a very soft deadline)\n\nApply online at https://www.newsfund.org\n\n...Click Programs...then Internship Applications...make sure to complete the business reporting form.\n\nAlso, send a resume, writing or code samples to me - Bill Alpert - at william.alpert at barrons.com and call me with any questions at 212.416.2742.\n\n-----Original Message-----\nFrom: r-sig-jobs-bounces at r-project.org [mailto:r-sig-jobs-bounces at r-project.org] On Behalf Of r-sig-jobs-request at r-project.org\nSent: Sunday, September 08, 2013 6:00 AM\nTo: r-sig-jobs at r-project.org\nSubject: R-sig-jobs Digest, Vol 71, Issue 1\n\nSend R-sig-jobs mailing list submissions to\n\tr-sig-jobs at r-project.org\n\nTo subscribe or unsubscribe via the World Wide Web, visit\n\thttps://stat.ethz.ch/mailman/listinfo/r-sig-jobs\nor, via email, send a message with subject or body 'help' to\n\tr-sig-jobs-request at r-project.org\n\nYou can reach the person managing the list at\n\tr-sig-jobs-owner at r-project.org\n\nWhen replying, please edit your Subject line so it is more specific than \"Re: Contents of R-sig-jobs digest...\"\n\n\nToday's Topics:\n\n   1. PhD Studentship: Geographically Weighted Geodemographics\n      [University of Liverpool] (Alex Singleton)\n\n\n----------------------------------------------------------------------\n\nMessage: 1\nDate: Sun, 8 Sep 2013 08:06:04 +0100\nFrom: Alex Singleton <alex.singleton at liverpool.ac.uk>\nTo: r-sig-jobs at r-project.org\nSubject: [R-jobs] PhD Studentship: Geographically Weighted\n\tGeodemographics [University of Liverpool]\nMessage-ID:\n\t<CAAHW_U41-qG_Eax5oaOBYojwGB787KJUEWkr7uRO6uRjAnUJOw at mail.gmail.com>\nContent-Type: text/plain; charset=ISO-8859-1\n\nSupervisors: Dr Alex Singleton; Professor Chris Brunsdon Industrial Partner: Office for National Statistics\n\nApplicants are invited for a PhD studentship at the University of Liverpool within the ESRC North West DTC. The studentship will be supervised by Dr Alex Singleton and Professor Chris Brunsdon in the Department of Geography and Planning; and is being conducted in collaboration with the Office for National Statistics.\n\nThis three year advanced quantitative methods award will provide an enhanced stipend of ?16,726 (tax free) alongside payment of tuition fees. You will also have the opportunity to apply for additional funding related to training and fieldwork expenses. This studentship is open to candidates from outside of the UK / EU.\n\nThe project aims to redefine those methods through which geodemographic classifications are created, feeding these developments into ONS best practice for creating future open national indicators, such as the census Output Area Classification. The project will develop an extension to traditional geodemographics that more appropriately accounts for spatial context and the relationship between small area geography. This will involve the development of new methods integrating spatial statistics, data mining and computer modelling.\n\nThe candidate will require a background in Geography, Planning, Mathematics, Computer Science, Statistics or other quantitative discipline; an undergraduate degree at 2.1 or 1, and ideally a Masters degree in a domain relevant area. We would be especially interested in candidates with some coding experience, either in traditional languages (java, python etc) or statistical programming such as R.\n\nIf you are interested and would like some more information, we have a more detailed specification of the project available here:\nhttp://dl.dropboxusercontent.com/u/881843/Further_Details_PhD.pdf\n\nAlso, please feel free to get in touch with Alex Singleton (alex.singleton at liverpool.ac.uk).\nCandidates interested in this studentship should send a letter detailing their suitability and interest in the project, along with a CV, to Alex Singleton by 27th September 2013.\n\n--\nDr Alex Singleton\nLecturer in Geographic Information Science Department of Geography and Planning University of Liverpool Email:alex.singleton at liverpool.ac.uk\nTel: 0151 7943108\nWebsite: http://www.alex-singleton.com\nTwitter: alexsingleton\nSkype: alexsingleton\n\n\n\n------------------------------\n\n_______________________________________________\nR-sig-jobs mailing list\nR-sig-jobs at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n\n\nEnd of R-sig-jobs Digest, Vol 71, Issue 1",
+      "body_snippet": "We're seeking interns for the summer of 2014 here at Barron's the Dow Jones newsweekly that's searched out good investments and financial frauds since 1921, when our founder exposed Charles Ponzi. We'",
+      "thread_id": "thread-7a04faf8500d",
+      "thread_depth": 0,
+      "month": "2013-10"
+    },
+    {
+      "id": "msg-10ee9368556d",
+      "message_id": "<CACk-te2cvG7+XXyw5CK8NQHujTOL=bvt7jZW22f8yGQv2Mx+Lw@mail.gmail.com>",
+      "from_name": "Bert Gunter",
+      "from_email_hash": "fff944709cd4e01c43b94b925a795dc8ebb00f65da76c888c1d3901ec68b6b6b",
+      "date": "2013-10-25T07:47:12-07:00",
+      "subject": "[R-jobs] Intern at Barron's ! -- use statistics for investigative financial journalism",
+      "subject_clean": "[R-jobs] Intern at Barron's ! -- use statistics for investigative financial journalism",
+      "in_reply_to": "<26E4CDC6AA9D6A449FF3993907705BEB63990D8E@skpcmxsmb4>",
+      "references": [
+        "<mailman.11.1378634403.6857.r-sig-jobs@r-project.org>",
+        "<26E4CDC6AA9D6A449FF3993907705BEB63990D8E@skpcmxsmb4>"
+      ],
+      "body_plain": "Sir:\n\nI find it rather puzzling that despite your title, you ask for\ntraining  in neither statistics nor finance. One might wonder what\nsort of statistical investigative work in finance one would do without\nsuch knowledge.\n\n-- Bert Gunter\n\n\nOn Fri, Oct 25, 2013 at 6:51 AM, Alpert, William\n<William.Alpert at barrons.com> wrote:\n> We're seeking interns for the summer of 2014 here at Barron's the Dow Jones newsweekly that's searched out good investments and financial frauds since 1921, when our founder exposed Charles Ponzi. We're at the center of the financial world in New York and can pay a bit of a stipend to cover the city's high living costs.  Here's the blurb:\n>\n> Do some good. Intern at Barron's, the New York financial publication with a decades-long tradition of investigative journalism and a more recent commitment to data analytic exposure of fraud in finance, business and healthcare. Bring us your zeal and your data munging skills and we'll teach you how to be a writer, stock analyst and gumshoe investigator. We assemble unique data sets to scrutinize activities like Jim Cramer's CNBC stock picking, for-profit colleges, Medicare rip-offs and the hyping of US-listed China stocks. Our stories achieve instant reform of bad situations. Please help us make Wall Street safe for the little guy.\n>\n> We will hire one programmer-journalist intern to work from June through August of 2014. Desirable skills would include programming fluency in R (for data analysis and visualization), a scripting language (like Perl or Python) and SQL. If you can write, you will also get stories published under your byline.\n>\n> As part of the Dow Jones News Fund, the program provides free pre-internship training seminars, 10 weeks' salary, $1,000 scholarships for interns returning to school, and a travel allowance. The salary is not princely, so it helps if you have a place to stay in the New York area.\n>\n> APPLICATION DEADLINE: November 1, 2014 (that's a very soft deadline)\n>\n> Apply online at https://www.newsfund.org\n>\n> ...Click Programs...then Internship Applications...make sure to complete the business reporting form.\n>\n> Also, send a resume, writing or code samples to me - Bill Alpert - at william.alpert at barrons.com and call me with any questions at 212.416.2742.\n>",
+      "body_snippet": "Sir:\n\nI find it rather puzzling that despite your title, you ask for\ntraining  in neither statistics nor finance. One might wonder what\nsort of statistical investigative work in finance one would do w",
+      "thread_id": "thread-7a04faf8500d",
+      "thread_depth": 1,
+      "month": "2013-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-3d9c788d0a01",
+      "subject": "[R-jobs] Freelance job on Long Island, NY",
+      "message_count": 1,
+      "participants": [
+        "Thomas Lukacovic"
+      ],
+      "started": "2013-10-10T14:59:06-04:00",
+      "last_reply": "2013-10-10T14:59:06-04:00",
+      "root_message_id": "msg-3d9c788d0a01"
+    },
+    {
+      "id": "thread-a9cf46154be4",
+      "subject": "[R-jobs] R trainer required",
+      "message_count": 1,
+      "participants": [
+        "MK"
+      ],
+      "started": "2013-10-15T17:07:18+02:00",
+      "last_reply": "2013-10-15T17:07:18+02:00",
+      "root_message_id": "msg-a9cf46154be4"
+    },
+    {
+      "id": "thread-38cb8c707619",
+      "subject": "[R-jobs] position available University of Oxford",
+      "message_count": 1,
+      "participants": [
+        "Francesca Buffa"
+      ],
+      "started": "2013-10-17T14:32:56+01:00",
+      "last_reply": "2013-10-17T14:32:56+01:00",
+      "root_message_id": "msg-38cb8c707619"
+    },
+    {
+      "id": "thread-fb1ca266e181",
+      "subject": "[R-jobs] Faculty Position in Biometry / Biological Statistics at Illinois",
+      "message_count": 1,
+      "participants": [
+        "Hudson, Matthew"
+      ],
+      "started": "2013-10-24T16:08:28+00:00",
+      "last_reply": "2013-10-24T16:08:28+00:00",
+      "root_message_id": "msg-fb1ca266e181"
+    },
+    {
+      "id": "thread-7a04faf8500d",
+      "subject": "[R-jobs] Intern at Barron's ! -- use statistics for investigative financial journalism",
+      "message_count": 2,
+      "participants": [
+        "Alpert, William",
+        "Bert Gunter"
+      ],
+      "started": "2013-10-25T13:51:43+00:00",
+      "last_reply": "2013-10-25T07:47:12-07:00",
+      "root_message_id": "msg-7a04faf8500d"
+    }
+  ]
+}

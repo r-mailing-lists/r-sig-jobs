@@ -1,0 +1,190 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2010-02",
+  "messages": [
+    {
+      "id": "msg-62381cb81c89",
+      "message_id": "<4B733019.8090903@waikato.ac.nz>",
+      "from_name": "Murray Jorgensen",
+      "from_email_hash": "412594a5d6217bd6278b467c649716172da47740ed2a37d374bdef83c1b35bc1",
+      "date": "2010-02-11T11:15:53+13:00",
+      "subject": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
+      "subject_clean": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Vacancy number 300014\t\nLECTURER\nDepartment of Statistics\nSchool of Computing and Mathematical Sciences\nUniversity of Waikato\nHamilton, New Zealand\n\nYou should have a PhD in Statistics, or equivalent, and will have\ndemonstrated the ability to sustain a successful teaching and research\ncareer.  You will be expected to contribute towards the Department?s\nundergraduate and graduate teaching programmes.  There will also be\nopportunities to participate in the Department?s consultancy services.\n\nSalary range for Lecturers is NZ$62,700 to $76,552 per year, depending\non qualifications, skills and experience.\n\nEnquiries of an academic nature should be directed to Dr Lynette Hunt,\nemail: lah at stats.waikato.ac.nz\n\nApplications close on Friday, 12 March 2010.\n\nWeb:  jobs.waikato.ac.nz\n       www.hamilton.co.nz",
+      "body_snippet": "Vacancy number 300014\t\nLECTURER\nDepartment of Statistics\nSchool of Computing and Mathematical Sciences\nUniversity of Waikato\nHamilton, New Zealand\n\nYou should have a PhD in Statistics, or equivalent, ",
+      "thread_id": "thread-62381cb81c89",
+      "thread_depth": 0,
+      "month": "2010-02"
+    },
+    {
+      "id": "msg-057310b35c0b",
+      "message_id": "<4B73C6BA.1030806@imbe.med.uni-erlangen.de>",
+      "from_name": "Benjamin Hofner",
+      "from_email_hash": "49e9e3459fde2aeb83658f1be1996bba8af7f9cddeb0dac00b00f7c7ee17eaa4",
+      "date": "2010-02-11T09:58:34+01:00",
+      "subject": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
+      "subject_clean": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
+      "in_reply_to": "<4B733019.8090903@waikato.ac.nz>",
+      "references": [
+        "<4B733019.8090903@waikato.ac.nz>"
+      ],
+      "body_plain": "zur INFO (nicht zum Abwerben! ;))\n\nMurray Jorgensen wrote:\n> Vacancy number 300014   \n> LECTURER\n> Department of Statistics\n> School of Computing and Mathematical Sciences\n> University of Waikato\n> Hamilton, New Zealand\n> \n> You should have a PhD in Statistics, or equivalent, and will have\n> demonstrated the ability to sustain a successful teaching and research\n> career.  You will be expected to contribute towards the Department?s\n> undergraduate and graduate teaching programmes.  There will also be\n> opportunities to participate in the Department?s consultancy services.\n> \n> Salary range for Lecturers is NZ$62,700 to $76,552 per year, depending\n> on qualifications, skills and experience.\n> \n> Enquiries of an academic nature should be directed to Dr Lynette Hunt,\n> email: lah at stats.waikato.ac.nz\n> \n> Applications close on Friday, 12 March 2010.\n> \n> Web:  jobs.waikato.ac.nz\n>       www.hamilton.co.nz\n> \n> _______________________________________________\n> R-sig-jobs mailing list\n> R-sig-jobs at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n\n-- \n******************************************************************************\nDipl.-Stat. Benjamin Hofner\n\nInstitut f?r Medizininformatik, Biometrie und Epidemiologie\nFriedrich-Alexander-Universit?t Erlangen-N?rnberg\nWaldstr. 6 - 91054 Erlangen - Germany\n\nTel: +49-9131-85-22707\nFax: +49-9131-85-25740\n\nOffice:\n   Room 3.036\n   Universit?tsstra?e 22\n   (Entrance at the left side of the building)\n\nbenjamin.hofner at imbe.med.uni-erlangen.de\n\nhttp://www.imbe.med.uni-erlangen.de/~hofnerb/\nhttp://www.benjaminhofner.de",
+      "body_snippet": "zur INFO (nicht zum Abwerben! ;))\n\nMurray Jorgensen wrote:\n> Vacancy number 300014   \n> LECTURER\n> Department of Statistics\n> School of Computing and Mathematical Sciences\n> University of Waikato\n> Ha",
+      "thread_id": "thread-62381cb81c89",
+      "thread_depth": 1,
+      "month": "2010-02"
+    },
+    {
+      "id": "msg-2bed07d40eb0",
+      "message_id": "<00e501caab20$40bc5cf0$c23516d0$@forbes@phdit.com>",
+      "from_name": "Chris Forbes",
+      "from_email_hash": "93956d2e839031238629d097530128f27d62478bebda4449a7a65ea898eea087",
+      "date": "2010-02-11T13:43:42Z",
+      "subject": "[R-jobs] PhD Quantitative Analyst Roles",
+      "subject_clean": "[R-jobs] PhD Quantitative Analyst Roles",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are currently in the process of developing and expanding our quantitative\nanalytics function. Led by commitment from the Head of Global Markets and\nsenior management across all asset classes, the function was centralised in\nJune with the view that the quantitative analytics platform should be\nomnipresent and part of the decision making process throughout the bank. As\na result the focus and drive now is to expand the team with additional\nLibrary, Desk, Strategy and Production Risk Quants. The team will be\nresponsible for providing support in a cross asset environment, sharing\ninformation and libraries and is split mainly between London and Stamford.\n\n \n\nRequirements\n\n \n\nThe cross asset nature of the team means that the ideal candidates should be\nmentally agile and capable of operating independently and flexibly, rather\nthan being constrained to a very specific area. They should have a proven\ncombination of strong mathematical and science and IT skills. Candidates\nwhich have stood out through academic excellence, and competition and prize\nwinners are always of interest.  There are roles in London and New York.\n\n \n\nInterested PhD educated quantitative analysts should contact.\n\n \n\nChris Forbes\n\nMD PhD Search & Selection\n\n+44 (0)20 7190 2970\n\nChris.forbes at phdit.com\n\n \n\n \n\n \n\nChris Forbes Ph.D. Search & Selection\n\n__________________________________________ \n\n \n\nTelephone Number: +44 (0) 20 7190 2970\n\nCell Phone Number: +44 (0) 777 564 6084\n\nEmail Address:  <mailto:chris.forbes at phdit.com> chris.forbes at phdit.com\n\nWeb Site:  <BLOCKED::www.phdsearchandselection.com>\nwww.phdsearchandselection.com\n\n __________________________________________\n\n \n\nPh.D. Search & Selection Ltd acts as an Employment Agency and is fully\ncompliant with the Conduct of Employment Agencies and Employment Businesses\nRegulations 2003. \n\nThis e-mail message is intended solely for the use of the addressee. The\nmessage may contain information that is PRIVILIGED and CONFIDENTIAL.\n\n \n\nDisclosure to anyone other than the intended recipient is prohibited. If you\nare not the intended recipient, please do not disseminate, distribute or\ncopy this communication, by e-mail or otherwise. \n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "We are currently in the process of developing and expanding our quantitative\nanalytics function. Led by commitment from the Head of Global Markets and\nsenior management across all asset classes, the f",
+      "thread_id": "thread-2bed07d40eb0",
+      "thread_depth": 0,
+      "month": "2010-02"
+    },
+    {
+      "id": "msg-3fb3e7f7c3c7",
+      "message_id": "<d5b814ab1002111057k2277d43bj978575d179e70a1c@mail.gmail.com>",
+      "from_name": "Ajit de Silva",
+      "from_email_hash": "e684fcecce3d08a2a04bb87ab42df21cf48628a68d847f214cc17f8a84abb2b2",
+      "date": "2010-02-11T10:57:48-08:00",
+      "subject": "[R-jobs] R group on LinkedIn.com",
+      "subject_clean": "[R-jobs] R group on LinkedIn.com",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Greetings:\n\nI wanted to encourage potential job seekers and employers to join the R\ngroup <http://www.linkedin.com/groups?about=&gid=77616&trk=anet_ug_grppro>on\nLinkedIn.com.  We have over two thousand members and an active jobs\nboard.  We also have new discounts from CRC/Press and a new publisher to R:\nManning.  Please join and share your jobs, thoughts, and connections.\n\nRegards,\n\nAjit\n\nhttp://www.linkedin.com/groups?about=&gid=77616&trk=anet_ug_grppro\n\n-- \n_________________________________\nAjit Gemunu de Silva\nOakland CA 94619\n\nskype: ajit_de_silva\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Greetings:\n\nI wanted to encourage potential job seekers and employers to join the R\ngroup <http://www.linkedin.com/groups?about=&gid=77616&trk=anet_ug_grppro>on\nLinkedIn.com.  We have over two thousan",
+      "thread_id": "thread-3fb3e7f7c3c7",
+      "thread_depth": 0,
+      "month": "2010-02"
+    },
+    {
+      "id": "msg-23f8717024bc",
+      "message_id": "<8E15B0CB56904A229AF1F3C544D4C4CC@MichaelPC>",
+      "from_name": "Michael Haenlein",
+      "from_email_hash": "7a7c9821d5ec7dac364968625f00af9b9cbbfdda551f3236b50a4feb249c6558",
+      "date": "2010-02-14T15:19:17+01:00",
+      "subject": "[R-jobs] Help for programming a short code in R",
+      "subject_clean": "[R-jobs] Help for programming a short code in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nI'm looking for a person who could help me to program a short code in R. The\ncode involves Bayesian analysis so some familiarity with WinBUGS or another\npackage/ software dealing with Bayesian estimation would be helpful. \n\nI have an academic paper in which the code is described (\"Abe, M. (2009),\n\"\"Counting your customers\" one by one: A hierarchical Bayes extension to the\nPareto/NBD model,\" Marketing science, Vol. 28 No. 3, pp. 541 - 53\") as well\nas one of the datasets mentioned in this manuscript to test the code. My\nassumption is that the job does not take very long -- although I cannot give\na precise estimate of the number of hours required.\n\nIf anyone is interested, please let me know and I can send you an electronic\ncopy of the manuscript mentioned above.\n\nBest,\n\nMichael\n\n\n\n\nMichael Haenlein\nProfessor of Marketing\nESCP Europe - The School of Management for Europe\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear all,\n\nI'm looking for a person who could help me to program a short code in R. The\ncode involves Bayesian analysis so some familiarity with WinBUGS or another\npackage/ software dealing with Bayes",
+      "thread_id": "thread-23f8717024bc",
+      "thread_depth": 0,
+      "month": "2010-02"
+    },
+    {
+      "id": "msg-d824a3884793",
+      "message_id": "<B6F184EC-7F97-4732-BDA8-D56227CCD215@metrumrg.com>",
+      "from_name": "Jim Rogers",
+      "from_email_hash": "10f53b05afd479b619cda0009159c5823d52918feda9b201ed40fe4585e5232e",
+      "date": "2010-02-15T09:31:04-05:00",
+      "subject": "[R-jobs] Seeking Bayesian modeling statistician",
+      "subject_clean": "[R-jobs] Seeking Bayesian modeling statistician",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Position:\n\nBayesian Modeling Statistician at the level of Research Scientist,  \nSenior Scientist or Principal Scientist, depending on experience.\n\nMetrumRG is selectively seeking enthusiastic and energetic individuals  \nto join a team of scientists in a unique working environment. As a  \nmember of the MetrumRG team, you will participate in the research,  \ndevelopment, and application of quantitative data analysis methods in  \nbiomedical sciences through collaborations with both academia and the  \npharma/biotech industry. Job responsibilities include modeling and  \nsimulation to support drug development and clinical trials,  \nconsultation and technical guidance for clients, preparation of  \nreports and presentations, and participation in MetrumRG training  \ncourses. You will also be expected to develop your own research  \ninterests, present and publish results, and expand your scientific  \nknowledge and skills through professional development opportunities.\n\nRequirements:\n\nIdeal candidates will have a doctoral degree in statistics, excellent  \nwritten and verbal communication skills, statistical consulting  \nexperience, and proficiency with programming/statistical tools such as  \nR or S-PLUS. Experience with Bayesian data analysis and C or Fortran  \nprogramming is highly desirable.\n\nAbout MetrumRG:\n\nThe MetrumRG offices are located in Tariffville, CT, a vibrant New  \nEngland town situated in the Farmington River Valley. MetrumRG offers  \nthe flexibility and professional rewards that come from working in a  \nsmall, focused business environment. MetrumRG offers a competitive  \nsalary and full benefits package. Go to www.metrumrg.com for more  \ninformation.\n\nInterested individuals should email jimr at metrumrg.com. We prefer to  \nhear directly from candidates; no recruiters please.\n\nMetrum Research Group is an equal opportunity employer.",
+      "body_snippet": "Position:\n\nBayesian Modeling Statistician at the level of Research Scientist,  \nSenior Scientist or Principal Scientist, depending on experience.\n\nMetrumRG is selectively seeking enthusiastic and ener",
+      "thread_id": "thread-d824a3884793",
+      "thread_depth": 0,
+      "month": "2010-02"
+    },
+    {
+      "id": "msg-749025c2741b",
+      "message_id": "<CDCC880C3C4A8B44BF6DBF70D06588FD022BD9C9FB@galileo.instepsoftware.com>",
+      "from_name": "Keith Boyle",
+      "from_email_hash": "ec1c735ccceb2677044ca53354a2b1e33e2427a2b5c6ca1b21ff44b0a95e9b37",
+      "date": "2010-02-17T16:45:51-06:00",
+      "subject": "[R-jobs] Statistical Programmer - InStep Software - Chicago",
+      "subject_clean": "[R-jobs] Statistical Programmer - InStep Software - Chicago",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Statistical Programmer - InStep Software - Chicago\n\nInStep Software, located in Chicago's downtown Loop, is seeking a statistical programmer with good R skills.  This is a full-time, permanent position in support of our data historian, which is used worldwide at nuclear and other power-generating facilities.  We are seeking to further automate our data modeling technique, which uses predicted normal behavior to detect impending failures in complex mechanical systems.  Experience with time-shifted, multivariate regression or factor analysis would be helpful.\n\nThe ideal candidate would have a thorough knowledge of both R and C programming and be able to develop software modules for manipulating, managing, and analyzing data.  Experience is preferred but individuals with exceptional academic training will be considered.\n\nIn summary, the candidate should have:\n\n* MS or PhD in statistics with related experience.\n* Experience with the R package.\n* Experience in C programming.\n* Strong interpersonal skills and ability to lead an interdisciplinary team.\n* Creative problem-solving skills and ability to adapt known methods to new contexts.\n* Excellent oral and written skills.\n\nBenefits include a flexible work schedule, paid holidays, health insurance, and 401K.  Salary based on experience and education. If you are interested in exploring a career at InStep, visit our web site at www.instepsoftware.com for an overview of the company and its products.  Please e-mail your resume to kboyle at instepsoftware.com\n\nThank you.",
+      "body_snippet": "Statistical Programmer - InStep Software - Chicago\n\nInStep Software, located in Chicago's downtown Loop, is seeking a statistical programmer with good R skills.  This is a full-time, permanent positio",
+      "thread_id": "thread-749025c2741b",
+      "thread_depth": 0,
+      "month": "2010-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-3fb3e7f7c3c7",
+      "subject": "[R-jobs] R group on LinkedIn.com",
+      "message_count": 1,
+      "participants": [
+        "Ajit de Silva"
+      ],
+      "started": "2010-02-11T10:57:48-08:00",
+      "last_reply": "2010-02-11T10:57:48-08:00",
+      "root_message_id": "msg-3fb3e7f7c3c7"
+    },
+    {
+      "id": "thread-62381cb81c89",
+      "subject": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
+      "message_count": 2,
+      "participants": [
+        "Benjamin Hofner",
+        "Murray Jorgensen"
+      ],
+      "started": "2010-02-11T11:15:53+13:00",
+      "last_reply": "2010-02-11T09:58:34+01:00",
+      "root_message_id": "msg-62381cb81c89"
+    },
+    {
+      "id": "thread-2bed07d40eb0",
+      "subject": "[R-jobs] PhD Quantitative Analyst Roles",
+      "message_count": 1,
+      "participants": [
+        "Chris Forbes"
+      ],
+      "started": "2010-02-11T13:43:42+00:00",
+      "last_reply": "2010-02-11T13:43:42+00:00",
+      "root_message_id": "msg-2bed07d40eb0"
+    },
+    {
+      "id": "thread-23f8717024bc",
+      "subject": "[R-jobs] Help for programming a short code in R",
+      "message_count": 1,
+      "participants": [
+        "Michael Haenlein"
+      ],
+      "started": "2010-02-14T15:19:17+01:00",
+      "last_reply": "2010-02-14T15:19:17+01:00",
+      "root_message_id": "msg-23f8717024bc"
+    },
+    {
+      "id": "thread-d824a3884793",
+      "subject": "[R-jobs] Seeking Bayesian modeling statistician",
+      "message_count": 1,
+      "participants": [
+        "Jim Rogers"
+      ],
+      "started": "2010-02-15T09:31:04-05:00",
+      "last_reply": "2010-02-15T09:31:04-05:00",
+      "root_message_id": "msg-d824a3884793"
+    },
+    {
+      "id": "thread-749025c2741b",
+      "subject": "[R-jobs] Statistical Programmer - InStep Software - Chicago",
+      "message_count": 1,
+      "participants": [
+        "Keith Boyle"
+      ],
+      "started": "2010-02-17T16:45:51-06:00",
+      "last_reply": "2010-02-17T16:45:51-06:00",
+      "root_message_id": "msg-749025c2741b"
+    }
+  ]
+}

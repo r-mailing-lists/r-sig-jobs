@@ -1,0 +1,216 @@
+From greg @end|ng |rom w@rne@@net  Mon May 14 21:21:41 2007
+From: greg @end|ng |rom w@rne@@net (Gregory Warnes)
+Date: Mon, 14 May 2007 15:21:41 -0400
+Subject: [R-jobs] JOB: Biostatistician/Statistical Programmer/Data Analyst
+Message-ID: <9B47A7A0-3594-4BB1-A778-50FF72757C8F@warnes.net>
+
+Biostatistician/Statistical Programmer/Data Analyst
+
+The Department of Biostatistics and Computational Biology, University  
+of Rochester Medical Center is seeking a Biostatistician/Statistical  
+Programmer/Data Analyst to assist with several center-wide immunology  
+and infectious disease research studies. The biostatistician will  
+work with senior statisticians and other senior biomedical  
+investigators to prepare data analysis plans, perform study design  
+and sample size calculations, clean data, perform data analyses on  
+complex datasets, produce tables and graphs in publication-quality  
+form, and present results to senior investigators. Additional duties  
+include review of data collection tools and data quality control  
+plans. Basic
+
+Qualifications: Master's degree in Biostatistics, Statistics, or  
+combination of education and experience. At least 3 years of  
+experience. Knowledge of statistical techniques and statistical  
+programming in SAS (including SAS graphics) or S-Plus/R is also needed.
+
+Additional Qualifications: Excellent technical, computer, and  
+analytical and problem-solving skills. Strong interpersonal, customer  
+service and communication skills. Ability to work independently,  
+under supervision, and as a part of a team.
+
+Interested parties please contact Kevser Turhan via email:
+	Kevser_Turhan at urmc.rochester.edu
+or via postal mail:
+	601 Elmwood Avenue, Box 630,
+	Rochester, NY 14642
+or visit our employment web site:
+	http://www.urmc.rochester.edu/smd/biostat/employment.html
+
+
+
+From m|ch@e||@t@y|or @end|ng |rom boxwoodme@n@@com  Wed May 16 03:26:36 2007
+From: m|ch@e||@t@y|or @end|ng |rom boxwoodme@n@@com (m taylor)
+Date: Tue, 15 May 2007 20:26:36 -0500
+Subject: [R-jobs] JOB: Data Analyst
+Message-ID: <1179278796.3650.111.camel@fry>
+
+
+Boxwood Means, a financial services consultancy specializing in the
+small balance mortgage sector and REIT analysis, is seeking a Data
+Analyst.  
+
+Boxwood maintains several large databases of real estate transactions
+around the nation as well as financial information on publicly traded
+equities.  We use these data to create market intelligence and forecasts
+for clients -- principally large banks. The Data Analyst will work
+directly with clients and principals of the firm to support
+"off-the-shelf" reports and customized market statistics and forecast
+reports for clients. 
+
+The Data Analyst will work with large databases and is expected to be
+skilled at data manipulation, data cleaning, producing publication
+quality graphics and tables, and some statistical modeling. Much of the
+firm's publications involves pulling data from MySQL into R, then
+producing latex tables (Hmisc) and documents for delivery to clients.
+In addition, the Data Analyst will conduct independent research and/or
+data mining as required.
+
+This is a telecommuting position.  All work is done remotely on
+Boxwood's servers.  Employees are expected to provide their own working
+environment.
+
+Qualifications
+
+A strong knowledge of the R (S-plus) programming language and some
+familiarity with Linux, MySQL, and basic statistical models is required.
+Experience in producing graphics and latex tables (Hmisc) using R would
+be helpful.
+
+The successful candidate will have a strong attention to detail, be
+self-motivated, and capable of independent work.
+
+We will consider a flexible part-time position or full-time position for
+the well qualified candidate.
+
+Please contact me off-list for additional information: 
+
+Michaell.Taylor at boxwoodmeans.com
+
+-- 
+===================================================
+
+Michaell Taylor, Ph.D.
+
+Principal
+Boxwood Means, Inc.
+Two Stamford Landing Suite 100
+68 Southfield Ave
+Stamford, CT 06902
+
+203.653.4100 ext 2
+
+
+
+From c@rr|e @end|ng |rom prec|@|onb|o@@@@y@com  Wed Jun  6 20:18:01 2007
+From: c@rr|e @end|ng |rom prec|@|onb|o@@@@y@com (Carrie Wager)
+Date: Wed, 6 Jun 2007 14:18:01 -0400
+Subject: [R-jobs] Job: R Package Developer / Consulting Statistician
+Message-ID: <200706061418.01164.carrie@precisionbioassay.com>
+
+R Package Developer / Consulting Statistician 
+Burlington, Vermont
+
+Precision Bioassay is a small and growing statistical consulting
+firm specializing in the design and analysis of biological assays of
+pharmaceutical proteins and vaccines. We are building a turnkey software
+solution for cell culture bioassay that integrates optimal design of
+bioassay experiments, implementation of designs using robotic pipettors,
+and potency analysis using linear and nonlinear mixed models. This
+software is intended for use in a highly regulated industry. Portions
+of the code development for this project will be assigned to you.
+
+Role/Responsibilities
+
+  * Function as an integral member of a team of highly-skilled professionals
+  * Elicit and document functional requirements and specifications
+  * Collaborate in development of core analytic modules (coded in R)
+  * Participate in development of web-based GUI to core analytic modules
+  * Analyze bioassay data for clients in assay development and validation, 
+    sometimes requiring development of novel methodologies
+
+Qualifications
+
+  * Three or more years experience in developing packages in the R language 
+  * Experience in either building web interfaces for technical applications 
+    or building database-integrated applications in R 
+  * Experience with applications and theory of linear and nonlinear 
+    mixed effects models
+  * Good writing and communication skills 
+  * MS or PhD in Statistics, Biostatistics, or equivalent 
+
+Additional Desired Experience
+
+  * Fluency in administrating Linux for a multi-platform environment 
+  * Experience configuring and administering Apache 
+  * Experience with JavaScript, PHP, Ruby, Python, and/or MySQL 
+  * Experience with interfaces to equipment, especially lab automation 
+  * Statistical consulting experience in biotechnology, nonclinical 
+    pharmaceutical or agricultural applications 
+
+Reports to: Dr. David Lansky
+
+Classification: Permanent, full-time position.
+
+Benefits: Comprehensive package including health and dental insurance,
+  short and long term disability, life insurance, 401k, 
+  generous time off policy, and flex time.
+
+Pay: Commensurate with experience.
+
+To Apply: Send cover letter and resume by US mail or email to: 
+
+  Precision Bioassay
+  257 S Union St 
+  Burlington, Vermont 05401 USA
+  802/865-0155
+  info at precisionbioassay.com (ATTN: Sarah Guth)
+
+Precision Bioassay is an equal opportunity employer.  Women and people of 
+color are encouraged to apply.
+
+
+
+From |c@@p@m @end|ng |rom y@hoo@|r  Thu Jun  7 23:48:22 2007
+From: |c@@p@m @end|ng |rom y@hoo@|r (Fabrice)
+Date: Thu, 7 Jun 2007 23:48:22 +0200
+Subject: [R-jobs] Quick programming in R calling social network routines?
+Message-ID: <014e01c7a94d$adcb5b70$6702a8c0@DellSilver>
+
+I'm looking for someone to do a quick freelance programming in R to do some
+network analysis. I'm a researcher with no knowledge in R (doing all my
+statistics analysis in Stata and network analysis in  UCINET). I would like
+to quickly test the possibility to do batch network analyses using R.
+
+ 
+
+The freelance should therefore write a small program that would take as
+input a file describing a bunch of social network (provided), then call some
+routines that exist in the social network package provided at
+http://erzuli.ss.uci.edu/R.stuff/. It would then produce both some measures
+per network, and some measures per individual in each network.
+
+ 
+
+I believe this thing may take only a few dozen lines for someone who has a
+reasonable command of R; overall, no less than a few hours for someone with
+good command of the language, mainly just to understand the logic of the
+social network of the routines (I can explain fully). The reason I want to
+outsource it is that it would take me days (or worse) to get it to work.
+
+ 
+
+Once I get it, I'll decide whether and how I move forward.
+
+ 
+
+Please, do let me know (fcaspam at yahoo.fr) if you're interested.
+
+ 
+
+Fab 
+
+
+	[[alternative HTML version deleted]]
+
+
+

@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2017-01",
+  "messages": [
+    {
+      "id": "msg-4a8422585c2a",
+      "message_id": "<CAGt9FuuYfJF2U80Erco_7jMHQoFkwCCZbB2ETpig5TmEzaPk2Q@mail.gmail.com>",
+      "from_name": "Ajay Gopal",
+      "from_email_hash": "fe46d6295d3d4a6b7818b5b3919dc2fc395aa3dd4abd5b821a61313fa1ff2abe",
+      "date": "2017-01-09T13:47:35-08:00",
+      "subject": "[R-jobs] Lead R Developer / Sr Statistical Programmer (Full-time, Menlo Park, CA, USA)",
+      "subject_clean": "[R-jobs] Lead R Developer / Sr Statistical Programmer (Full-time, Menlo Park, CA, USA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello fellow R users & developers!\n\nI'm looking to hire a Lead R Developer\n<https://docs.google.com/document/d/1ZatWPXuH1nkwuAEKU1WPVCk0rIcEH_l5WHlOjeq6T-c/>\nto build and maintain the internal analytics (R) stack as we grow the\nstatistical modeling capabilities of our Data Science team. This position\nis expected to be local, but we might make exceptions for exceptional\ncandidates.\n\nPlease review the job description at https://goo.gl/2FT8pz and feel free to\nrespond via e-mail if the opportunity excites you.\n\nBest wishes,\n\nAjay\n\n-- \n*Ajay Gopal, PhD <https://www.linkedin.com/in/ajaykumargopal>\n<https://twitter.com/aj2z>*\n*VP, Data Science*\n*Tel: +1 310 570 2529*\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello fellow R users & developers!\n\nI'm looking to hire a Lead R Developer\n<https://docs.google.com/document/d/1ZatWPXuH1nkwuAEKU1WPVCk0rIcEH_l5WHlOjeq6T-c/>\nto build and maintain the internal analyti",
+      "thread_id": "thread-4a8422585c2a",
+      "thread_depth": 0,
+      "month": "2017-01"
+    },
+    {
+      "id": "msg-6b3547f74382",
+      "message_id": "<87a8apahn5.fsf@gmail.com>",
+      "from_name": "Ramon Diaz-Uriarte",
+      "from_email_hash": "6130537f3224780e3431339c28a162e2d012e753138317111b443e09b0a6f85a",
+      "date": "2017-01-17T15:24:46+01:00",
+      "subject": "[R-jobs] postdoctoral position in Computational Biology/Statistics/Evolutionary Biology in Madrid, Spain",
+      "subject_clean": "[R-jobs] postdoctoral position in Computational Biology/Statistics/Evolutionary Biology in Madrid, Spain",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear All,\n\nA 1-year postdoctoral position in Computational\nBiology/Bioinformatics/Evol. Biology/Statistics is available in Madrid, Spain.\n\n\nBrief description: Simulation and analysis of evolutionary processes in\ncancer.\n\n\nRequirements:\n\n- Postdoc younger than 30 years.\n\n- Be registered as resident (\"estar empadronado\") in Madrid, Spain, since\n  08-August-2016.\n\n- Be registed in the \"Fichero del Sistema Nacional de Garant?a Juvenil\"\n  (http://www.empleo.gob.es/es/garantiajuvenil/accesoJovenes.html).\n\n- Full details of requirements are available, in Spanish, at\n  http://www.madrimasd.org/uploads/documents/bases_reguladoras_en_bocm_contratos_pre_y_post_pej.pdf).\n\n  Further information is available from the official resolution from:\n  https://www.bocm.es/boletin/CM_Orden_BOCM/2017/01/16/BOCM-20170116-4.PDF\n\n- Ideally, candidates should have experience with R (and possibly also C++\n  programming) and be interested in at least some of the areas dealt with\n  in the project (evolutionary biology, statistics, computational biology).\n\n\nProcedure:\n\n- Given that the deadlines are extremely tight I'd suggest interested\n  candidates to contact me directly (ramon.diaz at iib.uam.es or\n  rdiaz02 at gmail.com) as soon as possible.\n\n\n\nBest,\n\nR.\n\n-- \nRamon Diaz-Uriarte\nDepartment of Biochemistry, Lab B-25\nFacultad de Medicina\nUniversidad Aut?noma de Madrid \nArzobispo Morcillo, 4\n28029 Madrid\nSpain\n\nPhone: +34-91-497-2412\n\nEmail: rdiaz02 at gmail.com\n       ramon.diaz at iib.uam.es\n\nhttp://ligarto.org/rdiaz",
+      "body_snippet": "Dear All,\n\nA 1-year postdoctoral position in Computational\nBiology/Bioinformatics/Evol. Biology/Statistics is available in Madrid, Spain.\n\n\nBrief description: Simulation and analysis of evolutionary p",
+      "thread_id": "thread-6b3547f74382",
+      "thread_depth": 0,
+      "month": "2017-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4a8422585c2a",
+      "subject": "[R-jobs] Lead R Developer / Sr Statistical Programmer (Full-time, Menlo Park, CA, USA)",
+      "message_count": 1,
+      "participants": [
+        "Ajay Gopal"
+      ],
+      "started": "2017-01-09T13:47:35-08:00",
+      "last_reply": "2017-01-09T13:47:35-08:00",
+      "root_message_id": "msg-4a8422585c2a"
+    },
+    {
+      "id": "thread-6b3547f74382",
+      "subject": "[R-jobs] postdoctoral position in Computational Biology/Statistics/Evolutionary Biology in Madrid, Spain",
+      "message_count": 1,
+      "participants": [
+        "Ramon Diaz-Uriarte"
+      ],
+      "started": "2017-01-17T15:24:46+01:00",
+      "last_reply": "2017-01-17T15:24:46+01:00",
+      "root_message_id": "msg-6b3547f74382"
+    }
+  ]
+}

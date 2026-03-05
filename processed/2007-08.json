@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2007-08",
+  "messages": [
+    {
+      "id": "msg-87606a873d47",
+      "message_id": "<2a9c000c0708032313k8e1027dx8abf445a61e53d8f@mail.gmail.com>",
+      "from_name": "Jim Porzak",
+      "from_email_hash": "d1a1c6999a476b8b1f6e01b0940a8b536770bceb1c1d77be2218c63d2a249e2b",
+      "date": "2007-08-03T23:13:50-07:00",
+      "subject": "[R-jobs] Fall, Winter Internship, Junior Statistician Position",
+      "subject_clean": "[R-jobs] Fall, Winter Internship, Junior Statistician Position",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\nResponsys anticipates hiring an intern or junior statistician this fall or\nwinter.\n\nOur group was formally Loyalty Matrix - a leader in using R for customer\nintelligence and direct marketing optimization. We acquired by Responsys\nthis Spring.\n\nWe anticipate hiring one or two R fluent interns or statisticians this fall\nand/or winter.\n\nIf you are interested in being considered, please contact me by email.\n\nI will be at useR! next week in Ames, let's get together there to meet and\ndiscuss opportunities in  San  Francisco!\n\n-- \nBest,\nJim Porzak\nResponsys, Inc.\nSan Francisco, CA\nwww.responsys.com\nwww.linkedin.com/in/jimporzak\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\n\nResponsys anticipates hiring an intern or junior statistician this fall or\nwinter.\n\nOur group was formally Loyalty Matrix - a leader in using R for customer\nintelligence and direct marketing o",
+      "thread_id": "thread-87606a873d47",
+      "thread_depth": 0,
+      "month": "2007-08"
+    },
+    {
+      "id": "msg-8ec5802cb99e",
+      "message_id": "<0C549DAFE1A8004D8EB57ACDD108646D058E5B6F@XCH-NW-2V2.nw.nos.boeing.com>",
+      "from_name": "Tjoelker, Rod",
+      "from_email_hash": "179b6e1ae357dd9b8c9d5b9bf805ecc4b8acbeee9f715f3f8e57194bfa586fd5",
+      "date": "2007-08-31T12:37:02-07:00",
+      "subject": "[R-jobs] Job openings at Boeing for data mining and machine learning",
+      "subject_clean": "[R-jobs] Job openings at Boeing for data mining and machine learning",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Boeing's Mathematics and Computing Technology (M&CT) organization,\nlocated in Bellevue Washington USA, invites applications for applied\nresearch positions in data mining and machine learning. We offer an\nexciting opportunity to be a part of a diverse research group that\ntouches all parts of the Boeing company, from aircraft to spacecraft,\ncommunications systems and worldwide customers. We help Boeing tackle\nits toughest information and computational issues and help develop\ninnovative products for the future.    \nInterested candidates may view job descriptions at the Boeing.com\nwebsite under the employement section:\n\nThe data mining technologist position can be viewed at:\nhttps://jobs.boeing.com/JobSeeker/JobView?reqcode=07-1019857\n\nThe machine learning technologist position can be viewed at:\nhttps://jobs.boeing.com/JobSeeker/JobView?reqcode=07-1020370",
+      "body_snippet": "Boeing's Mathematics and Computing Technology (M&CT) organization,\nlocated in Bellevue Washington USA, invites applications for applied\nresearch positions in data mining and machine learning. We offer",
+      "thread_id": "thread-8ec5802cb99e",
+      "thread_depth": 0,
+      "month": "2007-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-87606a873d47",
+      "subject": "[R-jobs] Fall, Winter Internship, Junior Statistician Position",
+      "message_count": 1,
+      "participants": [
+        "Jim Porzak"
+      ],
+      "started": "2007-08-03T23:13:50-07:00",
+      "last_reply": "2007-08-03T23:13:50-07:00",
+      "root_message_id": "msg-87606a873d47"
+    },
+    {
+      "id": "thread-8ec5802cb99e",
+      "subject": "[R-jobs] Job openings at Boeing for data mining and machine learning",
+      "message_count": 1,
+      "participants": [
+        "Tjoelker, Rod"
+      ],
+      "started": "2007-08-31T12:37:02-07:00",
+      "last_reply": "2007-08-31T12:37:02-07:00",
+      "root_message_id": "msg-8ec5802cb99e"
+    }
+  ]
+}

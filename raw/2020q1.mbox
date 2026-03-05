@@ -1,0 +1,236 @@
+From gyro@t@t @end|ng |rom gm@||@com  Fri Feb  7 07:32:50 2020
+From: gyro@t@t @end|ng |rom gm@||@com (Christopher Tong)
+Date: Thu, 6 Feb 2020 22:32:50 -0800
+Subject: [R-jobs] USDA CVB recruiting statistician or data scientist
+Message-ID: <CAPDNHNcpYaLXknA_zmgtpR3XmdCW+K-H9SC0X-UQcXxPQXciAg@mail.gmail.com>
+
+CENTER FOR VETERINARY BIOLOGICS
+
+UNITED STATES DEPARTMENT OF AGRICULTURE
+
+Join our team of statisticians and data scientists in 2020
+
+We bring a broad perspective to our consulting and analytical work
+with scientists at the USDA National Centers for Animal Health. Our
+Statistics Section is looking for good communicators who are
+comfortable dealing with various aspects of practical scientific
+issues.
+
+We are looking for skills that support the
+ * Statistical design, analysis, and interpretation of scientific studies
+ * Application of statistical principles to specific problems in
+applied disciplines
+ * Effective communication with scientists about practical issues
+We?d also like to know about your background in areas that may advance
+our work, such as laboratory applications, epidemiology, machine
+learning, or statistical programming.
+
+Applicants must be United States citizens and willing to relocate to
+Central Iowa.
+
+How to apply. The vacancy announcement will be open for application in
+early February 2020 on the www.usajobs.gov web site. At that time
+applicants may search for the announcement by location (Ames, IA), job
+series (Mathematical Statistician, Statistician Biology or Biologist
+(Computational Bioinformatics)), or contact us for the specific
+announcement number.
+
+The Center for Veterinary Biologics regulates vaccines,
+immuno-therapeutics, diagnostics, and other biologics used to manage
+animal diseases. It is located on the campus of the National Centers
+for Animal Health in Ames, Iowa, where it maintains a close
+affiliation with the other animal disease centers on the campus and
+with nearby Iowa State University. Ames is known for its stimulating
+cultural environment, pleasant surroundings, and stable economy. It is
+40 minutes north of Des Moines International Airport.
+
+Employment benefits include flexible work schedule, ten paid federal
+holidays, liberal leave allowance (annual leave, sick leave, and
+family friendly leave policy), retirement and thrift savings plans,
+life insurance program, and health insurance program.
+
+More info contact Amy Lock, Statistics Section Leader, USDA-CVB;
+amy.b.lock at usda.gov
+
+
+From m@yeu|@k@u||m@nn @end|ng |rom un|v-grenob|e-@|pe@@|r  Fri Feb  7 11:49:05 2020
+From: m@yeu|@k@u||m@nn @end|ng |rom un|v-grenob|e-@|pe@@|r (Mayeul Kauffmann)
+Date: Fri, 7 Feb 2020 11:49:05 +0100
+Subject: [R-jobs] Paid internship "web application development with R"
+Message-ID: <e1bf59e9-4847-1462-dba7-1b9227eec568@univ-grenoble-alpes.fr>
+
+*Paid internship "web application development with R"*
+
+The main skills for this proposed paid internship are: R, Shiny, and 
+components used by Shiny (plotly, javascript). Other skills (Debian, 
+Docker, CKAN...) are useful.
+
+This internship offer is part of a partnership between the Grenoble 
+Alpes Cybersecurity Institute and the CYBIS project.
+
+The *Cybersecurity Institute* aims to undertake innovative 
+interdisciplinary research to address the challenges of cybersecurity 
+and privacy. The main areas are low-cost secure elements, secure 
+critical infrastructures and their lifecycle management, vulnerability 
+research and global challenges in terms of risk analysis and validation 
+of major systems, including practical resilience in industry and 
+society. The approach is holistic, encompassing technical, legal, 
+economic, social, diplomatic, military and intelligence aspects with 
+strong private sector partnerships, and privileged national and 
+international cooperation with leading institutions in France and abroad.
+
+The *CYBIS (Cyber & International Security)* project aims to make 
+available to the general public and researchers indicators and tools to 
+analyse recent and current conflicts (in a broad sense including 
+cybersecurity), in order to facilitate the understanding and analysis of 
+cyber attacks, terrorism and armed conflicts. In the long term, the 
+project will closely combine various types of media, such as databases, 
+an interactive website, software, training, conferences and seminars, 
+articles, reports and folders in publications. This site should provide 
+a clearer vision of cybersecurity and possible responses to 
+cyberthreats, as well as, more broadly, an enhanced vision of certain 
+conflicts, including cartographic analysis, and dynamic visualization 
+(interactive graphics showing spatio-temporal, quantitative and 
+qualitative data). In addition to databases and online mapping, this 
+multilingual site will provide a summary presentation of the various 
+national cybersecurity laws and a summary indicator in this field. Its 
+ambition is to become an international reference on contemporary armed 
+conflicts, crises and cybersecurity.
+
+*Trainee supervision: *Mayeul Kauffmann, principal researcher and 
+webmaster of the Cybis project.
+
+*Location: *Saint Martin d'H?res Campus (University of Grenoble Alpes), 
+France.
+
+*Duration: *2 to 6 months
+
+*Start of the internship:* April, May or June 2020.
+
+*Indemnity:* Gratification according to current regulations (about 600? 
+per month). Possibility of partial payment of transport costs.
+
+*Missions:* The missions mentioned below are indicative. They may vary, 
+depending in particular on the trainee's skills and the duration of the 
+internship.
+
+*Application process*
+By e-mail to the e-mail address indicated at the bottom of the page: 
+http://cybis.univ-grenoble-alpes.fr/index.php/en/node/2
+
+Please check the CYBIS website before applying (possible update of this 
+offer). Indicate imperatively as the subject of the email "Cyber at Alps 
+CYBIS internship application - (your first and last name)".
+
+Provide as attachments in PDF format a CV (file entitled 
+"name_givenName_CV.pdf") and a letter of application (file entitled 
+"name_givenName_LC.pdf"). In the letter, provide the following 
+information in particular:
+
+- Potential start date of the internship (at the earliest):
+
+- Potential end date of the internship (at the latest):
+
+- Starting date of the internship that would suit you best:
+
+- Minimum duration of the internship:
+
+- Maximum duration of the internship:
+
+- Duration you would prefer:
+
+- Is this internship mandatory in your current training program?
+
+
+The main mission is described below:
+
+
+    Mission: Integration of visualization and data repository applications
+
+Description: Produce a library (javascript or R/Shiny/plotly) allowing 
+the display of interactive historical maps, respecting the evolution of 
+country borders, similar to PeacePRISM. PeacePRISM is a FLOSS (GNU 
+Affero GPL) application for visualizing spatio-temporal data built in 
+Ruby On Rails and Javascript, which allows such features. The objective 
+of this mission is to make these javascript functionalities (already 
+existing) reusable in other platforms (notably R/Shiny/Plotly - 
+management of the interaction between elements by crosstalk; Rcmdr; and 
+CKAN), in collaboration with interested project partners to integrate 
+such a tool on their website. The Rcmdr component (for example) would 
+allow the creation of an application with a standalone GUI (desktop).
+
+*Required skills: **R (Shiny, plotly, *if possible Rcmdr),**JavaScript, 
+JavaScript libraries (D3, Plotly), HTML5, CSS, possibly MVC framework. 
+If possible, sensitivity to visualization in the social sciences.
+
+*Links:* http://cybis.univ-grenoble-alpes.fr/fr/PeacePRISM
+http://cybis.univ-grenoble-alpes.fr/fr/NMC
+https://plot.ly/d3-js-for-r-and-shiny-charts/
+
+Other potential missions (depending on skills and interest) are 
+available at: 
+http://cybis.univ-grenoble-alpes.fr/index.php/en/stage-sys-admin-dev-web
+
+Best regards,
+
+Mayeul
+
+-- 
+______________________________________________________
+
+Dr. Mayeul Kauffmann
+Chercheur principal - projet CYBIS / Cyber and International Security
+http://cybis.univ-grenoble-alpes.fr/
+T?l. fixe: 04 76 82 54 97 (Poste UGA : 2 54 97)
+Laboratoire CESICE (Centre d'?tudes sur la S?curit? Internationale et les Coop?rations Europ?ennes)
+Universit? Grenoble Alpes - Facult? de Droit, aile B, bureau 303
+
+
+	[[alternative HTML version deleted]]
+
+
+From M@tth|@@@Koh| @end|ng |rom @t@m@t@@de  Fri Feb 28 07:48:43 2020
+From: M@tth|@@@Koh| @end|ng |rom @t@m@t@@de (Prof. Dr. Matthias Kohl)
+Date: Fri, 28 Feb 2020 07:48:43 +0100
+Subject: [R-jobs] Academic Staff - Data Science
+Message-ID: <6f4b154f-6766-701e-16c1-a4cbb41c92ba@stamats.de>
+
+In the framework of project ?micro-resonators for point-of-care 
+diagnostics of pathogens? (InfectResonator) we are offering one 
+part-time (19,75 hours) position as
+
+Academic Staff (m / f / d)
+Data Science
+
+With the starting date 1 st of May 2020.
+
+The contract for the position is limited to a maximum of 18 months. The 
+weekly working hours for a 50% position are 19,75 hours. Remuneration 
+will be in accordance with German public sector pay scales and can, 
+dependent on individual skills and assignment of tasks, be up to pay 
+group 13 TV-L. The position is located at our Villingen-Schwenningen campus.
+
+Application deadline March 22nd 2020.
+
+For more details see https://www.hs-furtwangen.de/stellenangebote/
+
+Best regards,
+Matthias Kohl
+
+-- 
+Prof. Dr. Matthias Kohl
+www.stamats.de
+
+
+From v|tr@jkum@r @end|ng |rom gm@||@com  Fri Feb 28 12:03:48 2020
+From: v|tr@jkum@r @end|ng |rom gm@||@com (Dr.Rajkumar Rajasekaran)
+Date: Fri, 28 Feb 2020 16:33:48 +0530
+Subject: [R-jobs] (no subject)
+Message-ID: <CAE-wHHH97kArwEigfDuNmMnBWSbhDG1XT2VwYk1sdnNdS_Gq-g@mail.gmail.com>
+
+-- 
+null
+
+	[[alternative HTML version deleted]]
+
+

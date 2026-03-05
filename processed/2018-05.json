@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2018-05",
+  "messages": [
+    {
+      "id": "msg-dfbef8cd3b9c",
+      "message_id": "<4adaa6d5-7a13-e06c-dba2-21233a58f599@ufl.edu>",
+      "from_name": "Mathieu Basille",
+      "from_email_hash": "6f77c1322b2070af4bb25eb2bb5f63557495731628429f6b4d4f85ab21891ebe",
+      "date": "2018-05-08T23:31:18-04:00",
+      "subject": "[R-jobs] Data manager in a Spatial Ecology lab, Univ Florida, Fort Lauderdale FL",
+      "subject_clean": "[R-jobs] Data manager in a Spatial Ecology lab, Univ Florida, Fort Lauderdale FL",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The MabLab at the University of Florida is recruiting a Data Manager to\nfill an immediate opening for the position of Biological Scientist in the\nlab. We are looking for an enthusiastic, highly motivated and responsible\nindividual to join an exciting research team focused on spatial ecology.\nThe Data Manager will be responsible for the group's database system, and\nwill assist with multiple projects investigating for instance animal\nfine-scale movement in urban areas, or migration and range dynamics in the\ncontext of climate change.\n\nThe primary mission of the Data Manager will be to manage the group's\ndatabase system: we run a PostgreSQL/PostGIS database system on a Linux\nserver, which hosts telemetry data on wood storks, sea turtles, raccoons,\nand associated GIS layers. In the near future, we will be adding advanced\ndata from albatrosses, including accelerometers and infrasound. The Data\nManager will manage the database server (database design, manual and\nautomated data entry, metadata, set permissions for users and groups,\nbackups, development of web apps to access and display data, etc.).\nAdditional responsibilities will include assisting members of the group\nwith data processing, and maintaining our open source R packages (rpostgis,\nrpostgisLT, hab?).\n\nFamiliarity with SQL is essential. Experience using PostgreSQL/PostGIS (or\nother SIG database systems) and R is a plus, as well as experience with\nLinux systems and database servers.\n\nThe candidate must be able to work independently and with others in a\nfast-paced environment, and should be comfortable working across agency\nboundaries (University of Florida, U.S. Fish and Wildlife Service, U.S.\nGeological Survey and the National Park Service, etc.), making excellent\nwritten and oral communication skills essential for this position.\n\n* Qualifications: B.S. with experience in Data Science, Computing, GIS,\nBiology or a related field. Must be eligible to work in the United States.\n\n* Salary: Commensurate with qualifications and past experience (typically\n$40?50k/year with benefits).\n\n* Start Date: Flexible, as early as June 1st, 2018. This is a permanent\nposition from the University of Florida.\n\n* Closing Date: Review of applications will begin on May 15th, 2018, and\nwill continue until the position is filled.\n\n* Application: Apply on UF Jobs website (job #507275):\nhttp://explore.jobs.ufl.edu/cw/en-us/job/507275/biological-scientist-ii-data-manager\nApplications should include:\n- a cover letter with information about professional interests,\nqualifications, dates of availability, and current contact information;\n- a resume;\n- names and phone numbers of three references.\n\nFor more information, don't hesitate to contact me!\nMathieu Basille\n\n\n-- \n\nMathieu Basille\n\nbasille at ufl.edu | https://mablab.org/\n+1 954-577-6314 | University of Florida FLREC\n\n  ? Le tout est de tout dire, et je manque de mots\n  Et je manque de temps, et je manque d'audace. ?\n  ? Paul ?luard",
+      "body_snippet": "The MabLab at the University of Florida is recruiting a Data Manager to\nfill an immediate opening for the position of Biological Scientist in the\nlab. We are looking for an enthusiastic, highly motiva",
+      "thread_id": "thread-dfbef8cd3b9c",
+      "thread_depth": 0,
+      "month": "2018-05"
+    },
+    {
+      "id": "msg-9cd65b7864fd",
+      "message_id": "<317b6b00504dfb4aeabbe57ee246172a@rplusplus.com>",
+      "from_name": "Jeanne Lafolie",
+      "from_email_hash": "500d6f5e7d0ed2449f1468acf9f9317eec06d000f85f44be3fc6b7d34c044999",
+      "date": "2018-05-15T18:02:01+02:00",
+      "subject": "[R-jobs] [Job Offer] Statistician (M/F) Definition of the software R++",
+      "subject_clean": "[R-jobs] [Job Offer] Statistician (M/F) Definition of the software R++",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "ABOUT Z?BRYS\n\nZ?brys is a startup which designs the software R++, the Next Step.\n\nR++, the Next Step is a new Graphical User Interface for R. It comes\nfrom 3 years of research with different teams specialized in HMI. The\nfirst video presentation is available here (comments are in French, but\nthe video is understandable even without sound).\n\nZ?brys is a startup with strong growth potential: prize winner for the\nFrench Tech Grant, Innov&Plus Loan, R?seau Entreprendre, Cr?alia? It is\nintensively hiring.\n\nJOB DESCRIPTION\n\nDepending on your own preferences, the tasks will be diversified: \n\n Define the software: R++, the Next Step is developed by IT engineers\nspecialists in high performance. On the other hand the functional\nspecifications are expressed by statisticians. Your main duty will be to\ntake part in the definition of the software. \n\n Popularization: you shall popularize by writing blog articles, such as\n\"The Boot-Strap Feedback\", \"Multiple Imputations From A to Z\" or \"Big\nData: Your Softwares' Real Limits\". A communication trainee will help\nyou. \n\n Technological surveillance: you will need to be at the forefront of the\ntechnology and write quality articles. To do so you will have to train\ncontinuously in stats and software? In order to become R world champion!\n\n\n R-D: you might pursue research and come up with new methods and the\ncorresponding package. In such a case you would write scientific\narticles.\n\nTHE ADVANTAGES\n\n Quality work environment (dual-screen, big desk).\n Custom equipment (PC, OS).\n Flextime (possibility of part-time telecommuting).\n Convivial atmosphere (foosball table, popcorn poper, cotton candy\nmaker?).\n Young and dynamic team (age: m=27,8 ; sd=4,7).\n\nREQUIRED PROFILE\n\n Biostatistics PhD.\n This can be your first job.\n Mastery of R.\n Speaking French is NOT needed\n\nCONTRACT ELEMENTS\n\n Company: Z?brys (Startup).\n Contract: permanent full time contract.\n Location: Toulouse, France.\n\nAPPLY FOR THE POSITION\n\nhttps://rplusplus.com/nous-rejoindre",
+      "body_snippet": "ABOUT Z?BRYS\n\nZ?brys is a startup which designs the software R++, the Next Step.\n\nR++, the Next Step is a new Graphical User Interface for R. It comes\nfrom 3 years of research with different teams spe",
+      "thread_id": "thread-9cd65b7864fd",
+      "thread_depth": 0,
+      "month": "2018-05"
+    },
+    {
+      "id": "msg-0e3a45db460c",
+      "message_id": "<CAPDNHNf5j1_5gxT9G3DfPEOgcOMqrwmEJ=K+UguSoaq5j1xfHw@mail.gmail.com>",
+      "from_name": "Christopher Tong",
+      "from_email_hash": "d1cbd80501eba7bf7515687009dc4cb6b69155e8e71c4dfa20a9f611927032d6",
+      "date": "2018-05-24T12:58:35-07:00",
+      "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "subject_clean": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "CENTER FOR VETERINARY BIOLOGICS\n\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2018\n\nWe bring a broad perspective to our consulting and analytical work\nwith scientists at the USDA National Centers for Animal Health. Our\nStatistics Section is looking for a good communicator who is\ncomfortable dealing with the analytical aspects of practical\nscientific issues.\n\nWe are looking for skills that support the\n* Statistical design, analysis, and interpretation of scientific studies\n* Application of statistical principles to specific problems in\napplied disciplines\n* Effective communication with scientists about practical issues\n\nWe?d also like to know about your background in areas that may advance\nour work, such as laboratory applications, epidemiology, machine\nlearning, or statistical programming.\n\nApplicants must be United States citizens.\n\nContact\nDave Siev, DVM, MS\nStatistics Section Leader\nUSDA Center for Veterinary Biologics\nAmes, IA 50010\ndavid.siev at aphis.usda.gov\n\n\nThe Center for Veterinary Biologics regulates vaccines,\nimmuno-therapeutics, diagnostics, and other biologics used to manage\nanimal diseases. It is located on the campus of the National Centers\nfor Animal Health in Ames, Iowa, where it maintains a close\naffiliation with the other animal disease centers on the campus and\nwith nearby Iowa State University. Ames is known for its stimulating\ncultural environment, pleasant surroundings, and stable economy. It is\n40 minutes north of Des Moines International Airport.\n\nEmployment benefits include flexible work schedule, ten paid federal\nholidays, liberal leave allowance (annual leave, sick leave, and\nfamily friendly leave policy), retirement and thrift savings plans,\nlife insurance program, and health insurance program.",
+      "body_snippet": "CENTER FOR VETERINARY BIOLOGICS\n\nUNITED STATES DEPARTMENT OF AGRICULTURE\n\nJoin our team of statisticians and data scientists in 2018\n\nWe bring a broad perspective to our consulting and analytical work",
+      "thread_id": "thread-0e3a45db460c",
+      "thread_depth": 0,
+      "month": "2018-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-dfbef8cd3b9c",
+      "subject": "[R-jobs] Data manager in a Spatial Ecology lab, Univ Florida, Fort Lauderdale FL",
+      "message_count": 1,
+      "participants": [
+        "Mathieu Basille"
+      ],
+      "started": "2018-05-08T23:31:18-04:00",
+      "last_reply": "2018-05-08T23:31:18-04:00",
+      "root_message_id": "msg-dfbef8cd3b9c"
+    },
+    {
+      "id": "thread-9cd65b7864fd",
+      "subject": "[R-jobs] [Job Offer] Statistician (M/F) Definition of the software R++",
+      "message_count": 1,
+      "participants": [
+        "Jeanne Lafolie"
+      ],
+      "started": "2018-05-15T18:02:01+02:00",
+      "last_reply": "2018-05-15T18:02:01+02:00",
+      "root_message_id": "msg-9cd65b7864fd"
+    },
+    {
+      "id": "thread-0e3a45db460c",
+      "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "message_count": 1,
+      "participants": [
+        "Christopher Tong"
+      ],
+      "started": "2018-05-24T12:58:35-07:00",
+      "last_reply": "2018-05-24T12:58:35-07:00",
+      "root_message_id": "msg-0e3a45db460c"
+    }
+  ]
+}

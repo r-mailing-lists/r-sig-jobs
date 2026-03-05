@@ -1,0 +1,82 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2023-09",
+  "messages": [
+    {
+      "id": "msg-fb59c43d42be",
+      "message_id": "<C3F3D52C-46B7-46D3-8321-4B12BC8AD21A@gmail.com>",
+      "from_name": "Johannes Schielein",
+      "from_email_hash": "9e0d3e486b7e48ac917a6ae554ac144234bdd5718bb08f5029593da37ed8948c",
+      "date": "2023-09-04T15:15:22+02:00",
+      "subject": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
+      "subject_clean": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R-Enthusiasts,\n\nOur mission is to provide data support for development cooperation projects during the preparation, monitoring, and evaluation phases. Our primary focus areas include open-data and geospatial analysis in agriculture, conservation, and conflict contexts. We do so by using open data in a general with a focus on geospatial data (i.e preprocessed data products, satellite images etc.). For more details see here: https://mapme-initiative.org/ <https://mapme-initiative.org/>\n\nWe use geospatial modelling techniques, remote sensing methods and different methods to visualize the data (Rmarkdowns, Shiny Dashboards, etc.). We work as a community with others on Github. You should be a geospatial expert proficient in R. Packages like SF, Terra, Raster, SP and the general Tidyverse should be a no-brainer for you.\n\nWe have two opportunities to work as a long-term consultants. For details please see here:\n\nhttps://drive.google.com/drive/folders/1noUJCW-yYFkpyeZivtjDCv7vkH4s2IzC?usp=drive_link <https://drive.google.com/drive/folders/1noUJCW-yYFkpyeZivtjDCv7vkH4s2IzC?usp=drive_link>\n\nBest regards,\n\nThe MAPME team\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear R-Enthusiasts,\n\nOur mission is to provide data support for development cooperation projects during the preparation, monitoring, and evaluation phases. Our primary focus areas include open-data an",
+      "thread_id": "thread-fb59c43d42be",
+      "thread_depth": 0,
+      "month": "2023-09"
+    },
+    {
+      "id": "msg-8848d8350172",
+      "message_id": "<CA+oJuEGM7oW6fwFbbucAX1aWTCyS=YNmgB0p2Z3QxKRhgjmRfQ@mail.gmail.com>",
+      "from_name": "Ilya Kipnis",
+      "from_email_hash": "3e375900f97169bfcb61fc4fdc48bafc91349f60a4f7a4813c93bbe535a52a19",
+      "date": "2023-09-04T12:59:04-04:00",
+      "subject": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
+      "subject_clean": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
+      "in_reply_to": "<C3F3D52C-46B7-46D3-8321-4B12BC8AD21A@gmail.com>",
+      "references": [
+        "<C3F3D52C-46B7-46D3-8321-4B12BC8AD21A@gmail.com>"
+      ],
+      "body_plain": "Johannes,\n\nHow fast would someone be able to learn these geospatial R packages? I've\nbeen coding in R for more than ten years in the financial space, and am\ninterested in applying my skills to help the fight on climate change, but\nam unfamiliar with these packages *currently*. Would you happen to have\nsome resources I can look at, and perhaps a case study I could perform to\nconvince you of my skill set?\n\nBest,\n\nIlya\n\nOn Mon, Sep 4, 2023 at 9:15?AM Johannes Schielein <\njohannes.schielein at gmail.com> wrote:\n\n> Dear R-Enthusiasts,\n>\n> Our mission is to provide data support for development cooperation\n> projects during the preparation, monitoring, and evaluation phases. Our\n> primary focus areas include open-data and geospatial analysis in\n> agriculture, conservation, and conflict contexts. We do so by using open\n> data in a general with a focus on geospatial data (i.e preprocessed data\n> products, satellite images etc.). For more details see here:\n> https://mapme-initiative.org/ <https://mapme-initiative.org/>\n>\n> We use geospatial modelling techniques, remote sensing methods and\n> different methods to visualize the data (Rmarkdowns, Shiny Dashboards,\n> etc.). We work as a community with others on Github. You should be a\n> geospatial expert proficient in R. Packages like SF, Terra, Raster, SP and\n> the general Tidyverse should be a no-brainer for you.\n>\n> We have two opportunities to work as a long-term consultants. For details\n> please see here:\n>\n>\n> https://drive.google.com/drive/folders/1noUJCW-yYFkpyeZivtjDCv7vkH4s2IzC?usp=drive_link\n> <\n> https://drive.google.com/drive/folders/1noUJCW-yYFkpyeZivtjDCv7vkH4s2IzC?usp=drive_link\n> >\n>\n> Best regards,\n>\n> The MAPME team\n>         [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-jobs mailing list\n> R-sig-jobs at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Johannes,\n\nHow fast would someone be able to learn these geospatial R packages? I've\nbeen coding in R for more than ten years in the financial space, and am\ninterested in applying my skills to help th",
+      "thread_id": "thread-fb59c43d42be",
+      "thread_depth": 1,
+      "month": "2023-09"
+    },
+    {
+      "id": "msg-410f196ec754",
+      "message_id": "<EF04C88B-DE18-4E00-BB83-C35669610406@sund.ku.dk>",
+      "from_name": "Matt Denwood",
+      "from_email_hash": "b79fc638152ca66d2abca4998516f19558b57ee729b5d006c3b6d3ebaf6af7b0",
+      "date": "2023-09-30T07:23:52Z",
+      "subject": "[R-jobs] Data scientist / software engineer (academic support role)",
+      "subject_clean": "[R-jobs] Data scientist / software engineer (academic support role)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Job opportunity:  data scientist / software engineer\n\nWe are currently hiring at the University of Copenhagen for a (non-academic) role to support our group?s work in animal disease modelling and veterinary contingency services, including developing and maintaining our data pipelines (which are written in R).  This is a permanent position and we can be flexible on working hours, although the position will be based in Frederiksberg so applicants must be able to live and work in Denmark.  The job advert can be found at:\n\nhttps://jobportal.ku.dk/administrative-og-forskningsunderstoettende-stillinger/administration-it-og-service/?show=160172\n\nInformal enquiries / questions are very welcome by email to md at sund.ku.dk<mailto:md at sund.ku.dk>\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Job opportunity:  data scientist / software engineer\n\nWe are currently hiring at the University of Copenhagen for a (non-academic) role to support our group?s work in animal disease modelling and vete",
+      "thread_id": "thread-410f196ec754",
+      "thread_depth": 0,
+      "month": "2023-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-fb59c43d42be",
+      "subject": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
+      "message_count": 2,
+      "participants": [
+        "Ilya Kipnis",
+        "Johannes Schielein"
+      ],
+      "started": "2023-09-04T15:15:22+02:00",
+      "last_reply": "2023-09-04T12:59:04-04:00",
+      "root_message_id": "msg-fb59c43d42be"
+    },
+    {
+      "id": "thread-410f196ec754",
+      "subject": "[R-jobs] Data scientist / software engineer (academic support role)",
+      "message_count": 1,
+      "participants": [
+        "Matt Denwood"
+      ],
+      "started": "2023-09-30T07:23:52+00:00",
+      "last_reply": "2023-09-30T07:23:52+00:00",
+      "root_message_id": "msg-410f196ec754"
+    }
+  ]
+}

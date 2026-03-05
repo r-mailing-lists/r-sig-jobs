@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2010-08",
+  "messages": [
+    {
+      "id": "msg-7b522cda6c4f",
+      "message_id": "<AANLkTikHk3WoMojp4VxXqO1w5WzN8H3ya0CsXRUy6xfS@mail.gmail.com>",
+      "from_name": "Harsh",
+      "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
+      "date": "2010-08-04T16:13:49+05:30",
+      "subject": "[R-jobs] Internship Opportunity for Analyst (Bangalore, India)",
+      "subject_clean": "[R-jobs] Internship Opportunity for Analyst (Bangalore, India)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R users,\n\nInternship opportunity\nSkills:\nKnowledge of Statistics and Data Mining\nR Programming Skills\nPython Programming (NLTK)\nText Mining and Natural Language Processing\n\nDuration: Minimum 6 Months with possibility of conversion to full-time\n(depending on performance)\nLocation: Bangalore, India\n\nYou will have access to Text data ((Chat transcripts, Emails, Voice\nCall Transcripts), not available in the public domain for exploring\nalgorithms from Text Mining, Predictive Modeling, Linguistics and\nNatural Language Processing to extract valuable insights.\n\nRead more about I-Labs @ http://www.247customer.com/company/24x7-ilabs.php\n\nPlease get in touch with Harsh (singhalblr at gmail.com) with your resume\nand why you think you may be a good fit for this role.\n\nRegards,\nHarsh Singhal",
+      "body_snippet": "Dear R users,\n\nInternship opportunity\nSkills:\nKnowledge of Statistics and Data Mining\nR Programming Skills\nPython Programming (NLTK)\nText Mining and Natural Language Processing\n\nDuration: Minimum 6 Mo",
+      "thread_id": "thread-7b522cda6c4f",
+      "thread_depth": 0,
+      "month": "2010-08"
+    },
+    {
+      "id": "msg-be26a595907e",
+      "message_id": "<77EB52C6DD32BA4D87471DCD70C8D70003521FE0@NA-PA-VBE03.na.tibco.com>",
+      "from_name": "Louis Bajuk-Yorgan",
+      "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
+      "date": "2010-08-16T14:03:44-07:00",
+      "subject": "[R-jobs] Job posting: S+/R Sr. Analytic Consultant",
+      "subject_clean": "[R-jobs] Job posting: S+/R Sr. Analytic Consultant",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are looking for an Analytics Consultant to work closely with our\nTIBCO Spotfire account management and implementation teams as well as\nour development team to provide analytics expertise within a pre and\npost sales capacity, proof-of-concept, customer implementation,\nmethodology development and code development to sharpen our current tool\nkit to name a few.  This position will require some travel to customer\nlocations (about 25%) as well as research and development within the\nSpotfire suite of products and can be accomplished from a home office,\nbut candidates who live in the North Carolina / Research Triangle Park\narea will be given preference.\n\nFull information available here:\nhttp://usa-tibcosoftware.icims.com/jobs/2917/job\n\n\nThanks\nLou\n\n--------------------------\nLou Bajuk-Yorgan\nSr. Director, Product Management\nSpotfire, TIBCO Software\n206-802-2328\nlbajuk at tibco.com\nhttp://spotfire.tibco.com\n\nTIBCO Spotfire Analytics\nBetter than BI.  Smarter than Spreadsheets.\n(click here for the Top 5 reasons why...)",
+      "body_snippet": "We are looking for an Analytics Consultant to work closely with our\nTIBCO Spotfire account management and implementation teams as well as\nour development team to provide analytics expertise within a p",
+      "thread_id": "thread-be26a595907e",
+      "thread_depth": 0,
+      "month": "2010-08"
+    },
+    {
+      "id": "msg-b598e041bda0",
+      "message_id": "<F18A6F7CF1661F46920F2CF713122FED081D6D5D@mail.aveo.aveopharma.com>",
+      "from_name": "John Rynak",
+      "from_email_hash": "d601c905982e6d89d00520ce6083650b8f09a2dd7a958382c8f360e895e467ba",
+      "date": "2010-08-20T09:56:25-04:00",
+      "subject": "[R-jobs] Wanted :BioInformatics Scientist - Heavy \"R\" focus",
+      "subject_clean": "[R-jobs] Wanted :BioInformatics Scientist - Heavy \"R\" focus",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "BioInformatics Scientist\n\nJob Code: 10-TR25\n\nLocation: Cambridge, MA\n\n \n\n\nDescription\n\nWe are seeking a highly motivated, independent bioinformatics scientist\nto join a group of scientists, analysts and programmers to develop tools\nand methodologies for large-scale gene expression data analysis.  The\ngroup supports a variety of research projects in target and drug\ndiscovery as well as biomarker development for AVEO's growing pipeline\nof novel anti-cancer drugs, \n\n \n\nAVEO's Translational Research program utilizes a novel platform\ncombining proprietary, inducible tumor models and bioinformatics\napproaches to discover, validate and generate therapeutics against\nmolecular targets in oncology.  We have generated large populations of\ntumors that exhibit inter-tumor heterogeneity similar to that seen in\nhuman tumor populations. Each tumor has been characterized by\nmicroarray, array CGH, histology, key signaling pathways as well as\nsensitivity to a variety of cancer therapeutics, including AVEO's\nclinical stage drug candidates.  This well-characterized tumor\npopulation model system enables the correlation of gene expression and\nDNA copy number with drug efficacy, providing an attractive platform for\nthe creative innovative bioinformatics scientist to develop and test\ntranslational hypotheses. Our goal is  to use the platform to inform\nclinical trial design regarding tumor, tumor subtype and patient\nselection for AVEO's own clinical stage oncology drug candidates.\n\n \n\nResponsibilities\n\n \n\nThe candidate will:\n\n*\tParticipate in generating, processing and evaluating large\noncology-related datasets.  \n*\tWork on a variety of high-dimensional data projects largely\ncentered on biomarker discovery and develop biomarkers for response to\ntherapy and disease subtype classification\n*\tExecute a wide range of computational and analytical tasks,\nincluding developing and implementing algorithms for target\nidentification and biomarker discovery. \n*\tIntegrate publicly or commercially available genomic data with\nnovel experimental data.\n*\tIdentify and execute innovations (computational, statistical,\nand strategic) that will quantifiably improve Projects\n*\tIdentify new datasets and data mining techniques relevant to\ncancer target and drug discovery\n*\tDevelop and test novel methods and algorithms, working with\nacademic collaborators where opportunities arise\n\n \n\nQualifications & Requirements\n\n \n\n*         PhD in Biology, Bioinformatics, or equivalent, as well as 2+\nyears of full time experience in an academic or biotechnology industry\nlab, or equivalent experience.\n\n*         Interest in, and working knowledge of cancer biology,\n\n*         A solid understanding of statistics. Have experience with a\nbroad range of statistical methods for classification and prediction,\ne.g., linear models, machine learning, and other multivariate analysis\nmethods.\n\n*         Programming experience and ability to write R and Perl script.\n\n*         The candidate will have experience with large-scale genomics\ndata and a solid understanding of bioinformatics data bases (eg:\nGenBank, RefSeq, dbSNP etc)\n\n*         Experience with some bioinformatics software such as:\nSpotfire, Partek, Ingenuity, GeneGo, Balst, and Blat.\n\n*         The candidate will have the ability and interest in learning\nnew techniques and skills in accordance with evolving research program\nneeds.\n\n*         Candidates with a proven ability to work efficiently in a team\nsetting, and excellent communication skills are preferred.  \n\n \n\nAbout AVEO\n\n \n\nAVEO Pharmaceuticals (NASDAQ: AVEO) integrates a proprietary cancer\nbiology platform with drug development and commercial expertise in its\nefforts to discover and develop targeted cancer therapeutics. The\ncompany's lead product, Tivozanib, is an oral, triple VEGF receptor\ninhibitor with potential for a best-in-class profile. Tivozanib is\ncurrently being investigated in a global, randomized Phase 3 clinical\ntrial called TIVO-1\n<http://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.ave\nopharma.com%2Ffor_patients%2F&esheet=6299494&lan=en_US&anchor=TIVO-1&ind\nex=1&md5=445a20da41b339efa84d364a08f882ec>  comparing Tivozanib to\nSorafenib in advanced kidney cancer, as well as additional clinical\nstudies in other solid tumor types. AVEO's proprietary, integrated\ncancer biology platform offers the company a unique advantage in\noncology drug development that both increases the probability of\nclinical success and provides a discovery engine for high-value targets.\nThis approach has resulted in a promising pipeline of monoclonal\nantibodies against novel targets including HGF\n<http://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.ave\nopharma.com%2Fproduct_candidates%2Fav-299%2F&esheet=6299494&lan=en_US&an\nchor=HGF&index=2&md5=9404636e3f438e9027e73b342ee12620> , ErbB3\n<http://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.ave\nopharma.com%2Fproduct_candidates%2Fav-203%2F&esheet=6299494&lan=en_US&an\nchor=ErbB3&index=3&md5=35060f9ca14d89af3415b2d845d3203e> , RON, Notch\nand FGFR\n<http://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.ave\nopharma.com%2Fdiscovery_programs%2F&esheet=6299494&lan=en_US&anchor=RON%\n2C+Notch+and%C2%A0FGFR&index=4&md5=74318c2ed57a4dd5b74529c8f0289e7d> .\nFor more information, please visit the company's website at\nwww.aveopharma.com <http://www.aveopharma.com> .\n\n \n\n \n\n \n\nPlease forward resumes to hr at aveopharma.com\n<mailto:hr at aveopharma.com?subject=Research%20Associate%20Drug%20Discover\ny%20(DD1206M)> .\n\n \n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "BioInformatics Scientist\n\nJob Code: 10-TR25\n\nLocation: Cambridge, MA\n\n \n\n\nDescription\n\nWe are seeking a highly motivated, independent bioinformatics scientist\nto join a group of scientists, analysts a",
+      "thread_id": "thread-b598e041bda0",
+      "thread_depth": 0,
+      "month": "2010-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7b522cda6c4f",
+      "subject": "[R-jobs] Internship Opportunity for Analyst (Bangalore, India)",
+      "message_count": 1,
+      "participants": [
+        "Harsh"
+      ],
+      "started": "2010-08-04T16:13:49+05:30",
+      "last_reply": "2010-08-04T16:13:49+05:30",
+      "root_message_id": "msg-7b522cda6c4f"
+    },
+    {
+      "id": "thread-be26a595907e",
+      "subject": "[R-jobs] Job posting: S+/R Sr. Analytic Consultant",
+      "message_count": 1,
+      "participants": [
+        "Louis Bajuk-Yorgan"
+      ],
+      "started": "2010-08-16T14:03:44-07:00",
+      "last_reply": "2010-08-16T14:03:44-07:00",
+      "root_message_id": "msg-be26a595907e"
+    },
+    {
+      "id": "thread-b598e041bda0",
+      "subject": "[R-jobs] Wanted :BioInformatics Scientist - Heavy \"R\" focus",
+      "message_count": 1,
+      "participants": [
+        "John Rynak"
+      ],
+      "started": "2010-08-20T09:56:25-04:00",
+      "last_reply": "2010-08-20T09:56:25-04:00",
+      "root_message_id": "msg-b598e041bda0"
+    }
+  ]
+}

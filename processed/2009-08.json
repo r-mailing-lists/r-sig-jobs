@@ -1,0 +1,117 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2009-08",
+  "messages": [
+    {
+      "id": "msg-a5d2f09e01cb",
+      "message_id": "<C69F495B.149A%recruiting.analytics@nsight-health.com>",
+      "from_name": "HIT Recruiting",
+      "from_email_hash": "a772a1cfcb6404f744cc1c6c20792d2684cc05d8c2af2feb79f5faa83c7e20fc",
+      "date": "2009-08-05T14:36:11-04:00",
+      "subject": "[R-jobs] Statistical analyst position in Cambridge, MA",
+      "subject_clean": "[R-jobs] Statistical analyst position in Cambridge, MA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Health Insight Technologies, a VC backed startup with offices in Cambridge,\nMA is looking for a motivated Statistical Analyst who is\npassionate about creating statistical analyses that will provide insight\ninto the quality, safety and efficiency of the health care system.\nRequirements for the position include:\n\n\n?2-5 years direct experience working with R\n\n?Extensive experience with data manipulation techniques in R\n\n?Extensive experience in using R for modeling, for example, using techniques\nsuch as supervised and unsupervised predictive analytics, including\nlinear/logistic regression (including lasso and other shrinkage methods),\ncluster analysis, longitudinal  data and time series, random forest and\ndecision trees, support vector machines, and survival analysis\n\n?Extensive experience with standard visualization methods in R, especially\nthe lattice package\n\n?Experience with GIS and network analysis a plus\n\n?Interest in extending knowledge of R to new approaches and techniques:\nintense interest in exploring new techniques will be a must for this\nposition\n\n?Familiarity with methods of working with large data in R\n\n?Working knowledge of SQL preferred\n\n?Familiarity with the medical domain is a definite plus, a passionate\ninterest in working with health care data is a must\n\n\nEducation: BS/MS in Statistics/Biostatistics or an MPH with a strong\nemphasis on statistical and/or machine learning methods, or equivalent\neducation.\n\nFor a complete job description or to submit a cover letter/cv, please\nrespond to recruiting.analytics at nsight-health.com\n\nThank you for your interest.",
+      "body_snippet": "Health Insight Technologies, a VC backed startup with offices in Cambridge,\nMA is looking for a motivated Statistical Analyst who is\npassionate about creating statistical analyses that will provide in",
+      "thread_id": "thread-a5d2f09e01cb",
+      "thread_depth": 0,
+      "month": "2009-08"
+    },
+    {
+      "id": "msg-3444c8d431dd",
+      "message_id": "<1267541a0908181305q2ecb7efaxb880edc472bb48a9@mail.gmail.com>",
+      "from_name": "Thomas Casparis",
+      "from_email_hash": "dbab60acb35ad6dffc9dccd8ab18bdcf11b5e076ac6c41cb231767370e70a034",
+      "date": "2009-08-18T16:05:58-04:00",
+      "subject": "[R-jobs] R Programming Job - Cambridge, MA",
+      "subject_clean": "[R-jobs] R Programming Job - Cambridge, MA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Greetings Everyone,\n\n\nMy client is a cutting-edge, Clinical Informatics company with offices in\nCambridge, MA. They are looking for an R Programmer who is passionate about\nusing information technology to improve the quality, safety and efficiency\nof the health care system. This company develops analytic systems for\nphysicians and hospitals that extract and present data to help improve the\nsafety and quality of health care.\n\nThe environment is aggressive, fast paced and innovative. They reward\nmotivated individuals who are dedicated to improving the quality and safety\nof health care. They are looking for smart, forward-thinking employees who\nwill take ownership of their responsibilities, work collaboratively and\nalways look for ways to add to the personal and professional growth of the\ncompany and their peers.\n\nThe ideal candidate will have strong R Programming skills and a solid\ntechnical foundation. If you are currently working in academia and would\nlike to move outside the Ivy walls, this is an ideal opportunity to work for\na fast paced company with a strong mission statement and an academic ?feel?.\nMy client offers generous salaries with bonus and full benefits. Interested\ncandidates are encouraged to send their resumes to thomas at casparisgroup\ndot com.\n\nKind regards,\nThomas Casparis\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Greetings Everyone,\n\n\nMy client is a cutting-edge, Clinical Informatics company with offices in\nCambridge, MA. They are looking for an R Programmer who is passionate about\nusing information technology",
+      "thread_id": "thread-3444c8d431dd",
+      "thread_depth": 0,
+      "month": "2009-08"
+    },
+    {
+      "id": "msg-86850a589a7d",
+      "message_id": "<014701ca20da$ea8e3cb0$bfaab610$@com>",
+      "from_name": "Christina Kinchen",
+      "from_email_hash": "fd1fd204d90860a6d75a121c6c6b467a5d9179d65fd0da2e8d9f65dd0e11899b",
+      "date": "2009-08-19T10:39:53-04:00",
+      "subject": "[R-jobs] New SAS and R programming position with large Pharmaceutical in NJ",
+      "subject_clean": "[R-jobs] New SAS and R programming position with large Pharmaceutical in NJ",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I have an opening for a Senior Programmer in Central New Jersey with a large Pharmaceutical company.\n\nSenior Programmer needed to create applications for automating statistical analyses and creating reports.  The candidate will generate user requirements, develop and write code, and take the lead in the validating the applications.  The primary emphasis will be on creating applications to automate the process from database through analysis and reporting for standard study designs.  \n  \nMinimum requirements: Five years programming experience in SAS, one year programming experience in an object-oriented language, such as C++ or R.  Experience in developing user requirements and knowledge of software testing and validation.  Excellent communication and documentation skills.  MS in statistics preferred.  Course work or training in at least one programming language other than SAS is a plus.\n\nIdeally they want someone to:\n?\tPull data from Oracle \n?\tPull info from Excel file \n?\tPerform analysis in SAS, create tables \n?\tFrom SAS call R and create graphs in R\n?\tGenerate report with verbiage, tables, and text - report may be Word, RTF, or PDF\n\nRemember if you are not interested, but know of someone who is, we have a 1000.00 referral fee if we place the person and they are not currently working with us. \n\nFOR MORE INFORMATION PLEASE CONTACT CHRISTINA KINCHEN- at CKINCHEN at SMITHHANLEY.COM or 800-684-9921 ext 80670\n\n\n\n***********************************************************************************\nChristina Kinchen\nSenior Recruiter\nSmith Hanley Consulting Group, LLC\nan inVentiv Health Company (NASDAQ:VTIV)\naccelerate results\nwww.smithhanleyconsulting.com\n\"Ask About Our Referral Policy\"\n1st Placement- $1000\n2nd Placement-$2000\n3rd Placement-$3000\n\nTo View open positions go to: http://www.smithhanleyconsulting.com/pharma/candidates/search_jobs.asp\n\n-Specializing in contract placement of Statisticians, SAS Programmers, Clinical Data Managers/Data Coordinators, and other clinical professionals throughout the US.\n\nPhone 800-684-9921 ext 80670\nDirect Line 407-548-0670\nFax 888-513-4285\nE-Mail: ckinchen at smithhanley.com\nWebsite: www.smithhanleyconsulting.com",
+      "body_snippet": "I have an opening for a Senior Programmer in Central New Jersey with a large Pharmaceutical company.\n\nSenior Programmer needed to create applications for automating statistical analyses and creating r",
+      "thread_id": "thread-86850a589a7d",
+      "thread_depth": 0,
+      "month": "2009-08"
+    },
+    {
+      "id": "msg-46d3a2411028",
+      "message_id": "<alpine.LRH.2.01.0908251540260.14368@homer23.u.washington.edu>",
+      "from_name": "Ka Yee Yeung",
+      "from_email_hash": "2ae69f41f6cc1a62bec0729ba89bcdf0b9536c51d864db64361772cff4c1a5c7",
+      "date": "2009-08-25T15:41:28-07:00",
+      "subject": "[R-jobs] Postdoc position in computational biology: Seattle WA",
+      "subject_clean": "[R-jobs] Postdoc position in computational biology: Seattle WA",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "A postdoctoral fellow position in computational biology is anticipated to \nopen in the fall of 2009 at University of Washington, Seattle, WA.  The \ncandidate will join a multi-disciplinary group working on edge-cutting \nresearch problems in computational biology.\n\nJob Description\nWe seek a highly motivated and diligent researcher at the early stage of \nacademic career with the ability to carry out research projects \nindependently.  The position will focus on biomarker discovery for chronic \nmyeloid leukemia (CML) by integrating gene expression data, resources from \nthe literature and network analysis. The successful candidate will mainly \nwork with Dr. Ka Yee Yeung, Ph.D. in computational biology, at University \nof Washington and Dr. Vivian Oehler, M.D. in hematology, at the Fred \nHutchinson Cancer Research Center.  The candidate will also be part of a \nmulti-disciplinary team consisting of Dr. Roger Bumgarner in the \nDepartment of Microbiology and Dr. Adrian Raftery in the Department of \nStatistics.  The candidate will be expected to participate in data \nanalysis, algorithm and software development, to work cooperatively with \ncollaborators, to actively publish and present results, and other duties \nas required.  The applicant must have a Ph.D. in biostatistics, \nstatistics, computer science, computational biology or any physical \nsciences with a strong background in mathematics and computing.  The \napplicant is also expected to demonstrate excellent programming skills to \nsolve complex research problems.\n\nLocation\nSeattle, WA in the Pacific Northwest is widely considered to be one of the \ntop US cities for young professionals.  Seattle offers residents a mild \nclimate, a multitude of cultural activities, several professional sports \nteams, superb cuisine and outdoor activities including cycling, hiking, \nskiing, snowboarding, boating etc.\n\nApplication\nInterested candidates should send the following materials to Dr. Ka Yee \nYeung (kayee at u.washington.edu):\n \tA cover letter highlighting your background and relationship to \nthis position\n \tA Curriculum Vitae (CV)\n \tThe names and contact details of at least three references.\n\nThe review of applications will begin immediately and will continue until \nthe position is filled.  Under-represented minorities are especially \nencouraged to apply.",
+      "body_snippet": "A postdoctoral fellow position in computational biology is anticipated to \nopen in the fall of 2009 at University of Washington, Seattle, WA.  The \ncandidate will join a multi-disciplinary group worki",
+      "thread_id": "thread-46d3a2411028",
+      "thread_depth": 0,
+      "month": "2009-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a5d2f09e01cb",
+      "subject": "[R-jobs] Statistical analyst position in Cambridge, MA",
+      "message_count": 1,
+      "participants": [
+        "HIT Recruiting"
+      ],
+      "started": "2009-08-05T14:36:11-04:00",
+      "last_reply": "2009-08-05T14:36:11-04:00",
+      "root_message_id": "msg-a5d2f09e01cb"
+    },
+    {
+      "id": "thread-3444c8d431dd",
+      "subject": "[R-jobs] R Programming Job - Cambridge, MA",
+      "message_count": 1,
+      "participants": [
+        "Thomas Casparis"
+      ],
+      "started": "2009-08-18T16:05:58-04:00",
+      "last_reply": "2009-08-18T16:05:58-04:00",
+      "root_message_id": "msg-3444c8d431dd"
+    },
+    {
+      "id": "thread-86850a589a7d",
+      "subject": "[R-jobs] New SAS and R programming position with large Pharmaceutical in NJ",
+      "message_count": 1,
+      "participants": [
+        "Christina Kinchen"
+      ],
+      "started": "2009-08-19T10:39:53-04:00",
+      "last_reply": "2009-08-19T10:39:53-04:00",
+      "root_message_id": "msg-86850a589a7d"
+    },
+    {
+      "id": "thread-46d3a2411028",
+      "subject": "[R-jobs] Postdoc position in computational biology: Seattle WA",
+      "message_count": 1,
+      "participants": [
+        "Ka Yee Yeung"
+      ],
+      "started": "2009-08-25T15:41:28-07:00",
+      "last_reply": "2009-08-25T15:41:28-07:00",
+      "root_message_id": "msg-46d3a2411028"
+    }
+  ]
+}

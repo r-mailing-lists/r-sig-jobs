@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-10",
+  "messages": [
+    {
+      "id": "msg-0c111aba404d",
+      "message_id": "<02BF89F8F8F5434281FB674D2BC513C361A44CB093@SBKMXSMB09.win.dowjones.net>",
+      "from_name": "Alpert, William",
+      "from_email_hash": "100e033302e0f2e7b381872339dc99f026e513f96e1a7727af0688187fb0d9ff",
+      "date": "2011-10-04T21:28:43-04:00",
+      "subject": "[R-jobs] Internship Opportunity at New York financial weekly",
+      "subject_clean": "[R-jobs] Internship Opportunity at New York financial weekly",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "It's not too early for statistically-adept students to think about underpaid, but life-altering, internships for the summer of 2012. In fact, after November 1st it may be too late to apply here at Barron's. This will be the second summer we've offered paid internships, which means that applicants can now poll the hapless folks who interned this past summer. Contact me, Bill Alpert, and I'll put you wise. Meanwhile, here's the public service announcement:\n\n\n\nDo some good.  Intern at Barron's, the New York financial publication with a decades-long tradition of investigative journalism and a more recent commitment to data analytic exposure of fraud in finance, business and healthcare.  Bring us your zeal and your data munging skills and we'll teach you how to be a writer, stock analyst and gumshoe investigator.  We assemble unique data sets to scrutinize activities like Jim Cramer's CNBC stock picking, for-profit colleges, Medicare rip-offs and the hyping of US-listed China stocks.  Our stories move stocks, achieving instant reform of bad situations. Please help us make Wall Street safe for the little guy.\n\n\n\nWe will hire one or two programmer-journalist interns to work from June through August of 2012. Desirable skills would include programming fluency in R (for data analysis and visualization), a scripting language (like Python) and SQL.  You will get stories published under your byline and should be able to stomach libel threats.\n\n\n\nAs part of the Dow Jones News Fund, the program provides free pre-internship training seminars, 10 weeks' salary, $1,000 scholarships for interns returning to school, and a travel allowance. The salary is not princely, so it helps if you have a place to stay in the New York area.\n\n\n\nAPPLICATION DEADLINE: November 1, 2011\n\n\n\nApply online at https://www.newsfund.org<https://www.newsfund.org/> Click on Programs...then Internship Applications...make sure to complete the business reporting form.\n\n\n\nAlso, send a resume, writing and code samples to me\n\nand call me with any questions at 212.416.2742.\n\n\nBill Alpert\n\nSr. Editor\n\nBarron's\n\n1.212.416.2742 w\n\nwilliam.alpert at barrons.com<mailto:william.alpert at barrons.com>\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "It's not too early for statistically-adept students to think about underpaid, but life-altering, internships for the summer of 2012. In fact, after November 1st it may be too late to apply here at Bar",
+      "thread_id": "thread-0c111aba404d",
+      "thread_depth": 0,
+      "month": "2011-10"
+    },
+    {
+      "id": "msg-0d9d8e6b2cd3",
+      "message_id": "<CACC5B85.1A952%cmiller@picr.man.ac.uk>",
+      "from_name": "Crispin Miller",
+      "from_email_hash": "ae049f9968fcb3311876517ca3d3b45dbfacf21539d32d859747056ca1622d63",
+      "date": "2011-10-25T12:26:45+01:00",
+      "subject": "[R-jobs] Computational biologist positions",
+      "subject_clean": "[R-jobs] Computational biologist positions",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear All,\n\nWe've just advertised two computational biologist/bioinformatician posts and\na PhD studentship to work with  high throughput sequencing, proteomics and\nmicroarray datasets:\n\nhttp://www.paterson.man.ac.uk/jobs/viewjob.asp?Job_id=99\nhttp://www.paterson.man.ac.uk/jobs/viewjob.asp?Job_id=100\nhttp://www.paterson.man.ac.uk/education/phd/projects.stm\n\nCrispin\n\n-- \nCrispin Miller\nApplied Computational Biology and Bioinformatics\nCancer Research UK\nPaterson Institute for Cancer Research\nThe University of Manchester\nWilmslow Road\nManchester\nM20 4BX UK.\n\nhttp://bioinformatics.picr.man.ac.uk \n--------------------------------------------------------\nThis email is confidential and intended solely for the u...{{dropped:15}}",
+      "body_snippet": "Dear All,\n\nWe've just advertised two computational biologist/bioinformatician posts and\na PhD studentship to work with  high throughput sequencing, proteomics and\nmicroarray datasets:\n\nhttp://www.pate",
+      "thread_id": "thread-0d9d8e6b2cd3",
+      "thread_depth": 0,
+      "month": "2011-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0c111aba404d",
+      "subject": "[R-jobs] Internship Opportunity at New York financial weekly",
+      "message_count": 1,
+      "participants": [
+        "Alpert, William"
+      ],
+      "started": "2011-10-04T21:28:43-04:00",
+      "last_reply": "2011-10-04T21:28:43-04:00",
+      "root_message_id": "msg-0c111aba404d"
+    },
+    {
+      "id": "thread-0d9d8e6b2cd3",
+      "subject": "[R-jobs] Computational biologist positions",
+      "message_count": 1,
+      "participants": [
+        "Crispin Miller"
+      ],
+      "started": "2011-10-25T12:26:45+01:00",
+      "last_reply": "2011-10-25T12:26:45+01:00",
+      "root_message_id": "msg-0d9d8e6b2cd3"
+    }
+  ]
+}

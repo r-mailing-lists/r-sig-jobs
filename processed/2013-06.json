@@ -1,0 +1,82 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-06",
+  "messages": [
+    {
+      "id": "msg-dd24a5b9b98b",
+      "message_id": "<8AAFAF2A-D429-46F9-B18E-56DD594F7E64@glasgow.ac.uk>",
+      "from_name": "Matthew Denwood",
+      "from_email_hash": "55a960ab096cf51261e73d42f2fa5119b3465d4e2f26da8b67a456358980127c",
+      "date": "2013-06-13T12:31:24+01:00",
+      "subject": "[R-jobs] JOB: Funded PhD studentship in applied statistics / veterinary epidemiology",
+      "subject_clean": "[R-jobs] JOB: Funded PhD studentship in applied statistics / veterinary epidemiology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "JOB:  Funded PhD studentship in applied statistics / veterinary epidemiology\n\nDo you want to be able to predict something useful in horse racing?\n\nA 3.5 year funded PhD position is available at the University of Glasgow (School of Veterinary Medicine), with a tax free stipend starting at ?13,726 per year\n\nThe long-term aim of this work is to quantify the risk of (fatal) injury for individual horses on entering a race in North America and develop automated start entry risk indicators in conjunction with US Jockey Club software developers, so that horses at particular risk can be identified and the risk of fatal injury reduced.\n\nSpecific objectives include:\n1. Validate previously developed models of fatal injury to examine their predictive ability.\n2. Develop and validate new predictive models for horses ending races with Triage (injury) scores of two and above.\n3. Develop and validate models of fatal and non-fatal injury (Triage score of two and above) at the level of the race; race meet or season.\n4. Identify models with the greatest predictive ability and develop tools, in conjunction with the US Jockey Club to best prioritise individuals in terms of the risk of fatal and non-fatal injury.\n\nWe are seeking an enthusiastic, independent and lateral thinking student to take on this studentship, to start July/August 2013 (negotiable).  Previous experience of statistical analysis is required, knowledge of a programming language such as Python/C/R is preferred.  Candidates with an undergraduate or masters degree in any relevant field such as (applied) statistics, engineering, epidemiology, quantitative ecology/biology will be considered.  The successful applicant will be working within the Boyd Orr Centre for Population and Ecosystem Health (http://www.gla.ac.uk/boydorr/), so will also be exposed to wider research interests.\n\nInformal enquiries for more details/information are welcomed by either:\n\nTim Parkin: tim.parkin at glasgow.ac.uk<mailto:tim.parkin at glasgow.ac.uk>\nMatt Denwood: matthew.denwood at glasgow.ac.uk<mailto:matthew.denwood at glasgow.ac.uk>\n\nApplications (in the form of CV and covering letter) should be emailed to tim.parkin at glasgow.ac.uk<mailto:tim.parkin at glasgow.ac.uk> - closing date is 1st July 2013.\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "JOB:  Funded PhD studentship in applied statistics / veterinary epidemiology\n\nDo you want to be able to predict something useful in horse racing?\n\nA 3.5 year funded PhD position is available at the Un",
+      "thread_id": "thread-dd24a5b9b98b",
+      "thread_depth": 0,
+      "month": "2013-06"
+    },
+    {
+      "id": "msg-fe03c29ab5d6",
+      "message_id": "<CABKBmVPG3Af0wPwYxT_WF_G=AGpEa27ZFsZOWsRoPd2WGUk6Vg@mail.gmail.com>",
+      "from_name": "Ajay Gopal",
+      "from_email_hash": "d37326ceb9e7c222e7a20bf3f7af7d5ced27ad2262e2010f6645579aa6df92ce",
+      "date": "2013-06-22T18:30:47-07:00",
+      "subject": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
+      "subject_clean": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "CARD.com is a well funded financial start-up based out of Santa Monica, CA.\n\nWe are looking to grow our data science team with a Data Scientist who has\nsuperlative R programming skills and experience in scaling R-based\nanalytics to large data stores. Details at: bit.ly/17TuBFm\n\nThank you!\n\n-- \n*Ajay Gopal, PhD*\n*Director, Data Science & Analytics*\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "CARD.com is a well funded financial start-up based out of Santa Monica, CA.\n\nWe are looking to grow our data science team with a Data Scientist who has\nsuperlative R programming skills and experience ",
+      "thread_id": "thread-fe03c29ab5d6",
+      "thread_depth": 0,
+      "month": "2013-06"
+    },
+    {
+      "id": "msg-d4d2e2753174",
+      "message_id": "<CAJP88kRE3+bRjo3qzgrvvGRedTFwrTRrSscymci3p=RpS1ozQQ@mail.gmail.com>",
+      "from_name": "Utkarsh Singhal",
+      "from_email_hash": "b154c50fe37c56553d3df6195f6717bc89a1f6767d526a5007861854e687a347",
+      "date": "2013-06-25T23:53:41+05:30",
+      "subject": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
+      "subject_clean": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
+      "in_reply_to": "<CABKBmVPG3Af0wPwYxT_WF_G=AGpEa27ZFsZOWsRoPd2WGUk6Vg@mail.gmail.com>",
+      "references": [
+        "<CABKBmVPG3Af0wPwYxT_WF_G=AGpEa27ZFsZOWsRoPd2WGUk6Vg@mail.gmail.com>"
+      ],
+      "body_plain": "Hello,\n\nThank you for your email.\n\nI have over six years of perfectly relevant experience.\nDid my bachelors in Mathematics and masters in Statistics from the top\nnotch institute in India.\nHaving said that, I'm currently based in India, so not sure if that will\nwork for you. Please let me know, so I can forward you my detailed resume.\n\nThank you,\nUtkarsh Singhal\n91.96508.54333\n\n\n\nOn 23 June 2013 07:00, Ajay Gopal <ajay at card.com> wrote:\n\n> CARD.com is a well funded financial start-up based out of Santa Monica, CA.\n>\n> We are looking to grow our data science team with a Data Scientist who has\n> superlative R programming skills and experience in scaling R-based\n> analytics to large data stores. Details at: bit.ly/17TuBFm\n>\n> Thank you!\n>\n> --\n> *Ajay Gopal, PhD*\n> *Director, Data Science & Analytics*\n>\n>         [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-sig-jobs mailing list\n> R-sig-jobs at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\n\nThank you for your email.\n\nI have over six years of perfectly relevant experience.\nDid my bachelors in Mathematics and masters in Statistics from the top\nnotch institute in India.\nHaving said ",
+      "thread_id": "thread-fe03c29ab5d6",
+      "thread_depth": 1,
+      "month": "2013-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-dd24a5b9b98b",
+      "subject": "[R-jobs] JOB: Funded PhD studentship in applied statistics / veterinary epidemiology",
+      "message_count": 1,
+      "participants": [
+        "Matthew Denwood"
+      ],
+      "started": "2013-06-13T12:31:24+01:00",
+      "last_reply": "2013-06-13T12:31:24+01:00",
+      "root_message_id": "msg-dd24a5b9b98b"
+    },
+    {
+      "id": "thread-fe03c29ab5d6",
+      "subject": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
+      "message_count": 2,
+      "participants": [
+        "Ajay Gopal",
+        "Utkarsh Singhal"
+      ],
+      "started": "2013-06-22T18:30:47-07:00",
+      "last_reply": "2013-06-25T23:53:41+05:30",
+      "root_message_id": "msg-fe03c29ab5d6"
+    }
+  ]
+}

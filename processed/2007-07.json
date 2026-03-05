@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2007-07",
+  "messages": [
+    {
+      "id": "msg-81711cdf594b",
+      "message_id": "<182544D7A3144B42994EEA5662C54E01071A06F3@NLDNC105PEX1.ubsw.net>",
+      "from_name": "joh@@g@vi@ m@iii@g oii ubs@com",
+      "from_email_hash": "4a8120581fc1dd2cae6ac4fb13a227501d0bedb2ae1122ba1af67e247ce3639a",
+      "date": "2007-07-31T15:19:43+01:00",
+      "subject": "[R-jobs] R Programmer - finance - London based",
+      "subject_clean": "[R-jobs] R Programmer - finance - London based",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nUBS Investment Bank are looking for a skilled R programmer,\nseeking a career that combines computer science, applied statistics and\nfinance. \nThis position requires a person with a strong background in \n- R programming and R package maintenance.\n- Software development.\n- Design and implementation of efficient algorithms.\n  especially for handling large datasets.\n- Data visualisation and analysis.\n\nThe primary responsibilities are to develop software, \nusing the R language, for:\n- Compiling and maintaining in-house R packages for \n  analysing high-frequency financial data. \n- Interfacing R/S-Plus to other languages, especially Java.\n- Assisting in the prototyping and testing of trading algorithms.\n\nThis is a new role, based in London, where the rest of the team is\nbased.\n\nResponsibilities include the development and implementation of:\n- Generic filtering/cleansing of high-dimensional, high-volume noisy\ntick data.\n- Construction of testing harnesses for trading strategies.\n- Implementing generic simulators for algorithmic verification and\nrobustness checking.\n- Backtesting and risk & performance analysis.\n\nThis includes the design of:\n- Language interfaces, \n- Underlying core computational routines, probably in Java, \n- Automated test and validation routines, \n- Related documentation, such as help files and vignettes,\n\nFor more details please contact \n\n  Adam.Herasemiuk at ubs.com   quoting ref   28797BR\n\nor go to http://tinyurl.com/36bwe6\nclick on 'Search our global job board' under 'Global jobs',\nclick on 'Search openings',\nscroll down to 'keyword' and type the job reference '28797BR' \nand click the search button \n(sorry but there isn't a more direct link on this site).\n\nThis position is related to but different from an earlier posting\nhttps://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000005.html\n\nRegards,\n\nJohn.\n\nJohn Gavin <john.gavin at ubs.com>,\nCommodities, MCC,\nUBS Investment Bank, 2nd floor, \n100 Liverpool St., London EC2M 2RH, UK.\nPhone +44 (0) 207 567 4289\n\n> -----Original Message-----\n> From: Gavin, John \n> Sent: 12 February 2007 15:01\n> To: 'r-sig-jobs at r-project.org'\n> Subject: job advertisement - finance - London based\n> \n> Hi,\n> \n> The following job advert was already incorrectly sent to r-help\n> so I am reposting here.\n> \n> We are looking for a skilled statistician/programmer \n> seeking a career at the intersection of \n> finance, applied statistics and computer science. \n> This position requires a person with a strong background in \n> - data analysis, \n> - design and implementation of algorithms, \n> - software development\n> - statistical methodology.\n> \n> The primary responsibilities are to develop software, \n> using the R language, for:\n> - Handling/analysing high-frequency, real-time, streaming, \n> financial data. \n> - Interfacing R/S-Plus to other languages, especially Java.\n> - Applying high-dimensional regression/machine learning applications.\n> - Assisting in the prototyping and testing of trading algorithms. \n> \n> For more details please go to\n> http://tinyurl.com/36bwe6\n> click on 'Search our global job board',\n> click on 'Search openings',\n> scroll down to 'keyword' and type the job reference '19257BR' \n> and click the search button \n> (sorry but there isn't a more direct link on this site).\n> \n> Regards,\n> \n> John.\n> \n> John Gavin <john.gavin at ubs.com>,\n> Commodities, FIRC,\n> UBS Investment Bank, 2nd floor, \n> 100 Liverpool St., London EC2M 2RH, UK.\n> Phone +44 (0) 207 567 4289\nThis communication is issued by UBS AG and/or affiliates to\\...{{dropped}}",
+      "body_snippet": "Hi,\n\nUBS Investment Bank are looking for a skilled R programmer,\nseeking a career that combines computer science, applied statistics and\nfinance. \nThis position requires a person with a strong backgro",
+      "thread_id": "thread-81711cdf594b",
+      "thread_depth": 0,
+      "month": "2007-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-81711cdf594b",
+      "subject": "[R-jobs] R Programmer - finance - London based",
+      "message_count": 1,
+      "participants": [
+        "joh@@g@vi@ m@iii@g oii ubs@com"
+      ],
+      "started": "2007-07-31T15:19:43+01:00",
+      "last_reply": "2007-07-31T15:19:43+01:00",
+      "root_message_id": "msg-81711cdf594b"
+    }
+  ]
+}

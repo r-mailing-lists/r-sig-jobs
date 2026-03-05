@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2024-02",
+  "messages": [
+    {
+      "id": "msg-154239307721",
+      "message_id": "<DU0P195MB2175BAE04C5519AFEDAED842BB452@DU0P195MB2175.EURP195.PROD.OUTLOOK.COM>",
+      "from_name": "Xianwen Chen",
+      "from_email_hash": "3823c3c547a2a2e6320fd6b107efac5a5f8b2ca700cda48d1ae4498617e96724",
+      "date": "2024-02-07T16:37:41Z",
+      "subject": "[R-jobs] PhD Position in Housing Market",
+      "subject_clean": "[R-jobs] PhD Position in Housing Market",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear Geo and Jobs lists,\n\nInland Norway University of Applied Sciences is hiring a fully funded PhD student to work on housing market / policy. Spatial analysis will likely be highly relevant as part of the research activties.\n\nThe announcement is at https://www.jobbnorge.no/en/available-jobs/job/257054/phd-research-fellowship-in-housing-market-and-housing-policy.\n\nPlease ask questions to the folks listed in the announcement.\n\nPS: I joined the mailing lists to post this email. I'll be off the mailing lists after this. So if you want to email me, email me directly because I won't see new emails on the mailing lists.\n\nYours sincerely,\nXianwen\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear Geo and Jobs lists,\n\nInland Norway University of Applied Sciences is hiring a fully funded PhD student to work on housing market / policy. Spatial analysis will likely be highly relevant as part ",
+      "thread_id": "thread-154239307721",
+      "thread_depth": 0,
+      "month": "2024-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-154239307721",
+      "subject": "[R-jobs] PhD Position in Housing Market",
+      "message_count": 1,
+      "participants": [
+        "Xianwen Chen"
+      ],
+      "started": "2024-02-07T16:37:41+00:00",
+      "last_reply": "2024-02-07T16:37:41+00:00",
+      "root_message_id": "msg-154239307721"
+    }
+  ]
+}

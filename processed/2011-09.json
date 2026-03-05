@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-09",
+  "messages": [
+    {
+      "id": "msg-1bf6ff864e9b",
+      "message_id": "<B6B83B4D8B4C5B48A81903EC3EB874EA08B813@PA-MBX04.na.tibco.com>",
+      "from_name": "Louis Bajuk-Yorgan",
+      "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
+      "date": "2011-09-01T20:41:11Z",
+      "subject": "[R-jobs] TIBCO Hiring Analytics Consultant",
+      "subject_clean": "[R-jobs] TIBCO Hiring Analytics Consultant",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are looking for an Analytics Consultant to work closely with our TIBCO Spotfire account management and implementation teams as well as our development team to provide analytics expertise within a pre and post sales capacity, proof-of-concept, customer implementation, methodology development and code development to sharpen our current tool kit to name a few.? This position will require some travel to customer locations (about 25%) as well as research and development within the Spotfire suite of products and can be accomplished from a home office.?\n\n\nFor more information, and to apply, please see https://usa-tibcosoftware.icims.com/jobs/3261/job.\n\n\n\n--------------------------\nLou Bajuk-Yorgan\nSr. Director, Product Management\nSpotfire, TIBCO Software\n206-802-2328\nlbajuk at tibco.com\nhttp://spotfire.tibco.com",
+      "body_snippet": "We are looking for an Analytics Consultant to work closely with our TIBCO Spotfire account management and implementation teams as well as our development team to provide analytics expertise within a p",
+      "thread_id": "thread-1bf6ff864e9b",
+      "thread_depth": 0,
+      "month": "2011-09"
+    },
+    {
+      "id": "msg-b8e5b125f2ce",
+      "message_id": "<alpine.DEB.2.00.1109051346470.5023@diana>",
+      "from_name": "Torsten Hothorn",
+      "from_email_hash": "6060fd95d3e4dba59127ec2031900b6db5f4e0b7021748e22b35039f0c50f46a",
+      "date": "2011-09-05T13:47:18+02:00",
+      "subject": "[R-jobs] Professorship Computational Statistics",
+      "subject_clean": "[R-jobs] Professorship Computational Statistics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Department of Statistics at the Faculty of Mathematics, Informatics and\nStatistics of the Ludwig-Maximilians Universit?t in Munich invites\napplications for a\n\n \tProfessorship (W2) (6 years/tenure track)\n \tfor Statistics with Special Emphasis on Computational Statistics\n\nas soon as possible.\n\nThe professorship represents the entire field of computational statistics in\nresearch and teaching. Specialized lectures with an emphasis on computer\nintensive methods and computational statistics for statistics students are\nrequired. Teaching duties also include further lectures for students. In\nresearch, an emphasis on modern methods of computational statistics is\nexpected, also with a focus on the implementation of statistical methods in\nstatistical programming environments. Research questions addressed should\nhave the potential for the acquisition of third party funding. Collaboration\nwith the statistical consulting unit (StaBLab) and the Center for Empirical\nStudies (CEST) is highly appreciated.\n\nPrerequisites for this position are a university degree, a doctoral degree,\nteaching skills at university level and a post-doctoral degree\n(Habilitation) or equivalent qualification that may have been gained outside\nthe university or may consist of a junior professorship.\n\nThe initial appointment will be for six years. After a minimum of three\nyears it may be converted to tenure pending a positive evaluation of the\ncandidate?s aptitude for teaching and research as well as the candidate?s\npedagogical and personal aptitude if all legal conditions are met. In\nexceptional cases involving candidates with outstanding qualifications, a\ntenured position may be offered from the outset.\n\nCandidates for this position should be aged 52 or under at the time of\nappointment. Exceptions thereto may be considered in the case of outstanding\ncandidates.\n\nThe University of Munich is an equal opportunity employer and aims to\nincrease the number of female faculty members. Therefore, applications from\nfemale candidates are explicitly encouraged.\n\nDisabled candidates with essentially equal qualifications will be given\npreference.\n\nThe University supports dual career couples.\n\nPlease submit your application comprising a curriculum vitae, documentation\nof academic degrees and certificates as well as a list of publications to\nthe Dean of the Faculty of Mathematics, Informatics and Statistics,\nTheresienstr. 39, D - 80333 Munich, Germany, no later than 6 October 2011.",
+      "body_snippet": "The Department of Statistics at the Faculty of Mathematics, Informatics and\nStatistics of the Ludwig-Maximilians Universit?t in Munich invites\napplications for a\n\n \tProfessorship (W2) (6 years/tenure ",
+      "thread_id": "thread-b8e5b125f2ce",
+      "thread_depth": 0,
+      "month": "2011-09"
+    },
+    {
+      "id": "msg-3a8b3703b0fe",
+      "message_id": "<CAFSxfagS+kjTrNJrVhya+T6tr+3_-JoLr+KP7HtC0uf_91zJZA@mail.gmail.com>",
+      "from_name": "Matthew Cooper",
+      "from_email_hash": "fb232766fa45785252199ec0c22e1417e79b1e6ec798d23a9c8b335e3396b112",
+      "date": "2011-09-19T14:00:42-07:00",
+      "subject": "[R-jobs] Seeking an R intern",
+      "subject_clean": "[R-jobs] Seeking an R intern",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi folks,\n\nI wanted to reach out to the community here and let everyone know that we\nare currently seeking an intern with mad \"R\" skillz. The intern would build\nan \"R\" package to enable bioinformaticians to frictionlessly interact with\nSyapse, a cloud-based web application that accelerates biomedical product\ndevelopment. A more complete job description is below. Please let me know if\nyou or someone you know is well-qualified and interested.\n\nBest,\n\nMatt\n-- \nMatthew Cooper, Ph.D., DABT | Chief Science Officer | Syapse |\nhttp://www.syapse.com |\n\nhttp://www.syapse.com/jobs.php\nBioinformatics Associate\n\nSyapse is hiring a Bioinformatics Associate to create R packages for our\napplications. You will design, develop, and deploy interfaces to allow users\nto seamlessly use R in conjunction with Syapse applications. You should be\nexperienced and excited to work with sequencing data to help our users\ncontextualize and understand the results of new sequencing paradigms. You\nshould be comfortable rapidly developing prototypes for demonstration\npurposes. This is a part-time position designed as an internship for\nstudents and researchers near Palo Alto, CA.\n\n*Key Responsibilities*\nWork with Syapse team, users, and partners to design and implement analytics\nsolutions\nUtilize R programming to create scripts capable of data access,\nmanipulation, and reporting\nRapidly create scripts and scenarios for demonstration purposes, focusing on\nsequencing data\nRequirements\nBS, MS, or Ph.D. in Bioinformatics, Computational Biology, Statistics, or\nequivalent\nExpert in R programming, including LaTeX / Sweave, and experience with\ndatabase interfaces and algorithm development\nAdditional experience with Python and MySQL a plus\nExperience with bioinformatics tools such as BLAST a plus\nUnderstanding of software engineering best practices, including\ndocumentation and testing\nStrong communication and interpersonal skills working with diverse teams,\nincluding customers\nAbility to summarize progress and quickly bring others up to speed on your\nwork\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi folks,\n\nI wanted to reach out to the community here and let everyone know that we\nare currently seeking an intern with mad \"R\" skillz. The intern would build\nan \"R\" package to enable bioinformatici",
+      "thread_id": "thread-3a8b3703b0fe",
+      "thread_depth": 0,
+      "month": "2011-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-1bf6ff864e9b",
+      "subject": "[R-jobs] TIBCO Hiring Analytics Consultant",
+      "message_count": 1,
+      "participants": [
+        "Louis Bajuk-Yorgan"
+      ],
+      "started": "2011-09-01T20:41:11+00:00",
+      "last_reply": "2011-09-01T20:41:11+00:00",
+      "root_message_id": "msg-1bf6ff864e9b"
+    },
+    {
+      "id": "thread-b8e5b125f2ce",
+      "subject": "[R-jobs] Professorship Computational Statistics",
+      "message_count": 1,
+      "participants": [
+        "Torsten Hothorn"
+      ],
+      "started": "2011-09-05T13:47:18+02:00",
+      "last_reply": "2011-09-05T13:47:18+02:00",
+      "root_message_id": "msg-b8e5b125f2ce"
+    },
+    {
+      "id": "thread-3a8b3703b0fe",
+      "subject": "[R-jobs] Seeking an R intern",
+      "message_count": 1,
+      "participants": [
+        "Matthew Cooper"
+      ],
+      "started": "2011-09-19T14:00:42-07:00",
+      "last_reply": "2011-09-19T14:00:42-07:00",
+      "root_message_id": "msg-3a8b3703b0fe"
+    }
+  ]
+}

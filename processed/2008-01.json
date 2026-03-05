@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2008-01",
+  "messages": [
+    {
+      "id": "msg-e72c82796149",
+      "message_id": "<C3C4CE98.6E81%CMiller@PICR.man.ac.uk>",
+      "from_name": "Crispin Miller",
+      "from_email_hash": "b75838e507e34fb1a030b504c271cb86eda591beea528ad9dee1aa2710c51ec1",
+      "date": "2008-01-29T12:37:44Z",
+      "subject": "[R-jobs] Positions in Computational Biology",
+      "subject_clean": "[R-jobs] Positions in Computational Biology",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nWe're looking for a number of people to join our group (Applied\nComputational Biology and Bioinformatics -- ACBB) and applying state of\nthe art techniques (see for example, xmap.picr.man.ac.uk) to integrate,\nanalyse and interpret datasets arising from the latest generation of\nmicroarrays (including exon, SNP and tiling arrays), quantitative\nmass-spectrometry and next generation sequencing.\n\nWe write a lot of Bioconductor and R code - hence my posting to this list...\n\nI've included brief details below -- there's more information in the jobs\nsection of our website (http://bioinformatics.picr.man.ac.uk)\n\nCheers,\nCrispin\n\n----\n\nPostdoctoral Scientist - specialist in transcription\n\nA position is available a computational biologist with significant\nexperience analysing high throughput genomic data including, for example,\nexpression, tiling and SNP arrays, to develop novel software and strategies\nfor the latest generation of genomics data.\n\nPostdoctoral Scientist - pathway specialist\n\nA position is available for a computational biologist interested in building\nintegrated models of gene expression from high throughput genomics data,\nincluding microarrays and quantitative proteomics.\n\nPostdoctoral Scientist - specialist in sequence analysis\n\nA position is available for a biologist with significant experience in gene\nprediction and genome sequence analysis.\n\nBioinformatics Programmer\n\nA position is available for a software engineer to build novel databases and\nBioconductor/R software for the analysis of biological data.\n\n\nThe deadline for all positions is Monday 8th February 2008. Dear all,\n \n--------------------------------------------------------\n\n\nThis email is confidential and intended solely for the u...{{dropped:13}}",
+      "body_snippet": "Hi,\n\nWe're looking for a number of people to join our group (Applied\nComputational Biology and Bioinformatics -- ACBB) and applying state of\nthe art techniques (see for example, xmap.picr.man.ac.uk) t",
+      "thread_id": "thread-e72c82796149",
+      "thread_depth": 0,
+      "month": "2008-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e72c82796149",
+      "subject": "[R-jobs] Positions in Computational Biology",
+      "message_count": 1,
+      "participants": [
+        "Crispin Miller"
+      ],
+      "started": "2008-01-29T12:37:44+00:00",
+      "last_reply": "2008-01-29T12:37:44+00:00",
+      "root_message_id": "msg-e72c82796149"
+    }
+  ]
+}

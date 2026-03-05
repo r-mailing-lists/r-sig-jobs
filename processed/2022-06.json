@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2022-06",
+  "messages": [
+    {
+      "id": "msg-7d73b776ffa1",
+      "message_id": "<d20b2ffbf84e4814a6a085fad26323cd@demogr.mpg.de>",
+      "from_name": "MPIDR - Career",
+      "from_email_hash": "0a5fc273af6e0e0235b7b1122564157b74aa083ac269fe40c31ee5a91028546d",
+      "date": "2022-06-28T14:10:07Z",
+      "subject": "[R-jobs] JOB OPENING: Post-Doctoral Researcher",
+      "subject_clean": "[R-jobs] JOB OPENING: Post-Doctoral Researcher",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Max Planck Institute for Demographic Research (MPIDR) is seeking to appoint a full-time post-doctoral researcher to join the?Research Group on Labor Demography.\nDeadline: August 1, 2022\nMore information at: https://www.demogr.mpg.de/en/career_6122/jobs_fellowships_1910/post_doctoral_researcher_10909\n\n--\nThis mail has been sent through the MPI for Demographic Research.  Should you receive a mail that is apparently from a MPI user without this text displayed, then the address has most likely been faked. If you are uncertain about the validity of this message, please check the mail header or ask your system administrator for assistance.",
+      "body_snippet": "The Max Planck Institute for Demographic Research (MPIDR) is seeking to appoint a full-time post-doctoral researcher to join the?Research Group on Labor Demography.\nDeadline: August 1, 2022\nMore infor",
+      "thread_id": "thread-7d73b776ffa1",
+      "thread_depth": 0,
+      "month": "2022-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7d73b776ffa1",
+      "subject": "[R-jobs] JOB OPENING: Post-Doctoral Researcher",
+      "message_count": 1,
+      "participants": [
+        "MPIDR - Career"
+      ],
+      "started": "2022-06-28T14:10:07+00:00",
+      "last_reply": "2022-06-28T14:10:07+00:00",
+      "root_message_id": "msg-7d73b776ffa1"
+    }
+  ]
+}

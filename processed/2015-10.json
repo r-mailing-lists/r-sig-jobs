@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-10",
+  "messages": [
+    {
+      "id": "msg-49a7cd89d2b7",
+      "message_id": "<CAD2AZ+hOOwHOnVwvk0Ekn1sR1pg+J9BH2Dx5rW=wjzm4DH4vLw@mail.gmail.com>",
+      "from_name": "Melissa Crijns",
+      "from_email_hash": "d0f47114c95d2f0407e426e48d25b0ba6427eab102c014fd7cc0edecb1ff43f2",
+      "date": "2015-10-09T16:46:42-05:00",
+      "subject": "[R-jobs] Continuum Analytics - Anaconda R Packaging Engineer job opening",
+      "subject_clean": "[R-jobs] Continuum Analytics - Anaconda R Packaging Engineer job opening",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Continuum Analytics is searching for a motivated, bright recent graduate or\nearly career professional to join the Anaconda team that develops the\npopular, free cross platform Python & R distribution for large-scale data\nprocessing, predictive analytics, and scientific computing. Anaconda\nincludes hundreds of the most popular Python and R packages for Linux,\nWindows, and MacOSX.  The Anaconda team also actively develops the\ninnovative open source package manager conda that is the primary interface\nfor managing Anaconda installations. This particular position will focus on\nbuilding, testing and maintaining the R packages*.*  Come join us and help\nmake Anaconda and conda even better!\nhttps://boards.greenhouse.io/continuum/jobs/101272#.Vhg1NNbFtp8\n\n*_______________________________________________*\n\n*Melissa Crijns*\n*Director Talent Acquisition*\n512-774-9025\nmcrijns at continuum.io\n\n\n<https://www.linkedin.com/pub/melissa-crijns/0/131/b76>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Continuum Analytics is searching for a motivated, bright recent graduate or\nearly career professional to join the Anaconda team that develops the\npopular, free cross platform Python & R distribution f",
+      "thread_id": "thread-49a7cd89d2b7",
+      "thread_depth": 0,
+      "month": "2015-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-49a7cd89d2b7",
+      "subject": "[R-jobs] Continuum Analytics - Anaconda R Packaging Engineer job opening",
+      "message_count": 1,
+      "participants": [
+        "Melissa Crijns"
+      ],
+      "started": "2015-10-09T16:46:42-05:00",
+      "last_reply": "2015-10-09T16:46:42-05:00",
+      "root_message_id": "msg-49a7cd89d2b7"
+    }
+  ]
+}

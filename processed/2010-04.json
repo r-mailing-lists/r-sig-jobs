@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2010-04",
+  "messages": [
+    {
+      "id": "msg-7d847910bb7c",
+      "message_id": "<OF69CD1C3E.DA0978BD-ONC12576FF.002B1150-C12576FF.002B2B84@merck.de>",
+      "from_name": "pierre@i@rmer m@iii@g oii mercksero@o@@et",
+      "from_email_hash": "30d3041de11e4944c3ec60bc51557ef567863bbb4f1ef77eb1e296af496d01cf",
+      "date": "2010-04-08T09:51:34+02:00",
+      "subject": "[R-jobs] One Year Student in Bioinformatics (Biomarkers discovery)",
+      "subject_clean": "[R-jobs] One Year Student in Bioinformatics (Biomarkers discovery)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "One Year Student in Bioinformatics (Biomarkers discovery)-1000435\n\nSee following URL for job application:\nhttp://www.merckserono.com/en/careers/job_center/job_center.html\n\n\n\nDescription\n \nBackground:\n \nBiomarker discovery is now an intricate part of the drug development \nprocess as it will allow for more accurate identification of patients who \nwill benefit from those therapies.\nThe blood tissue has generated great interest as a source of new \nbiomarkers because it is easily accessible and also it caries proteins and \nmetabolites that reflect the physiological status of the whole body.\nHowever, blood is a deceivingly complex tissue, composed of many different \ncell types; all interacting with their environment.\nSystem biology is a new methodological approach to understand blood-drug \ninteractions.\nHowever, the capture of information contained in very large datasets is \nnot trivial and requires the development of new tools and analytical \nstrategies.\n \nThe aim of this project will be:\n \nTo develop an existing analysis tool box implemented in R statistical \nprogramming language, dedicated to the analysis of high dimensional data.\n \n\nThe successful candidate will join a very dynamic bioinformatics team \nresponsible of biomarker discovery for Merck Serono's sponsored clinical \ntrials. This studentship is an excellent opportunity learning high \ndimensional data analysis in the context of biomarkers discovery and drug \ndevelopment.\n \nThe outlined project is expected to be completed within one year\n \nMain Tasks & Responsibilities:\nUnderstand requirements and solutions formulated by other team members\nImplement technical specification formulated by other team members in R \nprogramming language\nDevelop code that will allow efficient interface with existing code\nPerform regression testing to validate the correctness of the code\nWrite up documentation for the code and give summary oral presentation of \nthe results in English\nCommunicate regularly with the supervisor on work progress and problems\nParticipates effectively as a member of a \"team\" within his/her group\nParticipate in the development of new algorithms and analysis strategies \nfor high dimensional data analysis\nDevelop greater proficiency in relevant analysis techniques and broaden \ncomputational skills\n\nQualifications:\n \nLanguage & Education:\nMaster or Engineering Degree (or in the process of finishing studies) in \neither Bioinformatics, Computer Science/Statistics (with strong knowledge \nin life science) or Life Science (with strong computational /statistical \nskills).\nFluency in English required\nFrench an asset\n\nProfessional Skills:\n \nRequired:\nFluency in the R programming language, C language is an asset\nWorking knowledge of gene expression microarrays\nAbility to communicate technical information\nDesired:\nFamiliarity with UNIX/Linux platform\nKnowledge of linear models\nKnowledge in immunology and/or oncology\nKnowledge of gene annotation\n\nExperience:\nThe ideal candidate would have at least 1 year experience in R programming \n(such as internships)\nPersonal Skills & Competencies:\nInteractive and autonomous in a multi-disciplinary environment\nStrong work ethics required\n \n \nThis position is open to:\n International\n\n---------------------------\nPierre Farmer Ph.D.\nGroup Leader - Biomarker Discovery Bioinformatics -\nStratified Medicine - Research\nMerck Serono International S.A. -Switzerland\n9, chemin des Mines\nCase postale 54\nCH-1211 Geneva 20\nSwitzerland\nPhone: +41-22-414-4576\nMobile: +41-79-398-1973\nFax: +41-22-414-9558\n--------------------------------\n\n\n\nThis message and any attachment are confidential and may be privileged or otherwise protected from disclosure. If you are not the intended recipient, you must not copy this message or attachment or disclose the contents to any other person. If you have received this transmission in error, please notify the sender immediately and delete the message and any attachment from your system. Merck KGaA, Darmstadt, Germany and any of its subsidiaries do not accept liability for any omissions or errors in this message which may arise as a result of E-Mail-transmission or for damages resulting from any unauthorized changes of the content of this message and any attachment thereto. Merck KGaA, Darmstadt, Germany and any of its subsidiaries do not guarantee that this message is free of viruses and does not accept liability for any damages caused by any virus transmitted therewith.\n\nClick http://disclaimer.merck.de to access the German, French, Spanish and Portuguese versions of this disclaimer.\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "One Year Student in Bioinformatics (Biomarkers discovery)-1000435\n\nSee following URL for job application:\nhttp://www.merckserono.com/en/careers/job_center/job_center.html\n\n\n\nDescription\n \nBackground:\n",
+      "thread_id": "thread-7d847910bb7c",
+      "thread_depth": 0,
+      "month": "2010-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7d847910bb7c",
+      "subject": "[R-jobs] One Year Student in Bioinformatics (Biomarkers discovery)",
+      "message_count": 1,
+      "participants": [
+        "pierre@i@rmer m@iii@g oii mercksero@o@@et"
+      ],
+      "started": "2010-04-08T09:51:34+02:00",
+      "last_reply": "2010-04-08T09:51:34+02:00",
+      "root_message_id": "msg-7d847910bb7c"
+    }
+  ]
+}

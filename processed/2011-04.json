@@ -1,0 +1,155 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-04",
+  "messages": [
+    {
+      "id": "msg-e4ed79613a43",
+      "message_id": "<BANLkTikO76APupchc748udsy+Yk-6SJE8w@mail.gmail.com>",
+      "from_name": "David Katz",
+      "from_email_hash": "b17ceab19ab2d76b06da4b22aa5e19ad4a99022761bf1d0e6c0136dde32ca7fa",
+      "date": "2011-04-03T13:25:57-07:00",
+      "subject": "[R-jobs] Part-Time R Help",
+      "subject_clean": "[R-jobs] Part-Time R Help",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I need help maintaining R and some SAS code and building models and reports.\n10-15% time but must be available to client's schedule which includes some\nhard deadlines.. Can work remotely.\n\nSkills needed:\nR programming including proto,\nModel building including mgcv:gam\nSAS programming - base and macro.\n\nPlease forward cv and rate.\n\n-- \nDavid Katz\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I need help maintaining R and some SAS code and building models and reports.\n10-15% time but must be available to client's schedule which includes some\nhard deadlines.. Can work remotely.\n\nSkills need",
+      "thread_id": "thread-e4ed79613a43",
+      "thread_depth": 0,
+      "month": "2011-04"
+    },
+    {
+      "id": "msg-9c57f0592294",
+      "message_id": "<C9D3A11F.12B48%efegraus@conservation.org>",
+      "from_name": "Eric Fegraus",
+      "from_email_hash": "da9e2c0999799153e066fe2f51c1f28bfe5a03911bb673f4ffaa686fa7cbacee",
+      "date": "2011-04-19T20:29:19-04:00",
+      "subject": "[R-jobs] IT Manager Position",
+      "subject_clean": "[R-jobs] IT Manager Position",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\nPlease see the link below for an IT Manager. Experience with R and\nenvironmental datasets can overcome lack of traditional IT experience.\n\nhttp://tbe.taleo.net/NA8/ats/careers/requisition.jsp?org=CONSERVATION&cws=1&\nrid=149\n \n---------------------------------------\nEric H. Fegraus\nDirector of Information Systems\nTropical Ecology, Assessment & Monitoring Network\nConservation International\n2011 Crystal Drive, Suite 500\nArlington, VA 22202 USA\n703.341.2482\nwww.teamnetwork.org <http://www.teamnetwork.org>\nwww.conservation.org <http://www.conservation.org>\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\nPlease see the link below for an IT Manager. Experience with R and\nenvironmental datasets can overcome lack of traditional IT experience.\n\nhttp://tbe.taleo.net/NA8/ats/careers/requisition.jsp?o",
+      "thread_id": "thread-9c57f0592294",
+      "thread_depth": 0,
+      "month": "2011-04"
+    },
+    {
+      "id": "msg-e50bf6962fe7",
+      "message_id": "<201104291936.48865.ct529@york.ac.uk>",
+      "from_name": "Corrado Topi",
+      "from_email_hash": "d1fb261a7c8d020c39144ae31d9e049b215bd752b3e2b0b6d285f28c70869861",
+      "date": "2011-04-29T19:36:48+01:00",
+      "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "subject_clean": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R-lings,\n\nI did not know which list to post to, because it is a studentship so not \nreally a job, so it did not fit the r-sig-jobs list .... and it is about \ndevloping an extension package interfaced with R .... I hope I did not upset \nanyone. If so apologies.\n\nThe Centre For Complex systems Analysis at the University of York (YCCSA) in \nUK in collaboration with Stockholm Environment Institute is looking for a \nhighly motivated student in Computer Science, Applied Mathematics, Applied \nStatistics or related fields for a 10 weeks paid student internship over the \nsummer 2011, starting in july,  to collaborate in development of a R package. \nThe student will participate in research projects to develop prototypes for \ntoolkits for statistical predictions of diversity and dissimilarity and the \ngeneration of spatial landscapes, with applications in the biological and \nenvironmental sciences. We require excellent development skills and experience \nin CUDA/openCL, and a strong foundation in Computing, Statistics / Applied \nMathematics and COmputer Graphics. We need an excellent problem solver, able \nto innovate, find solutions and work independently.\n\nFor further information on the project please contact ct529 at york.ac.uk or go \nto http://www.york.ac.u...2011/201107.pdf\n\nFor further information on the studentship programme please look at \nhttp://www.york.ac.u...olarships.html.\n\nPlease send your application not later than the 13 of may to \nscholarships at yccsa.org as one single pdf document including:\n\n1. Your CV (max 2 pages)\n2. A brief personal statement (max 1 page) including:\n* Which project(s) you are interested in (as many as you like but in \npreference order)\n* Your reasons for applying\n* Your academic interest\n* Your future aspirations\n3. A full written academic reference (not just contact details). Your \napplication will not be accepted without this reference (max 1 page). \n\nBest,\n-- \nCorrado Topi\n\nStockholm Environment Institute\n\nMob: +44 (0) 7769 601784\nTel: +44 (0) 1904 322893\nSkype: corrado-eeos\nWebsite:  sei-international.org\n\nUniversity of York\nYork YO10 5DD\nUK\n\nFax: +44 (0) 1904 322898\n\nEMAIL DISCLAIMER: http://www.york.ac.uk/docs/disclaimer/email.htm\n\n-- \nCorrado Topi\n\nStockholm Environment Institute\n\nMob: +44 (0) 7769 601784\nTel: +44 (0) 1904 322893\nSkype: corrado-eeos\nWebsite:  sei-international.org\n\nUniversity of York\nYork YO10 5DD\nUK\n\nFax: +44 (0) 1904 322898\n\nEMAIL DISCLAIMER: http://www.york.ac.uk/docs/disclaimer/email.htm",
+      "body_snippet": "Dear R-lings,\n\nI did not know which list to post to, because it is a studentship so not \nreally a job, so it did not fit the r-sig-jobs list .... and it is about \ndevloping an extension package interf",
+      "thread_id": "thread-e50bf6962fe7",
+      "thread_depth": 0,
+      "month": "2011-04"
+    },
+    {
+      "id": "msg-f4d584f30cd8",
+      "message_id": "<BANLkTikmj=E41EMQncnxiqnN85u-esV9yw@mail.gmail.com>",
+      "from_name": "Ajay Ohri",
+      "from_email_hash": "ea49ef5a61aa2f1d3b5b05c3b360b197fa8f7ac228dc7834aeafe60091e48ae0",
+      "date": "2011-04-30T00:43:29+05:30",
+      "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "subject_clean": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "in_reply_to": "<201104291936.48865.ct529@york.ac.uk>",
+      "references": [
+        "<201104291936.48865.ct529@york.ac.uk>"
+      ],
+      "body_plain": "but what rate/hour  do you pay studentship in NY unless it is confidential\n\nregards\n\nAJY\n\nWebsites-\nhttp://decisionstats.com\n\n\n\n\n\n\nOn Sat, Apr 30, 2011 at 12:06 AM, Corrado Topi <corrado.topi at york.ac.uk>wrote:\n\n> Dear R-lings,\n>\n> I did not know which list to post to, because it is a studentship so not\n> really a job, so it did not fit the r-sig-jobs list\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "but what rate/hour  do you pay studentship in NY unless it is confidential\n\nregards\n\nAJY\n\nWebsites-\nhttp://decisionstats.com\n\n\n\n\n\n\nOn Sat, Apr 30, 2011 at 12:06 AM, Corrado Topi <corrado.topi at york.",
+      "thread_id": "thread-e50bf6962fe7",
+      "thread_depth": 1,
+      "month": "2011-04"
+    },
+    {
+      "id": "msg-5f0c3d4c5bca",
+      "message_id": "<201104300941.46687.ct529@york.ac.uk>",
+      "from_name": "Corrado Topi",
+      "from_email_hash": "d1fb261a7c8d020c39144ae31d9e049b215bd752b3e2b0b6d285f28c70869861",
+      "date": "2011-04-30T09:41:46+01:00",
+      "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "subject_clean": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "It is not New York but very old York, in the North of England. \n\nThe scholarships carry a tax-free stipend and financial assistance will be \ngiven for travel expenses to and from York. Accommodation for successful \nstudents is available on the University of York Campus.\n\nFor information about the tax-free stipend please write to  \nscholarships at yccsa.org. \n\nBest,\n\n\n\n\nOn Friday 29 Apr 2011 20:13:29 Ajay Ohri wrote:\n> but what rate/hour  do you pay studentship in NY unless it is confidential\n> \n> regards\n> \n> AJY\n> \n> Websites-\n> http://decisionstats.com\n> \n> On Sat, Apr 30, 2011 at 12:06 AM, Corrado Topi \n<corrado.topi at york.ac.uk>wrote:\n> > Dear R-lings,\n> > \n> > I did not know which list to post to, because it is a studentship so not\n> > really a job, so it did not fit the r-sig-jobs list\n\n-- \nCorrado Topi\n\nStockholm Environment Institute\n\nMob: +44 (0) 7769 601784\nTel: +44 (0) 1904 322893\nSkype: corrado-eeos\nWebsite:  sei-international.org\n\nUniversity of York\nYork YO10 5DD\nUK\n\nFax: +44 (0) 1904 322898\n\nEMAIL DISCLAIMER: http://www.york.ac.uk/docs/disclaimer/email.htm\n\n-- \nCorrado Topi\n\nStockholm Environment Institute\n\nMob: +44 (0) 7769 601784\nTel: +44 (0) 1904 322893\nSkype: corrado-eeos\nWebsite:  sei-international.org\n\nUniversity of York\nYork YO10 5DD\nUK\n\nFax: +44 (0) 1904 322898\n\nEMAIL DISCLAIMER: http://www.york.ac.uk/docs/disclaimer/email.htm",
+      "body_snippet": "It is not New York but very old York, in the North of England. \n\nThe scholarships carry a tax-free stipend and financial assistance will be \ngiven for travel expenses to and from York. Accommodation f",
+      "thread_id": "thread-5f0c3d4c5bca",
+      "thread_depth": 0,
+      "month": "2011-04"
+    },
+    {
+      "id": "msg-086d4955de05",
+      "message_id": "<BANLkTim=DV=O+B1osQihozv8ZEuNvWDB0A@mail.gmail.com>",
+      "from_name": "Ajay Ohri",
+      "from_email_hash": "ea49ef5a61aa2f1d3b5b05c3b360b197fa8f7ac228dc7834aeafe60091e48ae0",
+      "date": "2011-04-30T14:12:49+05:30",
+      "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "subject_clean": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "in_reply_to": "<201104300941.46687.ct529@york.ac.uk>",
+      "references": [
+        "<201104300941.46687.ct529@york.ac.uk>"
+      ],
+      "body_plain": "any visa or immigration for half naked fakirs from outside the EU.\n\nregards\n\nAj\n\nWebsites-\nhttp://decisionstats.com\n\n\n\n\n\n\nOn Sat, Apr 30, 2011 at 2:11 PM, Corrado Topi <corrado.topi at york.ac.uk>wrote:\n\n> It is not New York but very old York, in the North of England.\n>\n> The scholarships carry a tax-free stipend and financial assistance will be\n> given for travel expenses to and from York. Accommodation for successful\n> students is available on the University of York Campus.\n>\n> For information about the tax-free stipend please write to\n> scholarships at yccsa.org.\n>\n> Best,\n>\n>\n>\n>\n> On Friday 29 Apr 2011 20:13:29 Ajay Ohri wrote:\n> > but what rate/hour  do you pay studentship in NY unless it is\n> confidential\n> >\n> > regards\n> >\n> > AJY\n> >\n> > Websites-\n> > http://decisionstats.com\n> >\n> > On Sat, Apr 30, 2011 at 12:06 AM, Corrado Topi\n> <corrado.topi at york.ac.uk>wrote:\n> > > Dear R-lings,\n> > >\n> > > I did not know which list to post to, because it is a studentship so\n> not\n> > > really a job, so it did not fit the r-sig-jobs list\n>\n> --\n> Corrado Topi\n>\n> Stockholm Environment Institute\n>\n> Mob: +44 (0) 7769 601784\n> Tel: +44 (0) 1904 322893\n> Skype: corrado-eeos\n> Website:  sei-international.org\n>\n> University of York\n> York YO10 5DD\n> UK\n>\n> Fax: +44 (0) 1904 322898\n>\n> EMAIL DISCLAIMER: http://www.york.ac.uk/docs/disclaimer/email.htm\n>\n> --\n> Corrado Topi\n>\n> Stockholm Environment Institute\n>\n> Mob: +44 (0) 7769 601784\n> Tel: +44 (0) 1904 322893\n> Skype: corrado-eeos\n> Website:  sei-international.org\n>\n> University of York\n> York YO10 5DD\n> UK\n>\n> Fax: +44 (0) 1904 322898\n>\n> EMAIL DISCLAIMER: http://www.york.ac.uk/docs/disclaimer/email.htm\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "any visa or immigration for half naked fakirs from outside the EU.\n\nregards\n\nAj\n\nWebsites-\nhttp://decisionstats.com\n\n\n\n\n\n\nOn Sat, Apr 30, 2011 at 2:11 PM, Corrado Topi <corrado.topi at york.ac.uk>wrot",
+      "thread_id": "thread-5f0c3d4c5bca",
+      "thread_depth": 1,
+      "month": "2011-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e4ed79613a43",
+      "subject": "[R-jobs] Part-Time R Help",
+      "message_count": 1,
+      "participants": [
+        "David Katz"
+      ],
+      "started": "2011-04-03T13:25:57-07:00",
+      "last_reply": "2011-04-03T13:25:57-07:00",
+      "root_message_id": "msg-e4ed79613a43"
+    },
+    {
+      "id": "thread-9c57f0592294",
+      "subject": "[R-jobs] IT Manager Position",
+      "message_count": 1,
+      "participants": [
+        "Eric Fegraus"
+      ],
+      "started": "2011-04-19T20:29:19-04:00",
+      "last_reply": "2011-04-19T20:29:19-04:00",
+      "root_message_id": "msg-9c57f0592294"
+    },
+    {
+      "id": "thread-e50bf6962fe7",
+      "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "message_count": 2,
+      "participants": [
+        "Ajay Ohri",
+        "Corrado Topi"
+      ],
+      "started": "2011-04-29T19:36:48+01:00",
+      "last_reply": "2011-04-30T00:43:29+05:30",
+      "root_message_id": "msg-e50bf6962fe7"
+    },
+    {
+      "id": "thread-5f0c3d4c5bca",
+      "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
+      "message_count": 2,
+      "participants": [
+        "Ajay Ohri",
+        "Corrado Topi"
+      ],
+      "started": "2011-04-30T09:41:46+01:00",
+      "last_reply": "2011-04-30T14:12:49+05:30",
+      "root_message_id": "msg-5f0c3d4c5bca"
+    }
+  ]
+}

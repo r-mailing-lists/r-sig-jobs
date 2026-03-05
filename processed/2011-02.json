@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2011-02",
+  "messages": [
+    {
+      "id": "msg-39624d07fd24",
+      "message_id": "<77EB52C6DD32BA4D87471DCD70C8D70003DE1AB7@NA-PA-VBE03.na.tibco.com>",
+      "from_name": "Louis Bajuk-Yorgan",
+      "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
+      "date": "2011-02-03T10:26:23-08:00",
+      "subject": "[R-jobs] TIBCO looking for Analytics Consultants",
+      "subject_clean": "[R-jobs] TIBCO looking for Analytics Consultants",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We are looking for two Analytics Consultants (PhD in Statistics with\nsignificant R programming skills preferred) to join our rapidly growing\nTIBCO Analytic Solutions team. The successful candidates will work\nclosely with our TIBCO  / Spotfire  implementation and development teams\nto provide analytics expertise for customer pilots and implementations,\nmethodology/training and product/code development to sharpen our current\nofferings.  This position will require some travel to customer locations\n(about 10% or so) and the candidate needs to have solid communication\nand writing skills. The work can be accomplished from a home office, but\ncandidates who live in the North Carolina / Research Triangle Park area\nor North-East Tri-State area (NY/NJ/CT) will be given preference.\n\n \n\nFor more information about or to apply to this position, please visit\nhttp://usa-tibcosoftware.icims.com/jobs/3261/job or \n\nhttp://usa-tibcosoftware.icims.com/jobs/3399/job (Pharmaceutical & Life\nSciences)\n\n \n\n \n\n--------------------------\n\nLou Bajuk-Yorgan\n\nSr. Director, Product Management\n\nSpotfire, TIBCO Software\n\n206-802-2328\n\nlbajuk at tibco.com\n\nhttp://spotfire.tibco.com <http://spotfire.tibco.com/> \n\n \n\nTIBCO Spotfire Analytics\nBetter than BI.  Smarter than Spreadsheets.\n(click here for the Top 5 reasons why...)\n<http://spotfire.tibco.com/Products/Spotfire-analytics.aspx> \n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "We are looking for two Analytics Consultants (PhD in Statistics with\nsignificant R programming skills preferred) to join our rapidly growing\nTIBCO Analytic Solutions team. The successful candidates wi",
+      "thread_id": "thread-39624d07fd24",
+      "thread_depth": 0,
+      "month": "2011-02"
+    },
+    {
+      "id": "msg-5bab6f67c459",
+      "message_id": "<C9894EE1.1CDE4%delia.bailey@yougov.com>",
+      "from_name": "Delia Bailey",
+      "from_email_hash": "992060a0753f2d11e740534dfdc3b4e31dd3d74d3d3182a641900af7e3c01b73",
+      "date": "2011-02-22T20:30:41+01:00",
+      "subject": "[R-jobs] Statistical Programmer",
+      "subject_clean": "[R-jobs] Statistical Programmer",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "STATISTICAL PROGRAMMER\n\nWe are seeking one or more programmers for our Analytics Group, based in\nPalo Alto. We are looking for people who combine strong programming skills\nwith experience performing statistical analyses on large datasets. Work in\na fast-paced and intellectually stimulating environment where technically\nsophisticated solutions to marketing, financial, and political problems\nare developed.\n\nYou will be involved in large scale statistical analysis projects.\nResponsibilities will include the design, development, implementation, and\nmaintenance of software for statistical analysis, including statistical\ngraphics and Web-based delivery. These require creativity and ingenuity to\nsolve.\n\nThe ideal candidate should have the following qualifications:\n\n   -- Minimum of 5 years programming experience in Python and other\nlanguages, and you're always eager to try new ones. Good design and\nengineering skills.\n\n   -- B.S. in computer science, statistics, or other relevant scientific\narea. We care more about your programming skills than your schooling.\n\n        -- Experience with statistical applications (especially R).\n\n        -- Knowledge of modern statistical computing, especially MCMC.\n\n        -- Expert with Linux/Unix systems and XHTML/CSS/Javascript/Django\n\n        -- Database expertise, programming with SQL, Hadoop\n\n        -- Experience with source code control tools such as Mercurial and\nSubversion\n\n\nYouGov Polimetrix is the North American unit of YouGov PLC, with\noperations in the US, UK, Germany, Denmark, Norway, Dubai, and Saudi\nArabia. We have U.S. offices in Palo Alto, CA, New York, NY, Waterbury,\nCT, Lawrenceville, NJ, and Washington, DC.\n\nCompensation: depends on experience and qualifications\n\nInterested candidates should submit a cover letter and resume.\nContact with any questions: delia.bailey at yougov.com or\ndoug.rivers at yougov.com\n\n\n\n---------\nDelia Bailey\nDirector of Analytics\n\nYouGov\n285 Hamilton Avenue Suite 200\nPalo Alto, CA 94301\n\nT: 650-462-8010 | F: 650-462-8422\ndelia.bailey at yougov.com\nhttp://www.yougov.com/",
+      "body_snippet": "STATISTICAL PROGRAMMER\n\nWe are seeking one or more programmers for our Analytics Group, based in\nPalo Alto. We are looking for people who combine strong programming skills\nwith experience performing s",
+      "thread_id": "thread-5bab6f67c459",
+      "thread_depth": 0,
+      "month": "2011-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-39624d07fd24",
+      "subject": "[R-jobs] TIBCO looking for Analytics Consultants",
+      "message_count": 1,
+      "participants": [
+        "Louis Bajuk-Yorgan"
+      ],
+      "started": "2011-02-03T10:26:23-08:00",
+      "last_reply": "2011-02-03T10:26:23-08:00",
+      "root_message_id": "msg-39624d07fd24"
+    },
+    {
+      "id": "thread-5bab6f67c459",
+      "subject": "[R-jobs] Statistical Programmer",
+      "message_count": 1,
+      "participants": [
+        "Delia Bailey"
+      ],
+      "started": "2011-02-22T20:30:41+01:00",
+      "last_reply": "2011-02-22T20:30:41+01:00",
+      "root_message_id": "msg-5bab6f67c459"
+    }
+  ]
+}

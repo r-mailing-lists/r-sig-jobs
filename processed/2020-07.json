@@ -1,0 +1,63 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2020-07",
+  "messages": [
+    {
+      "id": "msg-a0308d49badf",
+      "message_id": "<9943d8c868a24fd0986d98bd015decc7@THALASSA.omni.imsweb.com>",
+      "from_name": "Jobs at IMS, Inc.",
+      "from_email_hash": "3fbdf74e0a63f5679a85209f2ab005911c838e3c6d03623ab4d52562b22414e5",
+      "date": "2020-07-14T14:38:33Z",
+      "subject": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "subject_clean": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Looking for a collaborative, fun company with room for growth?\n\nIMS, Inc. is a recognized leader in the biomedical IT field, with clients including the NCI, CDC, & major pharmaceutical firms. We are a diverse group of people with a focus on product quality, customer satisfaction, & enjoying what we do. We have a relaxed, friendly work environment, where employees are recognized for the work that they do. Add to that work/life balance, social events, casual dress, & no cubicles- that's why many employees have stayed with us.\n\nJoin us as a Statistician/Programmer & see what makes IMS such a unique place to work!\n\nAs a Statistician/Programmer, you will:\n*Collaborate & support the National Cancer Institute in their work studying genomics, cancer rates, determinants of cancer, cancer treatment, & prevention\n*Develop statistical methods and data analysis procedures to analyze genomic studies, observational studies, intervention, trials & laboratory studies\n*Conduct statistical analysis, interpret & publish their results\n*Work with cohort & case/control studies & population-based data sources to model trends in incidence, mortality & survival\n*Perform other programming & statistical analysis related duties as assigned\n\nTo be eligible for this position, you must meet the following requirements:\n*MS/PhD in Stat or related field from a U.S. DOE accredited institution with a 2.9+ GPA\n*0-5 years of experience\n*Experience with genetic analysis preferred\n*Knowledge of R\n*Knowledge of software development methodology\n*Knowledge of genetic research a plus\n*Knowledge of SAS, C, C++, & other higher level programming languages preferred\n*Familiarity with modern biostatistical analysis techniques including spatial analysis & survival analysis methods\n*Demonstrated strong verbal & written communication skills\n*Demonstrated ability to relay technical information to clients & users in layman terms\n*Demonstrated strong analytic & problem solving skills\n*Demonstrated customer service skills\n*Excellent attention to detail & organization skills\n*Must be able to multi-task, meet deadlines, & work within a team\n*Strong presentation skills preferred\n\nIf this sounds like the right position for your career, apply today at: https://www.imsweb.com/employment/job.description.php?position=23803.\n\nIMS is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, protected veteran status, or other characteristic protected by applicable law.\n\n________________________________\n\nInformation in this e-mail may be confidential. It is intended only for the addressee(s) identified above. If you are not the addressee(s), or an employee or agent of the addressee(s), please note that any dissemination, distribution, or copying of this communication is strictly prohibited. If you have received this e-mail in error, please notify the sender of the error.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Looking for a collaborative, fun company with room for growth?\n\nIMS, Inc. is a recognized leader in the biomedical IT field, with clients including the NCI, CDC, & major pharmaceutical firms. We are a",
+      "thread_id": "thread-a0308d49badf",
+      "thread_depth": 0,
+      "month": "2020-07"
+    },
+    {
+      "id": "msg-fbefaa6f9514",
+      "message_id": "<CAHa6or1RqidgDrEoCni92TJ5YzVpLiEoPQfrBGSLMALeR0er3w@mail.gmail.com>",
+      "from_name": "Lars J. Olson",
+      "from_email_hash": "e774be700c108c00fd368d6888a33230ac5583dcd1f537487c3fbecd75bb450f",
+      "date": "2020-07-28T15:29:52-04:00",
+      "subject": "[R-jobs] Assistant Clinical Professor - University of Maryland",
+      "subject_clean": "[R-jobs] Assistant Clinical Professor - University of Maryland",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The University of Maryland?s University Honors program invites applications\nfor four faculty positions to begin in Fall 2020. Each of these Assistant\nClinical Professor positions offers a three-year, full-time appointment\nwith competitive salaries and generous benefits. These faculty positions\noffer a rare opportunity to incubate and test innovative pedagogy,\nco-design and independently teach creative new courses, mentor promising\nand ambitious undergraduate students, all in the context of a thriving\nliving-learning community. At the heart of the program is an innovative,\nmultidisciplinary curriculum comprised of thematically organized courses on\ntopics of contemporary and enduring significance.\n\nCandidates with expertise in data science, information science,\neconometrics, and/or statistics  and interests in teaching undergraduate\nhonors are encouraged to apply for the theme ?Information and Power?, led\nby faculty fellows James Archsmith and Lars Olson.  For more information\nabout the theme and the search please see:\nhttps://www.universityhonors.umd.edu/acp.html.  An overview of University\nHonors can be found here: https://www.universityhonors.umd.edu/overview.html.\nThe official job announcement is available at:\nhttps://ejobs.umd.edu/postings/77675. For best consideration apply by\nAugust 7, 2020.  A Ph.D or other terminal degree is required. Questions and\ninquiries may be directed to Dr. Christine Jones at cjones46 at umd.edu.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The University of Maryland?s University Honors program invites applications\nfor four faculty positions to begin in Fall 2020. Each of these Assistant\nClinical Professor positions offers a three-year, ",
+      "thread_id": "thread-fbefaa6f9514",
+      "thread_depth": 0,
+      "month": "2020-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a0308d49badf",
+      "subject": "[R-jobs] IMS Job Posting: Statistician/Programmer",
+      "message_count": 1,
+      "participants": [
+        "Jobs at IMS, Inc."
+      ],
+      "started": "2020-07-14T14:38:33+00:00",
+      "last_reply": "2020-07-14T14:38:33+00:00",
+      "root_message_id": "msg-a0308d49badf"
+    },
+    {
+      "id": "thread-fbefaa6f9514",
+      "subject": "[R-jobs] Assistant Clinical Professor - University of Maryland",
+      "message_count": 1,
+      "participants": [
+        "Lars J. Olson"
+      ],
+      "started": "2020-07-28T15:29:52-04:00",
+      "last_reply": "2020-07-28T15:29:52-04:00",
+      "root_message_id": "msg-fbefaa6f9514"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2008-05",
+  "messages": [
+    {
+      "id": "msg-506fe0db175a",
+      "message_id": "<4C7D0185E1C6D64AAFB18A2281B262B80CFB679B1C@EXIRV01.am.edwards.lcl>",
+      "from_name": "Janine Long",
+      "from_email_hash": "2aac792a0895221b65c5e946021a8c08a92ea903e4dca506b8da4eeb10ed88b1",
+      "date": "2008-05-08T11:03:43-07:00",
+      "subject": "[R-jobs] Statistical Programmer (Irvine, CA), Edwards Lifesciences",
+      "subject_clean": "[R-jobs] Statistical Programmer (Irvine, CA), Edwards Lifesciences",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Edwards Lifesciences (NYSE: EW) is a global leader in products and technologies to treat advanced cardiovascular disease, the global leader in acute hemodynamic monitoring and the number-one heart valve company in the world. Headquartered in Irvine, California, Edwards has more than 5,000 employees worldwide, selling medical technologies in more than 100 countries. Edwards Lifesciences leverages its research, design, development and marketing expertise through five main product categories: Heart Valve Therapy, Critical Care, Cardiac Surgery, Vascular Therapy, and Transcatheter Valve Interventions.\n\nFor us, saving lives is not just a slogan; it's what we do. From developing devices that keep a heart pumping to creating new technologies which monitor vital signs in the critical care setting, we help ensure that patients regain and even improve their quality of life.\n\nStatistical Programmer\n\nOpportunity Snapshot:\nBe a part of a cutting edge biostatistical group at an industry leader in medical devices.  We strive to combine the latest methodology and programming techniques to design groundbreaking clinical trials and to perform state of the art analyses.  Join us as we push the statistical envelope to provide our patients and physician partners with pioneering treatments in the fight against cardiovascular disease!\n\nKey responsibilities:\n\n\n\n *   Develop, test, validate, document, maintain and execute programs in SAS.\n *   Prepare, document, and review data listings, summary tables, and graphs for inclusion in clinical reports or presentations.\n *   Prepare analysis datasets for use by statisticians.\n *   Ensure analysis data and programming code meet regulatory and company standards and are consistently structured to permit efficient programming, reporting, and review.\n *   Respond to data requests from company team members.\n *   Perform quality assurance procedures on work performed by others.\n\nOur Requirements:\n\n *   Multi-level position: Position title and level posted is preferred. However, depending on background and experience, we will consider hiring at the Senior Statistical Programmer level.\n *   The Statistical Programmer requires a minimum of two (2) years of solid SAS programming experience, ideally with clinical data. The Senior Statistical Programmer requires a minimum of five (5) years SAS experience in the clinical environment.\n *   Both levels require a minimum of a Bachelor's degree, preferably in Mathematics, Statistics, or Computer Science.\n *   A Master's degree in mathematics is preferred and may be considered to offset minimum experience requirement.\n *   Knowledge of UNIX and Windows operating systems required. Good oral and written communication skills are essential.\n\nHow to Apply:\nAt Edwards Lifesciences, we want you to have as much information as possible before making an important career decision. To find out more about this role and the opportunity it offers, please visit our website:\nwww.edwards.com<http://www.edwards.com>\n\nOR\n\nTo apply directly to this position, please click the link below or cut and paste it into your browser:\nhttp://www.edwards.com/Careers/reqfinder?urlvariablestring=2748\n\n\n\n\n________________________________\nThis message contains information which may be confident...{{dropped:11}}",
+      "body_snippet": "Edwards Lifesciences (NYSE: EW) is a global leader in products and technologies to treat advanced cardiovascular disease, the global leader in acute hemodynamic monitoring and the number-one heart val",
+      "thread_id": "thread-506fe0db175a",
+      "thread_depth": 0,
+      "month": "2008-05"
+    },
+    {
+      "id": "msg-b5139d670f31",
+      "message_id": "<88EFEBAC-5324-46E0-8808-04C635FBDA79@uni-bremen.de>",
+      "from_name": "Karsten Wolf",
+      "from_email_hash": "7f01c250370103f12e2061c7b12ebb8be34e6d78f1fb62ce4bb50253dbb2ada7",
+      "date": "2008-05-14T21:26:13+02:00",
+      "subject": "[R-jobs] Research assistant at University Bremen, Germany: Timeseries Analysis with R",
+      "subject_clean": "[R-jobs] Research assistant at University Bremen, Germany: Timeseries Analysis with R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi there,\nwe are looking for a research assistant for a project on analysing  \ntimeseries in the field of educational research.\n\nWe have timeseries of the subjective perception (I understand, I feel  \ngood, I am interested etc.) of 109 students (6 different courses, 26  \nto 72 hours of classroom teaching, 208 to 332 points of measurement).\nWe want to do exemplary analysis of the interaction between  \nmotivational factors and situational interest. For this we want to use  \nnewer methods such as GARCH, latent curve analysis and co-integration  \nin comparison with classical TSA.\n\nWe are looking for candidates with a good experience in using R for  \nTSA who are willing to work in Bremen, Germany.\n\nCompensation is 50% TVL13. Candidates are expected to work on a  \ndissertation and do some teaching duties (2 hours per week,  \nquantitative methods).\n\nIf you are interested, just drop us some lines with your background  \nand some links to your work so far.\n\nYours,\nKarsten\n\n------------------------------------------------------------------------\nNew phone number 0421 - 218 - 69140\n------------------------------------------------------------------------\n\nKarsten D. Wolf\nProf. Dr. phil. (W1)\n\nDidactical Design of Interactive\nLearning Environments\n\nUniversit?t Bremen - Fachbereich 12\nPostfach 33 04 40\n\nD-28334 Bremen\n\nfon: 0421 - 218 69140\nfax: 0421 - 218 7219\nskype: karsten.d.wolf\nweb: http://www.ifeb.uni-bremen.de/wolf/ (should be online again next  \nweek - mainboard!)\nblog: http://blog.didactalab.de/\nmail: wolf at uni-bremen.de\n\nRaum: A2130, GW2\nSprechstunde: Mittwoch, 14 - 15 Uhr\n\nSekretariat:\nFrau von Palubicki\nRaum A2050, GW2\nfon: 0421 -  218 9643",
+      "body_snippet": "Hi there,\nwe are looking for a research assistant for a project on analysing  \ntimeseries in the field of educational research.\n\nWe have timeseries of the subjective perception (I understand, I feel  ",
+      "thread_id": "thread-b5139d670f31",
+      "thread_depth": 0,
+      "month": "2008-05"
+    },
+    {
+      "id": "msg-c4509a99016f",
+      "message_id": "<dd3243090805211331w3fe45283qcb5153cc0d8b9424@mail.gmail.com>",
+      "from_name": "Shane Conway",
+      "from_email_hash": "37aab6633bb48e7715defe003af5db736b2382e02d8173b9e89e594137080e4d",
+      "date": "2008-05-21T16:31:20-04:00",
+      "subject": "[R-jobs] Quantitative Research Analyst (New York, NY)",
+      "subject_clean": "[R-jobs] Quantitative Research Analyst (New York, NY)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Quantitative Research Analyst (New York, NY)\n\nDescription\n\nThe Millburn Corporation, a money management firm in the alternative\ninvestment business, is seeking a Quantitative Research Analyst to\nwork in our New York City office.  The firm trades financial and\ncommodity futures and currency forwards using systematic trading\nmethodologies.\n\nThe candidate will work within the research group, which is\nresponsible for developing trading strategies and risk allocation\nmodels in connection with the firm's trading activities.  They will be\nresponsible for the implementation and analysis of trading strategies\ndeveloped within the research group.\n\nRequirements\n\n* Undergraduate or graduate degree from a top university in\nengineering or similar disciplines with at least a 3.5/4.0 or\nequivalent GPA.\n* Knowledge of financial markets and experience analyzing financial data.\n* Excellent written and verbal communication skills, including the\nability to present ideas to groups.\n* Strong knowledge of S-plus, R, or Matlab time series analysis is required.\n* Strong knowledge of SQL including stored procedures, triggers, and\ndatabase design in PostgreSQL.\n* Experience as a technical team lead and knowledge of project\nmanagement tools such as Microsoft Project, Jira, or SourceForge is\ndesirable.\n* Experience with data reporting tools is desirable.\n\nWe offer a highly competitive salary and bonus with outstanding\nbenefits including medical and a 401K plan.\n\nContact: research_associate at millburncorp.com\n\nVeronica Moreno\nDirector of Human Resources\nThe Millburn Corporation\n1270 Avenue of Americas\nNew York, NY 10014",
+      "body_snippet": "Quantitative Research Analyst (New York, NY)\n\nDescription\n\nThe Millburn Corporation, a money management firm in the alternative\ninvestment business, is seeking a Quantitative Research Analyst to\nwork ",
+      "thread_id": "thread-c4509a99016f",
+      "thread_depth": 0,
+      "month": "2008-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-506fe0db175a",
+      "subject": "[R-jobs] Statistical Programmer (Irvine, CA), Edwards Lifesciences",
+      "message_count": 1,
+      "participants": [
+        "Janine Long"
+      ],
+      "started": "2008-05-08T11:03:43-07:00",
+      "last_reply": "2008-05-08T11:03:43-07:00",
+      "root_message_id": "msg-506fe0db175a"
+    },
+    {
+      "id": "thread-b5139d670f31",
+      "subject": "[R-jobs] Research assistant at University Bremen, Germany: Timeseries Analysis with R",
+      "message_count": 1,
+      "participants": [
+        "Karsten Wolf"
+      ],
+      "started": "2008-05-14T21:26:13+02:00",
+      "last_reply": "2008-05-14T21:26:13+02:00",
+      "root_message_id": "msg-b5139d670f31"
+    },
+    {
+      "id": "thread-c4509a99016f",
+      "subject": "[R-jobs] Quantitative Research Analyst (New York, NY)",
+      "message_count": 1,
+      "participants": [
+        "Shane Conway"
+      ],
+      "started": "2008-05-21T16:31:20-04:00",
+      "last_reply": "2008-05-21T16:31:20-04:00",
+      "root_message_id": "msg-c4509a99016f"
+    }
+  ]
+}

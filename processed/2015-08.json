@@ -1,0 +1,38 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2015-08",
+  "messages": [
+    {
+      "id": "msg-6fd1f3608d12",
+      "message_id": "<41eb3ba615744b8e82b7af7d2cec9f26@EX13STORE.YOUGOV.local>",
+      "from_name": "Delia Bailey",
+      "from_email_hash": "992060a0753f2d11e740534dfdc3b4e31dd3d74d3d3182a641900af7e3c01b73",
+      "date": "2015-08-03T17:45:33Z",
+      "subject": "[R-jobs] Analytics Jobs at YouGov",
+      "subject_clean": "[R-jobs] Analytics Jobs at YouGov",
+      "in_reply_to": "<dc3c3e195bd644d3abd7a8be854efba1@EX13STORE.YOUGOV.local>",
+      "references": [
+        "<dc3c3e195bd644d3abd7a8be854efba1@EX13STORE.YOUGOV.local>"
+      ],
+      "body_plain": "We're looking for one or more technical people at varying levels for our group at YouGov. See below for the job descriptions. Feel free to email me directly with questions.\n\n\n-------\n\n\nYouGov is seeking two technically sophisticated persons for its Innovations Group, based in Redwood City. We are looking for people who combine knowledge of applied statistics or econometrics with strong computational skills (especially R, Python and SQL). Work in a fast-paced and intellectually stimulating environment where technically sophisticated solutions to marketing, financial, and political problems are developed.\n\nBoth positions are based in Redwood City, CA.\n\n*Director/Senior Director of Analytics*\n\nYou will be involved in large-scale statistical analysis projects, and will work directly with the Chief Scientist on methodological problems.\n\nResponsibilities include the design, development, implementation, and maintenance of software for statistical analysis, including statistical graphics; design and implementation of solutions for client-facing data delivery;  design, implementation, and presentation of results of statistical and econometric models for internal and external projects.\n\nWe care more about your programming skills than your schooling, but the relevant educational background is Masters or Ph.D. in computer science, statistics, quantitative social science or other relevant scientific area.\n\nThe ideal candidate would have the following qualifications:\n\n   -- Knowledge of applied statistics and econometrics is essential.\n\n   -- Experience performing statistical analyses on large datasets.\n\n   -- Expert programmer in R, and exposure to Python, C/C++\n\n   -- Experience with relational databases such as PostgreSQL; big-data solutions like Hadoop, Spark; computing/data warehousing solutions like Hive, AWS/Redshift\n\n   -- Strong written and oral communication skills\n\n   -- Ability to learn new software and techniques.\n\n   -- Commitment and attention to detail and accuracy\n\nCompensation: depends on experience and qualifications\nInterested candidates should submit a cover letter and resume to vacancies-us at yougov.com?\n\n\n*Analyst/Senior Analyst*\n\nResponsibilities include statistical analysis of survey data including nonresponse, weighting, imputation, and matching; the design and execution of analyses for internal and external research projects; and contributions to existing  internal codebase for statistical analysis.\n\nWe care more about your programming skills than your schooling, but the relevant educational background is Masters or Ph.D. in computer science, statistics, quantitative social science or other relevant scientific area. Outstanding candidates with undergraduate degrees considered.\n\nThe ideal candidate would have the following qualifications:\n\n   -- Knowledge of applied statistics and econometrics.\n\n   -- Background in statistical computing, using software such as R, Stata, and WinBugs/JAGS.\n\n   -- Programming with C/C++, Python, SQL, etc. are a plus.\n\n   -- Experience performing statistical analyses on large datasets.\n\n   -- Strong written and oral communication skills\n\n   -- Ability to learn new software and techniques.\n\n   -- Commitment and attention to detail and accuracy\n\nCompensation: depends on experience and qualifications\nInterested candidates should submit a cover letter and resume to vacancies-us at yougov.com\n\nYouGov is the North American unit of YouGov PLC, with operations in the US, UK, Germany, Denmark, Norway, France, Dubai, Saudi Arabia, China, and South East Asia.?\n\n\n\n\n\nDelia Bailey\nVice President of Analytics\nYouGov\nWhat the world thinks\n\n285 Hamilton Ave., Ste #200\nPalo Alto, CA 94301\nT: +1 650-462-8000\ndelia.bailey at yougov.com\nhttp://www.yougov.com",
+      "body_snippet": "We're looking for one or more technical people at varying levels for our group at YouGov. See below for the job descriptions. Feel free to email me directly with questions.\n\n\n-------\n\n\nYouGov is seeki",
+      "thread_id": "thread-6fd1f3608d12",
+      "thread_depth": 0,
+      "month": "2015-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-6fd1f3608d12",
+      "subject": "[R-jobs] Analytics Jobs at YouGov",
+      "message_count": 1,
+      "participants": [
+        "Delia Bailey"
+      ],
+      "started": "2015-08-03T17:45:33+00:00",
+      "last_reply": "2015-08-03T17:45:33+00:00",
+      "root_message_id": "msg-6fd1f3608d12"
+    }
+  ]
+}

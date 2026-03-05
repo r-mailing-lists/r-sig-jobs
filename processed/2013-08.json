@@ -1,0 +1,143 @@
+{
+  "list": "r-sig-jobs",
+  "description": "",
+  "month": "2013-08",
+  "messages": [
+    {
+      "id": "msg-39a49a89fbda",
+      "message_id": "<521B78AB.1080201@umons.ac.be>",
+      "from_name": "Philippe Grosjean",
+      "from_email_hash": "f919d2feaa0c5773745d5216914818fec6c156b38fa68f2af6ac5d81861bc7ff",
+      "date": "2013-08-26T17:47:55+02:00",
+      "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R-Sig-Jobs members,\n\nA PhD position is available at the COMPLEXYS Research Institute of the University of Mons (UMONS),\nBelgium (http://www.complexsystems.be/). The PhD position is part of a joint research project on\n\"Ecological Studies of Open Source Software Ecosystems (ECOS)\". This interdisciplinary project\nbetween biology and computer science aims to use software repository mining to determine whether\nand how selected ecological models and theories from biological ecosystems can be adapted and\nadopted to understand and better explain how open source software projects (akin to biological\nspecies) evolve over time, and to determine what are the main factors that drive the success or\npopularity of these projects. We wish to use knowledge on the evolution of biological ecosystems\nto provide support aiming to optimize the fitness, resistance and resilience of OSS projects.\n\nThe target software ecosystems are Gnome and R currently, and perhaps also Android in the future.\nThe successful candidate will extract useful information from the R project, work with data already\navailable on Gnome, and will elaborate tools to determine who drives software evolution in these\necosystems: developers or users, in various situations. He will also derive from these data what\nare the consequences on the success of the projects. He will eventually provide guiding rules on\nthe light of its results.\n\nThe position is available immediately for a period of up to 4 years with the aim to obtain a PhD\ndegree. Candidates should be eligible for starting a PhD in Sciences (they should have a Master or\nEngineering degree or equivalent) and are expected to complete their PhD during the project period.\nThe candidates should have a clear interest in biological and computer science aspects. Practical\nprogramming experience is required, and (practical) knowledge of statistical analysis is a plus,\nespecially with R.\n\nCandidates should send their detailed CV together with a motivation letter expressing their interest\nin the project by e-mail to Tom Mens (tom.mens at umons.ac.be) and\nPhilippe Grosjean (philippe.grosjean at umons.ac.be).\n\n- Tom Mens, Software Engineering Lab, D?partement Informatique, Faculty of Sciences, University of Mons,\nPlace du Parc 20, 7000 Mons, Belgium.\n- Philippe Grosjean, Numerical Ecology of Aquatic Systems Lab, Biology Department, Faculty of Sciences,\nUniversity of Mons, 8 avenue du Champ de Mars, 7000 Mons, Belgium.\n\n\nScientists interested by this project, being specialists in software evolution, or ecologists with some\ninterest for Open Source software including the R ecosystem, should contact us for discussion of\npotentials for a post-doc, or visiting scientist programme.\n\nSee here:\n\nhttp://informatique.umons.ac.be/genlog/projects/ecos/\nhttp://www.youtube.com/watch?v=w-UObuhUty8&list=PL5B5D3BF5B9BB1929&index=33\n\nBest,\n\nPhilippe Grosjean\n\n-- \n..............................................<?}))><........\n  ) ) ) ) )\n( ( ( ( (    Prof. Philippe Grosjean\n  ) ) ) ) )\n( ( ( ( (    Numerical Ecology of Aquatic Systems\n  ) ) ) ) )   Mons University, Belgium\n( ( ( ( (\n..............................................................",
+      "body_snippet": "Dear R-Sig-Jobs members,\n\nA PhD position is available at the COMPLEXYS Research Institute of the University of Mons (UMONS),\nBelgium (http://www.complexsystems.be/). The PhD position is part of a join",
+      "thread_id": "thread-39a49a89fbda",
+      "thread_depth": 0,
+      "month": "2013-08"
+    },
+    {
+      "id": "msg-59384a51930f",
+      "message_id": "<CADDQFRvbY12TDqcW2hCQ45JmWOcQkTMk2_DgHeRRh1FmsrfjSA@mail.gmail.com>",
+      "from_name": "A. Mani",
+      "from_email_hash": "6b3b6e0393aa09ae73502abb282829e6f69f1396800a5a1ad229ca2016ce6e13",
+      "date": "2013-08-28T22:49:44+05:30",
+      "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "in_reply_to": "<521B78AB.1080201@umons.ac.be>",
+      "references": [
+        "<521B78AB.1080201@umons.ac.be>"
+      ],
+      "body_plain": "On Mon, Aug 26, 2013 at 9:17 PM, Philippe Grosjean\n<Philippe.Grosjean at umons.ac.be> wrote:\n>\n> The target software ecosystems are Gnome and R currently, and perhaps also\n> Android in the future.\n> The successful candidate will extract useful information from the R project,\n> work with data already\n> available on Gnome, and will elaborate tools to determine who drives\n> software evolution in these\n> ecosystems: developers or users, in various situations. He will also derive\n> from these data what\n> are the consequences on the success of the projects. He will eventually\n> provide guiding rules on\n> the light of its results.\n\n\nWhy is it sexist?\n\n\n\nBest\n\nA. Mani\n\n\n\nA. Mani\nCU, ASL, AMS, CLC, CMS\nhttp://www.logicamani.in",
+      "body_snippet": "On Mon, Aug 26, 2013 at 9:17 PM, Philippe Grosjean\n<Philippe.Grosjean at umons.ac.be> wrote:\n>\n> The target software ecosystems are Gnome and R currently, and perhaps also\n> Android in the future.\n> T",
+      "thread_id": "thread-39a49a89fbda",
+      "thread_depth": 1,
+      "month": "2013-08"
+    },
+    {
+      "id": "msg-dc10b50fb208",
+      "message_id": "<CADDQFRvmY5_o2QfamYrmw=5SiH08JvaJVpMJt3UE0L0q_1VADg@mail.gmail.com>",
+      "from_name": "A. Mani",
+      "from_email_hash": "6b3b6e0393aa09ae73502abb282829e6f69f1396800a5a1ad229ca2016ce6e13",
+      "date": "2013-08-28T22:51:07+05:30",
+      "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "in_reply_to": "<CADDQFRvbY12TDqcW2hCQ45JmWOcQkTMk2_DgHeRRh1FmsrfjSA@mail.gmail.com>",
+      "references": [
+        "<521B78AB.1080201@umons.ac.be>",
+        "<CADDQFRvbY12TDqcW2hCQ45JmWOcQkTMk2_DgHeRRh1FmsrfjSA@mail.gmail.com>"
+      ],
+      "body_plain": "On Wed, Aug 28, 2013 at 10:49 PM, A. Mani <a.mani.cms at gmail.com> wrote:\n> Why is it sexist?\n\nSorry, that should have been 'gender discriminatory'\n\n\nBest\n\nA. Mani\n\n\n\nA. Mani\nCU, ASL, AMS, CLC, CMS\nhttp://www.logicamani.in",
+      "body_snippet": "On Wed, Aug 28, 2013 at 10:49 PM, A. Mani <a.mani.cms at gmail.com> wrote:\n> Why is it sexist?\n\nSorry, that should have been 'gender discriminatory'\n\n\nBest\n\nA. Mani\n\n\n\nA. Mani\nCU, ASL, AMS, CLC, CMS\nh",
+      "thread_id": "thread-39a49a89fbda",
+      "thread_depth": 2,
+      "month": "2013-08"
+    },
+    {
+      "id": "msg-825b10e0a099",
+      "message_id": "<CAPy1FZ7cb9NFEO4w7EataZ7BViawTrqiGrU_xmdSmBP3ryg=QA@mail.gmail.com>",
+      "from_name": "Patrick Coulombe",
+      "from_email_hash": "a000e39f1937b06359341d5f4cc53c5fa92b87c2c204fab3bbfb92bfb619d584",
+      "date": "2013-08-28T12:12:32-06:00",
+      "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "in_reply_to": "<CADDQFRvmY5_o2QfamYrmw=5SiH08JvaJVpMJt3UE0L0q_1VADg@mail.gmail.com>",
+      "references": [
+        "<521B78AB.1080201@umons.ac.be>",
+        "<CADDQFRvbY12TDqcW2hCQ45JmWOcQkTMk2_DgHeRRh1FmsrfjSA@mail.gmail.com>",
+        "<CADDQFRvmY5_o2QfamYrmw=5SiH08JvaJVpMJt3UE0L0q_1VADg@mail.gmail.com>"
+      ],
+      "body_plain": "I wouldn't overthink it... it looks like it's an English-as-second-language\nissue. These folks seemingly come from a French-speaking university, and in\nFrench the masculine form is used when referring to a group made up of both\ngenders; there is no gender-neutral equivalent to \"they\" in French. (This\nis less and less true in Canadian French, but this is irrelevant here.)\n\n\n2013/8/28 A. Mani <a.mani.cms at gmail.com>\n\n> On Wed, Aug 28, 2013 at 10:49 PM, A. Mani <a.mani.cms at gmail.com> wrote:\n> > Why is it sexist?\n>\n> Sorry, that should have been 'gender discriminatory'\n>\n>\n> Best\n>\n> A. Mani\n>\n>\n>\n> A. Mani\n> CU, ASL, AMS, CLC, CMS\n> http://www.logicamani.in\n>\n> _______________________________________________\n> R-sig-jobs mailing list\n> R-sig-jobs at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I wouldn't overthink it... it looks like it's an English-as-second-language\nissue. These folks seemingly come from a French-speaking university, and in\nFrench the masculine form is used when referring",
+      "thread_id": "thread-39a49a89fbda",
+      "thread_depth": 3,
+      "month": "2013-08"
+    },
+    {
+      "id": "msg-a00814977305",
+      "message_id": "<521E52FB.6030205@umons.ac.be>",
+      "from_name": "Philippe Grosjean",
+      "from_email_hash": "f919d2feaa0c5773745d5216914818fec6c156b38fa68f2af6ac5d81861bc7ff",
+      "date": "2013-08-28T21:43:55+02:00",
+      "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "in_reply_to": "<CAPy1FZ7cb9NFEO4w7EataZ7BViawTrqiGrU_xmdSmBP3ryg=QA@mail.gmail.com>",
+      "references": [
+        "<521B78AB.1080201@umons.ac.be>",
+        "<CADDQFRvbY12TDqcW2hCQ45JmWOcQkTMk2_DgHeRRh1FmsrfjSA@mail.gmail.com>",
+        "<CADDQFRvmY5_o2QfamYrmw=5SiH08JvaJVpMJt3UE0L0q_1VADg@mail.gmail.com>",
+        "<CAPy1FZ7cb9NFEO4w7EataZ7BViawTrqiGrU_xmdSmBP3ryg=QA@mail.gmail.com>"
+      ],
+      "body_plain": "On 28/08/13 20:12, Patrick Coulombe wrote:\n> I wouldn't overthink it... it looks like it's an English-as-second-language\n> issue. These folks seemingly come from a French-speaking university, and in\n> French the masculine form is used when referring to a group made up of both\n> genders; there is no gender-neutral equivalent to \"they\" in French. (This\n> is less and less true in Canadian French, but this is irrelevant here.)\n\nYou got it. Absolutely no intention to discriminate on gender. Sorry for \nthe error in English. Of course, the position is open to everybody, \nwhatever the gender, the origin, the religion, etc, etc.\nBest,\n\nPhilippe Grosjean\n\n> 2013/8/28 A. Mani<a.mani.cms at gmail.com>\n>\n>> On Wed, Aug 28, 2013 at 10:49 PM, A. Mani<a.mani.cms at gmail.com>  wrote:\n>>> Why is it sexist?\n>>\n>> Sorry, that should have been 'gender discriminatory'\n>>\n>>\n>> Best\n>>\n>> A. Mani\n>>\n>>\n>>\n>> A. Mani\n>> CU, ASL, AMS, CLC, CMS\n>> http://www.logicamani.in\n>>\n>> _______________________________________________\n>> R-sig-jobs mailing list\n>> R-sig-jobs at r-project.org\n>> https://stat.ethz.ch/mailman/listinfo/r-sig-jobs\n>>\n>",
+      "body_snippet": "On 28/08/13 20:12, Patrick Coulombe wrote:\n> I wouldn't overthink it... it looks like it's an English-as-second-language\n> issue. These folks seemingly come from a French-speaking university, and in\n>",
+      "thread_id": "thread-39a49a89fbda",
+      "thread_depth": 4,
+      "month": "2013-08"
+    },
+    {
+      "id": "msg-1f7ebd9c592f",
+      "message_id": "<92221ACE6743C742A9523A7B50062650352B1B@FDSWP3324.fda.gov>",
+      "from_name": "Rand, Hugh",
+      "from_email_hash": "4e120b3760285722716ebf2718fac90aeeef0dc2b2c06597f612dcdf97325028",
+      "date": "2013-08-30T14:39:16Z",
+      "subject": "[R-jobs] Bioinformatics position at FDA-CFSAN (College Park, MD)",
+      "subject_clean": "[R-jobs] Bioinformatics position at FDA-CFSAN (College Park, MD)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "The Biostatistics Analytics Team at the FDA Center for Food Safety and Applied Nutrition seeks an MS/PhD in computer science (or related field) with experience in bioinformatics.  The Analytics Team is responsible for computational support for projects involving large chemical and microbial hazard data sets, including bioinformatic and statistical analysis of bacterial genomic data for foodborne pathogens.  The individual works with a team of statisticians and bioinformaticians to develop and improve methods for detecting and identifying bacterial pathogens from food and environmental sources\n\nThe successful applicant would be expected to effectively interact with various subject matter experts in molecular biology, food safety, epidemiology, and other disciplines as program needs require. The applicant should be proficient in many of the standard programming languages and tool sets of relevance (Python, BioPython, R, Blast, NGS tools, ...). In addition, the applicant should be comfortable working with a wide variety of structured and unstuctured types of data, including geospatial, next generation sequencing, and social text data. Knowledge of standard software engineering best-practices, database design, architecture, and high performance computing all would be a plus for the applicant.\n\nLink to announcement and application:  https://www.usajobs.gov/GetJob/ViewDetails/350314300\n\nHugh Rand\nSupervisor, Analytics Team, Biostatistics Branch\nOffice of Analytics and Outreach\nFDA Center for Food Safety and Applied Nutrition\n5100 Paint Branch Pkwy\nCollege Park, MD 20740\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "The Biostatistics Analytics Team at the FDA Center for Food Safety and Applied Nutrition seeks an MS/PhD in computer science (or related field) with experience in bioinformatics.  The Analytics Team i",
+      "thread_id": "thread-1f7ebd9c592f",
+      "thread_depth": 0,
+      "month": "2013-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-39a49a89fbda",
+      "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
+      "message_count": 5,
+      "participants": [
+        "A. Mani",
+        "Patrick Coulombe",
+        "Philippe Grosjean"
+      ],
+      "started": "2013-08-26T17:47:55+02:00",
+      "last_reply": "2013-08-28T21:43:55+02:00",
+      "root_message_id": "msg-39a49a89fbda"
+    },
+    {
+      "id": "thread-1f7ebd9c592f",
+      "subject": "[R-jobs] Bioinformatics position at FDA-CFSAN (College Park, MD)",
+      "message_count": 1,
+      "participants": [
+        "Rand, Hugh"
+      ],
+      "started": "2013-08-30T14:39:16+00:00",
+      "last_reply": "2013-08-30T14:39:16+00:00",
+      "root_message_id": "msg-1f7ebd9c592f"
+    }
+  ]
+}

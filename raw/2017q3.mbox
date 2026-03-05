@@ -1,0 +1,115 @@
+From mxkuhn @end|ng |rom gm@||@com  Thu Jul 27 18:16:37 2017
+From: mxkuhn @end|ng |rom gm@||@com (Max)
+Date: Thu, 27 Jul 2017 09:16:37 -0700
+Subject: [R-jobs] nonclinical statistician
+Message-ID: <CAJ9CoWmfsGdR0=JJV8gPxcNpVHSsxMKxinJJV_Vjg76SdtsyAQ@mail.gmail.com>
+
+Associate Director, Statistics
+
+USA - MA - Cambridge Kendall Sq. 700 Main
+USA - CT - Groton
+
+Seeking a motivated and experienced statistician with a solid
+background in nonclinical statistics to provide support and leadership
+to Pfizer?s discovery sciences by influencing choice of targets,
+compounds, doses, and formulations at key decision points and
+meetings. ?The nonclinical statistician will provide state-of-the-art
+statistical design, analysis, and interpretation of high quality
+studies and experiments that underpin or enable the identification and
+development of high value assets across therapeutic areas for Pfizer?s
+Research organization. ?The focus will be on both platform approaches
+(e.g., ensuring robust analytical methods) and project-specific
+applications (e.g., early synthetic route optimization). ?Job
+responsibilities could evolve and expand over time (e.g., biomarker
+development).
+
+- Statistical support for chemistry and biology in support of compound
+and target identification, assay capability, and synthesis
+optimization.
+- Demonstrate leadership in influencing and improving drug discovery
+by identifying, developing, and applying innovative quantitative
+methods.
+- Proactively seek collaborations with scientists and lab heads to
+plan meaningful studies, analyze historical data, and influence
+workflows.
+- Serve as a core member of scientific teams responsible for
+determining strategy and delivering results in a timely manner with
+high quality.
+- Use statistical expertise to prepare both internal and external
+reports, presentations, manuscripts, with the aim to improve the
+quality of internal decision making and increase our influence on the
+external environment
+- Standardize processes and methodologies by developing statistical
+tools to aid scientists in objective decision-making.
+- Participate in the group?s education initiative by co-leading
+courses such as experimental design and measurement systems analysis.
+- Pursue business-related research interests and represent Pfizer externally.
+- Ph.D. in Statistics, Biostatistics, or related field and 3+ years
+statistical consulting experience in drug discovery and development,
+preferably in a laboratory science environment., or MS with 5+years of
+pharmaceutical experience
+- Strong initiative, excellent interpersonal and communication
+(written and verbal) skills.
+- Fundamental understanding of inference, probability, and Bayesian
+methods; Solid knowledge of experimental design; Proficiency in
+contemporary modeling including mixed models, nonlinear regression;
+- Comprehension of tools for high dimensional data analyses and
+predictive modeling / machine learning.
+- Sound computational skills in R.
+- Familiarity with basic chemistry, biology, and / or engineering.
+- Knowledge of drug development regulations pertinent to statistical
+analysis and reporting
+- Proven track record of integrating statistical techniques and
+solutions into (pharmaceutical) applications to achieve business
+results.
+- The aptitude to identify, understand, and apply relevant scientific
+literature.
+
+
+
+From mxkuhn @end|ng |rom gm@||@com  Thu Jul 27 18:21:04 2017
+From: mxkuhn @end|ng |rom gm@||@com (Max)
+Date: Thu, 27 Jul 2017 09:21:04 -0700
+Subject: [R-jobs] nonclinical statistician
+In-Reply-To: <CAJ9CoWmfsGdR0=JJV8gPxcNpVHSsxMKxinJJV_Vjg76SdtsyAQ@mail.gmail.com>
+References: <CAJ9CoWmfsGdR0=JJV8gPxcNpVHSsxMKxinJJV_Vjg76SdtsyAQ@mail.gmail.com>
+Message-ID: <CAJ9CoWnpvW7yQhazEzCyk9zdYtVb3Jy_+0xaa_O-ewkdL+OWxQ@mail.gmail.com>
+
+The link to apply is
+
+https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/USA---MA---Cambridge-Kendall-Sq-700-Main/Associate-Director--Statistics_1603363
+
+
+
+From @utop@r@iiei_r_jobs m@iii@g oii @ym@hush@com  Wed Aug 23 03:30:47 2017
+From: @utop@r@iiei_r_jobs m@iii@g oii @ym@hush@com (@utop@r@iiei_r_jobs m@iii@g oii @ym@hush@com)
+Date: Tue, 22 Aug 2017 20:30:47 -0500
+Subject: [R-jobs] Bayesian Stats Job, MCMC Code Porting
+Message-ID: <20170823013047.5B272E05D0@smtp.hushmail.com>
+
+Hello R Programmers,
+We have a large existing Perl codebase which is currently being
+upgraded to use the new optimizing RPerl compiler (not related to the
+R language).
+http://rperl.org/
+Also in use by the same Perl codebase is some custom R code which
+loads the "bayesm" library in order to execute Markov Chain Monte
+Carlo (MCMC) calculations.
+https://cran.r-project.org/web/packages/bayesm/index.html
+This job is to port (rewrite) all utilized components of bayesm from R
+to RPerl, then replace all the custom bayesm-calling R code with RPerl
+as well.  In the end, all R code will be replaced by functionally
+equivalent RPerl code.
+For this job, you must know R, Perl, Linux, and MCMC algorithms.
+If you believe you are a good match for this position, please e-mail
+me a brief summary of your qualifications and I will send you a link
+to interview for the job online.
+Thanks,~ Will
+William Norman Braswell, Jr.
+ CEO & President; Auto-Parallel Technologies, Inc.
+ william.braswell at autoparallel.com
+ 512.563.7984
+ This email message is for the sole use of the intended ...{{dropped:8}}
+
+
+

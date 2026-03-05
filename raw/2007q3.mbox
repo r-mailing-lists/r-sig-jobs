@@ -1,0 +1,214 @@
+From joh@@g@vi@ m@iii@g oii ubs@com  Tue Jul 31 16:19:43 2007
+From: joh@@g@vi@ m@iii@g oii ubs@com (joh@@g@vi@ m@iii@g oii ubs@com)
+Date: Tue, 31 Jul 2007 15:19:43 +0100
+Subject: [R-jobs] R Programmer - finance - London based
+Message-ID: <182544D7A3144B42994EEA5662C54E01071A06F3@NLDNC105PEX1.ubsw.net>
+
+Hi,
+
+UBS Investment Bank are looking for a skilled R programmer,
+seeking a career that combines computer science, applied statistics and
+finance. 
+This position requires a person with a strong background in 
+- R programming and R package maintenance.
+- Software development.
+- Design and implementation of efficient algorithms.
+  especially for handling large datasets.
+- Data visualisation and analysis.
+
+The primary responsibilities are to develop software, 
+using the R language, for:
+- Compiling and maintaining in-house R packages for 
+  analysing high-frequency financial data. 
+- Interfacing R/S-Plus to other languages, especially Java.
+- Assisting in the prototyping and testing of trading algorithms.
+
+This is a new role, based in London, where the rest of the team is
+based.
+
+Responsibilities include the development and implementation of:
+- Generic filtering/cleansing of high-dimensional, high-volume noisy
+tick data.
+- Construction of testing harnesses for trading strategies.
+- Implementing generic simulators for algorithmic verification and
+robustness checking.
+- Backtesting and risk & performance analysis.
+
+This includes the design of:
+- Language interfaces, 
+- Underlying core computational routines, probably in Java, 
+- Automated test and validation routines, 
+- Related documentation, such as help files and vignettes,
+
+For more details please contact 
+
+  Adam.Herasemiuk at ubs.com   quoting ref   28797BR
+
+or go to http://tinyurl.com/36bwe6
+click on 'Search our global job board' under 'Global jobs',
+click on 'Search openings',
+scroll down to 'keyword' and type the job reference '28797BR' 
+and click the search button 
+(sorry but there isn't a more direct link on this site).
+
+This position is related to but different from an earlier posting
+https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000005.html
+
+Regards,
+
+John.
+
+John Gavin <john.gavin at ubs.com>,
+Commodities, MCC,
+UBS Investment Bank, 2nd floor, 
+100 Liverpool St., London EC2M 2RH, UK.
+Phone +44 (0) 207 567 4289
+
+> -----Original Message-----
+> From: Gavin, John 
+> Sent: 12 February 2007 15:01
+> To: 'r-sig-jobs at r-project.org'
+> Subject: job advertisement - finance - London based
+> 
+> Hi,
+> 
+> The following job advert was already incorrectly sent to r-help
+> so I am reposting here.
+> 
+> We are looking for a skilled statistician/programmer 
+> seeking a career at the intersection of 
+> finance, applied statistics and computer science. 
+> This position requires a person with a strong background in 
+> - data analysis, 
+> - design and implementation of algorithms, 
+> - software development
+> - statistical methodology.
+> 
+> The primary responsibilities are to develop software, 
+> using the R language, for:
+> - Handling/analysing high-frequency, real-time, streaming, 
+> financial data. 
+> - Interfacing R/S-Plus to other languages, especially Java.
+> - Applying high-dimensional regression/machine learning applications.
+> - Assisting in the prototyping and testing of trading algorithms. 
+> 
+> For more details please go to
+> http://tinyurl.com/36bwe6
+> click on 'Search our global job board',
+> click on 'Search openings',
+> scroll down to 'keyword' and type the job reference '19257BR' 
+> and click the search button 
+> (sorry but there isn't a more direct link on this site).
+> 
+> Regards,
+> 
+> John.
+> 
+> John Gavin <john.gavin at ubs.com>,
+> Commodities, FIRC,
+> UBS Investment Bank, 2nd floor, 
+> 100 Liverpool St., London EC2M 2RH, UK.
+> Phone +44 (0) 207 567 4289
+This communication is issued by UBS AG and/or affiliates to\...{{dropped}}
+
+
+
+From jporz@k @end|ng |rom gm@||@com  Sat Aug  4 08:13:50 2007
+From: jporz@k @end|ng |rom gm@||@com (Jim Porzak)
+Date: Fri, 3 Aug 2007 23:13:50 -0700
+Subject: [R-jobs] Fall, Winter Internship, Junior Statistician Position
+Message-ID: <2a9c000c0708032313k8e1027dx8abf445a61e53d8f@mail.gmail.com>
+
+Hello,
+
+Responsys anticipates hiring an intern or junior statistician this fall or
+winter.
+
+Our group was formally Loyalty Matrix - a leader in using R for customer
+intelligence and direct marketing optimization. We acquired by Responsys
+this Spring.
+
+We anticipate hiring one or two R fluent interns or statisticians this fall
+and/or winter.
+
+If you are interested in being considered, please contact me by email.
+
+I will be at useR! next week in Ames, let's get together there to meet and
+discuss opportunities in  San  Francisco!
+
+-- 
+Best,
+Jim Porzak
+Responsys, Inc.
+San Francisco, CA
+www.responsys.com
+www.linkedin.com/in/jimporzak
+
+	[[alternative HTML version deleted]]
+
+
+
+From rod@tjoe|ker @end|ng |rom boe|ng@com  Fri Aug 31 21:37:02 2007
+From: rod@tjoe|ker @end|ng |rom boe|ng@com (Tjoelker, Rod)
+Date: Fri, 31 Aug 2007 12:37:02 -0700
+Subject: [R-jobs] Job openings at Boeing for data mining and machine learning
+Message-ID: <0C549DAFE1A8004D8EB57ACDD108646D058E5B6F@XCH-NW-2V2.nw.nos.boeing.com>
+
+
+Boeing's Mathematics and Computing Technology (M&CT) organization,
+located in Bellevue Washington USA, invites applications for applied
+research positions in data mining and machine learning. We offer an
+exciting opportunity to be a part of a diverse research group that
+touches all parts of the Boeing company, from aircraft to spacecraft,
+communications systems and worldwide customers. We help Boeing tackle
+its toughest information and computational issues and help develop
+innovative products for the future.    
+Interested candidates may view job descriptions at the Boeing.com
+website under the employement section:
+
+The data mining technologist position can be viewed at:
+https://jobs.boeing.com/JobSeeker/JobView?reqcode=07-1019857
+
+The machine learning technologist position can be viewed at:
+https://jobs.boeing.com/JobSeeker/JobView?reqcode=07-1020370
+
+
+
+From CM|||er @end|ng |rom p|cr@m@n@@c@uk  Sun Sep 30 14:02:41 2007
+From: CM|||er @end|ng |rom p|cr@m@n@@c@uk (Crispin Miller)
+Date: Sun, 30 Sep 2007 13:02:41 +0100
+Subject: [R-jobs] Postdoc position, Manchester UK
+Message-ID: <BAA35444B19AD940997ED02A6996AAE005C0F325@sanmail.picr.man.ac.uk>
+
+Hi,
+ 
+We are seeking a postdoctoral scientist to join the Applied
+Computational Biology and Bioinformatics group at the Paterson Institute
+for Cancer Research. The role will be to develop novel approaches for
+the analysis of high throughput genomic data, such as those arising from
+Affymetrix microarray experiments. 
+ 
+We are an interdisciplinary team that brings together skills in computer
+science, biology and mathematics, and are focused on the development and
+application of bioinformatics tools to support the interpretation of
+complex datasets (see, for example, http://xmap.picr.man.ac.uk ). The
+ideal candidate will be excited by the interface between computer
+science, mathematics and biology, and will have a strong desire to see
+their work applied directly in collaboration with both bench-scientists
+and clinicians. Significant programming experience is a pre-requisite
+and applications from candidates with strong R programming skills are
+particularly encouraged.
+ 
+Full details are here:
+http://www.paterson.man.ac.uk/jobs/viewjob.asp?Job=PI/07/20
+ 
+regards
+Crispin
+ 
+--------------------------------------------------------
+
+
+This email is confidential and intended solely for the use o...{{dropped}}
+
+
+
