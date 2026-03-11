@@ -8,7 +8,7 @@
       "message_id": "<2D21DA027ED6C14193BD39F08E0AB8C2D664B1@MDLOGICAL1.mdlogical.com>",
       "from_name": "Tom Carver",
       "from_email_hash": "ed00aa998167e0528ad9b6db4098d11c7ebfa8e6a67f4f2d78b21aa779f89970",
-      "date": "2010-09-01T08:59:34+01:00",
+      "date": "2010-09-01T07:59:34Z",
       "subject": "[R-jobs] S-Plus / Quant - 12 month contract job",
       "subject_clean": "[R-jobs] S-Plus / Quant - 12 month contract job",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4C90FC300200001700011ADF@gwia.t-c-c.at>",
       "from_name": "David Enot",
       "from_email_hash": "a3cde33967ca19da4900afefb557e1e49e4feb9f03aabc30d8b9a47e9e98af34",
-      "date": "2010-09-15T17:02:40+02:00",
+      "date": "2010-09-15T15:02:40Z",
       "subject": "[R-jobs] Biostatistician position, Austria",
       "subject_clean": "[R-jobs] Biostatistician position, Austria",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<3DA3BBA90F88644882D754B64C8CDFA822E0DD@sbdsbs2k3.stemina.lan>",
       "from_name": "Dana Kelly",
       "from_email_hash": "1bcb4279d428b1becdbdd60dae4854d248b885a31878d538e33f145bd71ccf72",
-      "date": "2010-09-16T11:28:44-05:00",
+      "date": "2010-09-16T16:28:44Z",
       "subject": "[R-jobs] Bioinformaticist-Biostatistician Wanted",
       "subject_clean": "[R-jobs] Bioinformaticist-Biostatistician Wanted",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<B9B156853147754395B9E342B450FC7802F18627BA@ITS-HCWNEM02.ds.Vanderbilt.edu>",
       "from_name": "Tanner-Smith, Emily Elizabeth",
       "from_email_hash": "f72ffa522f256f643a5e0c968f5cac57b1c1f6f810e769c98db6e0d65a193811",
-      "date": "2010-09-22T07:36:16-05:00",
+      "date": "2010-09-22T12:36:16Z",
       "subject": "[R-jobs] R Programming Consultant Needed",
       "subject_clean": "[R-jobs] R Programming Consultant Needed",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Tom Carver"
       ],
-      "started": "2010-09-01T08:59:34+01:00",
-      "last_reply": "2010-09-01T08:59:34+01:00",
+      "started": "2010-09-01T07:59:34Z",
+      "last_reply": "2010-09-01T07:59:34Z",
       "root_message_id": "msg-244c42127524"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "David Enot"
       ],
-      "started": "2010-09-15T17:02:40+02:00",
-      "last_reply": "2010-09-15T17:02:40+02:00",
+      "started": "2010-09-15T15:02:40Z",
+      "last_reply": "2010-09-15T15:02:40Z",
       "root_message_id": "msg-8d0488eb9291"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "Dana Kelly"
       ],
-      "started": "2010-09-16T11:28:44-05:00",
-      "last_reply": "2010-09-16T11:28:44-05:00",
+      "started": "2010-09-16T16:28:44Z",
+      "last_reply": "2010-09-16T16:28:44Z",
       "root_message_id": "msg-4044e92b72e4"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Tanner-Smith, Emily Elizabeth"
       ],
-      "started": "2010-09-22T07:36:16-05:00",
-      "last_reply": "2010-09-22T07:36:16-05:00",
+      "started": "2010-09-22T12:36:16Z",
+      "last_reply": "2010-09-22T12:36:16Z",
       "root_message_id": "msg-71f57e39c7f4"
     }
   ]

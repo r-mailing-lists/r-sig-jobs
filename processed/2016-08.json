@@ -8,7 +8,7 @@
       "message_id": "<0000ae95c97d$b6fbb309$52bdb02a$@comcast.net>",
       "from_name": "T.Dorai",
       "from_email_hash": "222039360122c8eb2856a69f7bd6f43e90bb97ded80a9de6ead53b53879d745b",
-      "date": "2016-08-18T09:19:17+03:00",
+      "date": "2016-08-18T06:19:17Z",
       "subject": "[R-jobs] what about that stuff?",
       "subject_clean": "[R-jobs] what about that stuff?",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAC5_wSmDcxPw4QNEKC8x2AW2f_cPck0ohU6y5rOam5B4rQBCkQ@mail.gmail.com>",
       "from_name": "Vihan Pandey",
       "from_email_hash": "9c2f7125313df3256b56febd42db2139df4aec7a1539e7147ab09260c7c5533f",
-      "date": "2016-08-24T23:18:00+05:30",
+      "date": "2016-08-24T17:48:00Z",
       "subject": "[R-jobs] Statistics and R expert needed for an Analytics job in Mumbai, India",
       "subject_clean": "[R-jobs] Statistics and R expert needed for an Analytics job in Mumbai, India",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAC5_wS=GqbvMk2XQWp6duQX5oASDv+J-GGPmR03Qz9i9yBU0TA@mail.gmail.com>",
       "from_name": "Vihan Pandey",
       "from_email_hash": "9c2f7125313df3256b56febd42db2139df4aec7a1539e7147ab09260c7c5533f",
-      "date": "2016-08-24T23:23:34+05:30",
+      "date": "2016-08-24T17:53:34Z",
       "subject": "[R-jobs] Statistics and R expert needed for an Analytics job in Mumbai, India",
       "subject_clean": "[R-jobs] Statistics and R expert needed for an Analytics job in Mumbai, India",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "T.Dorai"
       ],
-      "started": "2016-08-18T09:19:17+03:00",
-      "last_reply": "2016-08-18T09:19:17+03:00",
+      "started": "2016-08-18T06:19:17Z",
+      "last_reply": "2016-08-18T06:19:17Z",
       "root_message_id": "msg-38a1f52cbb2f"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Vihan Pandey"
       ],
-      "started": "2016-08-24T23:18:00+05:30",
-      "last_reply": "2016-08-24T23:18:00+05:30",
+      "started": "2016-08-24T17:48:00Z",
+      "last_reply": "2016-08-24T17:48:00Z",
       "root_message_id": "msg-a0ed92896473"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Vihan Pandey"
       ],
-      "started": "2016-08-24T23:23:34+05:30",
-      "last_reply": "2016-08-24T23:23:34+05:30",
+      "started": "2016-08-24T17:53:34Z",
+      "last_reply": "2016-08-24T17:53:34Z",
       "root_message_id": "msg-91b0c2449149"
     }
   ]

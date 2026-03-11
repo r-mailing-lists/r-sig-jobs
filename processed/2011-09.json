@@ -24,7 +24,7 @@
       "message_id": "<alpine.DEB.2.00.1109051346470.5023@diana>",
       "from_name": "Torsten Hothorn",
       "from_email_hash": "6060fd95d3e4dba59127ec2031900b6db5f4e0b7021748e22b35039f0c50f46a",
-      "date": "2011-09-05T13:47:18+02:00",
+      "date": "2011-09-05T11:47:18Z",
       "subject": "[R-jobs] Professorship Computational Statistics",
       "subject_clean": "[R-jobs] Professorship Computational Statistics",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAFSxfagS+kjTrNJrVhya+T6tr+3_-JoLr+KP7HtC0uf_91zJZA@mail.gmail.com>",
       "from_name": "Matthew Cooper",
       "from_email_hash": "fb232766fa45785252199ec0c22e1417e79b1e6ec798d23a9c8b335e3396b112",
-      "date": "2011-09-19T14:00:42-07:00",
+      "date": "2011-09-19T21:00:42Z",
       "subject": "[R-jobs] Seeking an R intern",
       "subject_clean": "[R-jobs] Seeking an R intern",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Louis Bajuk-Yorgan"
       ],
-      "started": "2011-09-01T20:41:11+00:00",
-      "last_reply": "2011-09-01T20:41:11+00:00",
+      "started": "2011-09-01T20:41:11Z",
+      "last_reply": "2011-09-01T20:41:11Z",
       "root_message_id": "msg-1bf6ff864e9b"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Torsten Hothorn"
       ],
-      "started": "2011-09-05T13:47:18+02:00",
-      "last_reply": "2011-09-05T13:47:18+02:00",
+      "started": "2011-09-05T11:47:18Z",
+      "last_reply": "2011-09-05T11:47:18Z",
       "root_message_id": "msg-b8e5b125f2ce"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Matthew Cooper"
       ],
-      "started": "2011-09-19T14:00:42-07:00",
-      "last_reply": "2011-09-19T14:00:42-07:00",
+      "started": "2011-09-19T21:00:42Z",
+      "last_reply": "2011-09-19T21:00:42Z",
       "root_message_id": "msg-3a8b3703b0fe"
     }
   ]

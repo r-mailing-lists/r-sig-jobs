@@ -24,7 +24,7 @@
       "message_id": "<6325E751-CA0B-49C6-8B44-D9EA8FAC87AB@citesmike.org>",
       "from_name": "Julian Blanc",
       "from_email_hash": "54467a0a9bd104f05de032f1f86d01495eed3e0fb3ce97cd8c304e80ba7bee93",
-      "date": "2015-06-15T09:05:28+03:00",
+      "date": "2015-06-15T06:05:28Z",
       "subject": "[R-jobs] Data scientist for Monitoring the Illegal Killing of Elephants at UNEP in Nairobi, Kenya",
       "subject_clean": "[R-jobs] Data scientist for Monitoring the Illegal Killing of Elephants at UNEP in Nairobi, Kenya",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<DCF4E03E-C74C-4273-B9DF-AABDE66AC89C@genzentrum.lmu.de>",
       "from_name": "Julien Gagneur",
       "from_email_hash": "c6490fa2a111371e6a19fbb046354414847bc7a42e8798242e32c9cec32df8e3",
-      "date": "2015-06-24T23:23:54+02:00",
+      "date": "2015-06-24T21:23:54Z",
       "subject": "[R-jobs] Post-doc in Systems Genetics, Gagneur lab, Munich",
       "subject_clean": "[R-jobs] Post-doc in Systems Genetics, Gagneur lab, Munich",
       "in_reply_to": null,
@@ -88,7 +88,7 @@
       "message_id": "<243627.2549903.1435415779159.JavaMail.zimbra@openanalytics.eu>",
       "from_name": "Tobias Verbeke",
       "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
-      "date": "2015-06-27T16:36:19+02:00",
+      "date": "2015-06-27T14:36:19Z",
       "subject": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
       "subject_clean": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
       "in_reply_to": null,
@@ -108,8 +108,8 @@
       "participants": [
         "Chasalow, Scott"
       ],
-      "started": "2015-06-05T21:27:45+00:00",
-      "last_reply": "2015-06-05T21:27:45+00:00",
+      "started": "2015-06-05T21:27:45Z",
+      "last_reply": "2015-06-05T21:27:45Z",
       "root_message_id": "msg-c5d1c2f6d1e0"
     },
     {
@@ -119,8 +119,8 @@
       "participants": [
         "Julian Blanc"
       ],
-      "started": "2015-06-15T09:05:28+03:00",
-      "last_reply": "2015-06-15T09:05:28+03:00",
+      "started": "2015-06-15T06:05:28Z",
+      "last_reply": "2015-06-15T06:05:28Z",
       "root_message_id": "msg-df8d1bc833e6"
     },
     {
@@ -130,8 +130,8 @@
       "participants": [
         "Laure Massi"
       ],
-      "started": "2015-06-23T13:53:28+00:00",
-      "last_reply": "2015-06-23T13:53:28+00:00",
+      "started": "2015-06-23T13:53:28Z",
+      "last_reply": "2015-06-23T13:53:28Z",
       "root_message_id": "msg-10a3bcd8e3d0"
     },
     {
@@ -141,8 +141,8 @@
       "participants": [
         "Laure Massi"
       ],
-      "started": "2015-06-23T13:53:30+00:00",
-      "last_reply": "2015-06-23T13:53:30+00:00",
+      "started": "2015-06-23T13:53:30Z",
+      "last_reply": "2015-06-23T13:53:30Z",
       "root_message_id": "msg-1db5d89f9c5f"
     },
     {
@@ -152,8 +152,8 @@
       "participants": [
         "Julien Gagneur"
       ],
-      "started": "2015-06-24T23:23:54+02:00",
-      "last_reply": "2015-06-24T23:23:54+02:00",
+      "started": "2015-06-24T21:23:54Z",
+      "last_reply": "2015-06-24T21:23:54Z",
       "root_message_id": "msg-5ee4322ce19e"
     },
     {
@@ -163,8 +163,8 @@
       "participants": [
         "Tobias Verbeke"
       ],
-      "started": "2015-06-27T16:36:19+02:00",
-      "last_reply": "2015-06-27T16:36:19+02:00",
+      "started": "2015-06-27T14:36:19Z",
+      "last_reply": "2015-06-27T14:36:19Z",
       "root_message_id": "msg-c205d8790187"
     }
   ]

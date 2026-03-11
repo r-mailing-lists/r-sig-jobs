@@ -8,7 +8,7 @@
       "message_id": "<D5FA03935F7418419332B61CA255F65F0111FEF66C2F@USCTMXP51012.merck.com>",
       "from_name": "Liaw, Andy",
       "from_email_hash": "39c09c2d341f51fdeb1110ce97e6bf8b74b40d5f1defd640f5bf73e51c10a4a3",
-      "date": "2015-11-19T13:45:34-05:00",
+      "date": "2015-11-19T18:45:34Z",
       "subject": "[R-jobs] statistician opening at Merck Research Labs in NJ, USA",
       "subject_clean": "[R-jobs] statistician opening at Merck Research Labs in NJ, USA",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<0D0811308E281846AC318EF90FBD6AE31FC144@extorpcs2.inet.local>",
       "from_name": "Gagan K. Dhanjal",
       "from_email_hash": "d3b120dc896ec8a8deacd14494c881614f600fe11662a1ed68ff63e6bd1c8ebc",
-      "date": "2015-11-25T13:22:05-05:00",
+      "date": "2015-11-25T18:22:05Z",
       "subject": "[R-jobs] Quantitative Research Analyst Job Opportunity- Pennsylvania, USA",
       "subject_clean": "[R-jobs] Quantitative Research Analyst Job Opportunity- Pennsylvania, USA",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Liaw, Andy"
       ],
-      "started": "2015-11-19T13:45:34-05:00",
-      "last_reply": "2015-11-19T13:45:34-05:00",
+      "started": "2015-11-19T18:45:34Z",
+      "last_reply": "2015-11-19T18:45:34Z",
       "root_message_id": "msg-47b9b868a4c0"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Gagan K. Dhanjal"
       ],
-      "started": "2015-11-25T13:22:05-05:00",
-      "last_reply": "2015-11-25T13:22:05-05:00",
+      "started": "2015-11-25T18:22:05Z",
+      "last_reply": "2015-11-25T18:22:05Z",
       "root_message_id": "msg-3d3666bd61b9"
     }
   ]

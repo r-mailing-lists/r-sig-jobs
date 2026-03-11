@@ -8,7 +8,7 @@
       "message_id": "<32B2AFAE-20B7-4EFE-B54A-AE7A084CA40E@unimi.it>",
       "from_name": "stefano iacus",
       "from_email_hash": "848c7ea19b6e6397b536cdfab9e2d179086b1dda45c0d939746c4ff72bdf2877",
-      "date": "2018-06-06T00:06:05+02:00",
+      "date": "2018-06-05T22:06:05Z",
       "subject": "[R-jobs] [JOB] Associate Professor in Statistics",
       "subject_clean": "[R-jobs] [JOB] Associate Professor in Statistics",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<54901f30084e7f6fb519eb2763484406@rplusplus.com>",
       "from_name": "Jeanne Lafolie",
       "from_email_hash": "500d6f5e7d0ed2449f1468acf9f9317eec06d000f85f44be3fc6b7d34c044999",
-      "date": "2018-06-13T16:56:11+02:00",
+      "date": "2018-06-13T14:56:11Z",
       "subject": "[R-jobs] R++ is looking for a Native English Speaker Translator",
       "subject_clean": "[R-jobs] R++ is looking for a Native English Speaker Translator",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "stefano iacus"
       ],
-      "started": "2018-06-06T00:06:05+02:00",
-      "last_reply": "2018-06-06T00:06:05+02:00",
+      "started": "2018-06-05T22:06:05Z",
+      "last_reply": "2018-06-05T22:06:05Z",
       "root_message_id": "msg-77ff40768619"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Jeanne Lafolie"
       ],
-      "started": "2018-06-13T16:56:11+02:00",
-      "last_reply": "2018-06-13T16:56:11+02:00",
+      "started": "2018-06-13T14:56:11Z",
+      "last_reply": "2018-06-13T14:56:11Z",
       "root_message_id": "msg-095e6d3c7194"
     }
   ]

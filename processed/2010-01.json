@@ -8,7 +8,7 @@
       "message_id": "<C788A4E1.6EC1%Max.Kuhn@pfizer.com>",
       "from_name": "KuhnA03",
       "from_email_hash": "9c6379865233ec4e1197b3927b6b49a940d68d7bf51cdc52fff0520d10de2b42",
-      "date": "2010-01-29T14:44:49-05:00",
+      "date": "2010-01-29T19:44:49Z",
       "subject": "[R-jobs] Statistical Position Supporting Systems Biology",
       "subject_clean": "[R-jobs] Statistical Position Supporting Systems Biology",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4B65B8B4020000170000D663@gwia.t-c-c.at>",
       "from_name": "David Enot",
       "from_email_hash": "a3cde33967ca19da4900afefb557e1e49e4feb9f03aabc30d8b9a47e9e98af34",
-      "date": "2010-01-31T17:07:00+01:00",
+      "date": "2010-01-31T16:07:00Z",
       "subject": "[R-jobs] Bioinformatician, Austria",
       "subject_clean": "[R-jobs] Bioinformatician, Austria",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "KuhnA03"
       ],
-      "started": "2010-01-29T14:44:49-05:00",
-      "last_reply": "2010-01-29T14:44:49-05:00",
+      "started": "2010-01-29T19:44:49Z",
+      "last_reply": "2010-01-29T19:44:49Z",
       "root_message_id": "msg-47b150fc3761"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "David Enot"
       ],
-      "started": "2010-01-31T17:07:00+01:00",
-      "last_reply": "2010-01-31T17:07:00+01:00",
+      "started": "2010-01-31T16:07:00Z",
+      "last_reply": "2010-01-31T16:07:00Z",
       "root_message_id": "msg-dcd67ef64c88"
     }
   ]

@@ -24,7 +24,7 @@
       "message_id": "<703832665.4310995.1476828100251.JavaMail.zimbra@openanalytics.eu>",
       "from_name": "Tobias Verbeke",
       "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
-      "date": "2016-10-19T00:01:40+02:00",
+      "date": "2016-10-18T22:01:40Z",
       "subject": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
       "subject_clean": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Gosselck, Antje"
       ],
-      "started": "2016-10-18T13:30:19+00:00",
-      "last_reply": "2016-10-18T13:30:19+00:00",
+      "started": "2016-10-18T13:30:19Z",
+      "last_reply": "2016-10-18T13:30:19Z",
       "root_message_id": "msg-92f09f38bd26"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Tobias Verbeke"
       ],
-      "started": "2016-10-19T00:01:40+02:00",
-      "last_reply": "2016-10-19T00:01:40+02:00",
+      "started": "2016-10-18T22:01:40Z",
+      "last_reply": "2016-10-18T22:01:40Z",
       "root_message_id": "msg-4f3196457de6"
     }
   ]

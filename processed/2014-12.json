@@ -8,7 +8,7 @@
       "message_id": "<CAAiXAJh9eK4hv6P91u2E4OWEGYmno4XH3AY+AUSG=XeZ=YKWmg@mail.gmail.com>",
       "from_name": "Zhifa Liu",
       "from_email_hash": "28e0020e8f6dc1e25c81ba008d01cf4d5bd8bd76e77099408a1feb1cd8cb5429",
-      "date": "2014-12-04T12:41:46-08:00",
+      "date": "2014-12-04T20:41:46Z",
       "subject": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
       "subject_clean": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAAiXAJgXewKLhiTNVr79K0YOMHFy1b6h6AeSnN3Qm-cgdjnONg@mail.gmail.com>",
       "from_name": "Zhifa Liu",
       "from_email_hash": "28e0020e8f6dc1e25c81ba008d01cf4d5bd8bd76e77099408a1feb1cd8cb5429",
-      "date": "2014-12-05T13:44:05-06:00",
+      "date": "2014-12-05T19:44:05Z",
       "subject": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
       "subject_clean": "[R-jobs] R CUDA package developer position at St Jude Children's Research Hospital",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAGfFKEuKZ8epwYTZPzipDU7KaQXQ-9zMB6q49LQKAXVCb6UAjw@mail.gmail.com>",
       "from_name": "Jake Michaelson",
       "from_email_hash": "9957727b55f8b5ce082e3d734ea96be4e7f46bc935d69d43d575cd88ad95f4d3",
-      "date": "2014-12-11T13:20:20-06:00",
+      "date": "2014-12-11T19:20:20Z",
       "subject": "[R-jobs] Postdoctoral researcher: genome informatics in psychiatry",
       "subject_clean": "[R-jobs] Postdoctoral researcher: genome informatics in psychiatry",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Zhifa Liu"
       ],
-      "started": "2014-12-04T12:41:46-08:00",
-      "last_reply": "2014-12-04T12:41:46-08:00",
+      "started": "2014-12-04T20:41:46Z",
+      "last_reply": "2014-12-04T20:41:46Z",
       "root_message_id": "msg-5cdd4327904a"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Zhifa Liu"
       ],
-      "started": "2014-12-05T13:44:05-06:00",
-      "last_reply": "2014-12-05T13:44:05-06:00",
+      "started": "2014-12-05T19:44:05Z",
+      "last_reply": "2014-12-05T19:44:05Z",
       "root_message_id": "msg-b1fa837f3933"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Jake Michaelson"
       ],
-      "started": "2014-12-11T13:20:20-06:00",
-      "last_reply": "2014-12-11T13:20:20-06:00",
+      "started": "2014-12-11T19:20:20Z",
+      "last_reply": "2014-12-11T19:20:20Z",
       "root_message_id": "msg-543a5b587778"
     }
   ]

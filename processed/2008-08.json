@@ -8,7 +8,7 @@
       "message_id": "<1217979319.2974.92.camel@fry>",
       "from_name": "Michaell Taylor",
       "from_email_hash": "b060a0d5d710f364bedc3a502978fd929e589f079228c3a0276eb1e669269894",
-      "date": "2008-08-05T18:35:19-05:00",
+      "date": "2008-08-05T23:35:19Z",
       "subject": "[R-jobs] Quantitative Research Analyst",
       "subject_clean": "[R-jobs] Quantitative Research Analyst",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<d2a.2da80dc5.35cb624d@aol.com>",
       "from_name": "VLLADY m@iii@g oii @oi@com",
       "from_email_hash": "61067e1e982f0b7e781a970af12d6ffc2cbbe0773e3d868fd33fd8ba9cd2eee1",
-      "date": "2008-08-06T16:23:41-04:00",
+      "date": "2008-08-06T20:23:41Z",
       "subject": "[R-jobs] (no subject)",
       "subject_clean": "[R-jobs] (no subject)",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<A0790E92-80BD-49C5-9BFB-AE3C0F29146A@rwth-aachen.de>",
       "from_name": "David Ruau",
       "from_email_hash": "4fc9af782f0e2630785a4f10c8950539c08ad0882b78bc073b6cf51d56924699",
-      "date": "2008-08-15T19:18:52+02:00",
+      "date": "2008-08-15T17:18:52Z",
       "subject": "[R-jobs] Ph.D. position at RWTH Aachen",
       "subject_clean": "[R-jobs] Ph.D. position at RWTH Aachen",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<09fb01c9030c$a28732b0$e7959810$@com>",
       "from_name": "Christina Kinchen",
       "from_email_hash": "fd1fd204d90860a6d75a121c6c6b467a5d9179d65fd0da2e8d9f65dd0e11899b",
-      "date": "2008-08-20T17:35:15-04:00",
+      "date": "2008-08-20T21:35:15Z",
       "subject": "[R-jobs] R and SAS Statistical position open with Large Pharmaceutical in New Jersey",
       "subject_clean": "[R-jobs] R and SAS Statistical position open with Large Pharmaceutical in New Jersey",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Michaell Taylor"
       ],
-      "started": "2008-08-05T18:35:19-05:00",
-      "last_reply": "2008-08-05T18:35:19-05:00",
+      "started": "2008-08-05T23:35:19Z",
+      "last_reply": "2008-08-05T23:35:19Z",
       "root_message_id": "msg-aa817de06d7e"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "VLLADY m@iii@g oii @oi@com"
       ],
-      "started": "2008-08-06T16:23:41-04:00",
-      "last_reply": "2008-08-06T16:23:41-04:00",
+      "started": "2008-08-06T20:23:41Z",
+      "last_reply": "2008-08-06T20:23:41Z",
       "root_message_id": "msg-8b13523217b7"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "David Ruau"
       ],
-      "started": "2008-08-15T19:18:52+02:00",
-      "last_reply": "2008-08-15T19:18:52+02:00",
+      "started": "2008-08-15T17:18:52Z",
+      "last_reply": "2008-08-15T17:18:52Z",
       "root_message_id": "msg-e4e6dd2eea9b"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Christina Kinchen"
       ],
-      "started": "2008-08-20T17:35:15-04:00",
-      "last_reply": "2008-08-20T17:35:15-04:00",
+      "started": "2008-08-20T21:35:15Z",
+      "last_reply": "2008-08-20T21:35:15Z",
       "root_message_id": "msg-d6739c1bb778"
     }
   ]

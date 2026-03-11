@@ -8,7 +8,7 @@
       "message_id": "<AANLkTikrzQcrYDJLVtn_Ed_YyFhwUjQ6efpUXf_SiCdZ@mail.gmail.com>",
       "from_name": "Harsh",
       "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
-      "date": "2010-07-10T03:10:23+05:30",
+      "date": "2010-07-09T21:40:23Z",
       "subject": "[R-jobs] Text Mining and Natural Language Processing Analyst (with skills in R )",
       "subject_clean": "[R-jobs] Text Mining and Natural Language Processing Analyst (with skills in R )",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4C458790.2030000@openanalytics.eu>",
       "from_name": "Tobias Verbeke",
       "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
-      "date": "2010-07-20T13:25:04+02:00",
+      "date": "2010-07-20T11:25:04Z",
       "subject": "[R-jobs] job openings",
       "subject_clean": "[R-jobs] job openings",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<7EA373C2235E98468AA71AB8E37E46564D600299C7@ICSSOMNJMXCL01.CLINICAL.IVH>",
       "from_name": "Kinchen, Christina",
       "from_email_hash": "77be7aea752ea11f5a62d4a4c845ef9fe6fa9a8572afdf9d0561e7927e866e0e",
-      "date": "2010-07-29T11:57:49-04:00",
+      "date": "2010-07-29T15:57:49Z",
       "subject": "[R-jobs] Bioinformatics Position with Large Pharmaceutical in New Jersey",
       "subject_clean": "[R-jobs] Bioinformatics Position with Large Pharmaceutical in New Jersey",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Harsh"
       ],
-      "started": "2010-07-10T03:10:23+05:30",
-      "last_reply": "2010-07-10T03:10:23+05:30",
+      "started": "2010-07-09T21:40:23Z",
+      "last_reply": "2010-07-09T21:40:23Z",
       "root_message_id": "msg-4f0d2bd421e6"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Tobias Verbeke"
       ],
-      "started": "2010-07-20T13:25:04+02:00",
-      "last_reply": "2010-07-20T13:25:04+02:00",
+      "started": "2010-07-20T11:25:04Z",
+      "last_reply": "2010-07-20T11:25:04Z",
       "root_message_id": "msg-0f6f33e46e84"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Kinchen, Christina"
       ],
-      "started": "2010-07-29T11:57:49-04:00",
-      "last_reply": "2010-07-29T11:57:49-04:00",
+      "started": "2010-07-29T15:57:49Z",
+      "last_reply": "2010-07-29T15:57:49Z",
       "root_message_id": "msg-ee1a34f0a09b"
     }
   ]

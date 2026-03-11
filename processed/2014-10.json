@@ -24,7 +24,7 @@
       "message_id": "<CAK1hC9uwTRxpxnbaSFHzGFjzYC_d-GTdGzkSLKDHJorjCjSxLw@mail.gmail.com>",
       "from_name": "arnaud gaboury",
       "from_email_hash": "8d66b3010463ba4609c087a2aec53210a2c80004ddc8ee34092b23f175a5a8d2",
-      "date": "2014-10-01T12:47:14+02:00",
+      "date": "2014-10-01T10:47:14Z",
       "subject": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
       "subject_clean": "[R-jobs] JOB - PhD position: applying HPC in cancer research",
       "in_reply_to": "<54E62959-E8C0-48CD-A55D-3FADDD287C96@cruk.manchester.ac.uk>",
@@ -97,8 +97,8 @@
         "Crispin Miller",
         "arnaud gaboury"
       ],
-      "started": "2014-10-01T10:37:03+00:00",
-      "last_reply": "2014-10-01T10:54:24+00:00",
+      "started": "2014-10-01T10:37:03Z",
+      "last_reply": "2014-10-01T10:54:24Z",
       "root_message_id": "msg-7db681b81052"
     },
     {
@@ -108,8 +108,8 @@
       "participants": [
         "Crispin Miller"
       ],
-      "started": "2014-10-03T12:36:23+00:00",
-      "last_reply": "2014-10-03T12:36:23+00:00",
+      "started": "2014-10-03T12:36:23Z",
+      "last_reply": "2014-10-03T12:36:23Z",
       "root_message_id": "msg-0cb4c6529223"
     },
     {
@@ -119,8 +119,8 @@
       "participants": [
         "FOAT, BARRETT [AG/1000]"
       ],
-      "started": "2014-10-09T13:21:26+00:00",
-      "last_reply": "2014-10-09T13:21:26+00:00",
+      "started": "2014-10-09T13:21:26Z",
+      "last_reply": "2014-10-09T13:21:26Z",
       "root_message_id": "msg-ca2978aed26f"
     }
   ]

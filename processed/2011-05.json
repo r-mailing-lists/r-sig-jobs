@@ -8,7 +8,7 @@
       "message_id": "<BANLkTi=iFgVWjeOAFceWpkDybZyW235knQ@mail.gmail.com>",
       "from_name": "Usuario R",
       "from_email_hash": "6c1eed21635e2f078599b515973ca58cd0cf39a113f185b603fcbade87efbf9a",
-      "date": "2011-05-02T12:10:08+02:00",
+      "date": "2011-05-02T10:10:08Z",
       "subject": "[R-jobs] R programmer position/Berlin (Germany)",
       "subject_clean": "[R-jobs] R programmer position/Berlin (Germany)",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<BANLkTi=j4cUrbp3QTtb1NNjEvspj_YMsjA@mail.gmail.com>",
       "from_name": "Johannes Signer",
       "from_email_hash": "2a40c8119f7c186d6ba76f2da352f8c2823f233cbd8e619114e7fc9e973f8834",
-      "date": "2011-05-03T19:27:52+02:00",
+      "date": "2011-05-03T17:27:52Z",
       "subject": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
       "subject_clean": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<BANLkTi=wymGyWk9ogWNp48QEQPn2B-+Xgg@mail.gmail.com>",
       "from_name": "Johannes Signer",
       "from_email_hash": "2a40c8119f7c186d6ba76f2da352f8c2823f233cbd8e619114e7fc9e973f8834",
-      "date": "2011-05-03T19:43:22+02:00",
+      "date": "2011-05-03T17:43:22Z",
       "subject": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
       "subject_clean": "[R-jobs] Visiting Researcher, species distribution modelling, Cali, Colombia",
       "in_reply_to": "<201105031838.15255.corrado.topi@sei.se>",
@@ -63,8 +63,8 @@
       "participants": [
         "Usuario R"
       ],
-      "started": "2011-05-02T12:10:08+02:00",
-      "last_reply": "2011-05-02T12:10:08+02:00",
+      "started": "2011-05-02T10:10:08Z",
+      "last_reply": "2011-05-02T10:10:08Z",
       "root_message_id": "msg-865d0401cdf3"
     },
     {
@@ -74,8 +74,8 @@
       "participants": [
         "Johannes Signer"
       ],
-      "started": "2011-05-03T19:27:52+02:00",
-      "last_reply": "2011-05-03T19:27:52+02:00",
+      "started": "2011-05-03T17:27:52Z",
+      "last_reply": "2011-05-03T17:27:52Z",
       "root_message_id": "msg-9ab227fc23aa"
     },
     {
@@ -85,8 +85,8 @@
       "participants": [
         "Johannes Signer"
       ],
-      "started": "2011-05-03T19:43:22+02:00",
-      "last_reply": "2011-05-03T19:43:22+02:00",
+      "started": "2011-05-03T17:43:22Z",
+      "last_reply": "2011-05-03T17:43:22Z",
       "root_message_id": "msg-a49febc6ff98"
     }
   ]

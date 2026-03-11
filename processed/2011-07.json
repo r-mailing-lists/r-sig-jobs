@@ -8,7 +8,7 @@
       "message_id": "<B439793176D1E240A46A538D1215D7D9612493ACB9@NYWEXMBX2128.msad.ms.com>",
       "from_name": "Rothfeld, Logan",
       "from_email_hash": "cd8b439995c889de064982e33aec7a59699ec195420ab7a0f2b4712fb7dc1fda",
-      "date": "2011-07-12T13:20:02-04:00",
+      "date": "2011-07-12T17:20:02Z",
       "subject": "[R-jobs] Quantitative Analyst/Quantitative Developer",
       "subject_clean": "[R-jobs] Quantitative Analyst/Quantitative Developer",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<B439793176D1E240A46A538D1215D7D9612493ACBD@NYWEXMBX2128.msad.ms.com>",
       "from_name": "Rothfeld, Logan",
       "from_email_hash": "cd8b439995c889de064982e33aec7a59699ec195420ab7a0f2b4712fb7dc1fda",
-      "date": "2011-07-12T13:22:20-04:00",
+      "date": "2011-07-12T17:22:20Z",
       "subject": "[R-jobs] Quantitative Analyst/Quantitative Developer",
       "subject_clean": "[R-jobs] Quantitative Analyst/Quantitative Developer",
       "in_reply_to": "<31D745A5F73AFA40B1F6985CCE291CDA378C53465D@NYWEXMBX2128.msad.ms.com>",
@@ -42,7 +42,7 @@
       "message_id": "<B82B2164E7E8FB40A1037975BF8F4524011256B2B5@ars-ex07mail1.corp.athenahealth.com>",
       "from_name": "Iyue Sung",
       "from_email_hash": "4ddb65af7eaedcfe1b2fc7e3521c9b8c799a076ef1ccdd52678345a553dc8c0d",
-      "date": "2011-07-12T15:32:34-04:00",
+      "date": "2011-07-12T19:32:34Z",
       "subject": "[R-jobs] Job Opening: Healthcare Analytics and Quantitative Research Manager (Boston)",
       "subject_clean": "[R-jobs] Job Opening: Healthcare Analytics and Quantitative Research Manager (Boston)",
       "in_reply_to": null,
@@ -58,7 +58,7 @@
       "message_id": "<CACk-te0we32b-R-yN--bK-xHDsSKkTfz=fgTGciSUJRr51v+Kw@mail.gmail.com>",
       "from_name": "Bert Gunter",
       "from_email_hash": "fff944709cd4e01c43b94b925a795dc8ebb00f65da76c888c1d3901ec68b6b6b",
-      "date": "2011-07-14T10:13:13-07:00",
+      "date": "2011-07-14T17:13:13Z",
       "subject": "[R-jobs] Nonclinical Biostatistics Opening at Genentech, South San Francisco",
       "subject_clean": "[R-jobs] Nonclinical Biostatistics Opening at Genentech, South San Francisco",
       "in_reply_to": null,
@@ -74,7 +74,7 @@
       "message_id": "<34029.62.182.60.69.1311630515.squirrel@lbmail.priorweb.be>",
       "from_name": "i@io m@iii@g oii iigurestoi@cts@be",
       "from_email_hash": "0f317c39af8ad682fea128787d09a4ef676a992643100cb08a34689be2d585e6",
-      "date": "2011-07-25T23:48:35+02:00",
+      "date": "2011-07-25T21:48:35Z",
       "subject": "[R-jobs] Junior R and VBA Specialist ; Belgium Brussels",
       "subject_clean": "[R-jobs] Junior R and VBA Specialist ; Belgium Brussels",
       "in_reply_to": null,
@@ -90,7 +90,7 @@
       "message_id": "<9530A3E1599DBD4AA061423EEDCF7E9D01A1C3F3@USXLXEXC100.NG.CORP>",
       "from_name": "Wang Yu",
       "from_email_hash": "70d107a727bf07457fc85e61a959dda4eec5a2ed1d695a116abd9fc1390120b4",
-      "date": "2011-07-29T09:46:28-04:00",
+      "date": "2011-07-29T13:46:28Z",
       "subject": "[R-jobs] Noble is looking for a Market Risk Manager/Analyst for its London Office, prefer Candidates who have R programming skills",
       "subject_clean": "[R-jobs] Noble is looking for a Market Risk Manager/Analyst for its London Office, prefer Candidates who have R programming skills",
       "in_reply_to": null,
@@ -110,8 +110,8 @@
       "participants": [
         "Rothfeld, Logan"
       ],
-      "started": "2011-07-12T13:20:02-04:00",
-      "last_reply": "2011-07-12T13:20:02-04:00",
+      "started": "2011-07-12T17:20:02Z",
+      "last_reply": "2011-07-12T17:20:02Z",
       "root_message_id": "msg-f957e91377d7"
     },
     {
@@ -121,8 +121,8 @@
       "participants": [
         "Rothfeld, Logan"
       ],
-      "started": "2011-07-12T13:22:20-04:00",
-      "last_reply": "2011-07-12T13:22:20-04:00",
+      "started": "2011-07-12T17:22:20Z",
+      "last_reply": "2011-07-12T17:22:20Z",
       "root_message_id": "msg-4886082d015c"
     },
     {
@@ -132,8 +132,8 @@
       "participants": [
         "Iyue Sung"
       ],
-      "started": "2011-07-12T15:32:34-04:00",
-      "last_reply": "2011-07-12T15:32:34-04:00",
+      "started": "2011-07-12T19:32:34Z",
+      "last_reply": "2011-07-12T19:32:34Z",
       "root_message_id": "msg-9c45712b7917"
     },
     {
@@ -143,8 +143,8 @@
       "participants": [
         "Bert Gunter"
       ],
-      "started": "2011-07-14T10:13:13-07:00",
-      "last_reply": "2011-07-14T10:13:13-07:00",
+      "started": "2011-07-14T17:13:13Z",
+      "last_reply": "2011-07-14T17:13:13Z",
       "root_message_id": "msg-c31a349eeb8e"
     },
     {
@@ -154,8 +154,8 @@
       "participants": [
         "i@io m@iii@g oii iigurestoi@cts@be"
       ],
-      "started": "2011-07-25T23:48:35+02:00",
-      "last_reply": "2011-07-25T23:48:35+02:00",
+      "started": "2011-07-25T21:48:35Z",
+      "last_reply": "2011-07-25T21:48:35Z",
       "root_message_id": "msg-a09cce661592"
     },
     {
@@ -165,8 +165,8 @@
       "participants": [
         "Wang Yu"
       ],
-      "started": "2011-07-29T09:46:28-04:00",
-      "last_reply": "2011-07-29T09:46:28-04:00",
+      "started": "2011-07-29T13:46:28Z",
+      "last_reply": "2011-07-29T13:46:28Z",
       "root_message_id": "msg-db7b201b4289"
     }
   ]

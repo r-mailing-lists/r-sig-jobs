@@ -8,7 +8,7 @@
       "message_id": "<0B908F21-52BC-4FD0-8813-6B74767D576B@embl.de>",
       "from_name": "Nicolas Delhomme",
       "from_email_hash": "5edc53c30884f0c5518823dce097b16173b15bf4f6aedb2eff94170640ad71c4",
-      "date": "2012-07-10T17:37:21+02:00",
+      "date": "2012-07-10T15:37:21Z",
       "subject": "[R-jobs] A position of Bioinformatician is available at Sophia Genetics (Lausanne, Switzerland).",
       "subject_clean": "[R-jobs] A position of Bioinformatician is available at Sophia Genetics (Lausanne, Switzerland).",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAKFxdiRS0rFAY2uMN3kq1ksaPunpSc2PXpF3UqXV+Y=-D8CO+g@mail.gmail.com>",
       "from_name": "Kevin Wright",
       "from_email_hash": "a8092acca5931b5d7944fadf58284290a9509c57bb38213110843ec7ce37c064",
-      "date": "2012-07-27T10:02:31-05:00",
+      "date": "2012-07-27T15:02:31Z",
       "subject": "[R-jobs] Job at Pioneer Hi-Bred",
       "subject_clean": "[R-jobs] Job at Pioneer Hi-Bred",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Nicolas Delhomme"
       ],
-      "started": "2012-07-10T17:37:21+02:00",
-      "last_reply": "2012-07-10T17:37:21+02:00",
+      "started": "2012-07-10T15:37:21Z",
+      "last_reply": "2012-07-10T15:37:21Z",
       "root_message_id": "msg-dd4bf864ea15"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Simon Raper"
       ],
-      "started": "2012-07-11T16:03:12+00:00",
-      "last_reply": "2012-07-11T16:03:12+00:00",
+      "started": "2012-07-11T16:03:12Z",
+      "last_reply": "2012-07-11T16:03:12Z",
       "root_message_id": "msg-ca7c3d2cad06"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Kevin Wright"
       ],
-      "started": "2012-07-27T10:02:31-05:00",
-      "last_reply": "2012-07-27T10:02:31-05:00",
+      "started": "2012-07-27T15:02:31Z",
+      "last_reply": "2012-07-27T15:02:31Z",
       "root_message_id": "msg-32c5abf0ec8d"
     }
   ]

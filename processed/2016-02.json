@@ -8,7 +8,7 @@
       "message_id": "<BD05E6F68165E141B3744375022356F437B28121EC@HQEXDB01.hq.un.fao.org>",
       "from_name": "Fabi, Carola (ESS)",
       "from_email_hash": "fffa26c1a1876d60d92bab3bc9e1e0dd0779b5d35aae3904cd4a55fb004ea518",
-      "date": "2016-02-15T18:11:59+01:00",
+      "date": "2016-02-15T17:11:59Z",
       "subject": "[R-jobs] Statistician, R developer for agriculture statistics",
       "subject_clean": "[R-jobs] Statistician, R developer for agriculture statistics",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<2732C804E2DBB04AA90A678D76FAF2CC657EC21B6B@DFW1MBX02.mex07a.mlsrvr.com>",
       "from_name": "Lisa Solomon",
       "from_email_hash": "e6ffc8dc4d4389d0bb9086a7d2790c9b312b643682217969084274bac2524d6d",
-      "date": "2016-02-19T12:56:32-06:00",
+      "date": "2016-02-19T18:56:32Z",
       "subject": "[R-jobs] 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
       "subject_clean": "[R-jobs] 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<2732C804E2DBB04AA90A678D76FAF2CC657EC21B77@DFW1MBX02.mex07a.mlsrvr.com>",
       "from_name": "Lisa Solomon",
       "from_email_hash": "e6ffc8dc4d4389d0bb9086a7d2790c9b312b643682217969084274bac2524d6d",
-      "date": "2016-02-19T13:19:46-06:00",
+      "date": "2016-02-19T19:19:46Z",
       "subject": "[R-jobs] correct email: 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
       "subject_clean": "[R-jobs] correct email: 2 job postings: Data Scientist­ Data Preparation AND Entry ­Level Marketing Statistician (San Diego, CA)",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<0D0811308E281846AC318EF90FBD6AE31FC284@extorpcs2.inet.local>",
       "from_name": "Gagan K. Dhanjal",
       "from_email_hash": "d3b120dc896ec8a8deacd14494c881614f600fe11662a1ed68ff63e6bd1c8ebc",
-      "date": "2016-02-23T14:27:13-05:00",
+      "date": "2016-02-23T19:27:13Z",
       "subject": "[R-jobs] Quantitative Research Analyst Job Opportunity - Radnor, PA. USA",
       "subject_clean": "[R-jobs] Quantitative Research Analyst Job Opportunity - Radnor, PA. USA",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Fabi, Carola (ESS)"
       ],
-      "started": "2016-02-15T18:11:59+01:00",
-      "last_reply": "2016-02-15T18:11:59+01:00",
+      "started": "2016-02-15T17:11:59Z",
+      "last_reply": "2016-02-15T17:11:59Z",
       "root_message_id": "msg-2de69cd83d37"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Lisa Solomon"
       ],
-      "started": "2016-02-19T12:56:32-06:00",
-      "last_reply": "2016-02-19T12:56:32-06:00",
+      "started": "2016-02-19T18:56:32Z",
+      "last_reply": "2016-02-19T18:56:32Z",
       "root_message_id": "msg-99509ee36705"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "Lisa Solomon"
       ],
-      "started": "2016-02-19T13:19:46-06:00",
-      "last_reply": "2016-02-19T13:19:46-06:00",
+      "started": "2016-02-19T19:19:46Z",
+      "last_reply": "2016-02-19T19:19:46Z",
       "root_message_id": "msg-443a657472a2"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Gagan K. Dhanjal"
       ],
-      "started": "2016-02-23T14:27:13-05:00",
-      "last_reply": "2016-02-23T14:27:13-05:00",
+      "started": "2016-02-23T19:27:13Z",
+      "last_reply": "2016-02-23T19:27:13Z",
       "root_message_id": "msg-51592957df2e"
     }
   ]

@@ -24,7 +24,7 @@
       "message_id": "<CAOyz9G6vc4XHk9+Nkeaa9EeaqHS9uOia3o91jEsaeCD10-1OSw@mail.gmail.com>",
       "from_name": "Michael Haenlein",
       "from_email_hash": "7a7c9821d5ec7dac364968625f00af9b9cbbfdda551f3236b50a4feb249c6558",
-      "date": "2013-12-04T04:19:33+01:00",
+      "date": "2013-12-04T03:19:33Z",
       "subject": "[R-jobs] Looking for consultant in mathematics/ statistics",
       "subject_clean": "[R-jobs] Looking for consultant in mathematics/ statistics",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<52B380A0.5090201@gmail.com>",
       "from_name": "Ben Bolker",
       "from_email_hash": "058f22460bce77c55c3340fec40d01e374409ed76ec5a897b62075a27eb9734c",
-      "date": "2013-12-19T18:26:24-05:00",
+      "date": "2013-12-19T23:26:24Z",
       "subject": "[R-jobs] R/C++ programmer for lme4 maintenance",
       "subject_clean": "[R-jobs] R/C++ programmer for lme4 maintenance",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<alpine.LRH.2.01.1312221009550.12097@hymn03.u.washington.edu>",
       "from_name": "DAVID M LEVINE",
       "from_email_hash": "f4189b0e8df53dbbbe158832ffc511639e737256d238ec7a8e8583bd94cd3e7b",
-      "date": "2013-12-22T10:09:55-08:00",
+      "date": "2013-12-22T18:09:55Z",
       "subject": "[R-jobs] Data Analyst in Statistical Genetics",
       "subject_clean": "[R-jobs] Data Analyst in Statistical Genetics",
       "in_reply_to": "<alpine.LRH.2.01.1312200739330.21872@hymn03.u.washington.edu>",
@@ -92,8 +92,8 @@
       "participants": [
         "Crispin Miller"
       ],
-      "started": "2013-12-03T10:41:59+00:00",
-      "last_reply": "2013-12-03T10:41:59+00:00",
+      "started": "2013-12-03T10:41:59Z",
+      "last_reply": "2013-12-03T10:41:59Z",
       "root_message_id": "msg-4128f753e89e"
     },
     {
@@ -103,8 +103,8 @@
       "participants": [
         "Michael Haenlein"
       ],
-      "started": "2013-12-04T04:19:33+01:00",
-      "last_reply": "2013-12-04T04:19:33+01:00",
+      "started": "2013-12-04T03:19:33Z",
+      "last_reply": "2013-12-04T03:19:33Z",
       "root_message_id": "msg-d178f7841bb0"
     },
     {
@@ -114,8 +114,8 @@
       "participants": [
         "Ben Bolker"
       ],
-      "started": "2013-12-19T18:26:24-05:00",
-      "last_reply": "2013-12-19T18:26:24-05:00",
+      "started": "2013-12-19T23:26:24Z",
+      "last_reply": "2013-12-19T23:26:24Z",
       "root_message_id": "msg-868191847bfd"
     },
     {
@@ -125,8 +125,8 @@
       "participants": [
         "Reza Khorshidi"
       ],
-      "started": "2013-12-21T23:24:38+00:00",
-      "last_reply": "2013-12-21T23:24:38+00:00",
+      "started": "2013-12-21T23:24:38Z",
+      "last_reply": "2013-12-21T23:24:38Z",
       "root_message_id": "msg-1071e96dff3c"
     },
     {
@@ -136,8 +136,8 @@
       "participants": [
         "DAVID M LEVINE"
       ],
-      "started": "2013-12-22T10:09:55-08:00",
-      "last_reply": "2013-12-22T10:09:55-08:00",
+      "started": "2013-12-22T18:09:55Z",
+      "last_reply": "2013-12-22T18:09:55Z",
       "root_message_id": "msg-fd30a3fece39"
     }
   ]

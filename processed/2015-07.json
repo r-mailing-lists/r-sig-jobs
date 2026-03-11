@@ -8,7 +8,7 @@
       "message_id": "<201507071627.t67GR5Ln009788@hypatia.math.ethz.ch>",
       "from_name": "Vera Lopez",
       "from_email_hash": "a112d43194ca3beb5e9823b1638eaf9d08a5df706a1c28ee685d34e1a5d9beae",
-      "date": "2015-07-07T09:26:56-07:00",
+      "date": "2015-07-07T16:26:56Z",
       "subject": "[R-jobs] Travel Issues",
       "subject_clean": "[R-jobs] Travel Issues",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CA+SXNjjafj7xqZQR=S5vBDK2kSPa3BQbUvxW4=QMLLe1-FubWA@mail.gmail.com>",
       "from_name": "Sophie BLEIN",
       "from_email_hash": "d65a97ad6b2c22b575de48c8157ba8f177bd3d25b8a9a294a6687861cbc269b8",
-      "date": "2015-07-20T16:42:08+02:00",
+      "date": "2015-07-20T14:42:08Z",
       "subject": "[R-jobs] Postdoctoral Position in Biostatistics/Bioinformatics",
       "subject_clean": "[R-jobs] Postdoctoral Position in Biostatistics/Bioinformatics",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAHxTkZH-vRx1zbKLDOf2uEp5AVrO=OCC+OWCPPTedzrzNgxTsA@mail.gmail.com>",
       "from_name": "Louis Bajuk-Yorgan",
       "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
-      "date": "2015-07-28T14:53:39-07:00",
+      "date": "2015-07-28T21:53:39Z",
       "subject": "[R-jobs] Principal Data Scientist at TIBCO",
       "subject_clean": "[R-jobs] Principal Data Scientist at TIBCO",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Vera Lopez"
       ],
-      "started": "2015-07-07T09:26:56-07:00",
-      "last_reply": "2015-07-07T09:26:56-07:00",
+      "started": "2015-07-07T16:26:56Z",
+      "last_reply": "2015-07-07T16:26:56Z",
       "root_message_id": "msg-eee5347d4f12"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Sophie BLEIN"
       ],
-      "started": "2015-07-20T16:42:08+02:00",
-      "last_reply": "2015-07-20T16:42:08+02:00",
+      "started": "2015-07-20T14:42:08Z",
+      "last_reply": "2015-07-20T14:42:08Z",
       "root_message_id": "msg-a07cf48aeda0"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Louis Bajuk-Yorgan"
       ],
-      "started": "2015-07-28T14:53:39-07:00",
-      "last_reply": "2015-07-28T14:53:39-07:00",
+      "started": "2015-07-28T21:53:39Z",
+      "last_reply": "2015-07-28T21:53:39Z",
       "root_message_id": "msg-284d091482b6"
     }
   ]

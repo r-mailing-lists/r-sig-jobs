@@ -8,7 +8,7 @@
       "message_id": "<8942AAB276A3D645B013939D95119CE5075914DC8B@EXIRV01.am.edwards.lcl>",
       "from_name": "Janine Long",
       "from_email_hash": "2aac792a0895221b65c5e946021a8c08a92ea903e4dca506b8da4eeb10ed88b1",
-      "date": "2007-11-02T07:13:51-07:00",
+      "date": "2007-11-02T14:13:51Z",
       "subject": "[R-jobs] Splus/R Programmer- Edwards Lifesciences in Irvine, CA",
       "subject_clean": "[R-jobs] Splus/R Programmer- Edwards Lifesciences in Irvine, CA",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<474D7DA6.3000804@embl.de>",
       "from_name": "Julien Gagneur",
       "from_email_hash": "92e061931dcbf00a2e950209d192c734ac2c1f39f5fcf1e9d7bd732d157df2bd",
-      "date": "2007-11-28T15:39:34+01:00",
+      "date": "2007-11-28T14:39:34Z",
       "subject": "[R-jobs] Bioinformatician / Statistician position at EMBL Heidelberg",
       "subject_clean": "[R-jobs] Bioinformatician / Statistician position at EMBL Heidelberg",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Janine Long"
       ],
-      "started": "2007-11-02T07:13:51-07:00",
-      "last_reply": "2007-11-02T07:13:51-07:00",
+      "started": "2007-11-02T14:13:51Z",
+      "last_reply": "2007-11-02T14:13:51Z",
       "root_message_id": "msg-c07eb258c51a"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Julien Gagneur"
       ],
-      "started": "2007-11-28T15:39:34+01:00",
-      "last_reply": "2007-11-28T15:39:34+01:00",
+      "started": "2007-11-28T14:39:34Z",
+      "last_reply": "2007-11-28T14:39:34Z",
       "root_message_id": "msg-2f6816f5bfc3"
     }
   ]

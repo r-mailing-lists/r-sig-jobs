@@ -56,7 +56,7 @@
       "message_id": "<alpine.LRH.2.01.1407311410310.13367@hymn02.u.washington.edu>",
       "from_name": "k@yee m@iii@g oii u@w@shi@gto@@edu",
       "from_email_hash": "64e9ac56229cf8f0873398ec1227676da811f6c448ea6fcb7615f1ef4fe06821",
-      "date": "2014-07-31T14:10:31-07:00",
+      "date": "2014-07-31T21:10:31Z",
       "subject": "[R-jobs] Research Scientist positions at University of Washington",
       "subject_clean": "[R-jobs] Research Scientist positions at University of Washington",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Kinchen, Christina"
       ],
-      "started": "2014-07-02T15:13:08+00:00",
-      "last_reply": "2014-07-02T15:13:08+00:00",
+      "started": "2014-07-02T15:13:08Z",
+      "last_reply": "2014-07-02T15:13:08Z",
       "root_message_id": "msg-1e8ebfba673f"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Kinchen, Christina"
       ],
-      "started": "2014-07-02T15:14:08+00:00",
-      "last_reply": "2014-07-02T15:14:08+00:00",
+      "started": "2014-07-02T15:14:08Z",
+      "last_reply": "2014-07-02T15:14:08Z",
       "root_message_id": "msg-e3244235df66"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "Andrew Christianson"
       ],
-      "started": "2014-07-10T23:02:34+00:00",
-      "last_reply": "2014-07-10T23:02:34+00:00",
+      "started": "2014-07-10T23:02:34Z",
+      "last_reply": "2014-07-10T23:02:34Z",
       "root_message_id": "msg-28785ccd2cf6"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "k@yee m@iii@g oii u@w@shi@gto@@edu"
       ],
-      "started": "2014-07-31T14:10:31-07:00",
-      "last_reply": "2014-07-31T14:10:31-07:00",
+      "started": "2014-07-31T21:10:31Z",
+      "last_reply": "2014-07-31T21:10:31Z",
       "root_message_id": "msg-ca52536769a1"
     }
   ]

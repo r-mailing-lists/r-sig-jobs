@@ -8,7 +8,7 @@
       "message_id": "<C863C477-6232-40D1-833A-90B01582723D@nki.nl>",
       "from_name": "Lodewyk Wessels",
       "from_email_hash": "d4989cf01a187456c85af114c03705bca11cfe7e0b53aaa3938bf1298998ce28",
-      "date": "2012-01-03T17:51:03+01:00",
+      "date": "2012-01-03T16:51:03Z",
       "subject": "[R-jobs] Job opportunity in AMSTERDAM: ANALYSIS OF NGS CANCER DATA",
       "subject_clean": "[R-jobs] Job opportunity in AMSTERDAM: ANALYSIS OF NGS CANCER DATA",
       "in_reply_to": "<501462EA-549B-4386-BA31-4C8EF1DCA830@nki.nl>",
@@ -27,7 +27,7 @@
       "message_id": "<CAGfM87PrtdC7cBDWPyiHCzpXSF4Sp-80eoBoOSdXm-JUV0nwdg@mail.gmail.com>",
       "from_name": "Derek Norton",
       "from_email_hash": "885f3a514cd13237210805879e189db7d4e31d26a33b637de43bbbc3076d0bca",
-      "date": "2012-01-03T12:00:35-05:00",
+      "date": "2012-01-03T17:00:35Z",
       "subject": "[R-jobs] PRESALES / TECHNICAL SALES",
       "subject_clean": "[R-jobs] PRESALES / TECHNICAL SALES",
       "in_reply_to": "<CAGfM87MBnD2eWm2464sFN9GsS2Ss_T4omHpxiDW3=YgLq5wBOw@mail.gmail.com>",
@@ -45,7 +45,7 @@
       "message_id": "<CAGfM87Pz0s-msaKZsVT=LxetRMetmd7YQNLNupSB8kqhHJK8iA@mail.gmail.com>",
       "from_name": "Derek Norton",
       "from_email_hash": "885f3a514cd13237210805879e189db7d4e31d26a33b637de43bbbc3076d0bca",
-      "date": "2012-01-03T12:04:49-05:00",
+      "date": "2012-01-03T17:04:49Z",
       "subject": "[R-jobs] PreSales / Technical Sales",
       "subject_clean": "[R-jobs] PreSales / Technical Sales",
       "in_reply_to": null,
@@ -77,7 +77,7 @@
       "message_id": "<CAEdE6U6xHtWDp_WQxOszrv_S_-SYWyKg99up-k2Le4OhXrZ0kg@mail.gmail.com>",
       "from_name": "sayan dasgupta",
       "from_email_hash": "fb77cfcf96cca81eb44ee0b173afc553891eafc5d4383f07b31b1fff39969c76",
-      "date": "2012-01-09T13:51:07+05:30",
+      "date": "2012-01-09T08:21:07Z",
       "subject": "[R-jobs] Analytics Consultant, Sr. Analytics Consultant and Principal Analytics Consultant (AC/SAC/PAC), Bangalore India",
       "subject_clean": "[R-jobs] Analytics Consultant, Sr. Analytics Consultant and Principal Analytics Consultant (AC/SAC/PAC), Bangalore India",
       "in_reply_to": null,
@@ -93,7 +93,7 @@
       "message_id": "<4F0D4D5B.1020500@ufz.de>",
       "from_name": "Nora Eigenwill",
       "from_email_hash": "dd60af752f938019f917a2afd4d938a4048bd60cc4162efb88ec77aaeaeb8b48",
-      "date": "2012-01-11T09:50:35+01:00",
+      "date": "2012-01-11T08:50:35Z",
       "subject": "[R-jobs] Researcher (PostDoc)",
       "subject_clean": "[R-jobs] Researcher (PostDoc)",
       "in_reply_to": null,
@@ -125,14 +125,25 @@
   ],
   "threads": [
     {
+      "id": "thread-1537ae6c2dfb",
+      "subject": "[R-jobs] Job opportunity in AMSTERDAM: ANALYSIS OF NGS CANCER DATA",
+      "message_count": 1,
+      "participants": [
+        "Lodewyk Wessels"
+      ],
+      "started": "2012-01-03T16:51:03Z",
+      "last_reply": "2012-01-03T16:51:03Z",
+      "root_message_id": "msg-1537ae6c2dfb"
+    },
+    {
       "id": "thread-c9baa014b673",
       "subject": "[R-jobs] PRESALES / TECHNICAL SALES",
       "message_count": 1,
       "participants": [
         "Derek Norton"
       ],
-      "started": "2012-01-03T12:00:35-05:00",
-      "last_reply": "2012-01-03T12:00:35-05:00",
+      "started": "2012-01-03T17:00:35Z",
+      "last_reply": "2012-01-03T17:00:35Z",
       "root_message_id": "msg-c9baa014b673"
     },
     {
@@ -142,20 +153,9 @@
       "participants": [
         "Derek Norton"
       ],
-      "started": "2012-01-03T12:04:49-05:00",
-      "last_reply": "2012-01-03T12:04:49-05:00",
+      "started": "2012-01-03T17:04:49Z",
+      "last_reply": "2012-01-03T17:04:49Z",
       "root_message_id": "msg-6833abfd6e1c"
-    },
-    {
-      "id": "thread-1537ae6c2dfb",
-      "subject": "[R-jobs] Job opportunity in AMSTERDAM: ANALYSIS OF NGS CANCER DATA",
-      "message_count": 1,
-      "participants": [
-        "Lodewyk Wessels"
-      ],
-      "started": "2012-01-03T17:51:03+01:00",
-      "last_reply": "2012-01-03T17:51:03+01:00",
-      "root_message_id": "msg-1537ae6c2dfb"
     },
     {
       "id": "thread-5d9ac457a715",
@@ -164,8 +164,8 @@
       "participants": [
         "Louis Bajuk-Yorgan"
       ],
-      "started": "2012-01-03T23:10:21+00:00",
-      "last_reply": "2012-01-03T23:10:21+00:00",
+      "started": "2012-01-03T23:10:21Z",
+      "last_reply": "2012-01-03T23:10:21Z",
       "root_message_id": "msg-5d9ac457a715"
     },
     {
@@ -175,8 +175,8 @@
       "participants": [
         "sayan dasgupta"
       ],
-      "started": "2012-01-09T13:51:07+05:30",
-      "last_reply": "2012-01-09T13:51:07+05:30",
+      "started": "2012-01-09T08:21:07Z",
+      "last_reply": "2012-01-09T08:21:07Z",
       "root_message_id": "msg-a52c3d4ec5d7"
     },
     {
@@ -186,8 +186,8 @@
       "participants": [
         "Nora Eigenwill"
       ],
-      "started": "2012-01-11T09:50:35+01:00",
-      "last_reply": "2012-01-11T09:50:35+01:00",
+      "started": "2012-01-11T08:50:35Z",
+      "last_reply": "2012-01-11T08:50:35Z",
       "root_message_id": "msg-a55e0c01d57e"
     },
     {
@@ -197,8 +197,8 @@
       "participants": [
         "Laing, John"
       ],
-      "started": "2012-01-25T18:30:31+00:00",
-      "last_reply": "2012-01-25T18:30:31+00:00",
+      "started": "2012-01-25T18:30:31Z",
+      "last_reply": "2012-01-25T18:30:31Z",
       "root_message_id": "msg-eabd8d330976"
     }
   ]

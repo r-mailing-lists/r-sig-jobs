@@ -8,7 +8,7 @@
       "message_id": "<ed61fcb7-7bbd-c347-0a6c-22de9e105fb2@uct.ac.za>",
       "from_name": "Paolo Denti",
       "from_email_hash": "e74e7ebb90bcc6d7d3411b4804669908111ba6e97d4d33bcff6136937407c060",
-      "date": "2020-09-01T15:39:32+02:00",
+      "date": "2020-09-01T13:39:32Z",
       "subject": "[R-jobs] PhD student and postdoc positions in pharmacometrics at the University of Cape Town",
       "subject_clean": "[R-jobs] PhD student and postdoc positions in pharmacometrics at the University of Cape Town",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Paolo Denti"
       ],
-      "started": "2020-09-01T15:39:32+02:00",
-      "last_reply": "2020-09-01T15:39:32+02:00",
+      "started": "2020-09-01T13:39:32Z",
+      "last_reply": "2020-09-01T13:39:32Z",
       "root_message_id": "msg-e68562c559ae"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Jobs at IMS, Inc."
       ],
-      "started": "2020-09-21T18:49:00+00:00",
-      "last_reply": "2020-09-21T18:49:00+00:00",
+      "started": "2020-09-21T18:49:00Z",
+      "last_reply": "2020-09-21T18:49:00Z",
       "root_message_id": "msg-bb3ad5a0168b"
     }
   ]

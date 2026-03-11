@@ -8,7 +8,7 @@
       "message_id": "<CAJ9CoWmfsGdR0=JJV8gPxcNpVHSsxMKxinJJV_Vjg76SdtsyAQ@mail.gmail.com>",
       "from_name": "Max",
       "from_email_hash": "55e9714199e58e5463418cf3ee867dcf1427b8f1a366384b939bdc27824fe53d",
-      "date": "2017-07-27T09:16:37-07:00",
+      "date": "2017-07-27T16:16:37Z",
       "subject": "[R-jobs] nonclinical statistician",
       "subject_clean": "[R-jobs] nonclinical statistician",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAJ9CoWnpvW7yQhazEzCyk9zdYtVb3Jy_+0xaa_O-ewkdL+OWxQ@mail.gmail.com>",
       "from_name": "Max",
       "from_email_hash": "55e9714199e58e5463418cf3ee867dcf1427b8f1a366384b939bdc27824fe53d",
-      "date": "2017-07-27T09:21:04-07:00",
+      "date": "2017-07-27T16:21:04Z",
       "subject": "[R-jobs] nonclinical statistician",
       "subject_clean": "[R-jobs] nonclinical statistician",
       "in_reply_to": "<CAJ9CoWmfsGdR0=JJV8gPxcNpVHSsxMKxinJJV_Vjg76SdtsyAQ@mail.gmail.com>",
@@ -46,8 +46,8 @@
       "participants": [
         "Max"
       ],
-      "started": "2017-07-27T09:16:37-07:00",
-      "last_reply": "2017-07-27T09:21:04-07:00",
+      "started": "2017-07-27T16:16:37Z",
+      "last_reply": "2017-07-27T16:21:04Z",
       "root_message_id": "msg-c64e7e274430"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<AANLkTikHk3WoMojp4VxXqO1w5WzN8H3ya0CsXRUy6xfS@mail.gmail.com>",
       "from_name": "Harsh",
       "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
-      "date": "2010-08-04T16:13:49+05:30",
+      "date": "2010-08-04T10:43:49Z",
       "subject": "[R-jobs] Internship Opportunity for Analyst (Bangalore, India)",
       "subject_clean": "[R-jobs] Internship Opportunity for Analyst (Bangalore, India)",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<77EB52C6DD32BA4D87471DCD70C8D70003521FE0@NA-PA-VBE03.na.tibco.com>",
       "from_name": "Louis Bajuk-Yorgan",
       "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
-      "date": "2010-08-16T14:03:44-07:00",
+      "date": "2010-08-16T21:03:44Z",
       "subject": "[R-jobs] Job posting: S+/R Sr. Analytic Consultant",
       "subject_clean": "[R-jobs] Job posting: S+/R Sr. Analytic Consultant",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<F18A6F7CF1661F46920F2CF713122FED081D6D5D@mail.aveo.aveopharma.com>",
       "from_name": "John Rynak",
       "from_email_hash": "d601c905982e6d89d00520ce6083650b8f09a2dd7a958382c8f360e895e467ba",
-      "date": "2010-08-20T09:56:25-04:00",
+      "date": "2010-08-20T13:56:25Z",
       "subject": "[R-jobs] Wanted :BioInformatics Scientist - Heavy \"R\" focus",
       "subject_clean": "[R-jobs] Wanted :BioInformatics Scientist - Heavy \"R\" focus",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Harsh"
       ],
-      "started": "2010-08-04T16:13:49+05:30",
-      "last_reply": "2010-08-04T16:13:49+05:30",
+      "started": "2010-08-04T10:43:49Z",
+      "last_reply": "2010-08-04T10:43:49Z",
       "root_message_id": "msg-7b522cda6c4f"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Louis Bajuk-Yorgan"
       ],
-      "started": "2010-08-16T14:03:44-07:00",
-      "last_reply": "2010-08-16T14:03:44-07:00",
+      "started": "2010-08-16T21:03:44Z",
+      "last_reply": "2010-08-16T21:03:44Z",
       "root_message_id": "msg-be26a595907e"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "John Rynak"
       ],
-      "started": "2010-08-20T09:56:25-04:00",
-      "last_reply": "2010-08-20T09:56:25-04:00",
+      "started": "2010-08-20T13:56:25Z",
+      "last_reply": "2010-08-20T13:56:25Z",
       "root_message_id": "msg-b598e041bda0"
     }
   ]

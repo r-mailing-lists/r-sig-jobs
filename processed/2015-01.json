@@ -8,7 +8,7 @@
       "message_id": "<BD05E6F68165E141B3744375022356F4364A03082C@HQEXDB01.hq.un.fao.org>",
       "from_name": "Heyman, Amy (ESS)",
       "from_email_hash": "49e9cbd746963d684f2f14b12a403a6d48c4579aed672470047cbfe1b0debf2d",
-      "date": "2015-01-06T16:49:32+01:00",
+      "date": "2015-01-06T15:49:32Z",
       "subject": "[R-jobs] FAO Statistical Yearbook consultant",
       "subject_clean": "[R-jobs] FAO Statistical Yearbook consultant",
       "in_reply_to": null,
@@ -42,7 +42,7 @@
       "message_id": "<CANa=LjaackaJCMKkAvabvnsQqiDr4A2DL_g-HfXVcgjAE7uU1A@mail.gmail.com>",
       "from_name": "Mārtiņš Liberts",
       "from_email_hash": "1a352eec95633b4ff9bddf9df7f079c338cf5d6b572e8e49ca4f356fc258cb60",
-      "date": "2015-01-12T09:43:59+02:00",
+      "date": "2015-01-12T07:43:59Z",
       "subject": "[R-jobs] FAO Statistical Yearbook consultant",
       "subject_clean": "[R-jobs] FAO Statistical Yearbook consultant",
       "in_reply_to": "<1594748941.2715943.1420565536005.JavaMail.yahoo@jws100185.mail.ne1.yahoo.com>",
@@ -61,7 +61,7 @@
       "message_id": "<CABEr5Bum-ZqZEKJaFEM0m=HHu2=BaoHAbUpX8vv+N73E8fM7XA@mail.gmail.com>",
       "from_name": "Samuel Lê",
       "from_email_hash": "97f33e3c22d8925ef0329cd5f18d26199cc3ba3fba375f4d84abf2a01d102c21",
-      "date": "2015-01-12T09:43:55+01:00",
+      "date": "2015-01-12T08:43:55Z",
       "subject": "[R-jobs] FAO Statistical Yearbook consultant",
       "subject_clean": "[R-jobs] FAO Statistical Yearbook consultant",
       "in_reply_to": "<CANa=LjaackaJCMKkAvabvnsQqiDr4A2DL_g-HfXVcgjAE7uU1A@mail.gmail.com>",
@@ -81,7 +81,7 @@
       "message_id": "<BD05E6F68165E141B3744375022356F4364A0EB919@HQEXDB01.hq.un.fao.org>",
       "from_name": "Heyman, Amy (ESS)",
       "from_email_hash": "49e9cbd746963d684f2f14b12a403a6d48c4579aed672470047cbfe1b0debf2d",
-      "date": "2015-01-12T15:55:13+01:00",
+      "date": "2015-01-12T14:55:13Z",
       "subject": "[R-jobs] FAO Statistical Yearbook consultant",
       "subject_clean": "[R-jobs] FAO Statistical Yearbook consultant",
       "in_reply_to": "<CABEr5Bum-ZqZEKJaFEM0m=HHu2=BaoHAbUpX8vv+N73E8fM7XA@mail.gmail.com>",
@@ -125,8 +125,8 @@
         "Mārtiņš Liberts",
         "Samuel Lê"
       ],
-      "started": "2015-01-06T16:49:32+01:00",
-      "last_reply": "2015-01-12T15:55:13+01:00",
+      "started": "2015-01-06T15:49:32Z",
+      "last_reply": "2015-01-12T14:55:13Z",
       "root_message_id": "msg-80df4d7d1a6d"
     },
     {
@@ -136,8 +136,8 @@
       "participants": [
         "Alex Singleton"
       ],
-      "started": "2015-01-27T07:47:02+00:00",
-      "last_reply": "2015-01-27T07:47:02+00:00",
+      "started": "2015-01-27T07:47:02Z",
+      "last_reply": "2015-01-27T07:47:02Z",
       "root_message_id": "msg-cf2496eb2049"
     }
   ]

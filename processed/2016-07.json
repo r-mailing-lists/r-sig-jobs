@@ -8,7 +8,7 @@
       "message_id": "<008001d1e108$a269dd90$e73d98b0$@com>",
       "from_name": "Barbara ONeill",
       "from_email_hash": "1db8c87cd714f269eb362b100934809f42ca0be35e4b14c39a00f950a276b92e",
-      "date": "2016-07-18T09:25:34-06:00",
+      "date": "2016-07-18T15:25:34Z",
       "subject": "[R-jobs] EpiX Analytics - Full-Time Position - Quantitative Health Risk Analysis Consultant",
       "subject_clean": "[R-jobs] EpiX Analytics - Full-Time Position - Quantitative Health Risk Analysis Consultant",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1982520607.120830.1469652645780.JavaMail.zimbra@openanalytics.eu>",
       "from_name": "Tobias Verbeke",
       "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
-      "date": "2016-07-27T22:50:45+02:00",
+      "date": "2016-07-27T20:50:45Z",
       "subject": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
       "subject_clean": "[R-jobs] Job Openings: Statisticians and Data Scientists at Open Analytics (Belgium)",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Barbara ONeill"
       ],
-      "started": "2016-07-18T09:25:34-06:00",
-      "last_reply": "2016-07-18T09:25:34-06:00",
+      "started": "2016-07-18T15:25:34Z",
+      "last_reply": "2016-07-18T15:25:34Z",
       "root_message_id": "msg-03dadfb75a66"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Tobias Verbeke"
       ],
-      "started": "2016-07-27T22:50:45+02:00",
-      "last_reply": "2016-07-27T22:50:45+02:00",
+      "started": "2016-07-27T20:50:45Z",
+      "last_reply": "2016-07-27T20:50:45Z",
       "root_message_id": "msg-42e85abbaa6e"
     }
   ]

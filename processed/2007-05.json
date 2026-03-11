@@ -8,7 +8,7 @@
       "message_id": "<9B47A7A0-3594-4BB1-A778-50FF72757C8F@warnes.net>",
       "from_name": "Gregory Warnes",
       "from_email_hash": "9e2f2c80823e55123a9541ab95f72b0bdc73ecd91bd569f21e3fdcc44bd28ee8",
-      "date": "2007-05-14T15:21:41-04:00",
+      "date": "2007-05-14T19:21:41Z",
       "subject": "[R-jobs] JOB: Biostatistician/Statistical Programmer/Data Analyst",
       "subject_clean": "[R-jobs] JOB: Biostatistician/Statistical Programmer/Data Analyst",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1179278796.3650.111.camel@fry>",
       "from_name": "m taylor",
       "from_email_hash": "b060a0d5d710f364bedc3a502978fd929e589f079228c3a0276eb1e669269894",
-      "date": "2007-05-15T20:26:36-05:00",
+      "date": "2007-05-16T01:26:36Z",
       "subject": "[R-jobs] JOB: Data Analyst",
       "subject_clean": "[R-jobs] JOB: Data Analyst",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Gregory Warnes"
       ],
-      "started": "2007-05-14T15:21:41-04:00",
-      "last_reply": "2007-05-14T15:21:41-04:00",
+      "started": "2007-05-14T19:21:41Z",
+      "last_reply": "2007-05-14T19:21:41Z",
       "root_message_id": "msg-ee184158d5b4"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "m taylor"
       ],
-      "started": "2007-05-15T20:26:36-05:00",
-      "last_reply": "2007-05-15T20:26:36-05:00",
+      "started": "2007-05-16T01:26:36Z",
+      "last_reply": "2007-05-16T01:26:36Z",
       "root_message_id": "msg-d32751bff12c"
     }
   ]

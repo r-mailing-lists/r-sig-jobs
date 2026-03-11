@@ -8,7 +8,7 @@
       "message_id": "<CAMHjdxksrOBCzMct32myziycxKKksO-++1AafDaJTCrZMF2cog@mail.gmail.com>",
       "from_name": "Jose Quesada",
       "from_email_hash": "65768efb0920eb1e9477e5b294549d1fbcf992470514c405f3f11579817817df",
-      "date": "2014-05-08T14:21:07+02:00",
+      "date": "2014-05-08T12:21:07Z",
       "subject": "[R-jobs] Machine learning teaching for Data Science Retreat",
       "subject_clean": "[R-jobs] Machine learning teaching for Data Science Retreat",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CABKBmVPWFOWg3oEYKnh8Kxny2VQewm_dS8pnXC23=mtah1PgtA@mail.gmail.com>",
       "from_name": "Ajay Gopal",
       "from_email_hash": "d37326ceb9e7c222e7a20bf3f7af7d5ced27ad2262e2010f6645579aa6df92ce",
-      "date": "2014-05-15T18:47:50-07:00",
+      "date": "2014-05-16T01:47:50Z",
       "subject": "[R-jobs] Need Experienced Statistical Prog(R)ammer / Analytics Engineer [#Startup #LosAngeles]",
       "subject_clean": "[R-jobs] Need Experienced Statistical Prog(R)ammer / Analytics Engineer [#Startup #LosAngeles]",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<53761A60.8070005@oncology.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "08fc7a2780b75ae496535a1ad78a2fc5e1c7811cc3d12c4b3b7ab32fde2e53c9",
-      "date": "2014-05-16T15:02:08+01:00",
+      "date": "2014-05-16T14:02:08Z",
       "subject": "[R-jobs] Senior Bioinformatics/Software Engineering Position Oxford",
       "subject_clean": "[R-jobs] Senior Bioinformatics/Software Engineering Position Oxford",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<53761A7A.70804@oncology.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "08fc7a2780b75ae496535a1ad78a2fc5e1c7811cc3d12c4b3b7ab32fde2e53c9",
-      "date": "2014-05-16T15:02:34+01:00",
+      "date": "2014-05-16T14:02:34Z",
       "subject": "[R-jobs] Software Engineering Position Oxford",
       "subject_clean": "[R-jobs] Software Engineering Position Oxford",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<003c01cf7141$ace02f60$06a08e20$@vis-intel.com>",
       "from_name": "Dan Rider",
       "from_email_hash": "77325c066cf7895120d06f4ee7a4029cbc9f15cfab0dc9b6558409238f91f2ff",
-      "date": "2014-05-16T16:01:49-04:00",
+      "date": "2014-05-16T20:01:49Z",
       "subject": "[R-jobs] R programmer in Market Research (Philadelphia)",
       "subject_clean": "[R-jobs] R programmer in Market Research (Philadelphia)",
       "in_reply_to": null,
@@ -92,8 +92,8 @@
       "participants": [
         "Jose Quesada"
       ],
-      "started": "2014-05-08T14:21:07+02:00",
-      "last_reply": "2014-05-08T14:21:07+02:00",
+      "started": "2014-05-08T12:21:07Z",
+      "last_reply": "2014-05-08T12:21:07Z",
       "root_message_id": "msg-dfdef9f90d8e"
     },
     {
@@ -103,8 +103,8 @@
       "participants": [
         "Ajay Gopal"
       ],
-      "started": "2014-05-15T18:47:50-07:00",
-      "last_reply": "2014-05-15T18:47:50-07:00",
+      "started": "2014-05-16T01:47:50Z",
+      "last_reply": "2014-05-16T01:47:50Z",
       "root_message_id": "msg-a82e7e5a2275"
     },
     {
@@ -114,8 +114,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2014-05-16T15:02:08+01:00",
-      "last_reply": "2014-05-16T15:02:08+01:00",
+      "started": "2014-05-16T14:02:08Z",
+      "last_reply": "2014-05-16T14:02:08Z",
       "root_message_id": "msg-bd3befafdf3c"
     },
     {
@@ -125,8 +125,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2014-05-16T15:02:34+01:00",
-      "last_reply": "2014-05-16T15:02:34+01:00",
+      "started": "2014-05-16T14:02:34Z",
+      "last_reply": "2014-05-16T14:02:34Z",
       "root_message_id": "msg-b78a7848cc39"
     },
     {
@@ -136,8 +136,8 @@
       "participants": [
         "Dan Rider"
       ],
-      "started": "2014-05-16T16:01:49-04:00",
-      "last_reply": "2014-05-16T16:01:49-04:00",
+      "started": "2014-05-16T20:01:49Z",
+      "last_reply": "2014-05-16T20:01:49Z",
       "root_message_id": "msg-1e7f4d835d8b"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<AANLkTinJdJov1xXXLefRWcUePv3T9Z947DaWwqEa9Nnb@mail.gmail.com>",
       "from_name": "Joseph Kahn",
       "from_email_hash": "df56e00d1f0a2e59defe4db05259145a503b5fa60c138852f23220e954661166",
-      "date": "2011-03-02T16:15:23-05:00",
+      "date": "2011-03-02T21:15:23Z",
       "subject": "[R-jobs] summer internship at Novartis",
       "subject_clean": "[R-jobs] summer internship at Novartis",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<AANLkTimBRup=uzxAQZP6EqPVit4UXnBTVEB1nhJjhXhK@mail.gmail.com>",
       "from_name": "Rocky Mehta",
       "from_email_hash": "37d3e3eb1a300ea00ea3bc83d49a23b5619c1e5cd321de2baddb3ff8c31ce753",
-      "date": "2011-03-08T22:25:55-05:00",
+      "date": "2011-03-09T03:25:55Z",
       "subject": "[R-jobs] Data Scientist opportunity",
       "subject_clean": "[R-jobs] Data Scientist opportunity",
       "in_reply_to": "<AANLkTin0QEGNAFTi5Lhs9FBqw9hghVQwpECxgrjZqH7Z@mail.gmail.com>",
@@ -58,7 +58,7 @@
       "message_id": "<AANLkTinLqYdx_azhUQ4o2p1dWczbb_OVnxBAeDTJjqvE@mail.gmail.com>",
       "from_name": "Usuario R",
       "from_email_hash": "6c1eed21635e2f078599b515973ca58cd0cf39a113f185b603fcbade87efbf9a",
-      "date": "2011-03-09T09:53:46+01:00",
+      "date": "2011-03-09T08:53:46Z",
       "subject": "[R-jobs] Data Scientist opportunity",
       "subject_clean": "[R-jobs] Data Scientist opportunity",
       "in_reply_to": "<AANLkTimBRup=uzxAQZP6EqPVit4UXnBTVEB1nhJjhXhK@mail.gmail.com>",
@@ -77,7 +77,7 @@
       "message_id": "<19831.28603.204954.591359@ny.koplon.com>",
       "from_name": "Marc Schwarzschild",
       "from_email_hash": "08a69da45c5fa12d0bce0008ccf30f4bf0fda15e95d5a9281893bc2d3ecf24bb",
-      "date": "2011-03-09T07:16:59-05:00",
+      "date": "2011-03-09T12:16:59Z",
       "subject": "[R-jobs] Data Scientist opportunity",
       "subject_clean": "[R-jobs] Data Scientist opportunity",
       "in_reply_to": null,
@@ -93,7 +93,7 @@
       "message_id": "<4553891296692088610@unknownmsgid>",
       "from_name": "Rocky Mehta",
       "from_email_hash": "37d3e3eb1a300ea00ea3bc83d49a23b5619c1e5cd321de2baddb3ff8c31ce753",
-      "date": "2011-03-09T11:09:05-05:00",
+      "date": "2011-03-09T16:09:05Z",
       "subject": "[R-jobs] Data Scientist opportunity",
       "subject_clean": "[R-jobs] Data Scientist opportunity",
       "in_reply_to": "<AANLkTinLqYdx_azhUQ4o2p1dWczbb_OVnxBAeDTJjqvE@mail.gmail.com>",
@@ -113,7 +113,7 @@
       "message_id": "<20110316142629.GA4830@cs.umn.edu>",
       "from_name": "Darin A. England",
       "from_email_hash": "4928ac6bd3bef7ad69dba2a9b50300e02826e2e4e6a2dfdda90cfe0771531220",
-      "date": "2011-03-16T09:26:29-05:00",
+      "date": "2011-03-16T14:26:29Z",
       "subject": "[R-jobs] Opening for a Research Statistician",
       "subject_clean": "[R-jobs] Opening for a Research Statistician",
       "in_reply_to": null,
@@ -129,7 +129,7 @@
       "message_id": "<9530A3E1599DBD4AA061423EEDCF7E9D0CABED@USXLXEXC100.NG.CORP>",
       "from_name": "Wang Yu",
       "from_email_hash": "70d107a727bf07457fc85e61a959dda4eec5a2ed1d695a116abd9fc1390120b4",
-      "date": "2011-03-31T08:51:19-04:00",
+      "date": "2011-03-31T12:51:19Z",
       "subject": "[R-jobs] Noble America Announcement for Summer Internship 2011",
       "subject_clean": "[R-jobs] Noble America Announcement for Summer Internship 2011",
       "in_reply_to": null,
@@ -149,8 +149,8 @@
       "participants": [
         "Joseph Kahn"
       ],
-      "started": "2011-03-02T16:15:23-05:00",
-      "last_reply": "2011-03-02T16:15:23-05:00",
+      "started": "2011-03-02T21:15:23Z",
+      "last_reply": "2011-03-02T21:15:23Z",
       "root_message_id": "msg-8290d38a6e53"
     },
     {
@@ -160,8 +160,8 @@
       "participants": [
         "David Hodgkinson"
       ],
-      "started": "2011-03-07T17:12:28+00:00",
-      "last_reply": "2011-03-07T17:12:28+00:00",
+      "started": "2011-03-07T17:12:28Z",
+      "last_reply": "2011-03-07T17:12:28Z",
       "root_message_id": "msg-2e84feacb021"
     },
     {
@@ -172,8 +172,8 @@
         "Rocky Mehta",
         "Usuario R"
       ],
-      "started": "2011-03-08T22:25:55-05:00",
-      "last_reply": "2011-03-09T11:09:05-05:00",
+      "started": "2011-03-09T03:25:55Z",
+      "last_reply": "2011-03-09T16:09:05Z",
       "root_message_id": "msg-462725fee20a"
     },
     {
@@ -183,8 +183,8 @@
       "participants": [
         "Marc Schwarzschild"
       ],
-      "started": "2011-03-09T07:16:59-05:00",
-      "last_reply": "2011-03-09T07:16:59-05:00",
+      "started": "2011-03-09T12:16:59Z",
+      "last_reply": "2011-03-09T12:16:59Z",
       "root_message_id": "msg-c2d27749f0c8"
     },
     {
@@ -194,8 +194,8 @@
       "participants": [
         "Darin A. England"
       ],
-      "started": "2011-03-16T09:26:29-05:00",
-      "last_reply": "2011-03-16T09:26:29-05:00",
+      "started": "2011-03-16T14:26:29Z",
+      "last_reply": "2011-03-16T14:26:29Z",
       "root_message_id": "msg-cd4baf7d69c9"
     },
     {
@@ -205,8 +205,8 @@
       "participants": [
         "Wang Yu"
       ],
-      "started": "2011-03-31T08:51:19-04:00",
-      "last_reply": "2011-03-31T08:51:19-04:00",
+      "started": "2011-03-31T12:51:19Z",
+      "last_reply": "2011-03-31T12:51:19Z",
       "root_message_id": "msg-9f0b9f849458"
     }
   ]

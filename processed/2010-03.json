@@ -8,7 +8,7 @@
       "message_id": "<5d1825871003160818g64fefb00iede367e7eb4cf2@mail.gmail.com>",
       "from_name": "Dilip Rajagopalan",
       "from_email_hash": "4b7134af15a02306d1296078d18ce1cc094a5ac16d51f86451dd3ba262740277",
-      "date": "2010-03-16T11:18:49-04:00",
+      "date": "2010-03-16T15:18:49Z",
       "subject": "[R-jobs] Sr. Statistician - Healthcare Analytics",
       "subject_clean": "[R-jobs] Sr. Statistician - Healthcare Analytics",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<6731304c1003170841l7a39f38j67ea38e99d91e92a@mail.gmail.com>",
       "from_name": "Max Kuhn",
       "from_email_hash": "55e9714199e58e5463418cf3ee867dcf1427b8f1a366384b939bdc27824fe53d",
-      "date": "2010-03-17T11:41:32-04:00",
+      "date": "2010-03-17T15:41:32Z",
       "subject": "[R-jobs] Preclinical Statistician",
       "subject_clean": "[R-jobs] Preclinical Statistician",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<bcaa950d1003221000l42383d4fj43d0b989df81d629@mail.gmail.com>",
       "from_name": "David Katz",
       "from_email_hash": "b17ceab19ab2d76b06da4b22aa5e19ad4a99022761bf1d0e6c0136dde32ca7fa",
-      "date": "2010-03-22T10:00:46-07:00",
+      "date": "2010-03-22T17:00:46Z",
       "subject": "[R-jobs] Bayesian Networks and Bayesian Survival Analysis",
       "subject_clean": "[R-jobs] Bayesian Networks and Bayesian Survival Analysis",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<A30FDC45-4184-40D6-B278-C20B3E9F8EE4@hughes.net>",
       "from_name": "Steve Trubow",
       "from_email_hash": "ebbbaae0b93408e062953f50d035592af29ffacbc281e102d34b485c5139b7fe",
-      "date": "2010-03-22T13:07:22-04:00",
+      "date": "2010-03-22T17:07:22Z",
       "subject": "[R-jobs] Bayesian Networks and Bayesian Survival Analysis",
       "subject_clean": "[R-jobs] Bayesian Networks and Bayesian Survival Analysis",
       "in_reply_to": "<bcaa950d1003221000l42383d4fj43d0b989df81d629@mail.gmail.com>",
@@ -78,8 +78,8 @@
       "participants": [
         "Dilip Rajagopalan"
       ],
-      "started": "2010-03-16T11:18:49-04:00",
-      "last_reply": "2010-03-16T11:18:49-04:00",
+      "started": "2010-03-16T15:18:49Z",
+      "last_reply": "2010-03-16T15:18:49Z",
       "root_message_id": "msg-fe24e44844a8"
     },
     {
@@ -89,8 +89,8 @@
       "participants": [
         "Max Kuhn"
       ],
-      "started": "2010-03-17T11:41:32-04:00",
-      "last_reply": "2010-03-17T11:41:32-04:00",
+      "started": "2010-03-17T15:41:32Z",
+      "last_reply": "2010-03-17T15:41:32Z",
       "root_message_id": "msg-83942ca0bd1c"
     },
     {
@@ -101,8 +101,8 @@
         "David Katz",
         "Steve Trubow"
       ],
-      "started": "2010-03-22T10:00:46-07:00",
-      "last_reply": "2010-03-22T13:07:22-04:00",
+      "started": "2010-03-22T17:00:46Z",
+      "last_reply": "2010-03-22T17:07:22Z",
       "root_message_id": "msg-3bfc0aaa5d54"
     }
   ]

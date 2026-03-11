@@ -8,7 +8,7 @@
       "message_id": "<ace970cc-72d4-067a-bb07-04baaca6fbbd@mbacou.com>",
       "from_name": "Bacou, Melanie",
       "from_email_hash": "5c81096d55abd34e703ffa1377a7ff0fd373feb65a5df014e46c31d2da952066",
-      "date": "2019-06-07T16:16:38-04:00",
+      "date": "2019-06-07T20:16:38Z",
       "subject": "[R-jobs] Business Intelligence LEAD (weather insurance ops)",
       "subject_clean": "[R-jobs] Business Intelligence LEAD (weather insurance ops)",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<alpine.DEB.2.21.1906181521590.10945@diana>",
       "from_name": "Torsten Hothorn",
       "from_email_hash": "6060fd95d3e4dba59127ec2031900b6db5f4e0b7021748e22b35039f0c50f46a",
-      "date": "2019-06-18T15:25:15+02:00",
+      "date": "2019-06-18T13:25:15Z",
       "subject": "[R-jobs] Statistics PostDoc in Zurich",
       "subject_clean": "[R-jobs] Statistics PostDoc in Zurich",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Bacou, Melanie"
       ],
-      "started": "2019-06-07T16:16:38-04:00",
-      "last_reply": "2019-06-07T16:16:38-04:00",
+      "started": "2019-06-07T20:16:38Z",
+      "last_reply": "2019-06-07T20:16:38Z",
       "root_message_id": "msg-d2924bfaa477"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Torsten Hothorn"
       ],
-      "started": "2019-06-18T15:25:15+02:00",
-      "last_reply": "2019-06-18T15:25:15+02:00",
+      "started": "2019-06-18T13:25:15Z",
+      "last_reply": "2019-06-18T13:25:15Z",
       "root_message_id": "msg-0685ccc55fdc"
     }
   ]

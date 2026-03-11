@@ -8,7 +8,7 @@
       "message_id": "<200803191708.m2JH8Pwj028439@hypatia.math.ethz.ch>",
       "from_name": "Christina Kinchen",
       "from_email_hash": "fd1fd204d90860a6d75a121c6c6b467a5d9179d65fd0da2e8d9f65dd0e11899b",
-      "date": "2008-03-19T13:08:06-04:00",
+      "date": "2008-03-19T17:08:06Z",
       "subject": "[R-jobs] SAS/R position open with pharmaceutical in NJ/MA/IL",
       "subject_clean": "[R-jobs] SAS/R position open with pharmaceutical in NJ/MA/IL",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<18402.49182.23871.487980@ny.koplon.com>",
       "from_name": "Marc Schwarzschild",
       "from_email_hash": "08a69da45c5fa12d0bce0008ccf30f4bf0fda15e95d5a9281893bc2d3ecf24bb",
-      "date": "2008-03-20T15:50:54-04:00",
+      "date": "2008-03-20T19:50:54Z",
       "subject": "[R-jobs] R programmer wanted for Financial market timing simulator",
       "subject_clean": "[R-jobs] R programmer wanted for Financial market timing simulator",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Christina Kinchen"
       ],
-      "started": "2008-03-19T13:08:06-04:00",
-      "last_reply": "2008-03-19T13:08:06-04:00",
+      "started": "2008-03-19T17:08:06Z",
+      "last_reply": "2008-03-19T17:08:06Z",
       "root_message_id": "msg-27172725df7d"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Marc Schwarzschild"
       ],
-      "started": "2008-03-20T15:50:54-04:00",
-      "last_reply": "2008-03-20T15:50:54-04:00",
+      "started": "2008-03-20T19:50:54Z",
+      "last_reply": "2008-03-20T19:50:54Z",
       "root_message_id": "msg-351f39db978c"
     }
   ]

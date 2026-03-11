@@ -8,7 +8,7 @@
       "message_id": "<8950cd610909031228oa07a1ceo5007a7445f570ee2@mail.gmail.com>",
       "from_name": "Justin Neville-Rolfe",
       "from_email_hash": "b7adf9fe4cb9dc561484579f511b3c180514a6da6319b6f81309af3ace86cd7e",
-      "date": "2009-09-03T20:28:19+01:00",
+      "date": "2009-09-03T19:28:19Z",
       "subject": "[R-jobs] Looking for a casual contractor to write R functions and help integrate with Excel",
       "subject_clean": "[R-jobs] Looking for a casual contractor to write R functions and help integrate with Excel",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<0E69ABC83C3341368A113AB3DC90F7A6@gne.windows.gene.com>",
       "from_name": "Bert Gunter",
       "from_email_hash": "fff944709cd4e01c43b94b925a795dc8ebb00f65da76c888c1d3901ec68b6b6b",
-      "date": "2009-09-08T11:21:51-07:00",
+      "date": "2009-09-08T18:21:51Z",
       "subject": "[R-jobs] Genentech Nonclinical Biostatistics Position in South San Francisco",
       "subject_clean": "[R-jobs] Genentech Nonclinical Biostatistics Position in South San Francisco",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<040346FA7309BD439C327F97D4C4D69B077AC792@ISIS.fhcrc.org>",
       "from_name": "Duran, Alysha M",
       "from_email_hash": "8d6f130e18ff022eda9ea5f7884abc5f29fca4052f2d2051d1576b9c7e54bacd",
-      "date": "2009-09-08T12:54:56-07:00",
+      "date": "2009-09-08T19:54:56Z",
       "subject": "[R-jobs] Fred Hutchinson Cancer Research Center - Systems Analyst/Programmer III/IV (AD-22564)",
       "subject_clean": "[R-jobs] Fred Hutchinson Cancer Research Center - Systems Analyst/Programmer III/IV (AD-22564)",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Justin Neville-Rolfe"
       ],
-      "started": "2009-09-03T20:28:19+01:00",
-      "last_reply": "2009-09-03T20:28:19+01:00",
+      "started": "2009-09-03T19:28:19Z",
+      "last_reply": "2009-09-03T19:28:19Z",
       "root_message_id": "msg-b51911808f40"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Bert Gunter"
       ],
-      "started": "2009-09-08T11:21:51-07:00",
-      "last_reply": "2009-09-08T11:21:51-07:00",
+      "started": "2009-09-08T18:21:51Z",
+      "last_reply": "2009-09-08T18:21:51Z",
       "root_message_id": "msg-4883c5de3cfc"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Duran, Alysha M"
       ],
-      "started": "2009-09-08T12:54:56-07:00",
-      "last_reply": "2009-09-08T12:54:56-07:00",
+      "started": "2009-09-08T19:54:56Z",
+      "last_reply": "2009-09-08T19:54:56Z",
       "root_message_id": "msg-e687bf385934"
     }
   ]

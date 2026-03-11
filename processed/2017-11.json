@@ -8,7 +8,7 @@
       "message_id": "<2ae27622-cce9-e3c9-d281-eb0e30def0e1@uzh.ch>",
       "from_name": "Heidi Seibold",
       "from_email_hash": "92c1aba676750959dd06f6ee25c45241e34ad57c9cd40df5bed58de9576c8586",
-      "date": "2017-11-21T11:39:06+01:00",
+      "date": "2017-11-21T10:39:06Z",
       "subject": "[R-jobs] Data Scientists, Biostatisticians and Bioinformaticians (LMU Munich)",
       "subject_clean": "[R-jobs] Data Scientists, Biostatisticians and Bioinformaticians (LMU Munich)",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<2fb4f878-e790-e6e4-9588-f4028a957fcd@ufl.edu>",
       "from_name": "Mathieu Basille",
       "from_email_hash": "6f77c1322b2070af4bb25eb2bb5f63557495731628429f6b4d4f85ab21891ebe",
-      "date": "2017-11-27T16:50:52-05:00",
+      "date": "2017-11-27T21:50:52Z",
       "subject": "[R-jobs] Data expert position: PostGIS and spatial ecology, University of Florida, Fort Lauderdale, FL",
       "subject_clean": "[R-jobs] Data expert position: PostGIS and spatial ecology, University of Florida, Fort Lauderdale, FL",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Heidi Seibold"
       ],
-      "started": "2017-11-21T11:39:06+01:00",
-      "last_reply": "2017-11-21T11:39:06+01:00",
+      "started": "2017-11-21T10:39:06Z",
+      "last_reply": "2017-11-21T10:39:06Z",
       "root_message_id": "msg-2ed3e1afb549"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Mathieu Basille"
       ],
-      "started": "2017-11-27T16:50:52-05:00",
-      "last_reply": "2017-11-27T16:50:52-05:00",
+      "started": "2017-11-27T21:50:52Z",
+      "last_reply": "2017-11-27T21:50:52Z",
       "root_message_id": "msg-00dc76cfcc1e"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<4B733019.8090903@waikato.ac.nz>",
       "from_name": "Murray Jorgensen",
       "from_email_hash": "412594a5d6217bd6278b467c649716172da47740ed2a37d374bdef83c1b35bc1",
-      "date": "2010-02-11T11:15:53+13:00",
+      "date": "2010-02-10T22:15:53Z",
       "subject": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
       "subject_clean": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4B73C6BA.1030806@imbe.med.uni-erlangen.de>",
       "from_name": "Benjamin Hofner",
       "from_email_hash": "49e9e3459fde2aeb83658f1be1996bba8af7f9cddeb0dac00b00f7c7ee17eaa4",
-      "date": "2010-02-11T09:58:34+01:00",
+      "date": "2010-02-11T08:58:34Z",
       "subject": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
       "subject_clean": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
       "in_reply_to": "<4B733019.8090903@waikato.ac.nz>",
@@ -58,7 +58,7 @@
       "message_id": "<d5b814ab1002111057k2277d43bj978575d179e70a1c@mail.gmail.com>",
       "from_name": "Ajit de Silva",
       "from_email_hash": "e684fcecce3d08a2a04bb87ab42df21cf48628a68d847f214cc17f8a84abb2b2",
-      "date": "2010-02-11T10:57:48-08:00",
+      "date": "2010-02-11T18:57:48Z",
       "subject": "[R-jobs] R group on LinkedIn.com",
       "subject_clean": "[R-jobs] R group on LinkedIn.com",
       "in_reply_to": null,
@@ -74,7 +74,7 @@
       "message_id": "<8E15B0CB56904A229AF1F3C544D4C4CC@MichaelPC>",
       "from_name": "Michael Haenlein",
       "from_email_hash": "7a7c9821d5ec7dac364968625f00af9b9cbbfdda551f3236b50a4feb249c6558",
-      "date": "2010-02-14T15:19:17+01:00",
+      "date": "2010-02-14T14:19:17Z",
       "subject": "[R-jobs] Help for programming a short code in R",
       "subject_clean": "[R-jobs] Help for programming a short code in R",
       "in_reply_to": null,
@@ -90,7 +90,7 @@
       "message_id": "<B6F184EC-7F97-4732-BDA8-D56227CCD215@metrumrg.com>",
       "from_name": "Jim Rogers",
       "from_email_hash": "10f53b05afd479b619cda0009159c5823d52918feda9b201ed40fe4585e5232e",
-      "date": "2010-02-15T09:31:04-05:00",
+      "date": "2010-02-15T14:31:04Z",
       "subject": "[R-jobs] Seeking Bayesian modeling statistician",
       "subject_clean": "[R-jobs] Seeking Bayesian modeling statistician",
       "in_reply_to": null,
@@ -106,7 +106,7 @@
       "message_id": "<CDCC880C3C4A8B44BF6DBF70D06588FD022BD9C9FB@galileo.instepsoftware.com>",
       "from_name": "Keith Boyle",
       "from_email_hash": "ec1c735ccceb2677044ca53354a2b1e33e2427a2b5c6ca1b21ff44b0a95e9b37",
-      "date": "2010-02-17T16:45:51-06:00",
+      "date": "2010-02-17T22:45:51Z",
       "subject": "[R-jobs] Statistical Programmer - InStep Software - Chicago",
       "subject_clean": "[R-jobs] Statistical Programmer - InStep Software - Chicago",
       "in_reply_to": null,
@@ -120,17 +120,6 @@
   ],
   "threads": [
     {
-      "id": "thread-3fb3e7f7c3c7",
-      "subject": "[R-jobs] R group on LinkedIn.com",
-      "message_count": 1,
-      "participants": [
-        "Ajit de Silva"
-      ],
-      "started": "2010-02-11T10:57:48-08:00",
-      "last_reply": "2010-02-11T10:57:48-08:00",
-      "root_message_id": "msg-3fb3e7f7c3c7"
-    },
-    {
       "id": "thread-62381cb81c89",
       "subject": "[R-jobs] Vacancy for Lecturer, Department of Statistics, University of Waikato, New Zealand",
       "message_count": 2,
@@ -138,8 +127,8 @@
         "Benjamin Hofner",
         "Murray Jorgensen"
       ],
-      "started": "2010-02-11T11:15:53+13:00",
-      "last_reply": "2010-02-11T09:58:34+01:00",
+      "started": "2010-02-10T22:15:53Z",
+      "last_reply": "2010-02-11T08:58:34Z",
       "root_message_id": "msg-62381cb81c89"
     },
     {
@@ -149,9 +138,20 @@
       "participants": [
         "Chris Forbes"
       ],
-      "started": "2010-02-11T13:43:42+00:00",
-      "last_reply": "2010-02-11T13:43:42+00:00",
+      "started": "2010-02-11T13:43:42Z",
+      "last_reply": "2010-02-11T13:43:42Z",
       "root_message_id": "msg-2bed07d40eb0"
+    },
+    {
+      "id": "thread-3fb3e7f7c3c7",
+      "subject": "[R-jobs] R group on LinkedIn.com",
+      "message_count": 1,
+      "participants": [
+        "Ajit de Silva"
+      ],
+      "started": "2010-02-11T18:57:48Z",
+      "last_reply": "2010-02-11T18:57:48Z",
+      "root_message_id": "msg-3fb3e7f7c3c7"
     },
     {
       "id": "thread-23f8717024bc",
@@ -160,8 +160,8 @@
       "participants": [
         "Michael Haenlein"
       ],
-      "started": "2010-02-14T15:19:17+01:00",
-      "last_reply": "2010-02-14T15:19:17+01:00",
+      "started": "2010-02-14T14:19:17Z",
+      "last_reply": "2010-02-14T14:19:17Z",
       "root_message_id": "msg-23f8717024bc"
     },
     {
@@ -171,8 +171,8 @@
       "participants": [
         "Jim Rogers"
       ],
-      "started": "2010-02-15T09:31:04-05:00",
-      "last_reply": "2010-02-15T09:31:04-05:00",
+      "started": "2010-02-15T14:31:04Z",
+      "last_reply": "2010-02-15T14:31:04Z",
       "root_message_id": "msg-d824a3884793"
     },
     {
@@ -182,8 +182,8 @@
       "participants": [
         "Keith Boyle"
       ],
-      "started": "2010-02-17T16:45:51-06:00",
-      "last_reply": "2010-02-17T16:45:51-06:00",
+      "started": "2010-02-17T22:45:51Z",
+      "last_reply": "2010-02-17T22:45:51Z",
       "root_message_id": "msg-749025c2741b"
     }
   ]

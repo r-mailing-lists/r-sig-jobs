@@ -8,7 +8,7 @@
       "message_id": "<200706061418.01164.carrie@precisionbioassay.com>",
       "from_name": "Carrie Wager",
       "from_email_hash": "ada762f5f1242afa502d77398c57889ff32a1dcc1fe684749965b24ece45ab66",
-      "date": "2007-06-06T14:18:01-04:00",
+      "date": "2007-06-06T18:18:01Z",
       "subject": "[R-jobs] Job: R Package Developer / Consulting Statistician",
       "subject_clean": "[R-jobs] Job: R Package Developer / Consulting Statistician",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<014e01c7a94d$adcb5b70$6702a8c0@DellSilver>",
       "from_name": "Fabrice",
       "from_email_hash": "9851253a275dce64e7e057311d0885888d951893588be0a9aef3d875e5e059a3",
-      "date": "2007-06-07T23:48:22+02:00",
+      "date": "2007-06-07T21:48:22Z",
       "subject": "[R-jobs] Quick programming in R calling social network routines?",
       "subject_clean": "[R-jobs] Quick programming in R calling social network routines?",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Carrie Wager"
       ],
-      "started": "2007-06-06T14:18:01-04:00",
-      "last_reply": "2007-06-06T14:18:01-04:00",
+      "started": "2007-06-06T18:18:01Z",
+      "last_reply": "2007-06-06T18:18:01Z",
       "root_message_id": "msg-201caa61eda0"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Fabrice"
       ],
-      "started": "2007-06-07T23:48:22+02:00",
-      "last_reply": "2007-06-07T23:48:22+02:00",
+      "started": "2007-06-07T21:48:22Z",
+      "last_reply": "2007-06-07T21:48:22Z",
       "root_message_id": "msg-7b120f158f26"
     }
   ]

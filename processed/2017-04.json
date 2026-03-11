@@ -27,7 +27,7 @@
       "message_id": "<CAHziNLRvUSCbiSL3=z+vDFXLdvWXU5eWeGEA7FF9c9a38hbonQ@mail.gmail.com>",
       "from_name": "Ivan Kasanický",
       "from_email_hash": "f463b8969aeacc860fa67c4f8c68bc3baba5f7401e902dced9f82c1b6b0d0383",
-      "date": "2017-04-18T09:07:56+02:00",
+      "date": "2017-04-18T07:07:56Z",
       "subject": "[R-jobs] Data Scientist, Vienna, Austria",
       "subject_clean": "[R-jobs] Data Scientist, Vienna, Austria",
       "in_reply_to": null,
@@ -47,8 +47,8 @@
       "participants": [
         "Angie Grabko"
       ],
-      "started": "2017-04-11T17:42:55+00:00",
-      "last_reply": "2017-04-11T17:42:55+00:00",
+      "started": "2017-04-11T17:42:55Z",
+      "last_reply": "2017-04-11T17:42:55Z",
       "root_message_id": "msg-da611cdab08d"
     },
     {
@@ -58,8 +58,8 @@
       "participants": [
         "Ivan Kasanický"
       ],
-      "started": "2017-04-18T09:07:56+02:00",
-      "last_reply": "2017-04-18T09:07:56+02:00",
+      "started": "2017-04-18T07:07:56Z",
+      "last_reply": "2017-04-18T07:07:56Z",
       "root_message_id": "msg-171e2ae3d69d"
     }
   ]

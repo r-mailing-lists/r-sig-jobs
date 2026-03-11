@@ -8,7 +8,7 @@
       "message_id": "<8AAFAF2A-D429-46F9-B18E-56DD594F7E64@glasgow.ac.uk>",
       "from_name": "Matthew Denwood",
       "from_email_hash": "55a960ab096cf51261e73d42f2fa5119b3465d4e2f26da8b67a456358980127c",
-      "date": "2013-06-13T12:31:24+01:00",
+      "date": "2013-06-13T11:31:24Z",
       "subject": "[R-jobs] JOB: Funded PhD studentship in applied statistics / veterinary epidemiology",
       "subject_clean": "[R-jobs] JOB: Funded PhD studentship in applied statistics / veterinary epidemiology",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CABKBmVPG3Af0wPwYxT_WF_G=AGpEa27ZFsZOWsRoPd2WGUk6Vg@mail.gmail.com>",
       "from_name": "Ajay Gopal",
       "from_email_hash": "d37326ceb9e7c222e7a20bf3f7af7d5ced27ad2262e2010f6645579aa6df92ce",
-      "date": "2013-06-22T18:30:47-07:00",
+      "date": "2013-06-23T01:30:47Z",
       "subject": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
       "subject_clean": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAJP88kRE3+bRjo3qzgrvvGRedTFwrTRrSscymci3p=RpS1ozQQ@mail.gmail.com>",
       "from_name": "Utkarsh Singhal",
       "from_email_hash": "b154c50fe37c56553d3df6195f6717bc89a1f6767d526a5007861854e687a347",
-      "date": "2013-06-25T23:53:41+05:30",
+      "date": "2013-06-25T18:23:41Z",
       "subject": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
       "subject_clean": "[R-jobs] R Programmer / Data Scientist (CARD.com, CA, USA)",
       "in_reply_to": "<CABKBmVPG3Af0wPwYxT_WF_G=AGpEa27ZFsZOWsRoPd2WGUk6Vg@mail.gmail.com>",
@@ -62,8 +62,8 @@
       "participants": [
         "Matthew Denwood"
       ],
-      "started": "2013-06-13T12:31:24+01:00",
-      "last_reply": "2013-06-13T12:31:24+01:00",
+      "started": "2013-06-13T11:31:24Z",
+      "last_reply": "2013-06-13T11:31:24Z",
       "root_message_id": "msg-dd24a5b9b98b"
     },
     {
@@ -74,8 +74,8 @@
         "Ajay Gopal",
         "Utkarsh Singhal"
       ],
-      "started": "2013-06-22T18:30:47-07:00",
-      "last_reply": "2013-06-25T23:53:41+05:30",
+      "started": "2013-06-23T01:30:47Z",
+      "last_reply": "2013-06-25T18:23:41Z",
       "root_message_id": "msg-fe03c29ab5d6"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<alpine.WNT.1.10.1403110911150.1136@morrism-PC>",
       "from_name": "martina morris",
       "from_email_hash": "560ce33bfb3c8e0184fe4a0c3f92206efbc3a7fd8b6eeba690ff38f915c5012b",
-      "date": "2014-03-11T09:12:17-07:00",
+      "date": "2014-03-11T16:12:17Z",
       "subject": "[R-jobs] R Package developer job at the University of Washington, Seattle",
       "subject_clean": "[R-jobs] R Package developer job at the University of Washington, Seattle",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CADY6hMWfjyUi+aGRAu-xOE-bX7nUCcZQ7MJF_NKfbhPCi_=57Q@mail.gmail.com>",
       "from_name": "Bill Pikounis",
       "from_email_hash": "6738459932d1b8b5aaf7d4e87b832c34eeaa4d6823984fe79afb1dc60adfd508",
-      "date": "2014-03-20T06:31:57-04:00",
+      "date": "2014-03-20T10:31:57Z",
       "subject": "[R-jobs] Individual contributors and team leaders positions in Nonclinical Statistics at Johnson & Johnson",
       "subject_clean": "[R-jobs] Individual contributors and team leaders positions in Nonclinical Statistics at Johnson & Johnson",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "martina morris"
       ],
-      "started": "2014-03-11T09:12:17-07:00",
-      "last_reply": "2014-03-11T09:12:17-07:00",
+      "started": "2014-03-11T16:12:17Z",
+      "last_reply": "2014-03-11T16:12:17Z",
       "root_message_id": "msg-7e35dbf01e45"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Bill Pikounis"
       ],
-      "started": "2014-03-20T06:31:57-04:00",
-      "last_reply": "2014-03-20T06:31:57-04:00",
+      "started": "2014-03-20T10:31:57Z",
+      "last_reply": "2014-03-20T10:31:57Z",
       "root_message_id": "msg-6e264fe90eaf"
     }
   ]

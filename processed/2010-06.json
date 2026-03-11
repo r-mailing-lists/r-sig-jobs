@@ -8,7 +8,7 @@
       "message_id": "<a7d763120000a6fc@cancer.dk>",
       "from_name": "Isabelle Deltour",
       "from_email_hash": "1fc4174afd2c8832d457d6508d63e1d8a7b91fe33d4c4ed4bd0813388aa72388",
-      "date": "2010-06-07T09:55:25+02:00",
+      "date": "2010-06-07T07:55:25Z",
       "subject": "[R-jobs] Head of Department of Applied Statistics and Epidemiology - Institute of Cancer Epidemiology, Copenhagen, Denmark",
       "subject_clean": "[R-jobs] Head of Department of Applied Statistics and Epidemiology - Institute of Cancer Epidemiology, Copenhagen, Denmark",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<3B1B40BF9A684D49B927F7BE5CEE1D6630A40F3E@zirconium.orau.net>",
       "from_name": "Miller, LaShanda",
       "from_email_hash": "5f3b9a682fde2ebf42ad88f743e967a369d4011b0f78f3cdf063d7ad6e738774",
-      "date": "2010-06-16T10:52:54-04:00",
+      "date": "2010-06-16T14:52:54Z",
       "subject": "[R-jobs] ORAU/ORISE Job Opening - Scientific Programmer/Analyst 2",
       "subject_clean": "[R-jobs] ORAU/ORISE Job Opening - Scientific Programmer/Analyst 2",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<!&!AAAAAAAAAAAYAAAAAAAAAH2NGt8kntxHjmTywgpn58hCgQAAEAAAABHZoox9hrRDox96W6DN8pQBAAAAAA==@jiripik.com>",
       "from_name": "Jiri Pik",
       "from_email_hash": "29dd531d8f6640ac53d5530de9bec6dc92bf7f4785b715d183604aacfb11fc30",
-      "date": "2010-06-17T06:14:56+02:00",
+      "date": "2010-06-17T04:14:56Z",
       "subject": "[R-jobs] ORAU/ORISE Job Opening - Scientific Programmer/Analyst 2",
       "subject_clean": "[R-jobs] ORAU/ORISE Job Opening - Scientific Programmer/Analyst 2",
       "in_reply_to": "<3B1B40BF9A684D49B927F7BE5CEE1D6630A40F3E@zirconium.orau.net>",
@@ -58,7 +58,7 @@
       "message_id": "<000601cb12e0$91d8a620$b589f260$@Tomassini@mcmcons.com>",
       "from_name": "William Tomassini",
       "from_email_hash": "c1c2e11a7548b98708bb43fedfaf0fa335a43072c581c14a9be12320b1e8f6f9",
-      "date": "2010-06-23T10:30:02-04:00",
+      "date": "2010-06-23T14:30:02Z",
       "subject": "[R-jobs] Immediate Consulting Opportunity: Health Care Informatics Statistical Programmer and Research Support Analyst",
       "subject_clean": "[R-jobs] Immediate Consulting Opportunity: Health Care Informatics Statistical Programmer and Research Support Analyst",
       "in_reply_to": null,
@@ -78,8 +78,8 @@
       "participants": [
         "Isabelle Deltour"
       ],
-      "started": "2010-06-07T09:55:25+02:00",
-      "last_reply": "2010-06-07T09:55:25+02:00",
+      "started": "2010-06-07T07:55:25Z",
+      "last_reply": "2010-06-07T07:55:25Z",
       "root_message_id": "msg-fbe49df01e89"
     },
     {
@@ -90,8 +90,8 @@
         "Jiri Pik",
         "Miller, LaShanda"
       ],
-      "started": "2010-06-16T10:52:54-04:00",
-      "last_reply": "2010-06-17T06:14:56+02:00",
+      "started": "2010-06-16T14:52:54Z",
+      "last_reply": "2010-06-17T04:14:56Z",
       "root_message_id": "msg-c7a656186abf"
     },
     {
@@ -101,8 +101,8 @@
       "participants": [
         "William Tomassini"
       ],
-      "started": "2010-06-23T10:30:02-04:00",
-      "last_reply": "2010-06-23T10:30:02-04:00",
+      "started": "2010-06-23T14:30:02Z",
+      "last_reply": "2010-06-23T14:30:02Z",
       "root_message_id": "msg-0a1171544acc"
     }
   ]

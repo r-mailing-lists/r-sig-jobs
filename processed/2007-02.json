@@ -8,7 +8,7 @@
       "message_id": "<71257D09F114DA4A8E134DEAC70F25D307779D32@groamrexm03.amer.pfizer.com>",
       "from_name": "Kuhn, Max",
       "from_email_hash": "9c6379865233ec4e1197b3927b6b49a940d68d7bf51cdc52fff0520d10de2b42",
-      "date": "2007-02-08T11:30:01-05:00",
+      "date": "2007-02-08T16:30:01Z",
       "subject": "[R-jobs] R-sig-jobs",
       "subject_clean": "[R-jobs] R-sig-jobs",
       "in_reply_to": null,
@@ -104,7 +104,7 @@
       "message_id": "<17873.46071.287059.46444@rembrandt.fdm.uni-freiburg.de>",
       "from_name": "Jan Beyersmann",
       "from_email_hash": "3d635e1c036e05eafa2c2156ee1cad276124f22ea690a6271e48b59eb9fda6ab",
-      "date": "2007-02-13T13:49:59+01:00",
+      "date": "2007-02-13T12:49:59Z",
       "subject": "[R-jobs] Research Position Statistical Computing in Biostatistics",
       "subject_clean": "[R-jobs] Research Position Statistical Computing in Biostatistics",
       "in_reply_to": null,
@@ -120,7 +120,7 @@
       "message_id": "<A89517C7FD248040BB71CA3C04C1ACBB0BD4D355@CNTUSMAEXS4.na.jnj.com>",
       "from_name": "Pikounis, Bill [CNTUS]",
       "from_email_hash": "bd7b7738407fc1783caa294472b4197e70a874e39008c12d2c810bdba1436a7a",
-      "date": "2007-02-15T11:53:10-05:00",
+      "date": "2007-02-15T16:53:10Z",
       "subject": "[R-jobs] Nonclinical Statistics Opening at Centocor: suburban Philadelphia\t PA (USA)",
       "subject_clean": "[R-jobs] Nonclinical Statistics Opening at Centocor: suburban Philadelphia\t PA (USA)",
       "in_reply_to": null,
@@ -136,7 +136,7 @@
       "message_id": "<53B4F156-D438-4FCF-BFA0-5DC5FE7EA192@ad-co.com>",
       "from_name": "Kyle G. Lundstedt, Ph.D.",
       "from_email_hash": "4f2dc8f9ad41f654d9c1a8fac664742de93e73719197a4d1b53ea63a669bb694",
-      "date": "2007-02-19T01:28:16-08:00",
+      "date": "2007-02-19T09:28:16Z",
       "subject": "[R-jobs] Financial Modeling Position",
       "subject_clean": "[R-jobs] Financial Modeling Position",
       "in_reply_to": null,
@@ -156,8 +156,8 @@
       "participants": [
         "Kuhn, Max"
       ],
-      "started": "2007-02-08T11:30:01-05:00",
-      "last_reply": "2007-02-08T11:30:01-05:00",
+      "started": "2007-02-08T16:30:01Z",
+      "last_reply": "2007-02-08T16:30:01Z",
       "root_message_id": "msg-5b279361c41c"
     },
     {
@@ -167,8 +167,8 @@
       "participants": [
         "Romain Francois"
       ],
-      "started": "2007-02-09T09:58:50+00:00",
-      "last_reply": "2007-02-09T09:58:50+00:00",
+      "started": "2007-02-09T09:58:50Z",
+      "last_reply": "2007-02-09T09:58:50Z",
       "root_message_id": "msg-ff72de1dd077"
     },
     {
@@ -178,8 +178,8 @@
       "participants": [
         "Romain Francois"
       ],
-      "started": "2007-02-09T10:00:36+00:00",
-      "last_reply": "2007-02-09T10:00:36+00:00",
+      "started": "2007-02-09T10:00:36Z",
+      "last_reply": "2007-02-09T10:00:36Z",
       "root_message_id": "msg-8aa32e549ab8"
     },
     {
@@ -189,8 +189,8 @@
       "participants": [
         "Romain Francois"
       ],
-      "started": "2007-02-09T10:03:55+00:00",
-      "last_reply": "2007-02-09T10:03:55+00:00",
+      "started": "2007-02-09T10:03:55Z",
+      "last_reply": "2007-02-09T10:03:55Z",
       "root_message_id": "msg-809079cea95c"
     },
     {
@@ -200,8 +200,8 @@
       "participants": [
         "Romain Francois"
       ],
-      "started": "2007-02-09T10:06:34+00:00",
-      "last_reply": "2007-02-09T10:06:34+00:00",
+      "started": "2007-02-09T10:06:34Z",
+      "last_reply": "2007-02-09T10:06:34Z",
       "root_message_id": "msg-f0cf15e9e372"
     },
     {
@@ -211,8 +211,8 @@
       "participants": [
         "joh@@g@vi@ m@iii@g oii ubs@com"
       ],
-      "started": "2007-02-12T15:00:51+00:00",
-      "last_reply": "2007-02-12T15:00:51+00:00",
+      "started": "2007-02-12T15:00:51Z",
+      "last_reply": "2007-02-12T15:00:51Z",
       "root_message_id": "msg-444b96cb85bc"
     },
     {
@@ -222,8 +222,8 @@
       "participants": [
         "Jan Beyersmann"
       ],
-      "started": "2007-02-13T13:49:59+01:00",
-      "last_reply": "2007-02-13T13:49:59+01:00",
+      "started": "2007-02-13T12:49:59Z",
+      "last_reply": "2007-02-13T12:49:59Z",
       "root_message_id": "msg-9d41313ae499"
     },
     {
@@ -233,8 +233,8 @@
       "participants": [
         "Pikounis, Bill [CNTUS]"
       ],
-      "started": "2007-02-15T11:53:10-05:00",
-      "last_reply": "2007-02-15T11:53:10-05:00",
+      "started": "2007-02-15T16:53:10Z",
+      "last_reply": "2007-02-15T16:53:10Z",
       "root_message_id": "msg-74220c863986"
     },
     {
@@ -244,8 +244,8 @@
       "participants": [
         "Kyle G. Lundstedt, Ph.D."
       ],
-      "started": "2007-02-19T01:28:16-08:00",
-      "last_reply": "2007-02-19T01:28:16-08:00",
+      "started": "2007-02-19T09:28:16Z",
+      "last_reply": "2007-02-19T09:28:16Z",
       "root_message_id": "msg-39cfa5b3d9c0"
     }
   ]

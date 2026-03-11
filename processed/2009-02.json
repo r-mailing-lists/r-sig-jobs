@@ -24,7 +24,7 @@
       "message_id": "<20090213091134.mknu4tk0xcskc408@programmingr.com>",
       "from_name": "bry@@ m@iii@g oii progr@mmi@gr@com",
       "from_email_hash": "bcdf8e8fb1c5a65098a8b4cbbe82114c587be615caef112c624fbcf318f6226a",
-      "date": "2009-02-13T09:11:34-07:00",
+      "date": "2009-02-13T16:11:34Z",
       "subject": "[R-jobs] Compiling an R consultant directory",
       "subject_clean": "[R-jobs] Compiling an R consultant directory",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<49A43254.2020809@gmail.com>",
       "from_name": "Matthieu Stigler",
       "from_email_hash": "98cb55bce94d24467c901755eb9045dfadcbc186a954981bdf75b0fb6266b336",
-      "date": "2009-02-24T23:15:56+05:30",
+      "date": "2009-02-24T17:45:56Z",
       "subject": "[R-jobs] Searching for R programmer in India, New Delhi",
       "subject_clean": "[R-jobs] Searching for R programmer in India, New Delhi",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<000e01c99789$48d4d030$da7e7090$@com>",
       "from_name": "Christina Kinchen",
       "from_email_hash": "fd1fd204d90860a6d75a121c6c6b467a5d9179d65fd0da2e8d9f65dd0e11899b",
-      "date": "2009-02-25T15:40:17-05:00",
+      "date": "2009-02-25T20:40:17Z",
       "subject": "[R-jobs] New Bioinformatics Position with R Programming",
       "subject_clean": "[R-jobs] New Bioinformatics Position with R Programming",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Ken Withheld"
       ],
-      "started": "2009-02-02T18:52:21+00:00",
-      "last_reply": "2009-02-02T18:52:21+00:00",
+      "started": "2009-02-02T18:52:21Z",
+      "last_reply": "2009-02-02T18:52:21Z",
       "root_message_id": "msg-b0e142ddb4e4"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "bry@@ m@iii@g oii progr@mmi@gr@com"
       ],
-      "started": "2009-02-13T09:11:34-07:00",
-      "last_reply": "2009-02-13T09:11:34-07:00",
+      "started": "2009-02-13T16:11:34Z",
+      "last_reply": "2009-02-13T16:11:34Z",
       "root_message_id": "msg-c379d32bf67b"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "Matthieu Stigler"
       ],
-      "started": "2009-02-24T23:15:56+05:30",
-      "last_reply": "2009-02-24T23:15:56+05:30",
+      "started": "2009-02-24T17:45:56Z",
+      "last_reply": "2009-02-24T17:45:56Z",
       "root_message_id": "msg-d6aff33b4a9b"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Christina Kinchen"
       ],
-      "started": "2009-02-25T15:40:17-05:00",
-      "last_reply": "2009-02-25T15:40:17-05:00",
+      "started": "2009-02-25T20:40:17Z",
+      "last_reply": "2009-02-25T20:40:17Z",
       "root_message_id": "msg-a68469ae7ba7"
     }
   ]

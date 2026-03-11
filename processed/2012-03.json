@@ -8,7 +8,7 @@
       "message_id": "<CA+qkPeYcT12xfc-eudyTtZqKm+kFKbx4a81LS7=ymVZtyL3gEA@mail.gmail.com>",
       "from_name": "Harsh",
       "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
-      "date": "2012-03-02T16:20:36+05:30",
+      "date": "2012-03-02T10:50:36Z",
       "subject": "[R-jobs] R developer opportunity in a computational marketing startup",
       "subject_clean": "[R-jobs] R developer opportunity in a computational marketing startup",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4F57616F.3000309@medunigraz.at>",
       "from_name": "Prof. M. G. Schimek",
       "from_email_hash": "ab55a6e42cb1e34b124f2c2c08560f71bdd1bcd9e47f84162cfea25c0520619d",
-      "date": "2012-03-07T14:23:59+01:00",
+      "date": "2012-03-07T13:23:59Z",
       "subject": "[R-jobs] Job offer predoc/PhD position Medical University of Graz, Austria",
       "subject_clean": "[R-jobs] Job offer predoc/PhD position Medical University of Graz, Austria",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CA+qkPeZB0eDU+09nNQhz90roYtEHSu1NBZTD+WCPBDnghOh44g@mail.gmail.com>",
       "from_name": "Harsh",
       "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
-      "date": "2012-03-15T16:34:46+05:30",
+      "date": "2012-03-15T11:04:46Z",
       "subject": "[R-jobs] R developer opportunity in a computational marketing startup",
       "subject_clean": "[R-jobs] R developer opportunity in a computational marketing startup",
       "in_reply_to": "<CA+qkPeYcT12xfc-eudyTtZqKm+kFKbx4a81LS7=ymVZtyL3gEA@mail.gmail.com>",
@@ -74,7 +74,7 @@
       "message_id": "<BF0CC331BAA07E448AD65CA6E4232015016FDB4F@EUR-COLOEMBX01.allegisgroup.com>",
       "from_name": "Lindenbergh, Ilse",
       "from_email_hash": "8b091aa12af20e145f47ead920bae2415fe17c783cb72c5bd7e8e6d336f1bb81",
-      "date": "2012-03-27T17:40:12+01:00",
+      "date": "2012-03-27T16:40:12Z",
       "subject": "[R-jobs] R Specialist for an insurance company in Amsterdam",
       "subject_clean": "[R-jobs] R Specialist for an insurance company in Amsterdam",
       "in_reply_to": null,
@@ -94,8 +94,8 @@
       "participants": [
         "Harsh"
       ],
-      "started": "2012-03-02T16:20:36+05:30",
-      "last_reply": "2012-03-15T16:34:46+05:30",
+      "started": "2012-03-02T10:50:36Z",
+      "last_reply": "2012-03-15T11:04:46Z",
       "root_message_id": "msg-dff978499ffd"
     },
     {
@@ -105,8 +105,8 @@
       "participants": [
         "Prof. M. G. Schimek"
       ],
-      "started": "2012-03-07T14:23:59+01:00",
-      "last_reply": "2012-03-07T14:23:59+01:00",
+      "started": "2012-03-07T13:23:59Z",
+      "last_reply": "2012-03-07T13:23:59Z",
       "root_message_id": "msg-972b38816f81"
     },
     {
@@ -116,8 +116,8 @@
       "participants": [
         "Daniel Levin"
       ],
-      "started": "2012-03-15T14:15:12+00:00",
-      "last_reply": "2012-03-15T14:15:12+00:00",
+      "started": "2012-03-15T14:15:12Z",
+      "last_reply": "2012-03-15T14:15:12Z",
       "root_message_id": "msg-60334aa25847"
     },
     {
@@ -127,8 +127,8 @@
       "participants": [
         "Lindenbergh, Ilse"
       ],
-      "started": "2012-03-27T17:40:12+01:00",
-      "last_reply": "2012-03-27T17:40:12+01:00",
+      "started": "2012-03-27T16:40:12Z",
+      "last_reply": "2012-03-27T16:40:12Z",
       "root_message_id": "msg-60298b19f447"
     }
   ]

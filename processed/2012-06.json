@@ -8,7 +8,7 @@
       "message_id": "<A0CED460-81E2-4A13-99BE-CF52300F63AE@zieg.com>",
       "from_name": "Mark Zieg",
       "from_email_hash": "258f55f24cbdaa044d643c76fadbab1e97185b1a727a1417ca3fbfc3390d8439",
-      "date": "2012-06-05T11:36:18-04:00",
+      "date": "2012-06-05T15:36:18Z",
       "subject": "[R-jobs] Freelance: port 460 lines of R to C/C++",
       "subject_clean": "[R-jobs] Freelance: port 460 lines of R to C/C++",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAC3F=4Uoa_UVRaH00CXdrEQUosYp1MmHONZ9A9PSz4Ff95YPew@mail.gmail.com>",
       "from_name": "Jose Quesada",
       "from_email_hash": "fe2bec9066498f9232bfbdc8f6ed2e8fb3532b05888c9847ce8d7493bb10cecb",
-      "date": "2012-06-06T20:12:26+02:00",
+      "date": "2012-06-06T18:12:26Z",
       "subject": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
       "subject_clean": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAGjVef_OTt6PmeigbD48DhakQX3FRULeuFxk+6H+m_MnNf4nDw@mail.gmail.com>",
       "from_name": "jobs fluid",
       "from_email_hash": "db50a0c90d548f206402b562e58f633245124662fe565bb1d221df3b87e1bf13",
-      "date": "2012-06-06T20:13:58+02:00",
+      "date": "2012-06-06T18:13:58Z",
       "subject": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
       "subject_clean": "[R-jobs] Data scientist // Berlin-based startup using probabilistic models in ecommerce",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<728EBDBB-55D9-4842-84BD-263E6C1C2D0F@gmail.com>",
       "from_name": "Cliff Brown",
       "from_email_hash": "a2144e239abf8a249751bd54ba3156761e10f54f45aa442dc9a327042c8cc227",
-      "date": "2012-06-27T02:24:03-04:00",
+      "date": "2012-06-27T06:24:03Z",
       "subject": "[R-jobs] Freelance: Build Gearman API R package & Additional ongoing work",
       "subject_clean": "[R-jobs] Freelance: Build Gearman API R package & Additional ongoing work",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Mark Zieg"
       ],
-      "started": "2012-06-05T11:36:18-04:00",
-      "last_reply": "2012-06-05T11:36:18-04:00",
+      "started": "2012-06-05T15:36:18Z",
+      "last_reply": "2012-06-05T15:36:18Z",
       "root_message_id": "msg-7bc8e725ea6d"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Jose Quesada"
       ],
-      "started": "2012-06-06T20:12:26+02:00",
-      "last_reply": "2012-06-06T20:12:26+02:00",
+      "started": "2012-06-06T18:12:26Z",
+      "last_reply": "2012-06-06T18:12:26Z",
       "root_message_id": "msg-643982723f8b"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "jobs fluid"
       ],
-      "started": "2012-06-06T20:13:58+02:00",
-      "last_reply": "2012-06-06T20:13:58+02:00",
+      "started": "2012-06-06T18:13:58Z",
+      "last_reply": "2012-06-06T18:13:58Z",
       "root_message_id": "msg-e2f8f4a28769"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Cliff Brown"
       ],
-      "started": "2012-06-27T02:24:03-04:00",
-      "last_reply": "2012-06-27T02:24:03-04:00",
+      "started": "2012-06-27T06:24:03Z",
+      "last_reply": "2012-06-27T06:24:03Z",
       "root_message_id": "msg-42f07c426470"
     }
   ]

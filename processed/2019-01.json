@@ -8,7 +8,7 @@
       "message_id": "<alpine.DEB.2.21.1901251444280.25324@diana>",
       "from_name": "Torsten Hothorn",
       "from_email_hash": "2b42722d275b670988e4682eba2ca2538e93e289fa8448d590080c1cb472ce85",
-      "date": "2019-01-25T14:46:48+01:00",
+      "date": "2019-01-25T13:46:48Z",
       "subject": "[R-jobs] Professorship in Data Science",
       "subject_clean": "[R-jobs] Professorship in Data Science",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Torsten Hothorn"
       ],
-      "started": "2019-01-25T14:46:48+01:00",
-      "last_reply": "2019-01-25T14:46:48+01:00",
+      "started": "2019-01-25T13:46:48Z",
+      "last_reply": "2019-01-25T13:46:48Z",
       "root_message_id": "msg-e87ade0ead43"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Paolo Denti"
       ],
-      "started": "2019-01-25T14:49:07+00:00",
-      "last_reply": "2019-01-25T14:49:07+00:00",
+      "started": "2019-01-25T14:49:07Z",
+      "last_reply": "2019-01-25T14:49:07Z",
       "root_message_id": "msg-74b51633cfcb"
     }
   ]

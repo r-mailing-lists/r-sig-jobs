@@ -8,7 +8,7 @@
       "message_id": "<000001cf0ca6$03657940$0a306bc0$@com>",
       "from_name": "Barbara ONeill",
       "from_email_hash": "1db8c87cd714f269eb362b100934809f42ca0be35e4b14c39a00f950a276b92e",
-      "date": "2014-01-08T12:15:35-07:00",
+      "date": "2014-01-08T19:15:35Z",
       "subject": "[R-jobs] Statistical and Risk Consultant",
       "subject_clean": "[R-jobs] Statistical and Risk Consultant",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAMWAfS42196ACfC_G7zSXgj9H5JioEjCp=y7CcjV8AXS+__cBA@mail.gmail.com>",
       "from_name": "Konrad Banachewicz",
       "from_email_hash": "f9292bb17728a15fc04e292b6d25033d872f1e020f283533f566e7bef13b23b3",
-      "date": "2014-01-17T15:04:55+01:00",
+      "date": "2014-01-17T14:04:55Z",
       "subject": "[R-jobs] Quantitative R developer in Amsterdam",
       "subject_clean": "[R-jobs] Quantitative R developer in Amsterdam",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<3D44C7EF-0C71-4116-9CD4-DC7826ECCA06@oracle.com>",
       "from_name": "Michael Haupt",
       "from_email_hash": "cc8cb690c3c9b7077bfd044c387475c200cf8b87f656a8f90ceada0026de7cf1",
-      "date": "2014-01-23T10:20:45+01:00",
+      "date": "2014-01-23T09:20:45Z",
       "subject": "[R-jobs] internship at Oracle Labs",
       "subject_clean": "[R-jobs] internship at Oracle Labs",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Barbara ONeill"
       ],
-      "started": "2014-01-08T12:15:35-07:00",
-      "last_reply": "2014-01-08T12:15:35-07:00",
+      "started": "2014-01-08T19:15:35Z",
+      "last_reply": "2014-01-08T19:15:35Z",
       "root_message_id": "msg-861baea86bce"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2014-01-13T13:04:47+00:00",
-      "last_reply": "2014-01-13T13:04:47+00:00",
+      "started": "2014-01-13T13:04:47Z",
+      "last_reply": "2014-01-13T13:04:47Z",
       "root_message_id": "msg-65daaaff352b"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "Konrad Banachewicz"
       ],
-      "started": "2014-01-17T15:04:55+01:00",
-      "last_reply": "2014-01-17T15:04:55+01:00",
+      "started": "2014-01-17T14:04:55Z",
+      "last_reply": "2014-01-17T14:04:55Z",
       "root_message_id": "msg-a596c5e2ca39"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Michael Haupt"
       ],
-      "started": "2014-01-23T10:20:45+01:00",
-      "last_reply": "2014-01-23T10:20:45+01:00",
+      "started": "2014-01-23T09:20:45Z",
+      "last_reply": "2014-01-23T09:20:45Z",
       "root_message_id": "msg-6fcfed15ec1d"
     }
   ]

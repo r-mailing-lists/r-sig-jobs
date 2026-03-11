@@ -8,7 +8,7 @@
       "message_id": "<0D0811308E281846AC318EF90FBD6AE31FC30B@extorpcs2.inet.local>",
       "from_name": "Gagan K. Dhanjal",
       "from_email_hash": "d3b120dc896ec8a8deacd14494c881614f600fe11662a1ed68ff63e6bd1c8ebc",
-      "date": "2016-04-04T10:10:20-04:00",
+      "date": "2016-04-04T14:10:20Z",
       "subject": "[R-jobs] Job Opportunity in Radnor, PA. USA - Quantitative Research Analyst",
       "subject_clean": "[R-jobs] Job Opportunity in Radnor, PA. USA - Quantitative Research Analyst",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CABi=fLrzVvvS4tHAwGPjjNDh7LUQa6J3jy9NS2Y8F7ucMZr1zA@mail.gmail.com>",
       "from_name": "Programmer Manager",
       "from_email_hash": "ea8bbc30f00e9ddb3e457644a94964d5e41e506e02f40aa2d48ceda86d4e1087",
-      "date": "2016-04-11T22:06:45-04:00",
+      "date": "2016-04-12T02:06:45Z",
       "subject": "[R-jobs] R Statistician wanted",
       "subject_clean": "[R-jobs] R Statistician wanted",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CABi=fLqDTL1sns0s7cf84RfX_Atq3Nq_t86UHXN49cJP22rpQQ@mail.gmail.com>",
       "from_name": "Programmer Manager",
       "from_email_hash": "ea8bbc30f00e9ddb3e457644a94964d5e41e506e02f40aa2d48ceda86d4e1087",
-      "date": "2016-04-11T22:08:42-04:00",
+      "date": "2016-04-12T02:08:42Z",
       "subject": "[R-jobs] Risk Analyst wanted",
       "subject_clean": "[R-jobs] Risk Analyst wanted",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<CAEEgvU3CEJbbaH1GgzOYLDHS6VX9kPCM_56wS_fToPQaY-nBPw@mail.gmail.com>",
       "from_name": "Mandy Vogel",
       "from_email_hash": "67bc3cb058401fd229c6a65d9cf4e6fc2c9e6298673276563b112ad90795fa46",
-      "date": "2016-04-14T15:31:01+02:00",
+      "date": "2016-04-14T13:31:01Z",
       "subject": "[R-jobs] Fwd: Job Offer Germany, Leipzig",
       "subject_clean": "[R-jobs] Fwd: Job Offer Germany, Leipzig",
       "in_reply_to": "<CAEEgvU0naZt-HhtTZd803jQ4gveqDn5BaSNVQL_3_Rwh5xA+zw@mail.gmail.com>",
@@ -74,7 +74,7 @@
       "message_id": "<CAOyz9G7Uf_bRmrhPH3HsV_2AQcggcjGQ-GLkjhyjow+EE9EQUQ@mail.gmail.com>",
       "from_name": "Michael Haenlein",
       "from_email_hash": "7a7c9821d5ec7dac364968625f00af9b9cbbfdda551f3236b50a4feb249c6558",
-      "date": "2016-04-18T16:45:59+02:00",
+      "date": "2016-04-18T14:45:59Z",
       "subject": "[R-jobs] (Small) programming job related to network analysis",
       "subject_clean": "[R-jobs] (Small) programming job related to network analysis",
       "in_reply_to": null,
@@ -94,8 +94,8 @@
       "participants": [
         "Gagan K. Dhanjal"
       ],
-      "started": "2016-04-04T10:10:20-04:00",
-      "last_reply": "2016-04-04T10:10:20-04:00",
+      "started": "2016-04-04T14:10:20Z",
+      "last_reply": "2016-04-04T14:10:20Z",
       "root_message_id": "msg-e9afcf950e23"
     },
     {
@@ -105,8 +105,8 @@
       "participants": [
         "Programmer Manager"
       ],
-      "started": "2016-04-11T22:06:45-04:00",
-      "last_reply": "2016-04-11T22:06:45-04:00",
+      "started": "2016-04-12T02:06:45Z",
+      "last_reply": "2016-04-12T02:06:45Z",
       "root_message_id": "msg-11c21bf85b4a"
     },
     {
@@ -116,8 +116,8 @@
       "participants": [
         "Programmer Manager"
       ],
-      "started": "2016-04-11T22:08:42-04:00",
-      "last_reply": "2016-04-11T22:08:42-04:00",
+      "started": "2016-04-12T02:08:42Z",
+      "last_reply": "2016-04-12T02:08:42Z",
       "root_message_id": "msg-0aed3dd88466"
     },
     {
@@ -127,8 +127,8 @@
       "participants": [
         "Mandy Vogel"
       ],
-      "started": "2016-04-14T15:31:01+02:00",
-      "last_reply": "2016-04-14T15:31:01+02:00",
+      "started": "2016-04-14T13:31:01Z",
+      "last_reply": "2016-04-14T13:31:01Z",
       "root_message_id": "msg-4d3c45364b3c"
     },
     {
@@ -138,8 +138,8 @@
       "participants": [
         "Michael Haenlein"
       ],
-      "started": "2016-04-18T16:45:59+02:00",
-      "last_reply": "2016-04-18T16:45:59+02:00",
+      "started": "2016-04-18T14:45:59Z",
+      "last_reply": "2016-04-18T14:45:59Z",
       "root_message_id": "msg-3d3989b5c011"
     }
   ]

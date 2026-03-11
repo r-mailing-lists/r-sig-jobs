@@ -8,7 +8,7 @@
       "message_id": "<4adaa6d5-7a13-e06c-dba2-21233a58f599@ufl.edu>",
       "from_name": "Mathieu Basille",
       "from_email_hash": "6f77c1322b2070af4bb25eb2bb5f63557495731628429f6b4d4f85ab21891ebe",
-      "date": "2018-05-08T23:31:18-04:00",
+      "date": "2018-05-09T03:31:18Z",
       "subject": "[R-jobs] Data manager in a Spatial Ecology lab, Univ Florida, Fort Lauderdale FL",
       "subject_clean": "[R-jobs] Data manager in a Spatial Ecology lab, Univ Florida, Fort Lauderdale FL",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<317b6b00504dfb4aeabbe57ee246172a@rplusplus.com>",
       "from_name": "Jeanne Lafolie",
       "from_email_hash": "500d6f5e7d0ed2449f1468acf9f9317eec06d000f85f44be3fc6b7d34c044999",
-      "date": "2018-05-15T18:02:01+02:00",
+      "date": "2018-05-15T16:02:01Z",
       "subject": "[R-jobs] [Job Offer] Statistician (M/F) Definition of the software R++",
       "subject_clean": "[R-jobs] [Job Offer] Statistician (M/F) Definition of the software R++",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAPDNHNf5j1_5gxT9G3DfPEOgcOMqrwmEJ=K+UguSoaq5j1xfHw@mail.gmail.com>",
       "from_name": "Christopher Tong",
       "from_email_hash": "d1cbd80501eba7bf7515687009dc4cb6b69155e8e71c4dfa20a9f611927032d6",
-      "date": "2018-05-24T12:58:35-07:00",
+      "date": "2018-05-24T19:58:35Z",
       "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
       "subject_clean": "[R-jobs] USDA CVB recruiting statistician or data scientist",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Mathieu Basille"
       ],
-      "started": "2018-05-08T23:31:18-04:00",
-      "last_reply": "2018-05-08T23:31:18-04:00",
+      "started": "2018-05-09T03:31:18Z",
+      "last_reply": "2018-05-09T03:31:18Z",
       "root_message_id": "msg-dfbef8cd3b9c"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Jeanne Lafolie"
       ],
-      "started": "2018-05-15T18:02:01+02:00",
-      "last_reply": "2018-05-15T18:02:01+02:00",
+      "started": "2018-05-15T16:02:01Z",
+      "last_reply": "2018-05-15T16:02:01Z",
       "root_message_id": "msg-9cd65b7864fd"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Christopher Tong"
       ],
-      "started": "2018-05-24T12:58:35-07:00",
-      "last_reply": "2018-05-24T12:58:35-07:00",
+      "started": "2018-05-24T19:58:35Z",
+      "last_reply": "2018-05-24T19:58:35Z",
       "root_message_id": "msg-0e3a45db460c"
     }
   ]

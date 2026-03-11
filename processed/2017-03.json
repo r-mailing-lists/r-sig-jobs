@@ -8,7 +8,7 @@
       "message_id": "<CAEEgvU1vdOmLZdeiOuv47fVq4BZ4Y31GnJuP5Uwaw9qtGtxDFg@mail.gmail.com>",
       "from_name": "Mandy Vogel",
       "from_email_hash": "67bc3cb058401fd229c6a65d9cf4e6fc2c9e6298673276563b112ad90795fa46",
-      "date": "2017-03-03T15:32:44+01:00",
+      "date": "2017-03-03T14:32:44Z",
       "subject": "[R-jobs] Fwd: [LeipzigR] Job Offer Data Manager and Data Analysis Expert",
       "subject_clean": "[R-jobs] Fwd: [LeipzigR] Job Offer Data Manager and Data Analysis Expert",
       "in_reply_to": "<824667900.1488477961440.JavaMail.nobody@james2.pvt.meetup.com>",
@@ -46,8 +46,8 @@
       "participants": [
         "Mandy Vogel"
       ],
-      "started": "2017-03-03T15:32:44+01:00",
-      "last_reply": "2017-03-03T15:32:44+01:00",
+      "started": "2017-03-03T14:32:44Z",
+      "last_reply": "2017-03-03T14:32:44Z",
       "root_message_id": "msg-52577edb477a"
     },
     {
@@ -57,8 +57,8 @@
       "participants": [
         "Clemens Noelke"
       ],
-      "started": "2017-03-09T16:05:30+00:00",
-      "last_reply": "2017-03-09T16:05:30+00:00",
+      "started": "2017-03-09T16:05:30Z",
+      "last_reply": "2017-03-09T16:05:30Z",
       "root_message_id": "msg-6f85afeb22c7"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<BAA35444B19AD940997ED02A6996AAE005C0F325@sanmail.picr.man.ac.uk>",
       "from_name": "Crispin Miller",
       "from_email_hash": "b75838e507e34fb1a030b504c271cb86eda591beea528ad9dee1aa2710c51ec1",
-      "date": "2007-09-30T13:02:41+01:00",
+      "date": "2007-09-30T12:02:41Z",
       "subject": "[R-jobs] Postdoc position, Manchester UK",
       "subject_clean": "[R-jobs] Postdoc position, Manchester UK",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Crispin Miller"
       ],
-      "started": "2007-09-30T13:02:41+01:00",
-      "last_reply": "2007-09-30T13:02:41+01:00",
+      "started": "2007-09-30T12:02:41Z",
+      "last_reply": "2007-09-30T12:02:41Z",
       "root_message_id": "msg-1e2cdc46c0c7"
     }
   ]

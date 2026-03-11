@@ -8,7 +8,7 @@
       "message_id": "<CAB+PZ6B70gZNJL8Xwr7B-WiCiXJ__zC6hq1wV2eyAcn2y2X_zw@mail.gmail.com>",
       "from_name": "Carina Salt",
       "from_email_hash": "0324a3fdc8fb593ee995ea8aa21c58675ce3c7b431a8ed1a7d4935a50d5bec58",
-      "date": "2012-10-09T12:38:32+01:00",
+      "date": "2012-10-09T11:38:32Z",
       "subject": "[R-jobs] JOB: Statistician (2yr contract) - Leicestershire, UK",
       "subject_clean": "[R-jobs] JOB: Statistician (2yr contract) - Leicestershire, UK",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<507DA142.4030805@integratedstatistics.com>",
       "from_name": "Laura Shulman",
       "from_email_hash": "7427632f207a0bddc57f2c6fa1f33c9acd1505c523787f909b9a7d7b338e1475",
-      "date": "2012-10-16T14:02:42-04:00",
+      "date": "2012-10-16T18:02:42Z",
       "subject": "[R-jobs] Fish Ecology Post-Doctoral Research Associate needed in Woods Hole, MA",
       "subject_clean": "[R-jobs] Fish Ecology Post-Doctoral Research Associate needed in Woods Hole, MA",
       "in_reply_to": null,
@@ -78,8 +78,8 @@
       "participants": [
         "Carina Salt"
       ],
-      "started": "2012-10-09T12:38:32+01:00",
-      "last_reply": "2012-10-09T12:38:32+01:00",
+      "started": "2012-10-09T11:38:32Z",
+      "last_reply": "2012-10-09T11:38:32Z",
       "root_message_id": "msg-4d678356ce3c"
     },
     {
@@ -89,8 +89,8 @@
       "participants": [
         "Laura Shulman"
       ],
-      "started": "2012-10-16T14:02:42-04:00",
-      "last_reply": "2012-10-16T14:02:42-04:00",
+      "started": "2012-10-16T18:02:42Z",
+      "last_reply": "2012-10-16T18:02:42Z",
       "root_message_id": "msg-1d40b78947fe"
     },
     {
@@ -100,8 +100,8 @@
       "participants": [
         "Durant, James T. (ATSDR/DCHI/SSB)"
       ],
-      "started": "2012-10-17T17:38:24+00:00",
-      "last_reply": "2012-10-17T17:38:24+00:00",
+      "started": "2012-10-17T17:38:24Z",
+      "last_reply": "2012-10-17T17:38:24Z",
       "root_message_id": "msg-dda73451a848"
     },
     {
@@ -111,8 +111,8 @@
       "participants": [
         "Viviene Gibson"
       ],
-      "started": "2012-10-23T10:02:33+00:00",
-      "last_reply": "2012-10-23T10:02:33+00:00",
+      "started": "2012-10-23T10:02:33Z",
+      "last_reply": "2012-10-23T10:02:33Z",
       "root_message_id": "msg-e56f484efe70"
     }
   ]

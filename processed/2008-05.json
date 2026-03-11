@@ -8,7 +8,7 @@
       "message_id": "<4C7D0185E1C6D64AAFB18A2281B262B80CFB679B1C@EXIRV01.am.edwards.lcl>",
       "from_name": "Janine Long",
       "from_email_hash": "2aac792a0895221b65c5e946021a8c08a92ea903e4dca506b8da4eeb10ed88b1",
-      "date": "2008-05-08T11:03:43-07:00",
+      "date": "2008-05-08T18:03:43Z",
       "subject": "[R-jobs] Statistical Programmer (Irvine, CA), Edwards Lifesciences",
       "subject_clean": "[R-jobs] Statistical Programmer (Irvine, CA), Edwards Lifesciences",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<88EFEBAC-5324-46E0-8808-04C635FBDA79@uni-bremen.de>",
       "from_name": "Karsten Wolf",
       "from_email_hash": "7f01c250370103f12e2061c7b12ebb8be34e6d78f1fb62ce4bb50253dbb2ada7",
-      "date": "2008-05-14T21:26:13+02:00",
+      "date": "2008-05-14T19:26:13Z",
       "subject": "[R-jobs] Research assistant at University Bremen, Germany: Timeseries Analysis with R",
       "subject_clean": "[R-jobs] Research assistant at University Bremen, Germany: Timeseries Analysis with R",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<dd3243090805211331w3fe45283qcb5153cc0d8b9424@mail.gmail.com>",
       "from_name": "Shane Conway",
       "from_email_hash": "37aab6633bb48e7715defe003af5db736b2382e02d8173b9e89e594137080e4d",
-      "date": "2008-05-21T16:31:20-04:00",
+      "date": "2008-05-21T20:31:20Z",
       "subject": "[R-jobs] Quantitative Research Analyst (New York, NY)",
       "subject_clean": "[R-jobs] Quantitative Research Analyst (New York, NY)",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Janine Long"
       ],
-      "started": "2008-05-08T11:03:43-07:00",
-      "last_reply": "2008-05-08T11:03:43-07:00",
+      "started": "2008-05-08T18:03:43Z",
+      "last_reply": "2008-05-08T18:03:43Z",
       "root_message_id": "msg-506fe0db175a"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Karsten Wolf"
       ],
-      "started": "2008-05-14T21:26:13+02:00",
-      "last_reply": "2008-05-14T21:26:13+02:00",
+      "started": "2008-05-14T19:26:13Z",
+      "last_reply": "2008-05-14T19:26:13Z",
       "root_message_id": "msg-b5139d670f31"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Shane Conway"
       ],
-      "started": "2008-05-21T16:31:20-04:00",
-      "last_reply": "2008-05-21T16:31:20-04:00",
+      "started": "2008-05-21T20:31:20Z",
+      "last_reply": "2008-05-21T20:31:20Z",
       "root_message_id": "msg-c4509a99016f"
     }
   ]

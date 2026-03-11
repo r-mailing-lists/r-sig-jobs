@@ -8,7 +8,7 @@
       "message_id": "<CABKBmVNE4eys0-5ba1j+A4kXL7i2SZroR7VHfg5FEzDqF4ySOA@mail.gmail.com>",
       "from_name": "Ajay Gopal",
       "from_email_hash": "d37326ceb9e7c222e7a20bf3f7af7d5ced27ad2262e2010f6645579aa6df92ce",
-      "date": "2014-08-07T07:26:11-07:00",
+      "date": "2014-08-07T14:26:11Z",
       "subject": "[R-jobs] Senior R Developer (FinTech Startup, Los Angeles, CA)",
       "subject_clean": "[R-jobs] Senior R Developer (FinTech Startup, Los Angeles, CA)",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<802167752.110711.1407766826392.JavaMail.zimbra@openanalytics.eu>",
       "from_name": "Tobias Verbeke",
       "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
-      "date": "2014-08-11T16:20:26+02:00",
+      "date": "2014-08-11T14:20:26Z",
       "subject": "[R-jobs] Job Openings: Data Analyst and Data Scientist at OpenAnalytics (Belgium)",
       "subject_clean": "[R-jobs] Job Openings: Data Analyst and Data Scientist at OpenAnalytics (Belgium)",
       "in_reply_to": "<951281393.110702.1407766484817.JavaMail.zimbra@openanalytics.eu>",
@@ -40,7 +40,7 @@
       "message_id": "<CALrnefbrbTU9On2RrKM6qpTk5haGQzjDwA-kzsUW+WyqUmB5tA@mail.gmail.com>",
       "from_name": "Charles Menza - NOAA Federal",
       "from_email_hash": "2255a876b80ec461e1752dcf8a70b789588815ea4ca8596b0056f48ccf53e19f",
-      "date": "2014-08-14T09:54:22-04:00",
+      "date": "2014-08-14T13:54:22Z",
       "subject": "[R-jobs] Wildlife Statistician/Spatial Modeler",
       "subject_clean": "[R-jobs] Wildlife Statistician/Spatial Modeler",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Ajay Gopal"
       ],
-      "started": "2014-08-07T07:26:11-07:00",
-      "last_reply": "2014-08-07T07:26:11-07:00",
+      "started": "2014-08-07T14:26:11Z",
+      "last_reply": "2014-08-07T14:26:11Z",
       "root_message_id": "msg-b99a7f9230d5"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Tobias Verbeke"
       ],
-      "started": "2014-08-11T16:20:26+02:00",
-      "last_reply": "2014-08-11T16:20:26+02:00",
+      "started": "2014-08-11T14:20:26Z",
+      "last_reply": "2014-08-11T14:20:26Z",
       "root_message_id": "msg-16dea361dcd8"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Charles Menza - NOAA Federal"
       ],
-      "started": "2014-08-14T09:54:22-04:00",
-      "last_reply": "2014-08-14T09:54:22-04:00",
+      "started": "2014-08-14T13:54:22Z",
+      "last_reply": "2014-08-14T13:54:22Z",
       "root_message_id": "msg-cc71d099221a"
     }
   ]

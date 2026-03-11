@@ -8,7 +8,7 @@
       "message_id": "<2a9c000c0708032313k8e1027dx8abf445a61e53d8f@mail.gmail.com>",
       "from_name": "Jim Porzak",
       "from_email_hash": "d1a1c6999a476b8b1f6e01b0940a8b536770bceb1c1d77be2218c63d2a249e2b",
-      "date": "2007-08-03T23:13:50-07:00",
+      "date": "2007-08-04T06:13:50Z",
       "subject": "[R-jobs] Fall, Winter Internship, Junior Statistician Position",
       "subject_clean": "[R-jobs] Fall, Winter Internship, Junior Statistician Position",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<0C549DAFE1A8004D8EB57ACDD108646D058E5B6F@XCH-NW-2V2.nw.nos.boeing.com>",
       "from_name": "Tjoelker, Rod",
       "from_email_hash": "179b6e1ae357dd9b8c9d5b9bf805ecc4b8acbeee9f715f3f8e57194bfa586fd5",
-      "date": "2007-08-31T12:37:02-07:00",
+      "date": "2007-08-31T19:37:02Z",
       "subject": "[R-jobs] Job openings at Boeing for data mining and machine learning",
       "subject_clean": "[R-jobs] Job openings at Boeing for data mining and machine learning",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Jim Porzak"
       ],
-      "started": "2007-08-03T23:13:50-07:00",
-      "last_reply": "2007-08-03T23:13:50-07:00",
+      "started": "2007-08-04T06:13:50Z",
+      "last_reply": "2007-08-04T06:13:50Z",
       "root_message_id": "msg-87606a873d47"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Tjoelker, Rod"
       ],
-      "started": "2007-08-31T12:37:02-07:00",
-      "last_reply": "2007-08-31T12:37:02-07:00",
+      "started": "2007-08-31T19:37:02Z",
+      "last_reply": "2007-08-31T19:37:02Z",
       "root_message_id": "msg-8ec5802cb99e"
     }
   ]

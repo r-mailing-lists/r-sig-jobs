@@ -8,7 +8,7 @@
       "message_id": "<CAP9OmtcXDYGJrd=Rbj5-PxkR=7GGTaJOu=f9rk53TFTMUTm8Lw@mail.gmail.com>",
       "from_name": "Thomas Lukacovic",
       "from_email_hash": "0175bbe66bf647a508de90aefa991f2480329d1ffc9252e7e9eb814d4db4f6cf",
-      "date": "2013-10-10T14:59:06-04:00",
+      "date": "2013-10-10T18:59:06Z",
       "subject": "[R-jobs] Freelance job on Long Island, NY",
       "subject_clean": "[R-jobs] Freelance job on Long Island, NY",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<525D5A26.3010600@gmail.com>",
       "from_name": "MK",
       "from_email_hash": "e4b0a5b5f9862e775d7b3abb9a69392981323f4bc13983d1c39fd7c52d5d3070",
-      "date": "2013-10-15T17:07:18+02:00",
+      "date": "2013-10-15T15:07:18Z",
       "subject": "[R-jobs] R trainer required",
       "subject_clean": "[R-jobs] R trainer required",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<525FE708.60407@oncology.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "08fc7a2780b75ae496535a1ad78a2fc5e1c7811cc3d12c4b3b7ab32fde2e53c9",
-      "date": "2013-10-17T14:32:56+01:00",
+      "date": "2013-10-17T13:32:56Z",
       "subject": "[R-jobs] position available University of Oxford",
       "subject_clean": "[R-jobs] position available University of Oxford",
       "in_reply_to": null,
@@ -90,7 +90,7 @@
       "message_id": "<CACk-te2cvG7+XXyw5CK8NQHujTOL=bvt7jZW22f8yGQv2Mx+Lw@mail.gmail.com>",
       "from_name": "Bert Gunter",
       "from_email_hash": "fff944709cd4e01c43b94b925a795dc8ebb00f65da76c888c1d3901ec68b6b6b",
-      "date": "2013-10-25T07:47:12-07:00",
+      "date": "2013-10-25T14:47:12Z",
       "subject": "[R-jobs] Intern at Barron's ! -- use statistics for investigative financial journalism",
       "subject_clean": "[R-jobs] Intern at Barron's ! -- use statistics for investigative financial journalism",
       "in_reply_to": "<26E4CDC6AA9D6A449FF3993907705BEB63990D8E@skpcmxsmb4>",
@@ -113,8 +113,8 @@
       "participants": [
         "Thomas Lukacovic"
       ],
-      "started": "2013-10-10T14:59:06-04:00",
-      "last_reply": "2013-10-10T14:59:06-04:00",
+      "started": "2013-10-10T18:59:06Z",
+      "last_reply": "2013-10-10T18:59:06Z",
       "root_message_id": "msg-3d9c788d0a01"
     },
     {
@@ -124,8 +124,8 @@
       "participants": [
         "MK"
       ],
-      "started": "2013-10-15T17:07:18+02:00",
-      "last_reply": "2013-10-15T17:07:18+02:00",
+      "started": "2013-10-15T15:07:18Z",
+      "last_reply": "2013-10-15T15:07:18Z",
       "root_message_id": "msg-a9cf46154be4"
     },
     {
@@ -135,8 +135,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2013-10-17T14:32:56+01:00",
-      "last_reply": "2013-10-17T14:32:56+01:00",
+      "started": "2013-10-17T13:32:56Z",
+      "last_reply": "2013-10-17T13:32:56Z",
       "root_message_id": "msg-38cb8c707619"
     },
     {
@@ -146,8 +146,8 @@
       "participants": [
         "Hudson, Matthew"
       ],
-      "started": "2013-10-24T16:08:28+00:00",
-      "last_reply": "2013-10-24T16:08:28+00:00",
+      "started": "2013-10-24T16:08:28Z",
+      "last_reply": "2013-10-24T16:08:28Z",
       "root_message_id": "msg-fb1ca266e181"
     },
     {
@@ -158,8 +158,8 @@
         "Alpert, William",
         "Bert Gunter"
       ],
-      "started": "2013-10-25T13:51:43+00:00",
-      "last_reply": "2013-10-25T07:47:12-07:00",
+      "started": "2013-10-25T13:51:43Z",
+      "last_reply": "2013-10-25T14:47:12Z",
       "root_message_id": "msg-7a04faf8500d"
     }
   ]

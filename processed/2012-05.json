@@ -8,7 +8,7 @@
       "message_id": "<8F504BCABEEA4BCC9736E8AF50B6A95F@metrumrg.com>",
       "from_name": "Jim Rogers",
       "from_email_hash": "10f53b05afd479b619cda0009159c5823d52918feda9b201ed40fe4585e5232e",
-      "date": "2012-05-01T17:13:37-04:00",
+      "date": "2012-05-01T21:13:37Z",
       "subject": "[R-jobs] Opening for a Data Programmer",
       "subject_clean": "[R-jobs] Opening for a Data Programmer",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4FA1146C.5050500@imm.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "06c8619309af33849a586caeb16dc456423b4dfb4565576abf94b1f1e45ff358",
-      "date": "2012-05-02T12:03:08+01:00",
+      "date": "2012-05-02T11:03:08Z",
       "subject": "[R-jobs] Position available University of Oxford UK",
       "subject_clean": "[R-jobs] Position available University of Oxford UK",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<4FA114AA.2060804@imm.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "06c8619309af33849a586caeb16dc456423b4dfb4565576abf94b1f1e45ff358",
-      "date": "2012-05-02T12:04:10+01:00",
+      "date": "2012-05-02T11:04:10Z",
       "subject": "[R-jobs] Clinical Information Technology Position available University of Oxford UK",
       "subject_clean": "[R-jobs] Clinical Information Technology Position available University of Oxford UK",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<B24ACC312CFBF147A2CA27CC01DB6DA16484091BC5@USCTMXP51007.merck.com>",
       "from_name": "Bahl, Amit",
       "from_email_hash": "10bba1cdd4249b8406521ec30b21d5e197c66471ead56862c0aede22878b533a",
-      "date": "2012-05-02T10:13:08-04:00",
+      "date": "2012-05-02T14:13:08Z",
       "subject": "[R-jobs] Data Mining Opportunities at Merck",
       "subject_clean": "[R-jobs] Data Mining Opportunities at Merck",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<CAJQ--J4W9qZoh44GRguvOTe9WvAdbvwzLB2aZcenYDxqqyC=Yg@mail.gmail.com>",
       "from_name": "Andy Fugard",
       "from_email_hash": "f6be233f7090e01677ee861cf59cf78a5d5633cf0b900db4c86537a342de6745",
-      "date": "2012-05-08T12:31:18+01:00",
+      "date": "2012-05-08T11:31:18Z",
       "subject": "[R-jobs] Mental Health Informatician",
       "subject_clean": "[R-jobs] Mental Health Informatician",
       "in_reply_to": null,
@@ -104,7 +104,7 @@
       "message_id": "<CAByChX5TpMKikFQEKD53y4d2ky2zjyYUP=ba0aFFCB14HJnKxg@mail.gmail.com>",
       "from_name": "Dilip Rajagopalan",
       "from_email_hash": "4b7134af15a02306d1296078d18ce1cc094a5ac16d51f86451dd3ba262740277",
-      "date": "2012-05-10T18:20:56-04:00",
+      "date": "2012-05-10T22:20:56Z",
       "subject": "[R-jobs] Analytics Opening at Health Market Science, suburban Philadelphia, USA",
       "subject_clean": "[R-jobs] Analytics Opening at Health Market Science, suburban Philadelphia, USA",
       "in_reply_to": null,
@@ -120,7 +120,7 @@
       "message_id": "<CA+qkPeacBgd=SOaCHbAWjRV9PdQ+=RONccOYLokQXpK2w_hMOQ@mail.gmail.com>",
       "from_name": "Harsh",
       "from_email_hash": "b31513298c7b348d26c904746480db5e13c19e10b3656cf9e0d8ced432541c29",
-      "date": "2012-05-16T15:33:12+05:30",
+      "date": "2012-05-16T10:03:12Z",
       "subject": "[R-jobs] Data Scientist at LinkedIn (Bangalore, India)",
       "subject_clean": "[R-jobs] Data Scientist at LinkedIn (Bangalore, India)",
       "in_reply_to": null,
@@ -136,7 +136,7 @@
       "message_id": "<CAF8n-bPQxUUuhyMaszQAiOXLq3zPXC8y08PesQAbo=MR5tk36w@mail.gmail.com>",
       "from_name": "Laura Perovich",
       "from_email_hash": "08680a6ca06d58c8132a25273e2943cac7f79fe51925c2c591df24216d51f6ca",
-      "date": "2012-05-23T16:27:31-04:00",
+      "date": "2012-05-23T20:27:31Z",
       "subject": "[R-jobs] Research Assistant/Staff Scientist: Technology in Environmental Health (Boston, MA)",
       "subject_clean": "[R-jobs] Research Assistant/Staff Scientist: Technology in Environmental Health (Boston, MA)",
       "in_reply_to": null,
@@ -152,7 +152,7 @@
       "message_id": "<CAFK+dJR=06X8cxPwa2UsYRQAc2wgMk0RLUCw9vj00eSm4dxa0Q@mail.gmail.com>",
       "from_name": "Mike Kellen",
       "from_email_hash": "2f6d6f1aa716512736ab06c8444dc1f991814355c6a2af02d885e7509e96a015",
-      "date": "2012-05-31T12:17:25-07:00",
+      "date": "2012-05-31T19:17:25Z",
       "subject": "[R-jobs] Scientific programmer at Sage Bionetworks",
       "subject_clean": "[R-jobs] Scientific programmer at Sage Bionetworks",
       "in_reply_to": null,
@@ -172,20 +172,9 @@
       "participants": [
         "Jim Rogers"
       ],
-      "started": "2012-05-01T17:13:37-04:00",
-      "last_reply": "2012-05-01T17:13:37-04:00",
+      "started": "2012-05-01T21:13:37Z",
+      "last_reply": "2012-05-01T21:13:37Z",
       "root_message_id": "msg-a6a517d45340"
-    },
-    {
-      "id": "thread-7a4820800bed",
-      "subject": "[R-jobs] Data Mining Opportunities at Merck",
-      "message_count": 1,
-      "participants": [
-        "Bahl, Amit"
-      ],
-      "started": "2012-05-02T10:13:08-04:00",
-      "last_reply": "2012-05-02T10:13:08-04:00",
-      "root_message_id": "msg-7a4820800bed"
     },
     {
       "id": "thread-12d66f3e8ed0",
@@ -194,8 +183,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2012-05-02T12:03:08+01:00",
-      "last_reply": "2012-05-02T12:03:08+01:00",
+      "started": "2012-05-02T11:03:08Z",
+      "last_reply": "2012-05-02T11:03:08Z",
       "root_message_id": "msg-12d66f3e8ed0"
     },
     {
@@ -205,9 +194,20 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2012-05-02T12:04:10+01:00",
-      "last_reply": "2012-05-02T12:04:10+01:00",
+      "started": "2012-05-02T11:04:10Z",
+      "last_reply": "2012-05-02T11:04:10Z",
       "root_message_id": "msg-906331cb0f38"
+    },
+    {
+      "id": "thread-7a4820800bed",
+      "subject": "[R-jobs] Data Mining Opportunities at Merck",
+      "message_count": 1,
+      "participants": [
+        "Bahl, Amit"
+      ],
+      "started": "2012-05-02T14:13:08Z",
+      "last_reply": "2012-05-02T14:13:08Z",
+      "root_message_id": "msg-7a4820800bed"
     },
     {
       "id": "thread-82cf66696bfd",
@@ -216,8 +216,8 @@
       "participants": [
         "Andy Fugard"
       ],
-      "started": "2012-05-08T12:31:18+01:00",
-      "last_reply": "2012-05-08T12:31:18+01:00",
+      "started": "2012-05-08T11:31:18Z",
+      "last_reply": "2012-05-08T11:31:18Z",
       "root_message_id": "msg-82cf66696bfd"
     },
     {
@@ -227,8 +227,8 @@
       "participants": [
         "Mahometa, Michael J"
       ],
-      "started": "2012-05-08T18:25:45+00:00",
-      "last_reply": "2012-05-08T18:25:45+00:00",
+      "started": "2012-05-08T18:25:45Z",
+      "last_reply": "2012-05-08T18:25:45Z",
       "root_message_id": "msg-83fd68ea8c02"
     },
     {
@@ -238,8 +238,8 @@
       "participants": [
         "Dilip Rajagopalan"
       ],
-      "started": "2012-05-10T18:20:56-04:00",
-      "last_reply": "2012-05-10T18:20:56-04:00",
+      "started": "2012-05-10T22:20:56Z",
+      "last_reply": "2012-05-10T22:20:56Z",
       "root_message_id": "msg-7c0010fbcde6"
     },
     {
@@ -249,8 +249,8 @@
       "participants": [
         "Harsh"
       ],
-      "started": "2012-05-16T15:33:12+05:30",
-      "last_reply": "2012-05-16T15:33:12+05:30",
+      "started": "2012-05-16T10:03:12Z",
+      "last_reply": "2012-05-16T10:03:12Z",
       "root_message_id": "msg-1ac8340fd406"
     },
     {
@@ -260,8 +260,8 @@
       "participants": [
         "Laura Perovich"
       ],
-      "started": "2012-05-23T16:27:31-04:00",
-      "last_reply": "2012-05-23T16:27:31-04:00",
+      "started": "2012-05-23T20:27:31Z",
+      "last_reply": "2012-05-23T20:27:31Z",
       "root_message_id": "msg-4d9e2e1d33e2"
     },
     {
@@ -271,8 +271,8 @@
       "participants": [
         "Mike Kellen"
       ],
-      "started": "2012-05-31T12:17:25-07:00",
-      "last_reply": "2012-05-31T12:17:25-07:00",
+      "started": "2012-05-31T19:17:25Z",
+      "last_reply": "2012-05-31T19:17:25Z",
       "root_message_id": "msg-95e6721b2bd5"
     }
   ]

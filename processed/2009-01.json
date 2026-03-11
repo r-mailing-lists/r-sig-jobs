@@ -8,7 +8,7 @@
       "message_id": "<Pine.LNX.4.64.0901041553520.17731@homer23.u.washington.edu>",
       "from_name": "Ka Yee Yeung",
       "from_email_hash": "2ae69f41f6cc1a62bec0729ba89bcdf0b9536c51d864db64361772cff4c1a5c7",
-      "date": "2009-01-04T15:56:16-08:00",
+      "date": "2009-01-04T23:56:16Z",
       "subject": "[R-jobs] postdoc position in computational biology",
       "subject_clean": "[R-jobs] postdoc position in computational biology",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4975F513.4040802@falw.vu.nl>",
       "from_name": "Hans van Beek",
       "from_email_hash": "5eac28b2c9fe433fbecaabeb7c3c02c28aa117a94b95b5ebaf60a0665adccbdf",
-      "date": "2009-01-20T17:00:19+01:00",
+      "date": "2009-01-20T16:00:19Z",
       "subject": "[R-jobs] vacancy postdoc computational systems biology - Amsterdam",
       "subject_clean": "[R-jobs] vacancy postdoc computational systems biology - Amsterdam",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<20090121170651.svwf4owxkr4cg8s0@webmail.embl.de>",
       "from_name": "deihomme m@iii@g oii embi@de",
       "from_email_hash": "c6b113d3486298c98470dfc157014baf695763fc01351272b9a8c47c2a590bd3",
-      "date": "2009-01-21T17:06:51+01:00",
+      "date": "2009-01-21T16:06:51Z",
       "subject": "[R-jobs] EMBL Heidelberg seeks a Bioinformatician / Data Analyst",
       "subject_clean": "[R-jobs] EMBL Heidelberg seeks a Bioinformatician / Data Analyst",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<B972DDB6-BCDE-40A3-9405-B4BA7E6F6B3C@ucalgary.ca>",
       "from_name": "Tyler Williamson",
       "from_email_hash": "91c4888efff8df6c9fbd5cff9d865f0e27a478c344f6a01dcbf87468ce7418bd",
-      "date": "2009-01-22T16:23:02-07:00",
+      "date": "2009-01-22T23:23:02Z",
       "subject": "[R-jobs] R Programmer - Calgary",
       "subject_clean": "[R-jobs] R Programmer - Calgary",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Ka Yee Yeung"
       ],
-      "started": "2009-01-04T15:56:16-08:00",
-      "last_reply": "2009-01-04T15:56:16-08:00",
+      "started": "2009-01-04T23:56:16Z",
+      "last_reply": "2009-01-04T23:56:16Z",
       "root_message_id": "msg-5fa47ea4ba7b"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Hans van Beek"
       ],
-      "started": "2009-01-20T17:00:19+01:00",
-      "last_reply": "2009-01-20T17:00:19+01:00",
+      "started": "2009-01-20T16:00:19Z",
+      "last_reply": "2009-01-20T16:00:19Z",
       "root_message_id": "msg-ff3f8e4553dd"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "deihomme m@iii@g oii embi@de"
       ],
-      "started": "2009-01-21T17:06:51+01:00",
-      "last_reply": "2009-01-21T17:06:51+01:00",
+      "started": "2009-01-21T16:06:51Z",
+      "last_reply": "2009-01-21T16:06:51Z",
       "root_message_id": "msg-1b16fbdb2eec"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Tyler Williamson"
       ],
-      "started": "2009-01-22T16:23:02-07:00",
-      "last_reply": "2009-01-22T16:23:02-07:00",
+      "started": "2009-01-22T23:23:02Z",
+      "last_reply": "2009-01-22T23:23:02Z",
       "root_message_id": "msg-347fb659b310"
     }
   ]

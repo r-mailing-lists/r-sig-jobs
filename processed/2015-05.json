@@ -8,7 +8,7 @@
       "message_id": "<555DD462.8030203@ufz.de>",
       "from_name": "Jula Zimmermann",
       "from_email_hash": "ef8a8fd73ab2a153bce5a262a4053aed67261f32d43f4d8380f9ab9085918291",
-      "date": "2015-05-21T14:49:38+02:00",
+      "date": "2015-05-21T12:49:38Z",
       "subject": "[R-jobs] Position on statistical teaching and consulting - Helmholtz Centre for Environmental Research in Leipzig, Germany",
       "subject_clean": "[R-jobs] Position on statistical teaching and consulting - Helmholtz Centre for Environmental Research in Leipzig, Germany",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<5567156F.5010500@fao.org>",
       "from_name": "Joshua Browning",
       "from_email_hash": "44335ee9cc6e873794ad3959618f0cca0666c0c83754f03992dd85d4b48fff9a",
-      "date": "2015-05-28T15:17:35+02:00",
+      "date": "2015-05-28T13:17:35Z",
       "subject": "[R-jobs] Statistician for The Food and Agriculture Organization of the UN in Rome, Italy",
       "subject_clean": "[R-jobs] Statistician for The Food and Agriculture Organization of the UN in Rome, Italy",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Jula Zimmermann"
       ],
-      "started": "2015-05-21T14:49:38+02:00",
-      "last_reply": "2015-05-21T14:49:38+02:00",
+      "started": "2015-05-21T12:49:38Z",
+      "last_reply": "2015-05-21T12:49:38Z",
       "root_message_id": "msg-ab4e77004bbc"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Joshua Browning"
       ],
-      "started": "2015-05-28T15:17:35+02:00",
-      "last_reply": "2015-05-28T15:17:35+02:00",
+      "started": "2015-05-28T13:17:35Z",
+      "last_reply": "2015-05-28T13:17:35Z",
       "root_message_id": "msg-12ab763d406e"
     }
   ]

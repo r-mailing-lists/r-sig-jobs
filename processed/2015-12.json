@@ -24,7 +24,7 @@
       "message_id": "<20151217145125.GA9345@psych.upenn.edu>",
       "from_name": "Jonathan Baron",
       "from_email_hash": "dc3633bac5f4ce429738bd566dad831e0f3f1e8c2eb846d7a1ba5cd71ad0b01d",
-      "date": "2015-12-17T09:51:25-05:00",
+      "date": "2015-12-17T14:51:25Z",
       "subject": "[R-jobs] part-time job for production assistant for a journal (Judgment and Decision Making)",
       "subject_clean": "[R-jobs] part-time job for production assistant for a journal (Judgment and Decision Making)",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Kuhn, Max"
       ],
-      "started": "2015-12-14T17:37:58+00:00",
-      "last_reply": "2015-12-14T17:37:58+00:00",
+      "started": "2015-12-14T17:37:58Z",
+      "last_reply": "2015-12-14T17:37:58Z",
       "root_message_id": "msg-6cd543b321af"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Jonathan Baron"
       ],
-      "started": "2015-12-17T09:51:25-05:00",
-      "last_reply": "2015-12-17T09:51:25-05:00",
+      "started": "2015-12-17T14:51:25Z",
+      "last_reply": "2015-12-17T14:51:25Z",
       "root_message_id": "msg-e330a079780f"
     }
   ]

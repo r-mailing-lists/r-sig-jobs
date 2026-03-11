@@ -8,7 +8,7 @@
       "message_id": "<E6E983882972D447AF74D38898C199631066B02357@USETCMSXMB02.NAFTA.SYNGENTA.ORG>",
       "from_name": "Juiie@Leo@@rd m@iii@g oii SYNGENTA@COM",
       "from_email_hash": "59651aa032e38079d624800fddfb3366c2f5225f8eba48910e202ded72b766d4",
-      "date": "2011-08-05T12:03:40-04:00",
+      "date": "2011-08-05T16:03:40Z",
       "subject": "[R-jobs] contract statistician position available",
       "subject_clean": "[R-jobs] contract statistician position available",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<14A69EC0BED14955BE9B2CF8706C9766@metrumrg.com>",
       "from_name": "Jim Rogers",
       "from_email_hash": "10f53b05afd479b619cda0009159c5823d52918feda9b201ed40fe4585e5232e",
-      "date": "2011-08-05T16:23:27-04:00",
+      "date": "2011-08-05T20:23:27Z",
       "subject": "[R-jobs] Data Programmer at MetrumRG",
       "subject_clean": "[R-jobs] Data Programmer at MetrumRG",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAP6E4dUgRynGzQBVp_vV2RuSytXt_Xp1ChKgk8rhDZVifpS5MQ@mail.gmail.com>",
       "from_name": "James Rogers",
       "from_email_hash": "10f53b05afd479b619cda0009159c5823d52918feda9b201ed40fe4585e5232e",
-      "date": "2011-08-05T16:27:05-04:00",
+      "date": "2011-08-05T20:27:05Z",
       "subject": "[R-jobs] Data Programmer position at MetrumRG",
       "subject_clean": "[R-jobs] Data Programmer position at MetrumRG",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<925112E5BE14F34EB3F21B2DFF4D91BDEB9A7450@HQEXDB02.hq.un.fao.org>",
       "from_name": "Stigler, Matthieu (ESS)",
       "from_email_hash": "225769fed8d651e4e7a4593ff7cf505b133f5bcf55f1efff78332ec422dce27e",
-      "date": "2011-08-10T16:47:07+02:00",
+      "date": "2011-08-10T14:47:07Z",
       "subject": "[R-jobs] Short term position in Rome: R trainer and developer",
       "subject_clean": "[R-jobs] Short term position in Rome: R trainer and developer",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Juiie@Leo@@rd m@iii@g oii SYNGENTA@COM"
       ],
-      "started": "2011-08-05T12:03:40-04:00",
-      "last_reply": "2011-08-05T12:03:40-04:00",
+      "started": "2011-08-05T16:03:40Z",
+      "last_reply": "2011-08-05T16:03:40Z",
       "root_message_id": "msg-15bc56e348ed"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Jim Rogers"
       ],
-      "started": "2011-08-05T16:23:27-04:00",
-      "last_reply": "2011-08-05T16:23:27-04:00",
+      "started": "2011-08-05T20:23:27Z",
+      "last_reply": "2011-08-05T20:23:27Z",
       "root_message_id": "msg-639646cecdab"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "James Rogers"
       ],
-      "started": "2011-08-05T16:27:05-04:00",
-      "last_reply": "2011-08-05T16:27:05-04:00",
+      "started": "2011-08-05T20:27:05Z",
+      "last_reply": "2011-08-05T20:27:05Z",
       "root_message_id": "msg-9db78bf918d4"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Stigler, Matthieu (ESS)"
       ],
-      "started": "2011-08-10T16:47:07+02:00",
-      "last_reply": "2011-08-10T16:47:07+02:00",
+      "started": "2011-08-10T14:47:07Z",
+      "last_reply": "2011-08-10T14:47:07Z",
       "root_message_id": "msg-bb59768c39ce"
     }
   ]

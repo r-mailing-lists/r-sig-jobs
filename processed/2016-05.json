@@ -24,7 +24,7 @@
       "message_id": "<007c01d1abb5$118f0170$34ad0450$@com>",
       "from_name": "Barbara ONeill",
       "from_email_hash": "1db8c87cd714f269eb362b100934809f42ca0be35e4b14c39a00f950a276b92e",
-      "date": "2016-05-11T12:43:51-06:00",
+      "date": "2016-05-11T18:43:51Z",
       "subject": "[R-jobs] Quantitative Risk and Decision Analysis Consultant",
       "subject_clean": "[R-jobs] Quantitative Risk and Decision Analysis Consultant",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<012601d1bb77$5f830760$1e891620$@com>",
       "from_name": "Barbara ONeill",
       "from_email_hash": "1db8c87cd714f269eb362b100934809f42ca0be35e4b14c39a00f950a276b92e",
-      "date": "2016-05-31T14:02:32-06:00",
+      "date": "2016-05-31T20:02:32Z",
       "subject": "[R-jobs] Job Position: Quantitative Risk and Decision Analysis Consultant",
       "subject_clean": "[R-jobs] Job Position: Quantitative Risk and Decision Analysis Consultant",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Pikounis, Bill [JRDUS]"
       ],
-      "started": "2016-05-05T15:21:56+00:00",
-      "last_reply": "2016-05-05T15:21:56+00:00",
+      "started": "2016-05-05T15:21:56Z",
+      "last_reply": "2016-05-05T15:21:56Z",
       "root_message_id": "msg-75960bcb1bb9"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Barbara ONeill"
       ],
-      "started": "2016-05-11T12:43:51-06:00",
-      "last_reply": "2016-05-11T12:43:51-06:00",
+      "started": "2016-05-11T18:43:51Z",
+      "last_reply": "2016-05-11T18:43:51Z",
       "root_message_id": "msg-4fdc94143f5d"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "McAuliffe, Katie"
       ],
-      "started": "2016-05-11T20:06:39+00:00",
-      "last_reply": "2016-05-11T20:06:39+00:00",
+      "started": "2016-05-11T20:06:39Z",
+      "last_reply": "2016-05-11T20:06:39Z",
       "root_message_id": "msg-31bcf67eb038"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Barbara ONeill"
       ],
-      "started": "2016-05-31T14:02:32-06:00",
-      "last_reply": "2016-05-31T14:02:32-06:00",
+      "started": "2016-05-31T20:02:32Z",
+      "last_reply": "2016-05-31T20:02:32Z",
       "root_message_id": "msg-a7ad10c8b821"
     }
   ]

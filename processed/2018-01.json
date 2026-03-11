@@ -8,7 +8,7 @@
       "message_id": "<CAAwaufLei4GZvYpTf8v5NqSQaL+gvrE3WVq8e3Y6EhGB2UKmKg@mail.gmail.com>",
       "from_name": "Nachi Gupta",
       "from_email_hash": "e1ebe6776c67708f0609d3b8524892fa06efc899a5f524b6bd77e149328df64d",
-      "date": "2018-01-17T17:24:27-05:00",
+      "date": "2018-01-17T22:24:27Z",
       "subject": "[R-jobs] Item Response Theory",
       "subject_clean": "[R-jobs] Item Response Theory",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<alpine.BSF.2.00.1801291017200.18048@pedal.dcn.davis.ca.us>",
       "from_name": "Jeff Newmiller",
       "from_email_hash": "b0534b2df56689de62a07ef0e2eefa136a2b7e536d83dd9445d2bc1683bb09fe",
-      "date": "2018-01-29T10:27:36-08:00",
+      "date": "2018-01-29T18:27:36Z",
       "subject": "[R-jobs] Machine learning for solar power predictive maintenance",
       "subject_clean": "[R-jobs] Machine learning for solar power predictive maintenance",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Nachi Gupta"
       ],
-      "started": "2018-01-17T17:24:27-05:00",
-      "last_reply": "2018-01-17T17:24:27-05:00",
+      "started": "2018-01-17T22:24:27Z",
+      "last_reply": "2018-01-17T22:24:27Z",
       "root_message_id": "msg-b2676ae7efe7"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Jeff Newmiller"
       ],
-      "started": "2018-01-29T10:27:36-08:00",
-      "last_reply": "2018-01-29T10:27:36-08:00",
+      "started": "2018-01-29T18:27:36Z",
+      "last_reply": "2018-01-29T18:27:36Z",
       "root_message_id": "msg-5f4cb9dfe72f"
     }
   ]

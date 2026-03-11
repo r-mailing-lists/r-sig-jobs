@@ -8,7 +8,7 @@
       "message_id": "<4A11C1EE.40105@...........>",
       "from_name": "jt",
       "from_email_hash": "8b5b38aa19974bfc8a261d3442f865d11edea7dcc310ffc926d1a42bc27567b8",
-      "date": "2009-05-18T21:15:42+01:00",
+      "date": "2009-05-18T20:15:42Z",
       "subject": "[R-jobs] JOB: C++ Programmer in London, England, UK",
       "subject_clean": "[R-jobs] JOB: C++ Programmer in London, England, UK",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<d5b814ab0905191555n36fabd53p6d8b9206f7cbf8d9@mail.gmail.com>",
       "from_name": "Ajit de Silva",
       "from_email_hash": "e684fcecce3d08a2a04bb87ab42df21cf48628a68d847f214cc17f8a84abb2b2",
-      "date": "2009-05-19T15:55:41-07:00",
+      "date": "2009-05-19T22:55:41Z",
       "subject": "[R-jobs] R group on Linkedin",
       "subject_clean": "[R-jobs] R group on Linkedin",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "jt"
       ],
-      "started": "2009-05-18T21:15:42+01:00",
-      "last_reply": "2009-05-18T21:15:42+01:00",
+      "started": "2009-05-18T20:15:42Z",
+      "last_reply": "2009-05-18T20:15:42Z",
       "root_message_id": "msg-6ae24401abef"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Ajit de Silva"
       ],
-      "started": "2009-05-19T15:55:41-07:00",
-      "last_reply": "2009-05-19T15:55:41-07:00",
+      "started": "2009-05-19T22:55:41Z",
+      "last_reply": "2009-05-19T22:55:41Z",
       "root_message_id": "msg-3429c553f904"
     }
   ]

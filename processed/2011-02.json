@@ -8,7 +8,7 @@
       "message_id": "<77EB52C6DD32BA4D87471DCD70C8D70003DE1AB7@NA-PA-VBE03.na.tibco.com>",
       "from_name": "Louis Bajuk-Yorgan",
       "from_email_hash": "a05adf05e8028574ee0ad34cf7243d777144d22445df8f1c3aae0a830c48ef59",
-      "date": "2011-02-03T10:26:23-08:00",
+      "date": "2011-02-03T18:26:23Z",
       "subject": "[R-jobs] TIBCO looking for Analytics Consultants",
       "subject_clean": "[R-jobs] TIBCO looking for Analytics Consultants",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<C9894EE1.1CDE4%delia.bailey@yougov.com>",
       "from_name": "Delia Bailey",
       "from_email_hash": "992060a0753f2d11e740534dfdc3b4e31dd3d74d3d3182a641900af7e3c01b73",
-      "date": "2011-02-22T20:30:41+01:00",
+      "date": "2011-02-22T19:30:41Z",
       "subject": "[R-jobs] Statistical Programmer",
       "subject_clean": "[R-jobs] Statistical Programmer",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Louis Bajuk-Yorgan"
       ],
-      "started": "2011-02-03T10:26:23-08:00",
-      "last_reply": "2011-02-03T10:26:23-08:00",
+      "started": "2011-02-03T18:26:23Z",
+      "last_reply": "2011-02-03T18:26:23Z",
       "root_message_id": "msg-39624d07fd24"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Delia Bailey"
       ],
-      "started": "2011-02-22T20:30:41+01:00",
-      "last_reply": "2011-02-22T20:30:41+01:00",
+      "started": "2011-02-22T19:30:41Z",
+      "last_reply": "2011-02-22T19:30:41Z",
       "root_message_id": "msg-5bab6f67c459"
     }
   ]

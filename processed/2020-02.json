@@ -8,7 +8,7 @@
       "message_id": "<CAPDNHNcpYaLXknA_zmgtpR3XmdCW+K-H9SC0X-UQcXxPQXciAg@mail.gmail.com>",
       "from_name": "Christopher Tong",
       "from_email_hash": "d1cbd80501eba7bf7515687009dc4cb6b69155e8e71c4dfa20a9f611927032d6",
-      "date": "2020-02-06T22:32:50-08:00",
+      "date": "2020-02-07T06:32:50Z",
       "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
       "subject_clean": "[R-jobs] USDA CVB recruiting statistician or data scientist",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<e1bf59e9-4847-1462-dba7-1b9227eec568@univ-grenoble-alpes.fr>",
       "from_name": "Mayeul Kauffmann",
       "from_email_hash": "14136e7fb7367cb558743e98d0338c1415f573345ada7d368cd7afc3fcc68d7d",
-      "date": "2020-02-07T11:49:05+01:00",
+      "date": "2020-02-07T10:49:05Z",
       "subject": "[R-jobs] Paid internship \"web application development with R\"",
       "subject_clean": "[R-jobs] Paid internship \"web application development with R\"",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<6f4b154f-6766-701e-16c1-a4cbb41c92ba@stamats.de>",
       "from_name": "Prof. Dr. Matthias Kohl",
       "from_email_hash": "e144ddb675681f3124c6e887dd63c8aec6f6b4e9911a8cda00f94c453a4cb173",
-      "date": "2020-02-28T07:48:43+01:00",
+      "date": "2020-02-28T06:48:43Z",
       "subject": "[R-jobs] Academic Staff - Data Science",
       "subject_clean": "[R-jobs] Academic Staff - Data Science",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<CAE-wHHH97kArwEigfDuNmMnBWSbhDG1XT2VwYk1sdnNdS_Gq-g@mail.gmail.com>",
       "from_name": "Dr.Rajkumar Rajasekaran",
       "from_email_hash": "6c1cac7b85c8330fa3427e3ef71bb688400647e96375feecf7e95c7c22977d9a",
-      "date": "2020-02-28T16:33:48+05:30",
+      "date": "2020-02-28T11:03:48Z",
       "subject": "[R-jobs] (no subject)",
       "subject_clean": "[R-jobs] (no subject)",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "Christopher Tong"
       ],
-      "started": "2020-02-06T22:32:50-08:00",
-      "last_reply": "2020-02-06T22:32:50-08:00",
+      "started": "2020-02-07T06:32:50Z",
+      "last_reply": "2020-02-07T06:32:50Z",
       "root_message_id": "msg-4f9cb70fb2a1"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Mayeul Kauffmann"
       ],
-      "started": "2020-02-07T11:49:05+01:00",
-      "last_reply": "2020-02-07T11:49:05+01:00",
+      "started": "2020-02-07T10:49:05Z",
+      "last_reply": "2020-02-07T10:49:05Z",
       "root_message_id": "msg-bb1ad9f099b9"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "Prof. Dr. Matthias Kohl"
       ],
-      "started": "2020-02-28T07:48:43+01:00",
-      "last_reply": "2020-02-28T07:48:43+01:00",
+      "started": "2020-02-28T06:48:43Z",
+      "last_reply": "2020-02-28T06:48:43Z",
       "root_message_id": "msg-14bbcae050a7"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Dr.Rajkumar Rajasekaran"
       ],
-      "started": "2020-02-28T16:33:48+05:30",
-      "last_reply": "2020-02-28T16:33:48+05:30",
+      "started": "2020-02-28T11:03:48Z",
+      "last_reply": "2020-02-28T11:03:48Z",
       "root_message_id": "msg-2c3606d73119"
     }
   ]

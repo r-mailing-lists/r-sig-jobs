@@ -8,7 +8,7 @@
       "message_id": "<BANLkTikO76APupchc748udsy+Yk-6SJE8w@mail.gmail.com>",
       "from_name": "David Katz",
       "from_email_hash": "b17ceab19ab2d76b06da4b22aa5e19ad4a99022761bf1d0e6c0136dde32ca7fa",
-      "date": "2011-04-03T13:25:57-07:00",
+      "date": "2011-04-03T20:25:57Z",
       "subject": "[R-jobs] Part-Time R Help",
       "subject_clean": "[R-jobs] Part-Time R Help",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<C9D3A11F.12B48%efegraus@conservation.org>",
       "from_name": "Eric Fegraus",
       "from_email_hash": "da9e2c0999799153e066fe2f51c1f28bfe5a03911bb673f4ffaa686fa7cbacee",
-      "date": "2011-04-19T20:29:19-04:00",
+      "date": "2011-04-20T00:29:19Z",
       "subject": "[R-jobs] IT Manager Position",
       "subject_clean": "[R-jobs] IT Manager Position",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<201104291936.48865.ct529@york.ac.uk>",
       "from_name": "Corrado Topi",
       "from_email_hash": "d1fb261a7c8d020c39144ae31d9e049b215bd752b3e2b0b6d285f28c70869861",
-      "date": "2011-04-29T19:36:48+01:00",
+      "date": "2011-04-29T18:36:48Z",
       "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
       "subject_clean": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<BANLkTikmj=E41EMQncnxiqnN85u-esV9yw@mail.gmail.com>",
       "from_name": "Ajay Ohri",
       "from_email_hash": "ea49ef5a61aa2f1d3b5b05c3b360b197fa8f7ac228dc7834aeafe60091e48ae0",
-      "date": "2011-04-30T00:43:29+05:30",
+      "date": "2011-04-29T19:13:29Z",
       "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
       "subject_clean": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
       "in_reply_to": "<201104291936.48865.ct529@york.ac.uk>",
@@ -74,7 +74,7 @@
       "message_id": "<201104300941.46687.ct529@york.ac.uk>",
       "from_name": "Corrado Topi",
       "from_email_hash": "d1fb261a7c8d020c39144ae31d9e049b215bd752b3e2b0b6d285f28c70869861",
-      "date": "2011-04-30T09:41:46+01:00",
+      "date": "2011-04-30T08:41:46Z",
       "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
       "subject_clean": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
       "in_reply_to": null,
@@ -90,7 +90,7 @@
       "message_id": "<BANLkTim=DV=O+B1osQihozv8ZEuNvWDB0A@mail.gmail.com>",
       "from_name": "Ajay Ohri",
       "from_email_hash": "ea49ef5a61aa2f1d3b5b05c3b360b197fa8f7ac228dc7834aeafe60091e48ae0",
-      "date": "2011-04-30T14:12:49+05:30",
+      "date": "2011-04-30T08:42:49Z",
       "subject": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
       "subject_clean": "[R-jobs] Summer student internship placement at University of York / YCCSA / SEI (paid)",
       "in_reply_to": "<201104300941.46687.ct529@york.ac.uk>",
@@ -112,8 +112,8 @@
       "participants": [
         "David Katz"
       ],
-      "started": "2011-04-03T13:25:57-07:00",
-      "last_reply": "2011-04-03T13:25:57-07:00",
+      "started": "2011-04-03T20:25:57Z",
+      "last_reply": "2011-04-03T20:25:57Z",
       "root_message_id": "msg-e4ed79613a43"
     },
     {
@@ -123,8 +123,8 @@
       "participants": [
         "Eric Fegraus"
       ],
-      "started": "2011-04-19T20:29:19-04:00",
-      "last_reply": "2011-04-19T20:29:19-04:00",
+      "started": "2011-04-20T00:29:19Z",
+      "last_reply": "2011-04-20T00:29:19Z",
       "root_message_id": "msg-9c57f0592294"
     },
     {
@@ -135,8 +135,8 @@
         "Ajay Ohri",
         "Corrado Topi"
       ],
-      "started": "2011-04-29T19:36:48+01:00",
-      "last_reply": "2011-04-30T00:43:29+05:30",
+      "started": "2011-04-29T18:36:48Z",
+      "last_reply": "2011-04-29T19:13:29Z",
       "root_message_id": "msg-e50bf6962fe7"
     },
     {
@@ -147,8 +147,8 @@
         "Ajay Ohri",
         "Corrado Topi"
       ],
-      "started": "2011-04-30T09:41:46+01:00",
-      "last_reply": "2011-04-30T14:12:49+05:30",
+      "started": "2011-04-30T08:41:46Z",
+      "last_reply": "2011-04-30T08:42:49Z",
       "root_message_id": "msg-5f0c3d4c5bca"
     }
   ]

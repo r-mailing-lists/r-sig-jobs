@@ -8,7 +8,7 @@
       "message_id": "<50285677.8050609@integratedstatistics.com>",
       "from_name": "Laura Shulman",
       "from_email_hash": "7427632f207a0bddc57f2c6fa1f33c9acd1505c523787f909b9a7d7b338e1475",
-      "date": "2012-08-12T21:20:55-04:00",
+      "date": "2012-08-13T01:20:55Z",
       "subject": "[R-jobs] employment opportunity for Fisheries Post Doc and R programmer",
       "subject_clean": "[R-jobs] employment opportunity for Fisheries Post Doc and R programmer",
       "in_reply_to": "<5023E696.1050103@integratedstatistics.com>",
@@ -26,7 +26,7 @@
       "message_id": "<1B102C40-D8ED-48F3-93E5-A80FFDCE5DCF@mindspring.com>",
       "from_name": "Vik Rubenfeld",
       "from_email_hash": "abdb2d082ed894f4324822a12c342fc1909bc578a182bfc41e44124a011b2f5b",
-      "date": "2012-08-20T19:24:17-07:00",
+      "date": "2012-08-21T02:24:17Z",
       "subject": "[R-jobs] Use DoE.base and AlgDesign to Produce Choice-Based Conjoint Questionnaire Design",
       "subject_clean": "[R-jobs] Use DoE.base and AlgDesign to Produce Choice-Based Conjoint Questionnaire Design",
       "in_reply_to": null,
@@ -46,8 +46,8 @@
       "participants": [
         "Laura Shulman"
       ],
-      "started": "2012-08-12T21:20:55-04:00",
-      "last_reply": "2012-08-12T21:20:55-04:00",
+      "started": "2012-08-13T01:20:55Z",
+      "last_reply": "2012-08-13T01:20:55Z",
       "root_message_id": "msg-e35960a02b9a"
     },
     {
@@ -57,8 +57,8 @@
       "participants": [
         "Vik Rubenfeld"
       ],
-      "started": "2012-08-20T19:24:17-07:00",
-      "last_reply": "2012-08-20T19:24:17-07:00",
+      "started": "2012-08-21T02:24:17Z",
+      "last_reply": "2012-08-21T02:24:17Z",
       "root_message_id": "msg-63d49fa37f21"
     }
   ]

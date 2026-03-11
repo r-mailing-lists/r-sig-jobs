@@ -24,7 +24,7 @@
       "message_id": "<CAPDNHNdyxYxtVBP29w8Lu0a9KdR8oJpSF4LFE6o6cmWAs6tuZw@mail.gmail.com>",
       "from_name": "Christopher Tong",
       "from_email_hash": "570258f59111604ce0ac353fa9b79988cb45ba4eaedd4d2222e70c8544b0deb3",
-      "date": "2018-12-03T13:55:28-08:00",
+      "date": "2018-12-03T21:55:28Z",
       "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
       "subject_clean": "[R-jobs] USDA CVB recruiting statistician or data scientist",
       "in_reply_to": "<CAPDNHNf5j1_5gxT9G3DfPEOgcOMqrwmEJ=K+UguSoaq5j1xfHw@mail.gmail.com>",
@@ -40,26 +40,26 @@
   ],
   "threads": [
     {
-      "id": "thread-374547a684ad",
-      "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
-      "message_count": 1,
-      "participants": [
-        "Christopher Tong"
-      ],
-      "started": "2018-12-03T13:55:28-08:00",
-      "last_reply": "2018-12-03T13:55:28-08:00",
-      "root_message_id": "msg-374547a684ad"
-    },
-    {
       "id": "thread-d63a7d8a61da",
       "subject": "[R-jobs] Positions at GMI, Dublin, Ireland",
       "message_count": 1,
       "participants": [
         "Tiago Magalhaes"
       ],
-      "started": "2018-12-03T17:03:01+00:00",
-      "last_reply": "2018-12-03T17:03:01+00:00",
+      "started": "2018-12-03T17:03:01Z",
+      "last_reply": "2018-12-03T17:03:01Z",
       "root_message_id": "msg-d63a7d8a61da"
+    },
+    {
+      "id": "thread-374547a684ad",
+      "subject": "[R-jobs] USDA CVB recruiting statistician or data scientist",
+      "message_count": 1,
+      "participants": [
+        "Christopher Tong"
+      ],
+      "started": "2018-12-03T21:55:28Z",
+      "last_reply": "2018-12-03T21:55:28Z",
+      "root_message_id": "msg-374547a684ad"
     }
   ]
 }

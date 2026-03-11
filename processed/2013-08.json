@@ -8,7 +8,7 @@
       "message_id": "<521B78AB.1080201@umons.ac.be>",
       "from_name": "Philippe Grosjean",
       "from_email_hash": "f919d2feaa0c5773745d5216914818fec6c156b38fa68f2af6ac5d81861bc7ff",
-      "date": "2013-08-26T17:47:55+02:00",
+      "date": "2013-08-26T15:47:55Z",
       "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CADDQFRvbY12TDqcW2hCQ45JmWOcQkTMk2_DgHeRRh1FmsrfjSA@mail.gmail.com>",
       "from_name": "A. Mani",
       "from_email_hash": "6b3b6e0393aa09ae73502abb282829e6f69f1396800a5a1ad229ca2016ce6e13",
-      "date": "2013-08-28T22:49:44+05:30",
+      "date": "2013-08-28T17:19:44Z",
       "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "in_reply_to": "<521B78AB.1080201@umons.ac.be>",
@@ -42,7 +42,7 @@
       "message_id": "<CADDQFRvmY5_o2QfamYrmw=5SiH08JvaJVpMJt3UE0L0q_1VADg@mail.gmail.com>",
       "from_name": "A. Mani",
       "from_email_hash": "6b3b6e0393aa09ae73502abb282829e6f69f1396800a5a1ad229ca2016ce6e13",
-      "date": "2013-08-28T22:51:07+05:30",
+      "date": "2013-08-28T17:21:07Z",
       "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "in_reply_to": "<CADDQFRvbY12TDqcW2hCQ45JmWOcQkTMk2_DgHeRRh1FmsrfjSA@mail.gmail.com>",
@@ -61,7 +61,7 @@
       "message_id": "<CAPy1FZ7cb9NFEO4w7EataZ7BViawTrqiGrU_xmdSmBP3ryg=QA@mail.gmail.com>",
       "from_name": "Patrick Coulombe",
       "from_email_hash": "a000e39f1937b06359341d5f4cc53c5fa92b87c2c204fab3bbfb92bfb619d584",
-      "date": "2013-08-28T12:12:32-06:00",
+      "date": "2013-08-28T18:12:32Z",
       "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "in_reply_to": "<CADDQFRvmY5_o2QfamYrmw=5SiH08JvaJVpMJt3UE0L0q_1VADg@mail.gmail.com>",
@@ -81,7 +81,7 @@
       "message_id": "<521E52FB.6030205@umons.ac.be>",
       "from_name": "Philippe Grosjean",
       "from_email_hash": "f919d2feaa0c5773745d5216914818fec6c156b38fa68f2af6ac5d81861bc7ff",
-      "date": "2013-08-28T21:43:55+02:00",
+      "date": "2013-08-28T19:43:55Z",
       "subject": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "in_reply_to": "<CAPy1FZ7cb9NFEO4w7EataZ7BViawTrqiGrU_xmdSmBP3ryg=QA@mail.gmail.com>",
@@ -124,8 +124,8 @@
         "Patrick Coulombe",
         "Philippe Grosjean"
       ],
-      "started": "2013-08-26T17:47:55+02:00",
-      "last_reply": "2013-08-28T21:43:55+02:00",
+      "started": "2013-08-26T15:47:55Z",
+      "last_reply": "2013-08-28T19:43:55Z",
       "root_message_id": "msg-39a49a89fbda"
     },
     {
@@ -135,8 +135,8 @@
       "participants": [
         "Rand, Hugh"
       ],
-      "started": "2013-08-30T14:39:16+00:00",
-      "last_reply": "2013-08-30T14:39:16+00:00",
+      "started": "2013-08-30T14:39:16Z",
+      "last_reply": "2013-08-30T14:39:16Z",
       "root_message_id": "msg-1f7ebd9c592f"
     }
   ]

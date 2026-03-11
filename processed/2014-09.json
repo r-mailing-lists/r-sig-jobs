@@ -8,7 +8,7 @@
       "message_id": "<CAN7Rspas2wP9dMFH1Fz_w9n0SAc2W_dW62WVcNxtT1uyrjH9eQ@mail.gmail.com>",
       "from_name": "Michael kao",
       "from_email_hash": "e4b0a5b5f9862e775d7b3abb9a69392981323f4bc13983d1c39fd7c52d5d3070",
-      "date": "2014-09-09T17:39:38+02:00",
+      "date": "2014-09-09T15:39:38Z",
       "subject": "[R-jobs] [R Jobs] Seeking statistician",
       "subject_clean": "[R-jobs] [R Jobs] Seeking statistician",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAN7RspbUgA50xq1nh7B7RPR6JzyNoVDThiKpakZRccBxjqLG-w@mail.gmail.com>",
       "from_name": "Michael kao",
       "from_email_hash": "e4b0a5b5f9862e775d7b3abb9a69392981323f4bc13983d1c39fd7c52d5d3070",
-      "date": "2014-09-10T01:13:36+02:00",
+      "date": "2014-09-09T23:13:36Z",
       "subject": "[R-jobs] [R Jobs] Seeking Statistician",
       "subject_clean": "[R-jobs] [R Jobs] Seeking Statistician",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Michael kao"
       ],
-      "started": "2014-09-09T17:39:38+02:00",
-      "last_reply": "2014-09-09T17:39:38+02:00",
+      "started": "2014-09-09T15:39:38Z",
+      "last_reply": "2014-09-09T15:39:38Z",
       "root_message_id": "msg-680feeba5637"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Michael kao"
       ],
-      "started": "2014-09-10T01:13:36+02:00",
-      "last_reply": "2014-09-10T01:13:36+02:00",
+      "started": "2014-09-09T23:13:36Z",
+      "last_reply": "2014-09-09T23:13:36Z",
       "root_message_id": "msg-8062aa32983f"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Lars J. Olson"
       ],
-      "started": "2014-09-30T17:32:49+00:00",
-      "last_reply": "2014-09-30T17:32:49+00:00",
+      "started": "2014-09-30T17:32:49Z",
+      "last_reply": "2014-09-30T17:32:49Z",
       "root_message_id": "msg-d1eaee84b392"
     }
   ]

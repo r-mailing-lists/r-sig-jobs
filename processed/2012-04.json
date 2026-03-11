@@ -24,7 +24,7 @@
       "message_id": "<OF2773188C.015A5640-ON852579DB.00509CE2-852579DB.0050CDAD@ifc.org>",
       "from_name": "Alexis Diamond",
       "from_email_hash": "f5453a00fc66b8cd801152322ecaac2c47262c72671d8de2909e2b8043d70cba",
-      "date": "2012-04-09T10:42:35-04:00",
+      "date": "2012-04-09T14:42:35Z",
       "subject": "[R-jobs] freelance consulting opportunity for R expert (causal inference & data visualization)",
       "subject_clean": "[R-jobs] freelance consulting opportunity for R expert (causal inference & data visualization)",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<AEDCC969E0667E4288F7BAE72FB2CAB60C18410C02@MVLMAILBOX.solutionset.local>",
       "from_name": "Mae Coughlin",
       "from_email_hash": "f47a9dc5cfb4f40753ce968c67b0a32c52be531a6d24e5bf33baee7d9e72a844",
-      "date": "2012-04-12T10:29:34-07:00",
+      "date": "2012-04-12T17:29:34Z",
       "subject": "[R-jobs] Job Opening: Strategy & Analytics Lead Consultant for Google",
       "subject_clean": "[R-jobs] Job Opening: Strategy & Analytics Lead Consultant for Google",
       "in_reply_to": "<AEDCC969E0667E4288F7BAE72FB2CAB60B223231FD@MVLMAILBOX.solutionset.local>",
@@ -58,7 +58,7 @@
       "message_id": "<4B5535B1C3926A43B0D4CDAE916AAEF61661CEF4@ars-ex07mail1.corp.athenahealth.com>",
       "from_name": "Iyue Sung",
       "from_email_hash": "4ddb65af7eaedcfe1b2fc7e3521c9b8c799a076ef1ccdd52678345a553dc8c0d",
-      "date": "2012-04-12T23:39:57-04:00",
+      "date": "2012-04-13T03:39:57Z",
       "subject": "[R-jobs] Job Opening (Boston): Analytics Manager at athenahealth",
       "subject_clean": "[R-jobs] Job Opening (Boston): Analytics Manager at athenahealth",
       "in_reply_to": null,
@@ -74,7 +74,7 @@
       "message_id": "<1401699944.5721025.1334850782499.JavaMail.root@mailbox2-b.zimbra.upenn.edu>",
       "from_name": "Kyle Bittinger",
       "from_email_hash": "12cd0b0e983e358a39d88b8c14b52d72f8b91057ee3e16f6187dbf53c0706f7d",
-      "date": "2012-04-19T11:53:02-04:00",
+      "date": "2012-04-19T15:53:02Z",
       "subject": "[R-jobs] Bioinformatics programmer at the University of Pennsylvania",
       "subject_clean": "[R-jobs] Bioinformatics programmer at the University of Pennsylvania",
       "in_reply_to": null,
@@ -90,7 +90,7 @@
       "message_id": "<4F97F56B.4030605@imm.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "06c8619309af33849a586caeb16dc456423b4dfb4565576abf94b1f1e45ff358",
-      "date": "2012-04-25T14:00:27+01:00",
+      "date": "2012-04-25T13:00:27Z",
       "subject": "[R-jobs] Position available University of Oxford UK",
       "subject_clean": "[R-jobs] Position available University of Oxford UK",
       "in_reply_to": null,
@@ -106,7 +106,7 @@
       "message_id": "<3400d76ea9e219b04850b650b512627a@mail.gmail.com>",
       "from_name": "Mark Schwarz",
       "from_email_hash": "114920a78125e5a897fa5bcbb1d7768d4aec67c88f1997a91854d1b3688d3e90",
-      "date": "2012-04-25T15:31:51-05:00",
+      "date": "2012-04-25T20:31:51Z",
       "subject": "[R-jobs] Data Scientist and 'Data Management Guru' positions available in the heart of Austin, Texas",
       "subject_clean": "[R-jobs] Data Scientist and 'Data Management Guru' positions available in the heart of Austin, Texas",
       "in_reply_to": null,
@@ -122,7 +122,7 @@
       "message_id": "<c37f2e87537de154dc02bcfa175de984@openanalytics.eu>",
       "from_name": "tobi@s@verbeke m@iii@g oii ope@@@@iytics@eu",
       "from_email_hash": "a7dec7ea2c3f46b7836b9a112e31f24010c82d082240377de2c027c52acfb092",
-      "date": "2012-04-27T14:04:24+02:00",
+      "date": "2012-04-27T12:04:24Z",
       "subject": "[R-jobs] Job Opening: Statistical Consultant at OpenAnalytics (Belgium)",
       "subject_clean": "[R-jobs] Job Opening: Statistical Consultant at OpenAnalytics (Belgium)",
       "in_reply_to": null,
@@ -142,8 +142,8 @@
       "participants": [
         "Louis Bajuk-Yorgan"
       ],
-      "started": "2012-04-06T21:35:23+00:00",
-      "last_reply": "2012-04-06T21:35:23+00:00",
+      "started": "2012-04-06T21:35:23Z",
+      "last_reply": "2012-04-06T21:35:23Z",
       "root_message_id": "msg-db860d3b69e0"
     },
     {
@@ -153,8 +153,8 @@
       "participants": [
         "Alexis Diamond"
       ],
-      "started": "2012-04-09T10:42:35-04:00",
-      "last_reply": "2012-04-09T10:42:35-04:00",
+      "started": "2012-04-09T14:42:35Z",
+      "last_reply": "2012-04-09T14:42:35Z",
       "root_message_id": "msg-a3ee44220f68"
     },
     {
@@ -164,8 +164,8 @@
       "participants": [
         "Mae Coughlin"
       ],
-      "started": "2012-04-12T10:29:34-07:00",
-      "last_reply": "2012-04-12T10:29:34-07:00",
+      "started": "2012-04-12T17:29:34Z",
+      "last_reply": "2012-04-12T17:29:34Z",
       "root_message_id": "msg-7c2a1f137eae"
     },
     {
@@ -175,8 +175,8 @@
       "participants": [
         "Iyue Sung"
       ],
-      "started": "2012-04-12T23:39:57-04:00",
-      "last_reply": "2012-04-12T23:39:57-04:00",
+      "started": "2012-04-13T03:39:57Z",
+      "last_reply": "2012-04-13T03:39:57Z",
       "root_message_id": "msg-46fc18a1de7d"
     },
     {
@@ -186,8 +186,8 @@
       "participants": [
         "Kyle Bittinger"
       ],
-      "started": "2012-04-19T11:53:02-04:00",
-      "last_reply": "2012-04-19T11:53:02-04:00",
+      "started": "2012-04-19T15:53:02Z",
+      "last_reply": "2012-04-19T15:53:02Z",
       "root_message_id": "msg-8c2965845a08"
     },
     {
@@ -197,8 +197,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2012-04-25T14:00:27+01:00",
-      "last_reply": "2012-04-25T14:00:27+01:00",
+      "started": "2012-04-25T13:00:27Z",
+      "last_reply": "2012-04-25T13:00:27Z",
       "root_message_id": "msg-6ed221b4614f"
     },
     {
@@ -208,8 +208,8 @@
       "participants": [
         "Mark Schwarz"
       ],
-      "started": "2012-04-25T15:31:51-05:00",
-      "last_reply": "2012-04-25T15:31:51-05:00",
+      "started": "2012-04-25T20:31:51Z",
+      "last_reply": "2012-04-25T20:31:51Z",
       "root_message_id": "msg-bb232a9f82d1"
     },
     {
@@ -219,8 +219,8 @@
       "participants": [
         "tobi@s@verbeke m@iii@g oii ope@@@@iytics@eu"
       ],
-      "started": "2012-04-27T14:04:24+02:00",
-      "last_reply": "2012-04-27T14:04:24+02:00",
+      "started": "2012-04-27T12:04:24Z",
+      "last_reply": "2012-04-27T12:04:24Z",
       "root_message_id": "msg-4ab68c2b4163"
     }
   ]

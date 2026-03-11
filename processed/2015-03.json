@@ -8,7 +8,7 @@
       "message_id": "<CANUb+YatA7S4MB=mop0BG6YuvQa1np=TyatrggwoeXwTmm-BLA@mail.gmail.com>",
       "from_name": "vwaltz .",
       "from_email_hash": "df56e00d1f0a2e59defe4db05259145a503b5fa60c138852f23220e954661166",
-      "date": "2015-03-15T08:10:25-04:00",
+      "date": "2015-03-15T12:10:25Z",
       "subject": "[R-jobs] Internship opportunities at Novartis Integrated Quantitative Sciences",
       "subject_clean": "[R-jobs] Internship opportunities at Novartis Integrated Quantitative Sciences",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<550810EF.9040405@uct.ac.za>",
       "from_name": "Paolo Denti",
       "from_email_hash": "e74e7ebb90bcc6d7d3411b4804669908111ba6e97d4d33bcff6136937407c060",
-      "date": "2015-03-17T13:33:03+02:00",
+      "date": "2015-03-17T11:33:03Z",
       "subject": "[R-jobs] Postdoc in Pharmacometrics at the University of Cape Town",
       "subject_clean": "[R-jobs] Postdoc in Pharmacometrics at the University of Cape Town",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<00d101d06164$d584d2e0$808e78a0$@tack@beeatwork.be>",
       "from_name": "Veronique,Tack",
       "from_email_hash": "4eda7a94d669b1b4ee2b85bc51a9577b0e25edafeaaade3fdb1af9d8b4d99a4e",
-      "date": "2015-03-18T11:18:09+01:00",
+      "date": "2015-03-18T10:18:09Z",
       "subject": "[R-jobs] vacancy for R Programmer - Thanks for the publication",
       "subject_clean": "[R-jobs] vacancy for R Programmer - Thanks for the publication",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "vwaltz ."
       ],
-      "started": "2015-03-15T08:10:25-04:00",
-      "last_reply": "2015-03-15T08:10:25-04:00",
+      "started": "2015-03-15T12:10:25Z",
+      "last_reply": "2015-03-15T12:10:25Z",
       "root_message_id": "msg-bbc8143a0869"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Paolo Denti"
       ],
-      "started": "2015-03-17T13:33:03+02:00",
-      "last_reply": "2015-03-17T13:33:03+02:00",
+      "started": "2015-03-17T11:33:03Z",
+      "last_reply": "2015-03-17T11:33:03Z",
       "root_message_id": "msg-e4f12411869d"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Veronique,Tack"
       ],
-      "started": "2015-03-18T11:18:09+01:00",
-      "last_reply": "2015-03-18T11:18:09+01:00",
+      "started": "2015-03-18T10:18:09Z",
+      "last_reply": "2015-03-18T10:18:09Z",
       "root_message_id": "msg-f7fda02cfc5d"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<C69F495B.149A%recruiting.analytics@nsight-health.com>",
       "from_name": "HIT Recruiting",
       "from_email_hash": "a772a1cfcb6404f744cc1c6c20792d2684cc05d8c2af2feb79f5faa83c7e20fc",
-      "date": "2009-08-05T14:36:11-04:00",
+      "date": "2009-08-05T18:36:11Z",
       "subject": "[R-jobs] Statistical analyst position in Cambridge, MA",
       "subject_clean": "[R-jobs] Statistical analyst position in Cambridge, MA",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1267541a0908181305q2ecb7efaxb880edc472bb48a9@mail.gmail.com>",
       "from_name": "Thomas Casparis",
       "from_email_hash": "dbab60acb35ad6dffc9dccd8ab18bdcf11b5e076ac6c41cb231767370e70a034",
-      "date": "2009-08-18T16:05:58-04:00",
+      "date": "2009-08-18T20:05:58Z",
       "subject": "[R-jobs] R Programming Job - Cambridge, MA",
       "subject_clean": "[R-jobs] R Programming Job - Cambridge, MA",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<014701ca20da$ea8e3cb0$bfaab610$@com>",
       "from_name": "Christina Kinchen",
       "from_email_hash": "fd1fd204d90860a6d75a121c6c6b467a5d9179d65fd0da2e8d9f65dd0e11899b",
-      "date": "2009-08-19T10:39:53-04:00",
+      "date": "2009-08-19T14:39:53Z",
       "subject": "[R-jobs] New SAS and R programming position with large Pharmaceutical in NJ",
       "subject_clean": "[R-jobs] New SAS and R programming position with large Pharmaceutical in NJ",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<alpine.LRH.2.01.0908251540260.14368@homer23.u.washington.edu>",
       "from_name": "Ka Yee Yeung",
       "from_email_hash": "2ae69f41f6cc1a62bec0729ba89bcdf0b9536c51d864db64361772cff4c1a5c7",
-      "date": "2009-08-25T15:41:28-07:00",
+      "date": "2009-08-25T22:41:28Z",
       "subject": "[R-jobs] Postdoc position in computational biology: Seattle WA",
       "subject_clean": "[R-jobs] Postdoc position in computational biology: Seattle WA",
       "in_reply_to": null,
@@ -76,8 +76,8 @@
       "participants": [
         "HIT Recruiting"
       ],
-      "started": "2009-08-05T14:36:11-04:00",
-      "last_reply": "2009-08-05T14:36:11-04:00",
+      "started": "2009-08-05T18:36:11Z",
+      "last_reply": "2009-08-05T18:36:11Z",
       "root_message_id": "msg-a5d2f09e01cb"
     },
     {
@@ -87,8 +87,8 @@
       "participants": [
         "Thomas Casparis"
       ],
-      "started": "2009-08-18T16:05:58-04:00",
-      "last_reply": "2009-08-18T16:05:58-04:00",
+      "started": "2009-08-18T20:05:58Z",
+      "last_reply": "2009-08-18T20:05:58Z",
       "root_message_id": "msg-3444c8d431dd"
     },
     {
@@ -98,8 +98,8 @@
       "participants": [
         "Christina Kinchen"
       ],
-      "started": "2009-08-19T10:39:53-04:00",
-      "last_reply": "2009-08-19T10:39:53-04:00",
+      "started": "2009-08-19T14:39:53Z",
+      "last_reply": "2009-08-19T14:39:53Z",
       "root_message_id": "msg-86850a589a7d"
     },
     {
@@ -109,8 +109,8 @@
       "participants": [
         "Ka Yee Yeung"
       ],
-      "started": "2009-08-25T15:41:28-07:00",
-      "last_reply": "2009-08-25T15:41:28-07:00",
+      "started": "2009-08-25T22:41:28Z",
+      "last_reply": "2009-08-25T22:41:28Z",
       "root_message_id": "msg-46d3a2411028"
     }
   ]

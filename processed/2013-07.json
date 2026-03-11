@@ -28,7 +28,7 @@
       "message_id": "<46256830.14314.1373050529271.JavaMail.root@openanalytics.eu>",
       "from_name": "Tobias Verbeke",
       "from_email_hash": "5f2f55743181bcc88a1e5b37143eaae63d5abd64de8e7d7dd7a5bb7c38dcb5f5",
-      "date": "2013-07-05T20:55:29+02:00",
+      "date": "2013-07-05T18:55:29Z",
       "subject": "[R-jobs] Job Opening: Statistician at OpenAnalytics (Belgium)",
       "subject_clean": "[R-jobs] Job Opening: Statistician at OpenAnalytics (Belgium)",
       "in_reply_to": "<2089245094.13278.1373020828929.JavaMail.root@openanalytics.eu>",
@@ -108,7 +108,7 @@
       "message_id": "<CAFK+dJS6QuLLXx9w=s9YGKG_=a7jGYPH1M40T1xgwX=2x5AXxw@mail.gmail.com>",
       "from_name": "Mike Kellen",
       "from_email_hash": "2f6d6f1aa716512736ab06c8444dc1f991814355c6a2af02d885e7509e96a015",
-      "date": "2013-07-23T16:07:47-07:00",
+      "date": "2013-07-23T23:07:47Z",
       "subject": "[R-jobs] R-focused Software Engineer at Sage Bionetworks",
       "subject_clean": "[R-jobs] R-focused Software Engineer at Sage Bionetworks",
       "in_reply_to": null,
@@ -128,8 +128,8 @@
       "participants": [
         "Lin, Nan"
       ],
-      "started": "2013-07-03T20:42:17+00:00",
-      "last_reply": "2013-07-03T20:42:17+00:00",
+      "started": "2013-07-03T20:42:17Z",
+      "last_reply": "2013-07-03T20:42:17Z",
       "root_message_id": "msg-d2a27f7b2456"
     },
     {
@@ -139,8 +139,8 @@
       "participants": [
         "Tobias Verbeke"
       ],
-      "started": "2013-07-05T20:55:29+02:00",
-      "last_reply": "2013-07-05T20:55:29+02:00",
+      "started": "2013-07-05T18:55:29Z",
+      "last_reply": "2013-07-05T18:55:29Z",
       "root_message_id": "msg-4cf64beab228"
     },
     {
@@ -150,8 +150,8 @@
       "participants": [
         "_Bio - Informatics"
       ],
-      "started": "2013-07-08T08:56:05+00:00",
-      "last_reply": "2013-07-08T08:56:05+00:00",
+      "started": "2013-07-08T08:56:05Z",
+      "last_reply": "2013-07-08T08:56:05Z",
       "root_message_id": "msg-aad613d07109"
     },
     {
@@ -161,8 +161,8 @@
       "participants": [
         "Louis Bajuk-Yorgan"
       ],
-      "started": "2013-07-10T11:14:08+00:00",
-      "last_reply": "2013-07-10T11:14:08+00:00",
+      "started": "2013-07-10T11:14:08Z",
+      "last_reply": "2013-07-10T11:14:08Z",
       "root_message_id": "msg-49a6398e56d8"
     },
     {
@@ -172,8 +172,8 @@
       "participants": [
         "Louis Bajuk-Yorgan"
       ],
-      "started": "2013-07-10T11:15:20+00:00",
-      "last_reply": "2013-07-10T11:15:20+00:00",
+      "started": "2013-07-10T11:15:20Z",
+      "last_reply": "2013-07-10T11:15:20Z",
       "root_message_id": "msg-02c9664defb0"
     },
     {
@@ -183,8 +183,8 @@
       "participants": [
         "_Bio - Informatics"
       ],
-      "started": "2013-07-23T08:42:58+00:00",
-      "last_reply": "2013-07-23T08:42:58+00:00",
+      "started": "2013-07-23T08:42:58Z",
+      "last_reply": "2013-07-23T08:42:58Z",
       "root_message_id": "msg-ac3fb94526f8"
     },
     {
@@ -194,8 +194,8 @@
       "participants": [
         "Mike Kellen"
       ],
-      "started": "2013-07-23T16:07:47-07:00",
-      "last_reply": "2013-07-23T16:07:47-07:00",
+      "started": "2013-07-23T23:07:47Z",
+      "last_reply": "2013-07-23T23:07:47Z",
       "root_message_id": "msg-e83a757ea2e7"
     }
   ]

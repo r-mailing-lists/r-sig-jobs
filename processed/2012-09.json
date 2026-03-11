@@ -8,7 +8,7 @@
       "message_id": "<Prayer.1.3.5.1209041127240.9346@hermes-1.csi.cam.ac.uk>",
       "from_name": "Dr S.D.W. Frost",
       "from_email_hash": "675460623f6ee0bff5ab5f148cca73fbcbd7b54b45d0ceb68a91821ece7d141d",
-      "date": "2012-09-04T11:27:24+01:00",
+      "date": "2012-09-04T10:27:24Z",
       "subject": "[R-jobs] Research Associate Position in Viral Evolution, University of Cambridge",
       "subject_clean": "[R-jobs] Research Associate Position in Viral Evolution, University of Cambridge",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<504602A0.7030109@oncology.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "08fc7a2780b75ae496535a1ad78a2fc5e1c7811cc3d12c4b3b7ab32fde2e53c9",
-      "date": "2012-09-04T14:31:12+01:00",
+      "date": "2012-09-04T13:31:12Z",
       "subject": "[R-jobs] Position available University of Oxford",
       "subject_clean": "[R-jobs] Position available University of Oxford",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<504EEB89.3090801@imm.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "06c8619309af33849a586caeb16dc456423b4dfb4565576abf94b1f1e45ff358",
-      "date": "2012-09-11T08:43:05+01:00",
+      "date": "2012-09-11T07:43:05Z",
       "subject": "[R-jobs] Position available University of Oxford",
       "subject_clean": "[R-jobs] Position available University of Oxford",
       "in_reply_to": null,
@@ -72,7 +72,7 @@
       "message_id": "<505D611A.5000604@oncology.ox.ac.uk>",
       "from_name": "Francesca Buffa",
       "from_email_hash": "08fc7a2780b75ae496535a1ad78a2fc5e1c7811cc3d12c4b3b7ab32fde2e53c9",
-      "date": "2012-09-22T07:56:26+01:00",
+      "date": "2012-09-22T06:56:26Z",
       "subject": "[R-jobs] Position available University of Oxford",
       "subject_clean": "[R-jobs] Position available University of Oxford",
       "in_reply_to": null,
@@ -108,8 +108,8 @@
       "participants": [
         "Dr S.D.W. Frost"
       ],
-      "started": "2012-09-04T11:27:24+01:00",
-      "last_reply": "2012-09-04T11:27:24+01:00",
+      "started": "2012-09-04T10:27:24Z",
+      "last_reply": "2012-09-04T10:27:24Z",
       "root_message_id": "msg-f6730c0ec817"
     },
     {
@@ -119,8 +119,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2012-09-04T14:31:12+01:00",
-      "last_reply": "2012-09-04T14:31:12+01:00",
+      "started": "2012-09-04T13:31:12Z",
+      "last_reply": "2012-09-04T13:31:12Z",
       "root_message_id": "msg-dee741303bdc"
     },
     {
@@ -130,8 +130,8 @@
       "participants": [
         "Kevin Olival, PhD"
       ],
-      "started": "2012-09-05T15:56:56+00:00",
-      "last_reply": "2012-09-05T15:56:56+00:00",
+      "started": "2012-09-05T15:56:56Z",
+      "last_reply": "2012-09-05T15:56:56Z",
       "root_message_id": "msg-3aa8f80129a3"
     },
     {
@@ -141,8 +141,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2012-09-11T08:43:05+01:00",
-      "last_reply": "2012-09-11T08:43:05+01:00",
+      "started": "2012-09-11T07:43:05Z",
+      "last_reply": "2012-09-11T07:43:05Z",
       "root_message_id": "msg-c14bc16e12ee"
     },
     {
@@ -152,8 +152,8 @@
       "participants": [
         "Francesca Buffa"
       ],
-      "started": "2012-09-22T07:56:26+01:00",
-      "last_reply": "2012-09-22T07:56:26+01:00",
+      "started": "2012-09-22T06:56:26Z",
+      "last_reply": "2012-09-22T06:56:26Z",
       "root_message_id": "msg-4ea96c0f47a1"
     },
     {
@@ -163,8 +163,8 @@
       "participants": [
         "EBPU"
       ],
-      "started": "2012-09-28T09:18:18+00:00",
-      "last_reply": "2012-09-28T09:18:18+00:00",
+      "started": "2012-09-28T09:18:18Z",
+      "last_reply": "2012-09-28T09:18:18Z",
       "root_message_id": "msg-b7fb1629c3ea"
     }
   ]

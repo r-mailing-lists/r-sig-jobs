@@ -8,7 +8,7 @@
       "message_id": "<AANLkTi=o+PPum1a643usqk4i5GM__nS36dY0Bjw=qiQV@mail.gmail.com>",
       "from_name": "Steve Eichert",
       "from_email_hash": "84f120563809328296652ff8bda6a88539b637ec48b5759c986f74ea73f87c79",
-      "date": "2010-10-13T16:36:46-04:00",
+      "date": "2010-10-13T20:36:46Z",
       "subject": "[R-jobs] Help develop an analytics software product with an R backbone",
       "subject_clean": "[R-jobs] Help develop an analytics software product with an R backbone",
       "in_reply_to": "<AANLkTinTfGtw_c2vRs+9E3MrWFbqgN3s9SYK2KD5yQjq@mail.gmail.com>",
@@ -26,7 +26,7 @@
       "message_id": "<499942.76307.qm@web57005.mail.re3.yahoo.com>",
       "from_name": "Paul Miller",
       "from_email_hash": "67f2121382a82f295db0f6e0e7ced9dd48559ac1b06a4b22d45ec68e7ac6f4d2",
-      "date": "2010-10-28T11:33:54-07:00",
+      "date": "2010-10-28T18:33:54Z",
       "subject": "[R-jobs] Consultant needed for WTP analysis based on results from a conjoint survey",
       "subject_clean": "[R-jobs] Consultant needed for WTP analysis based on results from a conjoint survey",
       "in_reply_to": null,
@@ -46,8 +46,8 @@
       "participants": [
         "Steve Eichert"
       ],
-      "started": "2010-10-13T16:36:46-04:00",
-      "last_reply": "2010-10-13T16:36:46-04:00",
+      "started": "2010-10-13T20:36:46Z",
+      "last_reply": "2010-10-13T20:36:46Z",
       "root_message_id": "msg-8026e10270a7"
     },
     {
@@ -57,8 +57,8 @@
       "participants": [
         "Paul Miller"
       ],
-      "started": "2010-10-28T11:33:54-07:00",
-      "last_reply": "2010-10-28T11:33:54-07:00",
+      "started": "2010-10-28T18:33:54Z",
+      "last_reply": "2010-10-28T18:33:54Z",
       "root_message_id": "msg-db75b2cb5808"
     }
   ]

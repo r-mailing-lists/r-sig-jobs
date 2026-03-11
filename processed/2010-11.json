@@ -8,7 +8,7 @@
       "message_id": "<CB5A8FE9897E814A88C3B63830DC42C003ECABC36899@Jupiter2.atlas.local>",
       "from_name": "Joe O",
       "from_email_hash": "d2d26eb89f989a9d0365b3605c4a50a7bec2288d17c7d445fb0d7067d897f8d6",
-      "date": "2010-11-16T10:41:58-06:00",
+      "date": "2010-11-16T16:41:58Z",
       "subject": "[R-jobs] R consultant needed!",
       "subject_clean": "[R-jobs] R consultant needed!",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Joe O"
       ],
-      "started": "2010-11-16T10:41:58-06:00",
-      "last_reply": "2010-11-16T10:41:58-06:00",
+      "started": "2010-11-16T16:41:58Z",
+      "last_reply": "2010-11-16T16:41:58Z",
       "root_message_id": "msg-d4eca771a249"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Samuel Le"
       ],
-      "started": "2010-11-29T19:27:39+00:00",
-      "last_reply": "2010-11-29T19:27:39+00:00",
+      "started": "2010-11-29T19:27:39Z",
+      "last_reply": "2010-11-29T19:27:39Z",
       "root_message_id": "msg-9f93a3ba4e87"
     }
   ]

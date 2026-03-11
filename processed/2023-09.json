@@ -8,7 +8,7 @@
       "message_id": "<C3F3D52C-46B7-46D3-8321-4B12BC8AD21A@gmail.com>",
       "from_name": "Johannes Schielein",
       "from_email_hash": "9e0d3e486b7e48ac917a6ae554ac144234bdd5718bb08f5029593da37ed8948c",
-      "date": "2023-09-04T15:15:22+02:00",
+      "date": "2023-09-04T13:15:22Z",
       "subject": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
       "subject_clean": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CA+oJuEGM7oW6fwFbbucAX1aWTCyS=YNmgB0p2Z3QxKRhgjmRfQ@mail.gmail.com>",
       "from_name": "Ilya Kipnis",
       "from_email_hash": "3e375900f97169bfcb61fc4fdc48bafc91349f60a4f7a4813c93bbe535a52a19",
-      "date": "2023-09-04T12:59:04-04:00",
+      "date": "2023-09-04T16:59:04Z",
       "subject": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
       "subject_clean": "[R-jobs] MAPME Initiative - Two collaboration opportunities as geospatial consultant in the context of agriculture, climate change and conflicts.",
       "in_reply_to": "<C3F3D52C-46B7-46D3-8321-4B12BC8AD21A@gmail.com>",
@@ -63,8 +63,8 @@
         "Ilya Kipnis",
         "Johannes Schielein"
       ],
-      "started": "2023-09-04T15:15:22+02:00",
-      "last_reply": "2023-09-04T12:59:04-04:00",
+      "started": "2023-09-04T13:15:22Z",
+      "last_reply": "2023-09-04T16:59:04Z",
       "root_message_id": "msg-fb59c43d42be"
     },
     {
@@ -74,8 +74,8 @@
       "participants": [
         "Matt Denwood"
       ],
-      "started": "2023-09-30T07:23:52+00:00",
-      "last_reply": "2023-09-30T07:23:52+00:00",
+      "started": "2023-09-30T07:23:52Z",
+      "last_reply": "2023-09-30T07:23:52Z",
       "root_message_id": "msg-410f196ec754"
     }
   ]
