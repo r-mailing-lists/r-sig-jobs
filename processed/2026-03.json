@@ -13,11 +13,12 @@
       "subject_clean": "[R-jobs] Open Position at the Barcelona Supercomputing Center | R data analysis tools developer",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hello,\n\nThe Barcelona Supercomputing Center - Centro Nacional de \nSupercomputaci?n in Spain is looking for an R developer to:\n\n- Coordinate developments of Department R tools, in close relation with \nthe users, giving them the appropriate support with the use of them \nwithin a High-Performance Computing environment.\n- Contribute to the deployment and installation of the packages in the \nshared department environment.\n- Contribute to the ongoing strategy for the development of the Earth \nSciences Department tools.\n\nYou can find more details on the position and instructions for how to \napply at https://www.bsc.es/join-us/job-opportunities/10526eseddre2\n\nBest,\n\n-- \n\nVictoria Agudetse Roures\nResearch Engineer\nComputational Earth Sciences Group | Earth Sciences Department\nBarcelona Supercomputing Center - Centro Nacional de Supercomputaci?n\nAddress: C/ Pla?a d'Eusebi G?ell, 1-3, 08034 Barcelona | Main Building, \nGround Floor\nEmail: victoria.agudetse at bsc.es\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Hello,\n\nThe Barcelona Supercomputing Center - Centro Nacional de \nSupercomputaci?n in Spain is looking for an R developer to:\n\n- Coordinate developments of Department R tools, in close relation with \n",
+      "body_plain": "Hello,\n\nThe Barcelona Supercomputing Center - Centro Nacional de \nSupercomputación in Spain is looking for an R developer to:\n\n- Coordinate developments of Department R tools, in close relation with \nthe users, giving them the appropriate support with the use of them \nwithin a High-Performance Computing environment.\n- Contribute to the deployment and installation of the packages in the \nshared department environment.\n- Contribute to the ongoing strategy for the development of the Earth \nSciences Department tools.\n\nYou can find more details on the position and instructions for how to \napply at https://www.bsc.es/join-us/job-opportunities/10526eseddre2\n\nBest,\n\n-- \n\nVictoria Agudetse Roures\nResearch Engineer\nComputational Earth Sciences Group | Earth Sciences Department\nBarcelona Supercomputing Center - Centro Nacional de Supercomputación\nAddress: C/ Plaça d'Eusebi Güell, 1-3, 08034 Barcelona | Main Building, \nGround Floor\nEmail: victoria.agudetse at bsc.es\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\n\nThe Barcelona Supercomputing Center - Centro Nacional de \nSupercomputación in Spain is looking for an R developer to:\n\n- Coordinate developments of Department R tools, in close relation with \n",
       "thread_id": "thread-fe6335c78cde",
       "thread_depth": 0,
-      "month": "2026-03"
+      "month": "2026-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2026q1/000441.html"
     }
   ],
   "threads": [
