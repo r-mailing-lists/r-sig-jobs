@@ -17,7 +17,8 @@
       "body_snippet": "Dear All,\n\nWe have just advertised a number of jobs which may be of interest. I've\npasted the text from the advert below; more details can be found on our\nwebsite at:\n\n http://bioinformatics.pir.man.a",
       "thread_id": "thread-d8c21a4115cf",
       "thread_depth": 0,
-      "month": "2008-06"
+      "month": "2008-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2008q2/000034.html"
     },
     {
       "id": "msg-630831ce3f6f",
@@ -33,7 +34,8 @@
       "body_snippet": "We are looking for someone to mine a database of financial data, covering\nstock loans and short selling.  Ideally with skills in R and SQL, Excel an\nadvantage; We are looking for trading signals and d",
       "thread_id": "thread-630831ce3f6f",
       "thread_depth": 0,
-      "month": "2008-06"
+      "month": "2008-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2008q2/000035.html"
     },
     {
       "id": "msg-9cc72610458c",
@@ -49,7 +51,8 @@
       "body_snippet": "Hi the job-list,\n\nI need help to customize a algorithm. The kernel of my program is about \n12 lines (simple and clear indented code), but it uses two loop. I \nwould like to use C code instead. Does so",
       "thread_id": "thread-9cc72610458c",
       "thread_depth": 0,
-      "month": "2008-06"
+      "month": "2008-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2008q2/000036.html"
     }
   ],
   "threads": [

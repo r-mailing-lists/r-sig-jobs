@@ -17,7 +17,8 @@
       "body_snippet": "Hello R Programmers,\nWe have a large existing Perl codebase which is currently being\nupgraded to use the new optimizing RPerl compiler (not related to the\nR language).\nhttp://rperl.org/\nAlso in use by",
       "thread_id": "thread-b1a8747ec115",
       "thread_depth": 0,
-      "month": "2017-08"
+      "month": "2017-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2017q3/000377.html"
     }
   ],
   "threads": [

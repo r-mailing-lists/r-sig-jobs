@@ -17,7 +17,8 @@
       "body_snippet": "Stevens Capital Management LP (\"SCM\") is a registered investment adviser\nthat manages a multi-billion dollar hedge fund that has been in business\nfor 20+ years.\n\n\nSCM specializes in the rigorous devel",
       "thread_id": "thread-e9afcf950e23",
       "thread_depth": 0,
-      "month": "2016-04"
+      "month": "2016-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2016q2/000351.html"
     },
     {
       "id": "msg-11c21bf85b4a",
@@ -33,7 +34,8 @@
       "body_snippet": "http://StepsTeam.com/careers/statistician/\n\nPlease contact drew at StepsTeam.com\n\nDrew Brown\n\n\t[[alternative HTML version deleted]]",
       "thread_id": "thread-11c21bf85b4a",
       "thread_depth": 0,
-      "month": "2016-04"
+      "month": "2016-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2016q2/000352.html"
     },
     {
       "id": "msg-0aed3dd88466",
@@ -49,7 +51,8 @@
       "body_snippet": "http://stepsteam.com/careers/risk-analyst/\n\nPlease contact drew at StepsTeam.com\n\nDrew Brown\n\n\t[[alternative HTML version deleted]]",
       "thread_id": "thread-0aed3dd88466",
       "thread_depth": 0,
-      "month": "2016-04"
+      "month": "2016-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2016q2/000353.html"
     },
     {
       "id": "msg-4d3c45364b3c",
@@ -67,7 +70,8 @@
       "body_snippet": "Hi everyone,\n\nwe have a job, 14 months (maybe longer), nice colleagues included. And\nwe are looking for someone who is fond of data/statistics and ideally\nalso of R; some sql would be nice...\n\n\nhttp:/",
       "thread_id": "thread-4d3c45364b3c",
       "thread_depth": 0,
-      "month": "2016-04"
+      "month": "2016-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2016q2/000354.html"
     },
     {
       "id": "msg-3d3989b5c011",
@@ -79,11 +83,12 @@
       "subject_clean": "[R-jobs] (Small) programming job related to network analysis",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear all,\n\nI am looking for help in programming three functions. Those functions\nshould simulate (social) networks according to the process described in :\n\n(1) A.H. Dekker - \"Realistic Social Networks for Simulation using Network\nRewiring\" (\nhttp://www.mssanz.org.au/MODSIM07/papers/13_s20/RealisticSocial_s20_Dekker_.pdf\n)\n\n(2) Konstantin Klemm and V?ctor M. Egu?luz - \"Growing scale-free networks\nwith small-world behavior\" (http://ifisc.uib-csic.es/victor/Nets/sw.pdf)\n\n(3) Petter Holme and Beom Jun Kim - \"Growing Scale-Free Networks with\nTunable Clustering\" (http://arxiv.org/pdf/cond-mat/0110452.pdf)\n\nI am looking for three functions (e.g., sample_dekker, sample_klemm,\nsample_holme) that generate an output similar to the functions sample_pa\nand sample_smallworld in the R package igraph. The input should be the\nnumber of nodes in the network (e.g., 1000) and any other parameters those\nmodels require.\n\nIn case this is of relevance to one of you, please write me a brief email\nwith an approximate cost estimate for this programming job. I would love to\nhave this finished within the next four weeks or so but the deadline is\nsomehow flexible. I am planning to use these functions in a research\nproject related to agent-based modeling.\n\nThanks,\n\nMichael\n\n\n\nMichael Haenlein\nProfessor of Marketing\nESCP Europe\n\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Dear all,\n\nI am looking for help in programming three functions. Those functions\nshould simulate (social) networks according to the process described in :\n\n(1) A.H. Dekker - \"Realistic Social Networks for Simulation using Network\nRewiring\" (\nhttp://www.mssanz.org.au/MODSIM07/papers/13_s20/RealisticSocial_s20_Dekker_.pdf\n)\n\n(2) Konstantin Klemm and Vıctor M. Eguıluz - \"Growing scale-free networks\nwith small-world behavior\" (http://ifisc.uib-csic.es/victor/Nets/sw.pdf)\n\n(3) Petter Holme and Beom Jun Kim - \"Growing Scale-Free Networks with\nTunable Clustering\" (http://arxiv.org/pdf/cond-mat/0110452.pdf)\n\nI am looking for three functions (e.g., sample_dekker, sample_klemm,\nsample_holme) that generate an output similar to the functions sample_pa\nand sample_smallworld in the R package igraph. The input should be the\nnumber of nodes in the network (e.g., 1000) and any other parameters those\nmodels require.\n\nIn case this is of relevance to one of you, please write me a brief email\nwith an approximate cost estimate for this programming job. I would love to\nhave this finished within the next four weeks or so but the deadline is\nsomehow flexible. I am planning to use these functions in a research\nproject related to agent-based modeling.\n\nThanks,\n\nMichael\n\n\n\nMichael Haenlein\nProfessor of Marketing\nESCP Europe\n\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Dear all,\n\nI am looking for help in programming three functions. Those functions\nshould simulate (social) networks according to the process described in :\n\n(1) A.H. Dekker - \"Realistic Social Networks",
       "thread_id": "thread-3d3989b5c011",
       "thread_depth": 0,
-      "month": "2016-04"
+      "month": "2016-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2016q2/000355.html"
     }
   ],
   "threads": [

@@ -13,11 +13,12 @@
       "subject_clean": "[R-jobs] PhD & post-doc positions available on Open source software evolution studies (incl. the R ecosystem)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear R-Sig-Jobs members,\n\nA PhD position is available at the COMPLEXYS Research Institute of the University of Mons (UMONS),\nBelgium (http://www.complexsystems.be/). The PhD position is part of a joint research project on\n\"Ecological Studies of Open Source Software Ecosystems (ECOS)\". This interdisciplinary project\nbetween biology and computer science aims to use software repository mining to determine whether\nand how selected ecological models and theories from biological ecosystems can be adapted and\nadopted to understand and better explain how open source software projects (akin to biological\nspecies) evolve over time, and to determine what are the main factors that drive the success or\npopularity of these projects. We wish to use knowledge on the evolution of biological ecosystems\nto provide support aiming to optimize the fitness, resistance and resilience of OSS projects.\n\nThe target software ecosystems are Gnome and R currently, and perhaps also Android in the future.\nThe successful candidate will extract useful information from the R project, work with data already\navailable on Gnome, and will elaborate tools to determine who drives software evolution in these\necosystems: developers or users, in various situations. He will also derive from these data what\nare the consequences on the success of the projects. He will eventually provide guiding rules on\nthe light of its results.\n\nThe position is available immediately for a period of up to 4 years with the aim to obtain a PhD\ndegree. Candidates should be eligible for starting a PhD in Sciences (they should have a Master or\nEngineering degree or equivalent) and are expected to complete their PhD during the project period.\nThe candidates should have a clear interest in biological and computer science aspects. Practical\nprogramming experience is required, and (practical) knowledge of statistical analysis is a plus,\nespecially with R.\n\nCandidates should send their detailed CV together with a motivation letter expressing their interest\nin the project by e-mail to Tom Mens (tom.mens at umons.ac.be) and\nPhilippe Grosjean (philippe.grosjean at umons.ac.be).\n\n- Tom Mens, Software Engineering Lab, D?partement Informatique, Faculty of Sciences, University of Mons,\nPlace du Parc 20, 7000 Mons, Belgium.\n- Philippe Grosjean, Numerical Ecology of Aquatic Systems Lab, Biology Department, Faculty of Sciences,\nUniversity of Mons, 8 avenue du Champ de Mars, 7000 Mons, Belgium.\n\n\nScientists interested by this project, being specialists in software evolution, or ecologists with some\ninterest for Open Source software including the R ecosystem, should contact us for discussion of\npotentials for a post-doc, or visiting scientist programme.\n\nSee here:\n\nhttp://informatique.umons.ac.be/genlog/projects/ecos/\nhttp://www.youtube.com/watch?v=w-UObuhUty8&list=PL5B5D3BF5B9BB1929&index=33\n\nBest,\n\nPhilippe Grosjean\n\n-- \n..............................................<?}))><........\n  ) ) ) ) )\n( ( ( ( (    Prof. Philippe Grosjean\n  ) ) ) ) )\n( ( ( ( (    Numerical Ecology of Aquatic Systems\n  ) ) ) ) )   Mons University, Belgium\n( ( ( ( (\n..............................................................",
+      "body_plain": "Dear R-Sig-Jobs members,\n\nA PhD position is available at the COMPLEXYS Research Institute of the University of Mons (UMONS),\nBelgium (http://www.complexsystems.be/). The PhD position is part of a joint research project on\n\"Ecological Studies of Open Source Software Ecosystems (ECOS)\". This interdisciplinary project\nbetween biology and computer science aims to use software repository mining to determine whether\nand how selected ecological models and theories from biological ecosystems can be adapted and\nadopted to understand and better explain how open source software projects (akin to biological\nspecies) evolve over time, and to determine what are the main factors that drive the success or\npopularity of these projects. We wish to use knowledge on the evolution of biological ecosystems\nto provide support aiming to optimize the fitness, resistance and resilience of OSS projects.\n\nThe target software ecosystems are Gnome and R currently, and perhaps also Android in the future.\nThe successful candidate will extract useful information from the R project, work with data already\navailable on Gnome, and will elaborate tools to determine who drives software evolution in these\necosystems: developers or users, in various situations. He will also derive from these data what\nare the consequences on the success of the projects. He will eventually provide guiding rules on\nthe light of its results.\n\nThe position is available immediately for a period of up to 4 years with the aim to obtain a PhD\ndegree. Candidates should be eligible for starting a PhD in Sciences (they should have a Master or\nEngineering degree or equivalent) and are expected to complete their PhD during the project period.\nThe candidates should have a clear interest in biological and computer science aspects. Practical\nprogramming experience is required, and (practical) knowledge of statistical analysis is a plus,\nespecially with R.\n\nCandidates should send their detailed CV together with a motivation letter expressing their interest\nin the project by e-mail to Tom Mens (tom.mens at umons.ac.be) and\nPhilippe Grosjean (philippe.grosjean at umons.ac.be).\n\n- Tom Mens, Software Engineering Lab, Département Informatique, Faculty of Sciences, University of Mons,\nPlace du Parc 20, 7000 Mons, Belgium.\n- Philippe Grosjean, Numerical Ecology of Aquatic Systems Lab, Biology Department, Faculty of Sciences,\nUniversity of Mons, 8 avenue du Champ de Mars, 7000 Mons, Belgium.\n\n\nScientists interested by this project, being specialists in software evolution, or ecologists with some\ninterest for Open Source software including the R ecosystem, should contact us for discussion of\npotentials for a post-doc, or visiting scientist programme.\n\nSee here:\n\nhttp://informatique.umons.ac.be/genlog/projects/ecos/\nhttp://www.youtube.com/watch?v=w-UObuhUty8&list=PL5B5D3BF5B9BB1929&index=33\n\nBest,\n\nPhilippe Grosjean\n\n-- \n..............................................<¡}))><........\n  ) ) ) ) )\n( ( ( ( (    Prof. Philippe Grosjean\n  ) ) ) ) )\n( ( ( ( (    Numerical Ecology of Aquatic Systems\n  ) ) ) ) )   Mons University, Belgium\n( ( ( ( (\n..............................................................",
       "body_snippet": "Dear R-Sig-Jobs members,\n\nA PhD position is available at the COMPLEXYS Research Institute of the University of Mons (UMONS),\nBelgium (http://www.complexsystems.be/). The PhD position is part of a join",
       "thread_id": "thread-39a49a89fbda",
       "thread_depth": 0,
-      "month": "2013-08"
+      "month": "2013-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000243.html"
     },
     {
       "id": "msg-59384a51930f",
@@ -35,7 +36,8 @@
       "body_snippet": "On Mon, Aug 26, 2013 at 9:17 PM, Philippe Grosjean\n<Philippe.Grosjean at umons.ac.be> wrote:\n>\n> The target software ecosystems are Gnome and R currently, and perhaps also\n> Android in the future.\n> T",
       "thread_id": "thread-39a49a89fbda",
       "thread_depth": 1,
-      "month": "2013-08"
+      "month": "2013-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000244.html"
     },
     {
       "id": "msg-dc10b50fb208",
@@ -54,7 +56,8 @@
       "body_snippet": "On Wed, Aug 28, 2013 at 10:49 PM, A. Mani <a.mani.cms at gmail.com> wrote:\n> Why is it sexist?\n\nSorry, that should have been 'gender discriminatory'\n\n\nBest\n\nA. Mani\n\n\n\nA. Mani\nCU, ASL, AMS, CLC, CMS\nh",
       "thread_id": "thread-39a49a89fbda",
       "thread_depth": 2,
-      "month": "2013-08"
+      "month": "2013-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000245.html"
     },
     {
       "id": "msg-825b10e0a099",
@@ -74,7 +77,8 @@
       "body_snippet": "I wouldn't overthink it... it looks like it's an English-as-second-language\nissue. These folks seemingly come from a French-speaking university, and in\nFrench the masculine form is used when referring",
       "thread_id": "thread-39a49a89fbda",
       "thread_depth": 3,
-      "month": "2013-08"
+      "month": "2013-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000246.html"
     },
     {
       "id": "msg-a00814977305",
@@ -95,7 +99,8 @@
       "body_snippet": "On 28/08/13 20:12, Patrick Coulombe wrote:\n> I wouldn't overthink it... it looks like it's an English-as-second-language\n> issue. These folks seemingly come from a French-speaking university, and in\n>",
       "thread_id": "thread-39a49a89fbda",
       "thread_depth": 4,
-      "month": "2013-08"
+      "month": "2013-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000247.html"
     },
     {
       "id": "msg-1f7ebd9c592f",
@@ -111,7 +116,8 @@
       "body_snippet": "The Biostatistics Analytics Team at the FDA Center for Food Safety and Applied Nutrition seeks an MS/PhD in computer science (or related field) with experience in bioinformatics.  The Analytics Team i",
       "thread_id": "thread-1f7ebd9c592f",
       "thread_depth": 0,
-      "month": "2013-08"
+      "month": "2013-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000248.html"
     }
   ],
   "threads": [

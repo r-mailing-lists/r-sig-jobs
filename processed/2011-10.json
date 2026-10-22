@@ -17,7 +17,8 @@
       "body_snippet": "It's not too early for statistically-adept students to think about underpaid, but life-altering, internships for the summer of 2012. In fact, after November 1st it may be too late to apply here at Bar",
       "thread_id": "thread-0c111aba404d",
       "thread_depth": 0,
-      "month": "2011-10"
+      "month": "2011-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2011q4/000149.html"
     },
     {
       "id": "msg-0d9d8e6b2cd3",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear All,\n\nWe've just advertised two computational biologist/bioinformatician posts and\na PhD studentship to work with  high throughput sequencing, proteomics and\nmicroarray datasets:\n\nhttp://www.pate",
       "thread_id": "thread-0d9d8e6b2cd3",
       "thread_depth": 0,
-      "month": "2011-10"
+      "month": "2011-10",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2011q4/000150.html"
     }
   ],
   "threads": [

@@ -17,7 +17,8 @@
       "body_snippet": "*Statistician *\n\n*?34,000 to ?39,000 (2 year contract position)*\n\n*WALTHAM Centre for Pet Nutrition, Leicestershire, UK*\n\nThe WALTHAM Centre for Pet Nutrition is the global hub of nutritional\nexpertis",
       "thread_id": "thread-599f52b2f04b",
       "thread_depth": 0,
-      "month": "2012-12"
+      "month": "2012-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q4/000208.html"
     },
     {
       "id": "msg-36d52f1f4dec",
@@ -29,11 +30,12 @@
       "subject_clean": "[R-jobs] Job postings - computational biologists in translational science",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear All,\n\nWe have two computational biology positions to advertise - details below:\n\nCrispin\n\n----\n\nThe Paterson Institute for Cancer Research (www.paterson.man.ac.uk<http://www.paterson.man.ac.uk/>), an Institute of The University of Manchester, seeks two (one senior, one junior) computational biologists to join the Applied Computational Biology and Bioinformatics Group (ACBBG). The Paterson Institute is one of Europe?s premier cancer research centres and is core-funded by Cancer Research UK, the world?s largest independent cancer research charity. Our juxtaposition to The Christie NHS Foundation Trust, Europe?s largest specialist cancer hospital, provides exceptional opportunities for interactions between basic and clinical research teams, facilitating rapid translation of fundamental research findings to patient benefit. The Institute is at the heart of the Manchester Cancer Research Centre (MCRC), an exciting development that integrates cancer research across Manchester (www.mcrc.manchester.ac.uk<http://www.mcrc.manchester.ac.uk/>).\n\nThe ACBBG incorporates postdoc-level bioinformaticians and computational biologists who provide collaborative support for the analysis of high throughput genomics data, including ChIP seq, RNA seq, whole genome DNA sequencing, microarrays and quantitative protein mass spectrometry. Based within the ACBBG, and part of an interdisciplinary team featuring programmers, computational biologists and bench scientists, senior analysts work collaboratively for extended periods with other research groups within the Institute, where they are able to bring their expertise in genomics analysis to multiple projects and datasets.\n\n\nSenior Computational Biologist\n\nReference number: PI/12/57\nStarting salary: range: ?33,300 to ?57,100 (dependent upon experience)\nClosing date: 04 January 2013\n\n? Non time limited position\n\nThe post holder will work closely with the Group Leader to coordinate and manage the collaborative work of the group. Ideally the successful applicant will have a PhD in computational biology or a related discipline, will have strong programming skills, significant experience coding in R or Matlab, and substantial experience analysing complex global genomics datasets. They will have excellent communication skills and a proven ability to coordinate a scientific team in a highly collaborative and interdisciplinary environment in which multiple overlapping projects must be coordinated and run to tight, but achievable, deadlines. Direct experience working with clinical statistics, deep sequencing data and quantitative mass spectrometry would convey a significant advantage, as would familiarity with Bioconductor.\n\n\n\n\nComputational Biologist\n\nReference number: PI/12/56\nStarting salary: range: ?28,000 to ?45,700 (dependent upon experience)\nClosing date: 04 January 2013\n\n? Non time limited position\n\nThe post holder will ideally have a PhD in computational biology or a related discipline, strong programming skills in R or Matlab, and significant relevant experience analysing complex global genomics datasets. Direct experience working with deep sequencing data would convey a significant advantage, as would a deep understanding of clinical statistics and their application to genomics data. The successful applicant will relish working at the interface between computing, genomics technology, and clinical and translational science, and will be comfortable in a project-led environment in which multiple projects must be run concurrently to a deadline.\n\n--\n________________________________\n\nThis email is confidential and intended solely for the u...{{dropped:12}}",
+      "body_plain": "Dear All,\n\nWe have two computational biology positions to advertise - details below:\n\nCrispin\n\n----\n\nThe Paterson Institute for Cancer Research (www.paterson.man.ac.uk<http://www.paterson.man.ac.uk/>), an Institute of The University of Manchester, seeks two (one senior, one junior) computational biologists to join the Applied Computational Biology and Bioinformatics Group (ACBBG). The Paterson Institute is one of Europe’s premier cancer research centres and is core-funded by Cancer Research UK, the world’s largest independent cancer research charity. Our juxtaposition to The Christie NHS Foundation Trust, Europe’s largest specialist cancer hospital, provides exceptional opportunities for interactions between basic and clinical research teams, facilitating rapid translation of fundamental research findings to patient benefit. The Institute is at the heart of the Manchester Cancer Research Centre (MCRC), an exciting development that integrates cancer research across Manchester (www.mcrc.manchester.ac.uk<http://www.mcrc.manchester.ac.uk/>).\n\nThe ACBBG incorporates postdoc-level bioinformaticians and computational biologists who provide collaborative support for the analysis of high throughput genomics data, including ChIP seq, RNA seq, whole genome DNA sequencing, microarrays and quantitative protein mass spectrometry. Based within the ACBBG, and part of an interdisciplinary team featuring programmers, computational biologists and bench scientists, senior analysts work collaboratively for extended periods with other research groups within the Institute, where they are able to bring their expertise in genomics analysis to multiple projects and datasets.\n\n\nSenior Computational Biologist\n\nReference number: PI/12/57\nStarting salary: range: £33,300 to £57,100 (dependent upon experience)\nClosing date: 04 January 2013\n\n• Non time limited position\n\nThe post holder will work closely with the Group Leader to coordinate and manage the collaborative work of the group. Ideally the successful applicant will have a PhD in computational biology or a related discipline, will have strong programming skills, significant experience coding in R or Matlab, and substantial experience analysing complex global genomics datasets. They will have excellent communication skills and a proven ability to coordinate a scientific team in a highly collaborative and interdisciplinary environment in which multiple overlapping projects must be coordinated and run to tight, but achievable, deadlines. Direct experience working with clinical statistics, deep sequencing data and quantitative mass spectrometry would convey a significant advantage, as would familiarity with Bioconductor.\n\n\n\n\nComputational Biologist\n\nReference number: PI/12/56\nStarting salary: range: £28,000 to £45,700 (dependent upon experience)\nClosing date: 04 January 2013\n\n• Non time limited position\n\nThe post holder will ideally have a PhD in computational biology or a related discipline, strong programming skills in R or Matlab, and significant relevant experience analysing complex global genomics datasets. Direct experience working with deep sequencing data would convey a significant advantage, as would a deep understanding of clinical statistics and their application to genomics data. The successful applicant will relish working at the interface between computing, genomics technology, and clinical and translational science, and will be comfortable in a project-led environment in which multiple projects must be run concurrently to a deadline.\n\n--\n________________________________\n\nThis email is confidential and intended solely for the u...{{dropped:12}}",
       "body_snippet": "Dear All,\n\nWe have two computational biology positions to advertise - details below:\n\nCrispin\n\n----\n\nThe Paterson Institute for Cancer Research (www.paterson.man.ac.uk<http://www.paterson.man.ac.uk/>)",
       "thread_id": "thread-36d52f1f4dec",
       "thread_depth": 0,
-      "month": "2012-12"
+      "month": "2012-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q4/000209.html"
     },
     {
       "id": "msg-ba03a0242988",
@@ -49,7 +51,8 @@
       "body_snippet": "*Postdoctoral Researcher - Bioinformatics/Statistics\nUniversity of Oxford, UK\n\n*An exciting opportunity has arisen for a Postdoctoral Researcher in \nBioinformatics/Statistics to join the Department of",
       "thread_id": "thread-ba03a0242988",
       "thread_depth": 0,
-      "month": "2012-12"
+      "month": "2012-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q4/000210.html"
     },
     {
       "id": "msg-7a1b8add80a3",
@@ -65,7 +68,8 @@
       "body_snippet": "*Postdoctoral Researcher - Bioinformatics/Statistics\nUniversity of Oxford, UK\n\n*An exciting opportunity has arisen for a Postdoctoral Researcher in \nBioinformatics/Statistics to join the Department of",
       "thread_id": "thread-7a1b8add80a3",
       "thread_depth": 0,
-      "month": "2012-12"
+      "month": "2012-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q4/000211.html"
     },
     {
       "id": "msg-42f8e5863f5e",
@@ -81,7 +85,8 @@
       "body_snippet": "*Postdoctoral Researcher - Bioinformatics/Statistics\nUniversity of Oxford, UK\n\n*An exciting opportunity has arisen for a Postdoctoral Researcher in \nBioinformatics/Statistics to join the Department of",
       "thread_id": "thread-42f8e5863f5e",
       "thread_depth": 0,
-      "month": "2012-12"
+      "month": "2012-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q4/000212.html"
     }
   ],
   "threads": [

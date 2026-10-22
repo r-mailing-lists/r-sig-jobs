@@ -17,7 +17,8 @@
       "body_snippet": "This is a Special Interest Group (SIG) for job postings related to R\nprogramming.\n\nPlease follow these rules when posting messages to R-sig-jobs:\n\n    * Send messages as plain text (as opposed to HTML",
       "thread_id": "thread-5b279361c41c",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000000.html"
     },
     {
       "id": "msg-ff72de1dd077",
@@ -33,7 +34,8 @@
       "body_snippet": "Mango Solutions, providers of R and S-PLUS consulting, systems \ndevelopment and Training Services, are looking for a R/S Programmer to \njoin their UK - Wiltshire based technical team. We are looking f",
       "thread_id": "thread-ff72de1dd077",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000001.html"
     },
     {
       "id": "msg-8aa32e549ab8",
@@ -49,7 +51,8 @@
       "body_snippet": "Mango Solutions, providers of R and S-PLUS consulting, systems \ndevelopment and Training Services, are looking for a senior R/S \nProgrammer to join their UK - Wiltshire based technical team. We are \nl",
       "thread_id": "thread-8aa32e549ab8",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000002.html"
     },
     {
       "id": "msg-809079cea95c",
@@ -65,7 +68,8 @@
       "body_snippet": "Mango Solutions, providers of S-PLUS and R consulting, development and \nTraining Services, are looking for consultants to join their UK-based \ntechnical team.  We are looking for highly motivated indi",
       "thread_id": "thread-809079cea95c",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000003.html"
     },
     {
       "id": "msg-f0cf15e9e372",
@@ -81,7 +85,8 @@
       "body_snippet": "Mango Solutions, providers of S-PLUS and R consulting, development and \nTraining Services, are looking for consultants to join their UK-based \ntechnical team.  We are looking for highly motivated indi",
       "thread_id": "thread-f0cf15e9e372",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000004.html"
     },
     {
       "id": "msg-444b96cb85bc",
@@ -97,7 +102,8 @@
       "body_snippet": "Hi,\n\nThe following job advert was already incorrectly sent to r-help\nso I am reposting here.\n\nWe are looking for a skilled statistician/programmer \nseeking a career at the intersection of \nfinance, ap",
       "thread_id": "thread-444b96cb85bc",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000005.html"
     },
     {
       "id": "msg-9d41313ae499",
@@ -109,11 +115,12 @@
       "subject_clean": "[R-jobs] Research Position Statistical Computing in Biostatistics",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "X-Mailer: VM 7.17 under 21.4 (patch 18) \"Social Property\" XEmacs Lucid\nFCC: ~/mail/sent-mail\nFrom: Jan.Beyersmann at fdm.uni-freiburg.de\n--text follows this line--\nhi everyone,\n\nplease find below a job advert for a research position statistical\ncomputing in biostatistics, emphasis is on R and survival\nanalysis. see also wangler et al., p. 31-35 in\n\nhttp://cran.r-project.org/doc/Rnews/Rnews_2006-2.pdf\n\nto get an idea what we have in mind.\n\nour institute is in freiburg, south-west germany.\n\nbest, jan\n\n--\nJan Beyersmann\n\nInstitute of Med. Biometry and Med. Informatics Stefan-Meier-Stra?e\n26, D-79104 Freiburg, Germany\n\nFreiburg Centre for Data Analysis and Modelling Eckerstrasse 1,\nD-79104 Freiburg, Germany\n\njan.beyersmann at fdm.uni-freiburg.de\n\nhttp://www.imbi.uni-freiburg.de, http://www.fdm.uni-freiburg.de\n\n+49 (0)761/203-7702\n\n\n\nResearch Position Statistical Computing in Biostatistics\n\nThe Department of Medical Biometry and Statistics at the University of\nFreiburg invites applications for a research position (statistical\nprogrammer) in methodological research, with special emphasis on\nstatistical programming in biostatistics or clinical\nepidemiology. Applicants should have a diploma, master's degree or\nPh.D. in biostatistics, statistics, or mathematics or computer\nscience, respectively, with experiences in applied\nstatistics. Advanced knowledge of the statistical computing system R\n(or S) is a prerequisite. Ideally, the candidate has practical\nexperience in one of the following areas:\n\n- event history analysis (survival analysis, competing risks)\n- development of R packages\n\nGood command of the English language is a must. We also expect the\ncandidate to appreciate the importance of concisely documenting\nsoftware for everyday use.\n\nThe Department of Medical Biometry and Statistics cooperates with\nnearly all areas of medicine and beyond; it hosts the German Cochrane\nCenter, the DFG funded Research Unit \"Statistical modeling and data\nanalysis in clinical epidemiology\" and is closely linked to the Center\nof Clinical Trials. In addition, its methodological research\nactivities are incorporated into the interdisciplinary Freiburg Center\nfor Data Analysis and Modeling (FDM) of the University of Freiburg.\n\nThe successful applicant will be integrated into a strong and active\ngroup of scientists with expert knowledge in biostatistics and its\nclinical applications. (S)he will play a key role in an ongoing and\nsuccessful research project, making advanced survival regression\ntechniques and nonparametric estimators of multivariate survival\nfunctions available through R packages and R News\n(http://cran.r-project.org/doc/Rnews) articles. This will be work at\nthe gateway between cutting edge methodology and wide accessibility\nfor applications.\n\nThus, the position offers ideal conditions for successful research and\ncontinuing education and qualification; they provide a unique\nopportunity for a challenging and demanding methodological task with\ndirect benefit for applications in clinical epidemiology. The position\nwill be limited in time. Salary is according to BAT depending on\nexperience and qualification. For further information, please contact\none of the following persons: Dr. Jan Beyersmann\n(jan at imbi.uni-freiburg.de) or Prof. Dr. Martin Schumacher\n(ms at imbi.uni-freiburg.de).\n\nApplicants should send a letter of interest by post or email including\na statement of current and future research interests, a curriculum\nvitae and a list of publications/available R packages if applicable\nto:\n\nProf. Dr. Martin Schumacher\nInstitut f?r Med. Biometrie und Med. Informatik\nAbteilung Medizinische Biometrie und Statistik\nUniversit?tsklinikum Freiburg\nStefan-Meier-Stra?e 26\n79104 Freiburg\ne-mail: sec at imbi.uni-freiburg.de\nhttp://www.imbi.uni-freiburg.de/",
+      "body_plain": "X-Mailer: VM 7.17 under 21.4 (patch 18) \"Social Property\" XEmacs Lucid\nFCC: ~/mail/sent-mail\nFrom: Jan.Beyersmann at fdm.uni-freiburg.de\n--text follows this line--\nhi everyone,\n\nplease find below a job advert for a research position statistical\ncomputing in biostatistics, emphasis is on R and survival\nanalysis. see also wangler et al., p. 31-35 in\n\nhttp://cran.r-project.org/doc/Rnews/Rnews_2006-2.pdf\n\nto get an idea what we have in mind.\n\nour institute is in freiburg, south-west germany.\n\nbest, jan\n\n--\nJan Beyersmann\n\nInstitute of Med. Biometry and Med. Informatics Stefan-Meier-Straße\n26, D-79104 Freiburg, Germany\n\nFreiburg Centre for Data Analysis and Modelling Eckerstrasse 1,\nD-79104 Freiburg, Germany\n\njan.beyersmann at fdm.uni-freiburg.de\n\nhttp://www.imbi.uni-freiburg.de, http://www.fdm.uni-freiburg.de\n\n+49 (0)761/203-7702\n\n\n\nResearch Position Statistical Computing in Biostatistics\n\nThe Department of Medical Biometry and Statistics at the University of\nFreiburg invites applications for a research position (statistical\nprogrammer) in methodological research, with special emphasis on\nstatistical programming in biostatistics or clinical\nepidemiology. Applicants should have a diploma, master's degree or\nPh.D. in biostatistics, statistics, or mathematics or computer\nscience, respectively, with experiences in applied\nstatistics. Advanced knowledge of the statistical computing system R\n(or S) is a prerequisite. Ideally, the candidate has practical\nexperience in one of the following areas:\n\n- event history analysis (survival analysis, competing risks)\n- development of R packages\n\nGood command of the English language is a must. We also expect the\ncandidate to appreciate the importance of concisely documenting\nsoftware for everyday use.\n\nThe Department of Medical Biometry and Statistics cooperates with\nnearly all areas of medicine and beyond; it hosts the German Cochrane\nCenter, the DFG funded Research Unit \"Statistical modeling and data\nanalysis in clinical epidemiology\" and is closely linked to the Center\nof Clinical Trials. In addition, its methodological research\nactivities are incorporated into the interdisciplinary Freiburg Center\nfor Data Analysis and Modeling (FDM) of the University of Freiburg.\n\nThe successful applicant will be integrated into a strong and active\ngroup of scientists with expert knowledge in biostatistics and its\nclinical applications. (S)he will play a key role in an ongoing and\nsuccessful research project, making advanced survival regression\ntechniques and nonparametric estimators of multivariate survival\nfunctions available through R packages and R News\n(http://cran.r-project.org/doc/Rnews) articles. This will be work at\nthe gateway between cutting edge methodology and wide accessibility\nfor applications.\n\nThus, the position offers ideal conditions for successful research and\ncontinuing education and qualification; they provide a unique\nopportunity for a challenging and demanding methodological task with\ndirect benefit for applications in clinical epidemiology. The position\nwill be limited in time. Salary is according to BAT depending on\nexperience and qualification. For further information, please contact\none of the following persons: Dr. Jan Beyersmann\n(jan at imbi.uni-freiburg.de) or Prof. Dr. Martin Schumacher\n(ms at imbi.uni-freiburg.de).\n\nApplicants should send a letter of interest by post or email including\na statement of current and future research interests, a curriculum\nvitae and a list of publications/available R packages if applicable\nto:\n\nProf. Dr. Martin Schumacher\nInstitut für Med. Biometrie und Med. Informatik\nAbteilung Medizinische Biometrie und Statistik\nUniversitätsklinikum Freiburg\nStefan-Meier-Straße 26\n79104 Freiburg\ne-mail: sec at imbi.uni-freiburg.de\nhttp://www.imbi.uni-freiburg.de/",
       "body_snippet": "X-Mailer: VM 7.17 under 21.4 (patch 18) \"Social Property\" XEmacs Lucid\nFCC: ~/mail/sent-mail\nFrom: Jan.Beyersmann at fdm.uni-freiburg.de\n--text follows this line--\nhi everyone,\n\nplease find below a jo",
       "thread_id": "thread-9d41313ae499",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000006.html"
     },
     {
       "id": "msg-74220c863986",
@@ -129,7 +136,8 @@
       "body_snippet": "We are searching to add to our Nonclinical Statistics group at Centocor.\nDetails and resume/CV submission can be found via\nhttp://www.jnj.com/careers/ : enter 0702215 for Requisition number in the\nupp",
       "thread_id": "thread-74220c863986",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000007.html"
     },
     {
       "id": "msg-39cfa5b3d9c0",
@@ -145,7 +153,8 @@
       "body_snippet": "Andrew Davidson & Co., Inc. (ADCo) is looking for a talented modeler  \nwith a strong background in finance, statistics, or econometrics to  \njoin its team of financial engineers in the San Francisco B",
       "thread_id": "thread-39cfa5b3d9c0",
       "thread_depth": 0,
-      "month": "2007-02"
+      "month": "2007-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2007q1/000008.html"
     }
   ],
   "threads": [

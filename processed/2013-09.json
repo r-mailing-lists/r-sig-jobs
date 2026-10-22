@@ -17,7 +17,8 @@
       "body_snippet": "Supervisors: Dr Alex Singleton; Professor Chris Brunsdon\nIndustrial Partner: Office for National Statistics\n\nApplicants are invited for a PhD studentship at the University of\nLiverpool within the ESRC",
       "thread_id": "thread-4a97b2ed7a35",
       "thread_depth": 0,
-      "month": "2013-09"
+      "month": "2013-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000249.html"
     },
     {
       "id": "msg-78dd61a24ad8",
@@ -33,7 +34,8 @@
       "body_snippet": "*The Jenner Institute is seeking to appoint an outstanding \nBioinformatician to run a Transcriptomics Core Facility at the Jenner \nInstitute and to identify, develop and integrate bioinformatics \nreso",
       "thread_id": "thread-78dd61a24ad8",
       "thread_depth": 0,
-      "month": "2013-09"
+      "month": "2013-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000250.html"
     },
     {
       "id": "msg-56e717a01cc7",
@@ -49,7 +51,8 @@
       "body_snippet": "*The Jenner Institute is seeking to appoint an outstanding \nBioinformatician to run a Transcriptomics Core Facility at the Jenner \nInstitute and to identify, develop and integrate bioinformatics \nreso",
       "thread_id": "thread-56e717a01cc7",
       "thread_depth": 0,
-      "month": "2013-09"
+      "month": "2013-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000251.html"
     },
     {
       "id": "msg-88a631cd8bb4",
@@ -65,7 +68,8 @@
       "body_snippet": "*The Jenner Institute is seeking to appoint an outstanding \nBioinformatician to run a Transcriptomics Core Facility at the Jenner \nInstitute and to identify, develop and integrate bioinformatics \nreso",
       "thread_id": "thread-88a631cd8bb4",
       "thread_depth": 0,
-      "month": "2013-09"
+      "month": "2013-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000252.html"
     },
     {
       "id": "msg-161f4aaa3f0f",
@@ -77,11 +81,12 @@
       "subject_clean": "[R-jobs] Nonclinical Statistician",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Pfizer is hiring a statistician supporting early drug discovery for Global\nMedicinal Chemistry and Pharmacokinetics, Dynamics and Metabolism (PDM).\n\nIf interested, go to http://pfizercareers.com/ and search for job ID\n985944. The location is Groton, Connecticut.\n\n\n\n\nResponsibilities\n\nThe statistician will have a consulting-type role supporting a large pool\nof scientists in two large platform line groups.\n\nTypical projects include: assay characterization studies, the analysis of\nhigh content screening data, data analysis of chemical structures and\nproperties, image analysis of assay results, the analysis of assay\nscreening data, etc.\n\nThe statistician will have to demonstrate leadership in influencing and\nimproving drug discovery by identifying, developing, and applying new\nquantitative methods.\n\nParticipate in the group?s education initiative by teaching internal\ncourses on statistical subjects to the clients.\n\n\nQualifications\n\nMinimum: \n\n?  M.S. or Ph.D. in Statistics or Biostatistics\n?  A minimum of two years statistical consulting experience in applying\nstatistics to biological or chemical systems, preferably in a laboratory\nscience environment.\n?  The ability to proactively seek collaborations with scientists and lab\nheads. \n?  Awareness of the process of discovery and development of new medicines\nand be motivated by opportunity to have an impact in this area.\n?  Strong initiative, excellent interpersonal and communication (written\nand verbal) skills \n?  Experience working with biological or chemical assay systems.\n?  The ability to travel within the region\n\nPreferred candidates will have:\n\n?  Five or more years experience in the pharmaceutical industry.\n\n\nTechnical Skills: \n\nMinimum: \n\n?  Understanding of inference and probability; competence in contemporary\nlinear modeling including mixed models, particularly longitudinal models;\nnonlinear regression; and predictive modeling (e.g. random forests,\nsupport vector machines).\n?  Solid understanding of experimental design\n?  An understanding of tools for the analysis of high dimensional data\n?  Capable computational skills in R, S-plus or SAS\n\nPreferred candidates will have:\n\n?  Sound understanding and experience of applying Bayesian methods\n?  Formal training in, or thorough understanding of: human physiology,\ncell biology, pharmacokinetics and/or pharmaceutical chemistry.\n?  Additional computing skills in scripting languages, such as perl,\npython, unix shell scripts or others.\n?  Biological knowledge including more than superficial understanding of\ncell and molecular biology and genetics\n\n\nEqual Employment Opportunity\n\nPfizer is committed to equal opportunity in the terms and conditions of\nemployment for all employees and job applicants without regard to race,\ncolor, religion, sex, sexual orientation, age, gender identity or gender\nexpression, national origin, disability or veteran status.  Pfizer also\ncomplies with all applicable national, state and local laws governing\nnondiscrimination in employment as well as employment eligibility\nverification requirements of the Immigration and Nationality Act.  All\napplicants must be authorized to work for Pfizer in the U.S.  at the time\nof the commencement of employment.  Foreign national applicants who will\nneed employer immigration sponsorship to obtain or continue work\nauthorization must disclose that fact as part of the application process.\n Pfizer may consider in its sole discretion sponsoring a foreign national\napplicant for work authorization and/or permanent residence (green card)\ndepending on its business needs.",
+      "body_plain": "Pfizer is hiring a statistician supporting early drug discovery for Global\nMedicinal Chemistry and Pharmacokinetics, Dynamics and Metabolism (PDM).\n\nIf interested, go to http://pfizercareers.com/ and search for job ID\n985944. The location is Groton, Connecticut.\n\n\n\n\nResponsibilities\n\nThe statistician will have a consulting-type role supporting a large pool\nof scientists in two large platform line groups.\n\nTypical projects include: assay characterization studies, the analysis of\nhigh content screening data, data analysis of chemical structures and\nproperties, image analysis of assay results, the analysis of assay\nscreening data, etc.\n\nThe statistician will have to demonstrate leadership in influencing and\nimproving drug discovery by identifying, developing, and applying new\nquantitative methods.\n\nParticipate in the group¹s education initiative by teaching internal\ncourses on statistical subjects to the clients.\n\n\nQualifications\n\nMinimum: \n\n€  M.S. or Ph.D. in Statistics or Biostatistics\n€  A minimum of two years statistical consulting experience in applying\nstatistics to biological or chemical systems, preferably in a laboratory\nscience environment.\n€  The ability to proactively seek collaborations with scientists and lab\nheads. \n€  Awareness of the process of discovery and development of new medicines\nand be motivated by opportunity to have an impact in this area.\n€  Strong initiative, excellent interpersonal and communication (written\nand verbal) skills \n€  Experience working with biological or chemical assay systems.\n€  The ability to travel within the region\n\nPreferred candidates will have:\n\n€  Five or more years experience in the pharmaceutical industry.\n\n\nTechnical Skills: \n\nMinimum: \n\n€  Understanding of inference and probability; competence in contemporary\nlinear modeling including mixed models, particularly longitudinal models;\nnonlinear regression; and predictive modeling (e.g. random forests,\nsupport vector machines).\n€  Solid understanding of experimental design\n€  An understanding of tools for the analysis of high dimensional data\n€  Capable computational skills in R, S-plus or SAS\n\nPreferred candidates will have:\n\n€  Sound understanding and experience of applying Bayesian methods\n€  Formal training in, or thorough understanding of: human physiology,\ncell biology, pharmacokinetics and/or pharmaceutical chemistry.\n€  Additional computing skills in scripting languages, such as perl,\npython, unix shell scripts or others.\n€  Biological knowledge including more than superficial understanding of\ncell and molecular biology and genetics\n\n\nEqual Employment Opportunity\n\nPfizer is committed to equal opportunity in the terms and conditions of\nemployment for all employees and job applicants without regard to race,\ncolor, religion, sex, sexual orientation, age, gender identity or gender\nexpression, national origin, disability or veteran status.  Pfizer also\ncomplies with all applicable national, state and local laws governing\nnondiscrimination in employment as well as employment eligibility\nverification requirements of the Immigration and Nationality Act.  All\napplicants must be authorized to work for Pfizer in the U.S.  at the time\nof the commencement of employment.  Foreign national applicants who will\nneed employer immigration sponsorship to obtain or continue work\nauthorization must disclose that fact as part of the application process.\n Pfizer may consider in its sole discretion sponsoring a foreign national\napplicant for work authorization and/or permanent residence (green card)\ndepending on its business needs.",
       "body_snippet": "Pfizer is hiring a statistician supporting early drug discovery for Global\nMedicinal Chemistry and Pharmacokinetics, Dynamics and Metabolism (PDM).\n\nIf interested, go to http://pfizercareers.com/ and ",
       "thread_id": "thread-161f4aaa3f0f",
       "thread_depth": 0,
-      "month": "2013-09"
+      "month": "2013-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000253.html"
     },
     {
       "id": "msg-bafd56d6516d",
@@ -97,7 +102,8 @@
       "body_snippet": "The Proteomics Core at Weill Cornell Medical College in Qatar is seeking a \nstatistician/bio-informatician with significant R experience. Details of \nthe position may be looked up here: http://tinyurl",
       "thread_id": "thread-bafd56d6516d",
       "thread_depth": 0,
-      "month": "2013-09"
+      "month": "2013-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000254.html"
     },
     {
       "id": "msg-c3462f18e628",
@@ -113,7 +119,8 @@
       "body_snippet": "A core facility bioinformatician position is available at the Institute for Predictive and Personalized Medicine of Cancer (IMPPC) in Badalona, a city immediately north of Barcelona, Spain.\n\nWe offer ",
       "thread_id": "thread-c3462f18e628",
       "thread_depth": 0,
-      "month": "2013-09"
+      "month": "2013-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000255.html"
     },
     {
       "id": "msg-276bb1520a65",
@@ -129,7 +136,8 @@
       "body_snippet": "Dear all,\n\nwe have an open position for a research assistant for Biostatistics in a \nproject focusing on patient (instance) specific statistical learning \nmethods. Application deadline is September 27",
       "thread_id": "thread-276bb1520a65",
       "thread_depth": 0,
-      "month": "2013-09"
+      "month": "2013-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q3/000256.html"
     }
   ],
   "threads": [

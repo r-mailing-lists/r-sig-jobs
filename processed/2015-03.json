@@ -13,11 +13,12 @@
       "subject_clean": "[R-jobs] Internship opportunities at Novartis Integrated Quantitative Sciences",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Multiple internship opportunities at Novartis Integrated Quantitative\nSciences are available for outstanding graduate students. Positions include:\n\nA. Decision Support Tool: Under guidance, build a live real-world decision\nsupport tool for users.  Requirements: Facility with R/Shiny and\nJavascript; statistical or operational modeling.  Relational databases and\nLinux shell scripting are desirable.  Must be thorough, committed to\ncompletion and willing to rapidly learn tools as needed.\n\nB. Bayesian modeling tools with Stan:  Create re-usable tools for the\nBayesian modeling of pharmacometrics data that can integrate diverse data\nsources (including pre-clinical, in-silico model predictions, etc.).  Using\nthe latest Stan?s facilities (http://mc-stan.org) develop\ntemplates/functions for compartmental PK models and indirect response PK/PD\nmodels.  Produce documentation in the form of a modeling report and a\npresentation.  Requirements:  Second or third year PhD student in\n(bio)statistics, machine learning, computer science, engineering or related\ndiscipline.  Strong computing background, including R experience (ideally\nalready familiar with Stan and/or C/C++).  Familiarity with basic Bayesian\ninference and software.\n\nHow to Apply:  For these and other positions apply directly at\nhttp://www.novartis.com/careers/job-search/index.shtml\nSearch and apply separately to positions 161931BR and to 161524BR\n\n\t[[alternative HTML version deleted]]",
+      "body_plain": "Multiple internship opportunities at Novartis Integrated Quantitative\nSciences are available for outstanding graduate students. Positions include:\n\nA. Decision Support Tool: Under guidance, build a live real-world decision\nsupport tool for users.  Requirements: Facility with R/Shiny and\nJavascript; statistical or operational modeling.  Relational databases and\nLinux shell scripting are desirable.  Must be thorough, committed to\ncompletion and willing to rapidly learn tools as needed.\n\nB. Bayesian modeling tools with Stan:  Create re-usable tools for the\nBayesian modeling of pharmacometrics data that can integrate diverse data\nsources (including pre-clinical, in-silico model predictions, etc.).  Using\nthe latest Stan’s facilities (http://mc-stan.org) develop\ntemplates/functions for compartmental PK models and indirect response PK/PD\nmodels.  Produce documentation in the form of a modeling report and a\npresentation.  Requirements:  Second or third year PhD student in\n(bio)statistics, machine learning, computer science, engineering or related\ndiscipline.  Strong computing background, including R experience (ideally\nalready familiar with Stan and/or C/C++).  Familiarity with basic Bayesian\ninference and software.\n\nHow to Apply:  For these and other positions apply directly at\nhttp://www.novartis.com/careers/job-search/index.shtml\nSearch and apply separately to positions 161931BR and to 161524BR\n\n\t[[alternative HTML version deleted]]",
       "body_snippet": "Multiple internship opportunities at Novartis Integrated Quantitative\nSciences are available for outstanding graduate students. Positions include:\n\nA. Decision Support Tool: Under guidance, build a li",
       "thread_id": "thread-bbc8143a0869",
       "thread_depth": 0,
-      "month": "2015-03"
+      "month": "2015-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2015q1/000321.html"
     },
     {
       "id": "msg-e4f12411869d",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\nat the Division of Clinical Pharmacology at the University of Cape Town\n(South Africa) we are looking for highly motivated science/engineering\nPhD graduates to join our pharmacometrics group",
       "thread_id": "thread-e4f12411869d",
       "thread_depth": 0,
-      "month": "2015-03"
+      "month": "2015-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2015q1/000322.html"
     },
     {
       "id": "msg-f7fda02cfc5d",
@@ -49,7 +51,8 @@
       "body_snippet": "Figures To Facts is currently looking for an R Programmer\n\n \n\nFigures To Facts is a company specialized in BI dashboard and report\ncreation on sales and marketing data.\n\nWe are a small but fast growin",
       "thread_id": "thread-f7fda02cfc5d",
       "thread_depth": 0,
-      "month": "2015-03"
+      "month": "2015-03",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2015q1/000323.html"
     }
   ],
   "threads": [

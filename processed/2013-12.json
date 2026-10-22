@@ -13,11 +13,12 @@
       "subject_clean": "[R-jobs] Postdoctoral Scientist in Computational Biology",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Dear All,\n\nWe are seeking a computational research scientist interested in studying the roles of non-coding RNAs in cancer. The successful applicant will join the Cancer Research UK RNA Biology Group at the Cancer Research UK Manchester Institute (www.cruk.manchester.ac.uk).\n\nLocated in Manchester UK, the Cancer Research UK Manchester Institute is a centre for excellence in cancer research. We occupy state-of-the-art laboratories and provide exceptional core facilities including next generation sequencing, mass-spectrometry, advanced imaging, High Performance Computing, bioinformatics, histology, and flow cytometry. We are core-funded by Cancer Research UK (www.cancerresearchuk.org), the world?s largest cancer organisation, are an Institute of The University of Manchester (www.manchester.ac.uk), and are adjacent to The Christie NHS Foundation Trust (www.christie.nhs.uk), one of the largest cancer treatment centres in Europe. These factors combine to provide an exceptional environment in which to pursue basic, translational and clinical research programmes in a vibrant and dynamic city surrounded by beautiful countryside and with excellent national and international transport links.\n\nThe RNA Biology Group is a highly interdisciplinary team that integrates software engineering, computational biology and bioinformatics with bench and clinical science, in order to perform integrated studies of transcriptional systems and how they are disrupted in cancer cells. The group has a particular focus on long non-coding RNAs (lncRNAs), and makes heavy use of global genomics technologies including RNA-seq, microarrays and quantitative protein mass spectrometry to investigate lncRNA function both in model systems (see for example (Bitton et al. 2011, Mol Syst Biol)) and in clinical cohorts.\n\nThe successful applicant will work collaboratively with bench scientists in the group to explore the role of long non-coding RNAs in regulating the dynamics of protein expression. They will be an excellent programmer and confident applying statistical approaches and techniques from machine learning.\n\nExperience in analysing complex biological datasets would be advantageous, however applicants from a purely computational background, who are able to demonstrate their ability to work successfully across disciplines, will also be considered. Excellent programming skills in a subset of R, Matlab, C, C++ or Java are a prerequisite, while parallel programming and SQL experience would both advantageous.\n\nFor more information and to apply, please visit our website at cruk.manchester.ac.uk.\n\n\n________________________________\n\n\nThis email is confidential and intended solely for the u...{{dropped:12}}",
+      "body_plain": "Dear All,\n\nWe are seeking a computational research scientist interested in studying the roles of non-coding RNAs in cancer. The successful applicant will join the Cancer Research UK RNA Biology Group at the Cancer Research UK Manchester Institute (www.cruk.manchester.ac.uk).\n\nLocated in Manchester UK, the Cancer Research UK Manchester Institute is a centre for excellence in cancer research. We occupy state-of-the-art laboratories and provide exceptional core facilities including next generation sequencing, mass-spectrometry, advanced imaging, High Performance Computing, bioinformatics, histology, and flow cytometry. We are core-funded by Cancer Research UK (www.cancerresearchuk.org), the world’s largest cancer organisation, are an Institute of The University of Manchester (www.manchester.ac.uk), and are adjacent to The Christie NHS Foundation Trust (www.christie.nhs.uk), one of the largest cancer treatment centres in Europe. These factors combine to provide an exceptional environment in which to pursue basic, translational and clinical research programmes in a vibrant and dynamic city surrounded by beautiful countryside and with excellent national and international transport links.\n\nThe RNA Biology Group is a highly interdisciplinary team that integrates software engineering, computational biology and bioinformatics with bench and clinical science, in order to perform integrated studies of transcriptional systems and how they are disrupted in cancer cells. The group has a particular focus on long non-coding RNAs (lncRNAs), and makes heavy use of global genomics technologies including RNA-seq, microarrays and quantitative protein mass spectrometry to investigate lncRNA function both in model systems (see for example (Bitton et al. 2011, Mol Syst Biol)) and in clinical cohorts.\n\nThe successful applicant will work collaboratively with bench scientists in the group to explore the role of long non-coding RNAs in regulating the dynamics of protein expression. They will be an excellent programmer and confident applying statistical approaches and techniques from machine learning.\n\nExperience in analysing complex biological datasets would be advantageous, however applicants from a purely computational background, who are able to demonstrate their ability to work successfully across disciplines, will also be considered. Excellent programming skills in a subset of R, Matlab, C, C++ or Java are a prerequisite, while parallel programming and SQL experience would both advantageous.\n\nFor more information and to apply, please visit our website at cruk.manchester.ac.uk.\n\n\n________________________________\n\n\nThis email is confidential and intended solely for the u...{{dropped:12}}",
       "body_snippet": "Dear All,\n\nWe are seeking a computational research scientist interested in studying the roles of non-coding RNAs in cancer. The successful applicant will join the Cancer Research UK RNA Biology Group ",
       "thread_id": "thread-4128f753e89e",
       "thread_depth": 0,
-      "month": "2013-12"
+      "month": "2013-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q4/000264.html"
     },
     {
       "id": "msg-d178f7841bb0",
@@ -33,7 +34,8 @@
       "body_snippet": "Dear all,\n\n\n\nI am looking for a consultant who can help me to solve a mathematical/\nstatistical problem I have. The problem is more conceptual in nature (How\nto solve a given problem analytically) tha",
       "thread_id": "thread-d178f7841bb0",
       "thread_depth": 0,
-      "month": "2013-12"
+      "month": "2013-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q4/000265.html"
     },
     {
       "id": "msg-868191847bfd",
@@ -49,7 +51,8 @@
       "body_snippet": "I am seeking a qualified individual to do maintenance, debugging, and\ndevelopment work on `lme4`, a package written in R and C++ for fitting\nmixed models.\n\nI can initially commit funding for 0.25 year",
       "thread_id": "thread-868191847bfd",
       "thread_depth": 0,
-      "month": "2013-12"
+      "month": "2013-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q4/000266.html"
     },
     {
       "id": "msg-1071e96dff3c",
@@ -65,7 +68,8 @@
       "body_snippet": "Dear all,\n\nThe George Institute for Global Health at the University of Oxford is\nseeking to appoint a machine-learning scientist to join its Healthcare\nInnovation and Evaluation Programme. The success",
       "thread_id": "thread-1071e96dff3c",
       "thread_depth": 0,
-      "month": "2013-12"
+      "month": "2013-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q4/000267.html"
     },
     {
       "id": "msg-fd30a3fece39",
@@ -81,7 +85,8 @@
       "body_snippet": "Our group in the Biostatistics Department at the University of Washington is currently seeking a data analyst to work on projects with genetic data. Our computing\nenvironment is almost exclusively R a",
       "thread_id": "thread-fd30a3fece39",
       "thread_depth": 0,
-      "month": "2013-12"
+      "month": "2013-12",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2013q4/000268.html"
     }
   ],
   "threads": [

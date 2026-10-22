@@ -17,7 +17,8 @@
       "body_snippet": "Dear R-Enthusiasts,\n\nOur mission is to provide data support for development cooperation projects during the preparation, monitoring, and evaluation phases. Our primary focus areas include open-data an",
       "thread_id": "thread-fb59c43d42be",
       "thread_depth": 0,
-      "month": "2023-09"
+      "month": "2023-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2023q3/000436.html"
     },
     {
       "id": "msg-8848d8350172",
@@ -35,7 +36,8 @@
       "body_snippet": "Johannes,\n\nHow fast would someone be able to learn these geospatial R packages? I've\nbeen coding in R for more than ten years in the financial space, and am\ninterested in applying my skills to help th",
       "thread_id": "thread-fb59c43d42be",
       "thread_depth": 1,
-      "month": "2023-09"
+      "month": "2023-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2023q3/000437.html"
     },
     {
       "id": "msg-410f196ec754",
@@ -47,11 +49,12 @@
       "subject_clean": "[R-jobs] Data scientist / software engineer (academic support role)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Job opportunity:  data scientist / software engineer\n\nWe are currently hiring at the University of Copenhagen for a (non-academic) role to support our group?s work in animal disease modelling and veterinary contingency services, including developing and maintaining our data pipelines (which are written in R).  This is a permanent position and we can be flexible on working hours, although the position will be based in Frederiksberg so applicants must be able to live and work in Denmark.  The job advert can be found at:\n\nhttps://jobportal.ku.dk/administrative-og-forskningsunderstoettende-stillinger/administration-it-og-service/?show=160172\n\nInformal enquiries / questions are very welcome by email to md at sund.ku.dk<mailto:md at sund.ku.dk>\n\n\n\t[[alternative HTML version deleted]]",
-      "body_snippet": "Job opportunity:  data scientist / software engineer\n\nWe are currently hiring at the University of Copenhagen for a (non-academic) role to support our group?s work in animal disease modelling and vete",
+      "body_plain": "Job opportunity:  data scientist / software engineer\n\nWe are currently hiring at the University of Copenhagen for a (non-academic) role to support our group’s work in animal disease modelling and veterinary contingency services, including developing and maintaining our data pipelines (which are written in R).  This is a permanent position and we can be flexible on working hours, although the position will be based in Frederiksberg so applicants must be able to live and work in Denmark.  The job advert can be found at:\n\nhttps://jobportal.ku.dk/administrative-og-forskningsunderstoettende-stillinger/administration-it-og-service/?show=160172\n\nInformal enquiries / questions are very welcome by email to md at sund.ku.dk<mailto:md at sund.ku.dk>\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Job opportunity:  data scientist / software engineer\n\nWe are currently hiring at the University of Copenhagen for a (non-academic) role to support our group’s work in animal disease modelling and vete",
       "thread_id": "thread-410f196ec754",
       "thread_depth": 0,
-      "month": "2023-09"
+      "month": "2023-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2023q3/000438.html"
     }
   ],
   "threads": [

@@ -17,7 +17,8 @@
       "body_snippet": "TIBCO is a rapidly growing software company with more than 3000 employees worldwide and approx. $900MM annual revenue in 2011. TIBCO provides a comprehensive software platform that allows customers to",
       "thread_id": "thread-db860d3b69e0",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q2/000170.html"
     },
     {
       "id": "msg-a3ee44220f68",
@@ -33,7 +34,8 @@
       "body_snippet": "SELECTION FOR CONSULTANTS BY THE WORLD BANK\n\nREQUEST FOR EXPRESSIONS OF INTEREST\n\nAll Submissions must be made via the World Bank Group's \"eConsult2\" \nsystem.\nPlease go to:\n\nhttps://wbgeconsult2.world",
       "thread_id": "thread-a3ee44220f68",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q2/000171.html"
     },
     {
       "id": "msg-7c2a1f137eae",
@@ -47,11 +49,12 @@
       "references": [
         "<AEDCC969E0667E4288F7BAE72FB2CAB60B223231FD@MVLMAILBOX.solutionset.local>"
       ],
-      "body_plain": "Hello R users,\n\nI have a full time job opportunity at SolutionSet, 100% working for Google in Mountain View, CA. Email me your resume at mae.coughlin at solutionset.com, if you are interested. Thank you! --mae\n\nStrategy & Analytics Lead Consultant for Google\n\nPosition overview: \nAs a valued member of our marketing service agency SolutionSet, you?ll work collaboratively with our account & creative teams and our client Google to design effective marketing communications and provide business insights. You will define objectives, quantitatively evaluate opportunities and provide strategic thought leadership.  You will be a hands-on contributor, planning and conducting analyses on Google?s data, and presenting findings to Google.  Google and our internal teams will look to you as the expert in best practices in the use of tools for the collection, understanding, manipulation, and analysis of data; and the expert to apply best practices of email and direct mail marketing campaign strategies.  Your input will help to inform the planning process, guide the setup of statistically sound tests, and enable accurate measurement of results.  \nYou should have excellent communication skills (written and verbal) and the technical acumen required to detail out the process and deliverables concisely and with accuracy. You also have a strong work ethic and are a dedicated performer with the willingness to do what it takes to deliver the best of breed solutions for our client Google.  You'll provide insightful interpretation of data to enhance our ability to deliver intelligent and efficient multi-channel marketing initiatives for Google. \nPrimary Responsibilities include:\n?\tProvide strategic and analytic consulting services to support project engagements, driving strategic marketing decisions.\n?\tPerform analysis of campaign results to assist in overall evaluation of campaign success. \n?\tPerform ad hoc and recurring analysis and reporting of customer data to monitor key performance indicators and trends.\n?\tDevelop ad hoc advanced analysis of customer data to support hypotheses for opportunities in customer value management, e.g., acquisition, retention, attrition, and demographic/firmographic and behavioral profiles: includes customer segmentation and advanced modeling.\n?\tConduct experimental design in order to test & learn the best marketing tactics. \n?\tParticipate in building, maintaining, and improving reporting/data processes, including new campaign management, customer database, and tool project rollouts.\n?\tParticipate in a wide variety of planning and research projects, which include secondary research, writing and preparation of presentations, Point of View documents and proposals.\n?\tUnderstand email campaign logics and create SQL scripts to dynamically pull Google customer lists from database based on variables to receive email, DM, and other communications from Google.\n?\tWorks with the production team to make sure all files are built correctly and the QA process is followed consistently with each deliverable to ensure correct account data was populated for all communications. \n?\nEssential Skills/Experience: \n?\t5+ Years of hands on experience of data analytics and statistical modeling\n?\tDemonstrable skills in creating analytical solutions (statistical modeling, cluster analysis and segmentations), developing custom client reports, and providing marketing/business insights.\n?\tWorking knowledge of linear and logistic regression techniques\n?\tExpertise with at least one statistical package such as SAS and R. \n?\tExperience managing or using complex marketing databases through standard access tools, such as SQL (MS-Access, SQL Server, Oracle, MySQL), reporting tools (Business Objects, Crystal Reports) or business intelligence applications. \n?\tExperience working with large datasets and the ability to create/handle/analyze datasets at multiple levels (example customer, transactions, demographic/firmographic, etc.)\n?\tMust have excellent client facing skills including self-presentation and clarity of verbal communication\n?\tMust have experience with email marketing programs. Knowledge of other integrated marketing channels is a plus.\n?\tSelf-starter & team player with excellent project management and communication skills.\n?\tSkill and creativity in the use of Microsoft or other desktop tools (Excel, Access, PowerPoint, Word, Project). \n?\tGraduate degree in Statistics/Business preferred\n?\tKnowledge of Python, Linux or other Shell Script is a plus\n?\tKnowledge of Google Docs, Google Analytics and Google AdWords would benefit you greatly in this role\n\nAbout SolutionSet\nSolutionSet was formed as an answer to what was missing in the market: a firm that was technical enough to implement complex systems, but creative enough to make the systems beautiful and easy to use. SolutionSet Digital is part of a blended agency that combines user-centered creative and leading-edge technology to deliver the next new thinking in web development, digital marketing, and brand experience from their Palo Alto, CA headquarters and offices in San Francisco. Founded in 2002, the company is the evolution and culmination of five partners' creative agency and tech firm business initiatives dating back to the late nineties. These partners combined their agency effort and experience to form an integrated brand solution provider. The SolutionSet team is a group of talented and experienced brand and technology professionals who combine right-brain agency creative with left-brain consulting and technology skill. Recently named #95 on Inc. 500 and ranking #10 in the IT Services category, with a three-year growth rate of 1,582.% we are innovative people who love what we do. That's the kind of talent we hire. That's the kind of talent we work with.",
+      "body_plain": "Hello R users,\n\nI have a full time job opportunity at SolutionSet, 100% working for Google in Mountain View, CA. Email me your resume at mae.coughlin at solutionset.com, if you are interested. Thank you! --mae\n\nStrategy & Analytics Lead Consultant for Google\n\nPosition overview: \nAs a valued member of our marketing service agency SolutionSet, you’ll work collaboratively with our account & creative teams and our client Google to design effective marketing communications and provide business insights. You will define objectives, quantitatively evaluate opportunities and provide strategic thought leadership.  You will be a hands-on contributor, planning and conducting analyses on Google’s data, and presenting findings to Google.  Google and our internal teams will look to you as the expert in best practices in the use of tools for the collection, understanding, manipulation, and analysis of data; and the expert to apply best practices of email and direct mail marketing campaign strategies.  Your input will help to inform the planning process, guide the setup of statistically sound tests, and enable accurate measurement of results.  \nYou should have excellent communication skills (written and verbal) and the technical acumen required to detail out the process and deliverables concisely and with accuracy. You also have a strong work ethic and are a dedicated performer with the willingness to do what it takes to deliver the best of breed solutions for our client Google.  You'll provide insightful interpretation of data to enhance our ability to deliver intelligent and efficient multi-channel marketing initiatives for Google. \nPrimary Responsibilities include:\n•\tProvide strategic and analytic consulting services to support project engagements, driving strategic marketing decisions.\n•\tPerform analysis of campaign results to assist in overall evaluation of campaign success. \n•\tPerform ad hoc and recurring analysis and reporting of customer data to monitor key performance indicators and trends.\n•\tDevelop ad hoc advanced analysis of customer data to support hypotheses for opportunities in customer value management, e.g., acquisition, retention, attrition, and demographic/firmographic and behavioral profiles: includes customer segmentation and advanced modeling.\n•\tConduct experimental design in order to test & learn the best marketing tactics. \n•\tParticipate in building, maintaining, and improving reporting/data processes, including new campaign management, customer database, and tool project rollouts.\n•\tParticipate in a wide variety of planning and research projects, which include secondary research, writing and preparation of presentations, Point of View documents and proposals.\n•\tUnderstand email campaign logics and create SQL scripts to dynamically pull Google customer lists from database based on variables to receive email, DM, and other communications from Google.\n•\tWorks with the production team to make sure all files are built correctly and the QA process is followed consistently with each deliverable to ensure correct account data was populated for all communications. \n \nEssential Skills/Experience: \n•\t5+ Years of hands on experience of data analytics and statistical modeling\n•\tDemonstrable skills in creating analytical solutions (statistical modeling, cluster analysis and segmentations), developing custom client reports, and providing marketing/business insights.\n•\tWorking knowledge of linear and logistic regression techniques\n•\tExpertise with at least one statistical package such as SAS and R. \n•\tExperience managing or using complex marketing databases through standard access tools, such as SQL (MS-Access, SQL Server, Oracle, MySQL), reporting tools (Business Objects, Crystal Reports) or business intelligence applications. \n•\tExperience working with large datasets and the ability to create/handle/analyze datasets at multiple levels (example customer, transactions, demographic/firmographic, etc.)\n•\tMust have excellent client facing skills including self-presentation and clarity of verbal communication\n•\tMust have experience with email marketing programs. Knowledge of other integrated marketing channels is a plus.\n•\tSelf-starter & team player with excellent project management and communication skills.\n•\tSkill and creativity in the use of Microsoft or other desktop tools (Excel, Access, PowerPoint, Word, Project). \n•\tGraduate degree in Statistics/Business preferred\n•\tKnowledge of Python, Linux or other Shell Script is a plus\n•\tKnowledge of Google Docs, Google Analytics and Google AdWords would benefit you greatly in this role\n\nAbout SolutionSet\nSolutionSet was formed as an answer to what was missing in the market: a firm that was technical enough to implement complex systems, but creative enough to make the systems beautiful and easy to use. SolutionSet Digital is part of a blended agency that combines user-centered creative and leading-edge technology to deliver the next new thinking in web development, digital marketing, and brand experience from their Palo Alto, CA headquarters and offices in San Francisco. Founded in 2002, the company is the evolution and culmination of five partners' creative agency and tech firm business initiatives dating back to the late nineties. These partners combined their agency effort and experience to form an integrated brand solution provider. The SolutionSet team is a group of talented and experienced brand and technology professionals who combine right-brain agency creative with left-brain consulting and technology skill. Recently named #95 on Inc. 500 and ranking #10 in the IT Services category, with a three-year growth rate of 1,582.% we are innovative people who love what we do. That's the kind of talent we hire. That's the kind of talent we work with.",
       "body_snippet": "Hello R users,\n\nI have a full time job opportunity at SolutionSet, 100% working for Google in Mountain View, CA. Email me your resume at mae.coughlin at solutionset.com, if you are interested. Thank y",
       "thread_id": "thread-7c2a1f137eae",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q2/000172.html"
     },
     {
       "id": "msg-46fc18a1de7d",
@@ -67,7 +70,8 @@
       "body_snippet": "Seeking ambitious and articulate quants and statisticians, interested in answering questions related to healthcare.  \n\nGeek-out and grow:\n?\n. Apply multiple technologies (SQL/Perl/R/Javascript/HTML/Ex",
       "thread_id": "thread-46fc18a1de7d",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q2/000173.html"
     },
     {
       "id": "msg-8c2965845a08",
@@ -83,7 +87,8 @@
       "body_snippet": "University of Pennsylvania\nDepartment of Microbiology\nLaboratory of Dr. Frederic Bushman\n\nApplications are invited for a computer programming position, focusing on bioinformatic studies.  The programm",
       "thread_id": "thread-8c2965845a08",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q2/000174.html"
     },
     {
       "id": "msg-6ed221b4614f",
@@ -99,7 +104,8 @@
       "body_snippet": "//\n///Clinical Information Technology Research Assistant (102792)\n\nWe are looking for a Clinical Information Technology Research Assistant \nto work on the Oxford component of the EURECA FP7 project (E",
       "thread_id": "thread-6ed221b4614f",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q2/000175.html"
     },
     {
       "id": "msg-bb232a9f82d1",
@@ -115,7 +121,8 @@
       "body_snippet": "== About Us:\n\n\n\nOceanus is a boutique software and analytics company.  We address some of\nthe most difficult and strategic issues in the automotive industry such as\nhow to launch electric vehicles, an",
       "thread_id": "thread-bb232a9f82d1",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q2/000176.html"
     },
     {
       "id": "msg-4ab68c2b4163",
@@ -131,7 +138,8 @@
       "body_snippet": "OpenAnalytics is an international company providing data analysis\n services and products across geographies and industrial sectors.\n\n We are currently looking to expand our team of statisticians with ",
       "thread_id": "thread-4ab68c2b4163",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2012q2/000177.html"
     }
   ],
   "threads": [

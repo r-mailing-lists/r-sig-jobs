@@ -17,7 +17,8 @@
       "body_snippet": "Quantitative Research Analyst \n\nDescription\n\nBoxwood Means Inc., a quantitative research firm that specializes in \nreal estate automated valuation modeling and evaluation, risk analysis, and \ndebt/equ",
       "thread_id": "thread-aa817de06d7e",
       "thread_depth": 0,
-      "month": "2008-08"
+      "month": "2008-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2008q3/000038.html"
     },
     {
       "id": "msg-8b13523217b7",
@@ -33,7 +34,8 @@
       "body_snippet": "Ok.  How does this work in finding a job for  me?\n                    Vera Lopez\n\n\n\n**************Looking for a car that's sporty, fun and fits in your budget? \nRead reviews on AOL Autos.      \n(http:",
       "thread_id": "thread-8b13523217b7",
       "thread_depth": 0,
-      "month": "2008-08"
+      "month": "2008-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2008q3/000039.html"
     },
     {
       "id": "msg-e4e6dd2eea9b",
@@ -49,7 +51,8 @@
       "body_snippet": "Dear all,\n\nOur institute has an open position for a Ph.D. student on modeling  \ngene network in stem cells.\nhere is the official announcement:\n---\n\nThe Institute for Biomedical Engineering, Department",
       "thread_id": "thread-e4e6dd2eea9b",
       "thread_depth": 0,
-      "month": "2008-08"
+      "month": "2008-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2008q3/000040.html"
     },
     {
       "id": "msg-d6739c1bb778",
@@ -61,11 +64,12 @@
       "subject_clean": "[R-jobs] R and SAS Statistical position open with Large Pharmaceutical in New Jersey",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "I have 2 positions open with a top pharmaceutical company in New Jersey.\nThis position is not requiring pharmaceutical experience as long as the\ncandidate has strong SAS and R experience. In particular they are looking\nfor strong graphics experience in S-Plus/R (lattice or Trellis?TM graphics).\nIf you would like to learn more about this position please contact Christina\nKinchen at ckinchen at smithhanley.com or at 800-684-9921 ext 220.\n\nThe successful candidates' primary responsibility will be to create a suite\nof validated, general-purpose programs for conducting pre-processing and\nstatistical analyses of clinical and biomarker data, including large-scale\ngenomic data. In many cases the core statistical methodology has already\nbeen implemented for a specific analysis and needs to be generalized,\nvalidated, and made more efficient.\nA secondary responsibility is to assist statisticians in their analyses,\nincluding such tasks as provisioning analysis-ready datasets, formatting\noutput, and generating figures and tables to meet precise requirements. \nExperience in SAS programming related to clinical drug development. Able to\nprovide programming at the protocol and project level and contribute to\ncross-functional teams consisting of statisticians, data managers,\nclinicians and other computer programmers on drug development projects.\nAcademic training in computing or a scientific discipline; MS/A or\nequivalent (at least 4 years relevant experience with demonstrated\nexperience processing data from multiple protocols). Demonstrated ability to\ncommunicate ideas and some experience communicating to an audience through\nvarious formats.\n\nProgrammers will support the Statistical Genetics and Biomarkers group in\nthe analysis of genetic, genomic, and biomarker data from clinical trials.\nWe prefer candidates to be proficient in both S-Plus/R and SAS programming,\nbut will consider having one position focused on S-Plus/R and the other on\nSAS. All candidates should be proficient in programming, modular software\ndesign, writing requirement specifications and validation, and must be able\nto write clear and thorough program documentation. The ability to improve\nand generalize existing systems of programs is essential. Must be able\nfluently to understand and communicate in spoken and written English.\n\nS-Plus/R expertise should include writing packages and methods\n(object-oriented), lattice or Trellis?TM graphics, importing and exporting\ndata, and using statistical functions.\nSAS expertise should include dataset manipulation, macro programming, ODS\ndataset output, importing and exporting data, and statistical procedures.\n\n\n\n\nChristina Kinchen\nSmith Hanley Consulting\nSenior Recruiter\nPhone 800-684-9921 ext 220\nDirect Line 407-548-0670\nFax 407-805-3020\nE-Mail: ckinchen at smithhanley.com\nWebsite: www.smithhanleyconsulting.com\n?\n\"Ask About Our Referral Policy\"\n1st Placement- $1000\n2nd Placement-$2000\n3rd Placement-$3000\n?\n-You can see what positions are available by clicking on the following link:\nhttp://smithhan.vcgasp.com/Worldlink40SmithHanleyConsultingGroup/main.aspx?a\nction=SearchOpportunities\n\n-Specializing in contract placement of Statisticians, SAS Programmers,\nClinical Data Managers/Data Coordinators, and other clinical positions\nthroughout the US.\n??\n?",
+      "body_plain": "I have 2 positions open with a top pharmaceutical company in New Jersey.\nThis position is not requiring pharmaceutical experience as long as the\ncandidate has strong SAS and R experience. In particular they are looking\nfor strong graphics experience in S-Plus/R (lattice or Trellis¬TM graphics).\nIf you would like to learn more about this position please contact Christina\nKinchen at ckinchen at smithhanley.com or at 800-684-9921 ext 220.\n\nThe successful candidates' primary responsibility will be to create a suite\nof validated, general-purpose programs for conducting pre-processing and\nstatistical analyses of clinical and biomarker data, including large-scale\ngenomic data. In many cases the core statistical methodology has already\nbeen implemented for a specific analysis and needs to be generalized,\nvalidated, and made more efficient.\nA secondary responsibility is to assist statisticians in their analyses,\nincluding such tasks as provisioning analysis-ready datasets, formatting\noutput, and generating figures and tables to meet precise requirements. \nExperience in SAS programming related to clinical drug development. Able to\nprovide programming at the protocol and project level and contribute to\ncross-functional teams consisting of statisticians, data managers,\nclinicians and other computer programmers on drug development projects.\nAcademic training in computing or a scientific discipline; MS/A or\nequivalent (at least 4 years relevant experience with demonstrated\nexperience processing data from multiple protocols). Demonstrated ability to\ncommunicate ideas and some experience communicating to an audience through\nvarious formats.\n\nProgrammers will support the Statistical Genetics and Biomarkers group in\nthe analysis of genetic, genomic, and biomarker data from clinical trials.\nWe prefer candidates to be proficient in both S-Plus/R and SAS programming,\nbut will consider having one position focused on S-Plus/R and the other on\nSAS. All candidates should be proficient in programming, modular software\ndesign, writing requirement specifications and validation, and must be able\nto write clear and thorough program documentation. The ability to improve\nand generalize existing systems of programs is essential. Must be able\nfluently to understand and communicate in spoken and written English.\n\nS-Plus/R expertise should include writing packages and methods\n(object-oriented), lattice or Trellis¬TM graphics, importing and exporting\ndata, and using statistical functions.\nSAS expertise should include dataset manipulation, macro programming, ODS\ndataset output, importing and exporting data, and statistical procedures.\n\n\n\n\nChristina Kinchen\nSmith Hanley Consulting\nSenior Recruiter\nPhone 800-684-9921 ext 220\nDirect Line 407-548-0670\nFax 407-805-3020\nE-Mail: ckinchen at smithhanley.com\nWebsite: www.smithhanleyconsulting.com\n \n\"Ask About Our Referral Policy\"\n1st Placement- $1000\n2nd Placement-$2000\n3rd Placement-$3000\n \n-You can see what positions are available by clicking on the following link:\nhttp://smithhan.vcgasp.com/Worldlink40SmithHanleyConsultingGroup/main.aspx?a\nction=SearchOpportunities\n\n-Specializing in contract placement of Statisticians, SAS Programmers,\nClinical Data Managers/Data Coordinators, and other clinical positions\nthroughout the US.\n??\n?",
       "body_snippet": "I have 2 positions open with a top pharmaceutical company in New Jersey.\nThis position is not requiring pharmaceutical experience as long as the\ncandidate has strong SAS and R experience. In particula",
       "thread_id": "thread-d6739c1bb778",
       "thread_depth": 0,
-      "month": "2008-08"
+      "month": "2008-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-sig-jobs/2008q3/000041.html"
     }
   ],
   "threads": [
